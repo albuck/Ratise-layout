@@ -25,7 +25,7 @@ version 2.0
 
 + _LEK "Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
 
-[Download LEK "Ratise" layout](https://github.com/albuck/Ratise-keymap/zipball/master)
+[Download LEK "Ratise" layout](https://github.com/albuck/Ratise-layout/zipball/master)
 
 
 ------------------------------------------------------------------------------------
