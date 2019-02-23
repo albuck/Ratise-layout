@@ -1,0 +1,15 @@
+Tai yra 'MacOS' sistemai skirta lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklė.
+
+Turinys:
+
+— 'LithuanianRatiseZXCV.keylayout' bei 'LithuanianRatiseZXCV.icns' — lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklė MacOS'ui. Klaviatūros raktuose atitinkamos QWERTY išdėtymo raidės vietoje ten esančių lietuviškų raidžių (ŪĖ ŲĘĮĄ), taigi 'Grąžinti', 'Iškirpti', 'Nurašyti', 'Įrašyti' ir panašiai veikia kaip QWERTY išdėstyme.
+
+— 'RussianRatise.keylayout' bei 'RussianRatise.icns' — rusiško (kirilika) fonetinio (garsinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatiseZXCV' išdėstyme.
+
+Diegimas:
+
+Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lithuanian Ergonomic'.
+
+Išdėstymai padaryti su 'Ukelele' programa: <https://www.macupdate.com/app/mac/14495/ukelele>.
+
+

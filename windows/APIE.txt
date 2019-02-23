@@ -1,0 +1,11 @@
+﻿Aplanko turinys:
+
+— 'ratise' — Windows 2000/XP/Vista/7/8/10 sistemoms skirta lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklių diegyklė.
+
+— 'ratiseru' — atatinkama rusiška fonetinė (garsinė) šio išdėstymo klaviatūros valdyklės diegyklė.
+
+— 'src' — aplanke yra LEK Ratisė išdėstymo išeitinės bylos 'MSKLC' programai <https://www.microsoft.com/en-us/download/details.aspx?id=22339> su kuria ir padarytos minėtos išdėstymo diegyklės.
+
+— 'old_windows' — šiame aplanke valdyklės senesniems Windows.
+
+Klaviatūros raktai šioje valdyklėse pririšti prie QWERTY išdėstymo.

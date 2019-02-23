@@ -1,0 +1,13 @@
+Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros išdėstymo "Ratisė" XKB valdyklės.
+
+Aplanko urinys:
+
+'lt.txt' — LEK Ratisės
+'ru.txt' — LEK Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
+
+Diegimas (!tobulintinas dalykas!):
+
+Reikiamos bylos vidaus turinį patalpinti į reikiamos '/usr/share/X11/xkb/symbols' bylos vidų vietoje kokio nereikalingo išdėtymo, toliau (per)pasirinkti naująjį išdėstymą klaviatūros nustatymuose.
+
+Pastaba:
+Tęstinių mygtukų lygiai 'XKB' valdyklėje yra skurdesni nei aprašyta išdėstymo specifikacijoje 'SPECIFICATIONS.txt' (!tobulintinas dalykas!).
