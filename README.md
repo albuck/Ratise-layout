@@ -80,7 +80,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 + _LEK „Ratisė“ išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms:
 
-[Parsisiųsti LEK „Ratisė“ išdėstymą](https://github.com/albuck/Ratise-keymap/zipball/master)
+[Parsisiųsti LEK „Ratisė“ išdėstymą](https://github.com/albuck/Ratise-layout/zipball/master)
 
 --------------------------------------------------------------------
 
