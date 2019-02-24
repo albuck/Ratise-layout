@@ -50,7 +50,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 + Pastebėtina, kad brūkšnelio mygtukas trečiajame lygyje yra _nepertraukiamasis brūkšnelis_.
 
-+ Trečiajame ›P‹ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame ›Ž‹ mygtuko lygyje — brūkšnelio‑minuso ženklas. Senesnėje skaitmeninėje įrangoje, sakykim skaičiuotuve kokiame, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite ›\*‹ bei ›/‹ mygtukus (pirmame lygyje).
++ Trečiajame __P__ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame __Ž__ mygtuko lygyje — brūkšnelio‑minuso ženklas. Senesnėje skaitmeninėje įrangoje, sakykim skaičiuotuve kokiame, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite __\*__ bei __/__ mygtukus (pirmame lygyje).
  
 + [Ką daryti kai klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](docs/trukumu_apejimas.md)
 
@@ -65,7 +65,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 + Šičia gelzganai žymėti yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
 [Tęsties mygtukai](docs/testies_mygtukai.md)
 
-+ Ketvirtajame ›Ž‹ mygtuko lygyje yra pusilgis brūkšnys (‘n’ ilgio brūkšnys).
++ Ketvirtajame __Ž__ mygtuko lygyje yra pusilgis brūkšnys (‘n’ ilgio brūkšnys).
 
 + Ant tarpo mygtuko užrašas ‘no’ reiškia, kad tai yra _nepertraukiamasis tarpas_ (tokia tarpo mygtuko reikšmė ketvirtajame lygyje).
 
