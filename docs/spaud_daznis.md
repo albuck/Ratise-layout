@@ -64,7 +64,7 @@ __Pirštų užimtumas:__
 ------------------------------
 
 __Pastaba:__ 
-+ Paveikslėliai iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
++ Paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
 ------------------------------
 
