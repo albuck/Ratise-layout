@@ -23,7 +23,48 @@ __Pirštų užimtumas:__
 + dešinysis bevardis — 8,8%
 + dešinysis mažasis — 6,3%
 
-__Pastaba:__ Paveikslėliai paimti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
+
+## Mygtukų spadeliojimo dažnumai angliškame tekste
+
+### Angliškas grožinis tekstas
+
+![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas_angl.png)
+
+__Pirštų užimtumas:__
+
++ kairysis mažasis — 4,3%
++ kairysis bevardis — 9,5%
++ kairysis didysis — 6,7%
++ kairysis smilius — 17,0%
++ abu nykščiai — 19,5%
++ dešinysis smilius — 14,2%
++ dešinysis didysis — 13,1%
++ dešinysis bevardis — 6,3%
++ dešinysis mažasis — 9,4%
+
+
+### Programavimo tekstas (Bash, C, CPP, Python)
+
+![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas_angl_prog.png)
+
+__Pirštų užimtumas:__
+
++ kairysis mažasis — 11,0%
++ kairysis bevardis — 8,2%
++ kairysis didysis — 7,2%
++ kairysis smilius — 11,7%
++ abu nykščiai — 17,6%
++ dešinysis smilius — 13,4%
++ dešinysis didysis — 8,7%
++ dešinysis bevardis — 6,9%
++ dešinysis mažasis — 15,3%
+
+— _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams rimtai reikėtų pagalvoti apie ‘AltGr’ ir ‘Shift’ mygtukų sukeitimą vietomis, bei apie tikrai ergonomiškos klaviatūros įsigijimą ar pasigaminimą.
+
+------------------------------
+
+__Pastaba:__ 
++ Paveikslėliai iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
 ------------------------------
 
