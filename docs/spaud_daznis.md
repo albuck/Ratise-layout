@@ -7,6 +7,8 @@ Mygtukų paspaudimo dažnumas yra apspręstas pačių [raidžių dažnumo lietuv
 
 Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra tas klaviatūros išdėstymas, kuriame dažniau naudojamos raidės yra patogesnėje, lengviau ir greičiau pasiekiamoje vietoje.
 
+## Lietuviškas tekstas
+
 Žemiau pateikiamas paveikslėlis su klaviatūros mygtukų naudojimo dažnumu spausdinant lietuvišką tekstą (lietuviškos pasakos iš Basanavičiaus rinkinio). Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
 ![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas.png)
