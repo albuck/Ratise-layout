@@ -115,4 +115,4 @@ Išsamus išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
 [Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
 
-[Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html⟩
+[Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html)
