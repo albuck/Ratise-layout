@@ -59,7 +59,7 @@ __Pirštų užimtumas:__
 + dešinysis bevardis — 6,9%
 + dešinysis mažasis — 15,3%
 
-— _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams rimtai reikėtų pagalvoti apie ‘AltGr’ ir ‘Shift’ mygtukų sukeitimą vietomis, bei apie tikrai ergonomiškos klaviatūros įsigijimą ar pasigaminimą.
+— _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams derėtų pagalvoti apie ‘AltGr’ ir ‘Shift’ mygtukų sukeitimą vietomis, bei apie tikrai ergonomiškos klaviatūros įsigijimą ar pasigaminimą.
 
 ------------------------------
 
