@@ -50,7 +50,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 + Pastebėtina, kad brūkšnelio mygtukas trečiajame lygyje yra _nepertraukiamasis brūkšnelis_.
 
-+ Trečiajame __P__ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame __Ž__ mygtuko lygyje — brūkšnelio‑minuso ženklas. Senesnėje skaitmeninėje įrangoje, sakykim skaičiuotuve kokiame, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite __\*__ bei __/__ mygtukus (pirmame lygyje).
++ Trečiajame __P__ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame __Ž__ mygtuko lygyje — brūkšnelio‑minuso ženklas. Senesnėje skaitmeninėje įrangoje, sakykim skaičiuotuve kokiame, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite ‘__\*__’ bei ‘__/__’ mygtukus (pirmame lygyje).
  
 + [Ką daryti kai klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](docs/trukumu_apejimas.md)
 
