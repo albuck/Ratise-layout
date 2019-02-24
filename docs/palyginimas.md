@@ -30,9 +30,9 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 • Išsamiau (angliškai):
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/pdbr417J
+http://patorjk.com/keyboard-layout-analyzer/#/load/KjWP3KtT
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/rDc1zMJX
+http://patorjk.com/keyboard-layout-analyzer/#/load/LpN41zvh
 
 __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikraus, nuėję į tą puslapį nurašykite nuorodą tiesiai į naršyklės adreso lauką ir bandykite vėl įkrauti.
 
@@ -44,7 +44,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. __Ratise (Kinesis Advantage)__ — __64.95__
+1. __Ratise (Kinesis Advantage)__ — __64.94__
 2. __Ratise (ANSI)__ — 62.47
 3. __Ratise (ISO)__ — 62.38
 4. LEKP (Kinesis Advantage) — 61.86
@@ -58,17 +58,17 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 • Išsamiau (angliškai):
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/GhFgk9nB
+http://patorjk.com/keyboard-layout-analyzer/#/load/KWwj1RMk
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/bMkhK36F
+http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 
 ------------------------------
 ### Bendrai Bash, C, CPP, Python:
 
-1. __Ratise (Kinesis Advantage)__ — __55.29__
+1. __Ratise (Kinesis Advantage)__ — __55.26__
 2. LEKP (Kinesis Advantage) — 50.99
-3. __Ratise (ANSI)__ — 45.99
-4. __Ratise (ISO)__ — 44.90
+3. __Ratise (ANSI)__ — 45.88
+4. __Ratise (ISO)__ — 44.80
 5. LEKPa (ANSI) — 42.35
 6. LEKP (ISO) — 41.96
 7. AŽERTY Lithuanian (Standard 2000) — 35.98
@@ -79,8 +79,8 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/bMkhK36F
 
 • Išsamiau (angliškai):
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/xkV2nkMn
+http://patorjk.com/keyboard-layout-analyzer/#/load/fJ4s51cF
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/j382G1W9
+http://patorjk.com/keyboard-layout-analyzer/#/load/ph32Hqd0
 
 ------------------------------
