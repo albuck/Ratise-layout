@@ -111,6 +111,8 @@ Išsamus išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
 ## Naudingos nuorodos:
 
+[Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+
 [Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
 
-[Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+[Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html⟩
