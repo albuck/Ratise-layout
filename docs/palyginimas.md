@@ -19,19 +19,20 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 1. __Ratise (Kinesis Advantage)__ — __68.59__
 2. __Ratise (ANSI)__ — 67.64
 3. __Ratise (ISO)__ — 67.42
-4. LEKP (Kinesis Advantage) — 60.81
-5. LEKPa (ANSI) — 58.12
-6. LEKP (ISO) — 58.00
-7. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 48.93
-8. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.73
-9. QWERTY Baltic (ANSI) — 44.61
-10. QWERTY Baltic (ISO) — 43.71
-11. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
+4. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 65.92_
+5. LEKP (Kinesis Advantage) — 60.81
+6. LEKPa (ANSI) — 58.12
+7. LEKP (ISO) — 58.00
+8. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 48.93
+9. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.73
+10. QWERTY Baltic (ANSI) — 44.61
+11. QWERTY Baltic (ISO) — 43.71
+12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
 
 
 • Išsamiau (angliškai):
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/KjWP3KtT
+http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/JZJVf5VL
 
@@ -51,18 +52,19 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 2. __Ratise (ANSI)__ — 62.47
 3. __Ratise (ISO)__ — 62.38
 4. LEKP (Kinesis Advantage) — 61.86
-5. LEKP (ISO) — 60.28
-6. LEKPa (ANSI) — 59.87
-7. QWERTY Baltic (ANSI) — 53.04
-8. QWERTY Baltic (ISO) — 52.89
-9. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 50.85
-10. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 48.93
-11. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.18
+5. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 60.44_
+6. LEKP (ISO) — 60.28
+7. LEKPa (ANSI) — 59.87
+8. QWERTY Baltic (ANSI) — 53.04
+9. QWERTY Baltic (ISO) — 52.89
+10. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 50.85
+11. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 48.93
+12. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.18
 
 
 • Išsamiau (angliškai):
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/KWwj1RMk
+http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/RzvTRcVP
 
@@ -81,18 +83,19 @@ _(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstym
 6. _Colemak (ANSI) — 44.46_
 7. _Programmer Dvorak (ANSI) — 44.45_
 8. __Ratise (ISO)__ — 44.80
-9. LEKPa (ANSI) — 42.35
-10. LEKP (ISO) — 41.96
-11. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
-12. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
-13. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
-14. QWERTY Baltic (ANSI) — 32.96
-15. QWERTY Baltic (ISO) — 31.65
+9. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
+10. LEKPa (ANSI) — 42.35
+11. LEKP (ISO) — 41.96
+12. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
+13. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
+14. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
+15. QWERTY Baltic (ANSI) — 32.96
+16. QWERTY Baltic (ISO) — 31.65
 
 
 • Išsamiau (angliškai):
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/fJ4s51cF
+http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/t81RRtxm
 
