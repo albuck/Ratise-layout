@@ -75,7 +75,7 @@ _(Čia papildomai palyginimui įtraukti ir žinomi geriausi angliški išdėstym
 
 1. __Ratise (Kinesis Advantage)__ — __55.26__
 2. LEKP (Kinesis Advantage) — 50.99
-3. _Kinesis Advantage Colemak — 48.93_
+3. _Colemak (Kinesis Advantage) — 48.93_
 4. _Programmer Colemak (ANSI) — 46.64_
 5. __Ratise (ANSI)__ — 45.88
 6. _Colemak (ANSI) — 44.46_
