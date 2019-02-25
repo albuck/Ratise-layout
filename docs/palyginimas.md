@@ -71,21 +71,23 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 ------------------------------
 ### Bendrai Bash, C, CPP, Python:
 
-_Čia papildomai palyginimui įtraukti ir žinomi geriausi programuotojams skirti angliški išdėstymai_
+_Čia papildomai palyginimui įtraukti ir žinomi geriausi angliški išdėstymai_
 
 1. __Ratise (Kinesis Advantage)__ — __55.26__
 2. LEKP (Kinesis Advantage) — 50.99
-3. _Programmer Colemak (ANSI) — 46.64_
-4. __Ratise (ANSI)__ — 45.88
-5. _Programmer Dvorak (ANSI) — 44.45_
-6. __Ratise (ISO)__ — 44.80
-7. LEKPa (ANSI) — 42.35
-8. LEKP (ISO) — 41.96
-9. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
-10. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
-11. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
-12. QWERTY Baltic (ANSI) — 32.96
-13. QWERTY Baltic (ISO) — 31.65
+3. _Kinesis Advantage Colemak — 48.93_
+4. _Programmer Colemak (ANSI) — 46.64_
+5. __Ratise (ANSI)__ — 45.88
+6. _Colemak (ANSI) — 44.46_
+7. _Programmer Dvorak (ANSI) — 44.45_
+8. __Ratise (ISO)__ — 44.80
+9. LEKPa (ANSI) — 42.35
+10. LEKP (ISO) — 41.96
+11. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
+12. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
+13. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
+14. QWERTY Baltic (ANSI) — 32.96
+15. QWERTY Baltic (ISO) — 31.65
 
 
 • Išsamiau (angliškai):
@@ -96,6 +98,6 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/t81RRtxm
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/ph32Hqd0
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/wNKXRlJg
+http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 
 ------------------------------
