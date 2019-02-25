@@ -41,7 +41,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ------------------------------
 
-## LEK „Ratisė“ ir kitų lietuviškų išdėstymų pasiekimai angliškuose raštuose bei angliškuose programavimo kalbų tekstuose
+## LEK „Ratisė“ ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
 + Imti nedideli tekstų pavyzdžiai.
 
