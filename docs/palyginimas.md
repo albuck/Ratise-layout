@@ -71,7 +71,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 ------------------------------
 ### Bendrai Bash, C, CPP, Python:
 
-_Čia papildomai palyginimui įtraukti ir žinomi geriausi angliški išdėstymai_
+_(Čia papildomai palyginimui įtraukti ir žinomi geriausi angliški išdėstymai)_
 
 1. __Ratise (Kinesis Advantage)__ — __55.26__
 2. LEKP (Kinesis Advantage) — 50.99
