@@ -2,10 +2,11 @@ Aplanko turinys:
 
 'Lithuanian (Ratise)' — 'Haiku' sistemai skirta lietuviško ergonomiško klaviatūros "Ratisė" išdėstymo valdyklė.
 'Russian (Ratise)' — atatinkama rusiška fonetinė (garsinė) šio išdėstymo klaviatūros valdyklė.
+'Ratise (Shortcuts)' — papildomas išdėstymas klaviatūros raktų suderinamumui (tam reikalinga papildomai įdiegti "Keymap Switcher" ir jos nustatymuose pasirinkti norimą raktų pakaitos išdėstymą).
 
 Diegimas:
 
-Reikiamą bylą įrašykite </home/config/settings/Keymap/> aplankan, ir rinkitės naująjį išdėstymą 'Keymap' klaviatūros nustatymuose.
+Reikiamą bylą/as įrašykite </home/config/settings/Keymap/> aplankan, ir rinkitės naująjį išdėstymą 'Keymap' klaviatūros nustatymuose.
 
 Pastaba:
 'Haiku' palaiko mažiau tęsties mygtukų, todėl trūkstami pakeisti atitinkamais uždėtiniais (diakritiniais) ženkleliais.
