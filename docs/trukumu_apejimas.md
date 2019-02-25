@@ -9,6 +9,6 @@ LEK „RATISĖ“ IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
  + _Windows_ aplinkoje visi klaviatūros raktai veiks taip kaip ir QWERTY išdėstyme.
  + _MacOS_ aplinkoje klaviatūros raktai veiks kaip Ratisė išdėstyme, išskyrus lietuviškų raidžių mygtukus __Ū Ė Ų Ę Į Ą Š__, kurie veiks kaip __Q W Z X C V F__.
  + _Linux_ aplinkoje šitokia automatinė pakaita neveikia (be papildomų priemonių), visi klaviatūros raktai veiks kaip Ratisės išdėstyme. Linux'e taip pat (be įprastų ‘Ctrl+C’ ir ‘Ctrl+V’ naujose vietose) galima naudoti nurašymui ‘Ctrl+Ins’ ir įrašymui ‘Shift+Ins’.
- + _Haiku_ aplinkoje galima naudoti papildomą klaviatūros raktų suderinamumo išdėstymą (yra pridėtas, išdėstymas kaip ir MacOS pakaitinis) ar kitą kokį įsidiegus papildomą priemonę "Keymap Switcher".
+ + _Haiku_ aplinkoje galima naudoti papildomą klaviatūros raktų suderinamumo išdėstymą (yra pridėtas, išdėstymas kaip ir _MacOS_ pakaitinis) ar kitą kokį įsidiegus papildomą priemonę "Keymap Switcher".
 
 3. __Mygtukai X, H ir Q nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka dažnokai kartu su jais iškart spaudelioti A, O__, ypatingai tai pastebima spausdinant angliškai, kur _h_ yra dažna raidė. Čia gali pagelbėti ypatingas šių raidžių rinkimo būdas: jei kairiosios rankos smilius renka __H__ ar __X__, tai __O__, __A__ renka pasislinkęs dešiniau kairiosios rankos didysis pirštas (taip spaudeliojant _Ratisės_ našumas turėtų prilygti angliškų _Dvorak_ ir _Colemak_ išdėstymų našumui angliškame grožiniame tekste).
