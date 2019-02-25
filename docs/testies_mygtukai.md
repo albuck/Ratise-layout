@@ -15,7 +15,7 @@ Paspaudus tiesiogiai gaunamos esamos mažosios raidės su atitinkamu tęsties my
 
 __Pastabos__:
 + dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui ‘Vytis’, ‘Palemonas’. Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų ›X‹, ›H‹ ir ›Q‹ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
-+ Skirtingose aplinkose tęsties lygių palaikymas kiek įvairuoja ir turi savo ypatumų. _MacOS_ turi papildomą galimybę įvesti tęsties spaudo uždėtinį antrininką spaudžiant tarpą kartu su ‘Option’(‘Alt’). _Linux_ ir _Haiku_ aplinkose tęsties lygiai palaikomi ne pilnai.
++ Skirtingose skaitmeninėse aplinkose tęsties lygių palaikymas kiek įvairuoja ir turi savo ypatumų. _MacOS_ turi papildomą galimybę įvesti tęsties spaudo uždėtinį antrininką spaudžiant tarpą kartu su ‘Option’(‘Alt’). _Linux_ ir _Haiku_ aplinkose tęsties lygiai palaikomi ne pilnai.
 
 Toliau nurodomi tik dar papildomai tęsties mygtukù gaunami ženklai. Akivaizdžiai gaunami sudėtiniai spaudai: uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui, ¯ + a = ā) nenurodomi žemiau. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas (visa Ratisės ženklų lentelė paveikslėlyje apačioje).
 
