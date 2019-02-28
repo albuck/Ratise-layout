@@ -75,7 +75,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 
 _(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstymai)_
 
-1. __Ratise (Kinesis Advantage)__ — __55.26__
+1. __Ratise (Kinesis Advantage)__ — __55.26__*
 2. LEKP (Kinesis Advantage) — 50.99
 3. _Colemak (Kinesis Advantage) — 48.93_
 4. _Programmer Colemak (ANSI) — 46.64_
@@ -102,5 +102,10 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/t81RRtxm
 http://patorjk.com/keyboard-layout-analyzer/#/load/ph32Hqd0
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
+
+
++ O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ us ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/XGTNqMNq
 
 ------------------------------
