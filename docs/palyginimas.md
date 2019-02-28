@@ -108,4 +108,8 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/XGTNqMNq
 
++ Iš čia tirtų programavimo kalbų Ratisė geriausiai pasirodė Python kalboje, surinkdama virš __63__ taškų:
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/Zrx90FL2
+
 ------------------------------
