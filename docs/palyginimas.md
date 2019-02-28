@@ -104,7 +104,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/ph32Hqd0
 http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 
 
-+ O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ us ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
++ O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ su ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/XGTNqMNq
 
