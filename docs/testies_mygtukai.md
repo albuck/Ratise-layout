@@ -270,7 +270,7 @@ Toliau nurodomi tik dar papildomai tęsties mygtukù gaunami ženklai. Akivaizd
 
 - (Š) → (Ʃ) (didžioji lotyniška eš)
 - (š) → (ʃ) (mažoji lotyniška eš)
-- (Ž) → (Ʒ) (didžioji lotynigka ež)
+- (Ž) → (Ʒ) (didžioji lotyniška ež)
 - (ž) → (ʒ) (mažoji lotyniška ež)
 - (Z) → (Ǯ)
 - (z) → (ǯ)
