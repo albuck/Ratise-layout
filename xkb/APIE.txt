@@ -2,7 +2,7 @@ Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros
 
 Aplanko urinys:
 
-'lt.txt' — LEK Ratisės
+'lt.txt' — LEK Ratisė
 'ru.txt' — LEK Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
 
 Diegimas (!tobulintinas dalykas!):
