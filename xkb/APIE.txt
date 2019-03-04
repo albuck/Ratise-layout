@@ -1,6 +1,6 @@
 Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros išdėstymo "Ratisė" XKB valdyklės.
 
-Aplanko urinys:
+Aplanko turinys:
 
 'lt.txt' — LEK Ratisė išdėstymas.
 'ru.txt' — LEK Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
