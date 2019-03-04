@@ -7,7 +7,7 @@ Aplanko urinys:
 
 Diegimas (!tobulintinas dalykas!):
 
-Reikiamos bylos vidaus turinį patalpinti į reikiamos '/usr/share/X11/xkb/symbols' bylos vidų vietoje kokio nereikalingo išdėtymo, toliau (per)pasirinkti naująjį išdėstymą klaviatūros nustatymuose.
+Reikiamos bylos vidaus turinį patalpinti į reikiamos '/usr/share/X11/xkb/symbols' bylos vidų vietoje kokio Jums nereikalingo išdėtymo, toliau (per)pasirinkti naująjį išdėstymą klaviatūros nustatymuose.
 
 Pastaba:
 Tęstinių mygtukų lygiai 'XKB' valdyklėje yra skurdesni nei aprašyta išdėstymo specifikacijoje 'SPECIFICATIONS.txt' (!tobulintinas dalykas!).
