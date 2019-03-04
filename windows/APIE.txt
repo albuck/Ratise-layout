@@ -8,4 +8,4 @@
 
 — 'old_windows' — šiame aplanke valdyklės senesniems Windows.
 
-Klaviatūros raktai šioje valdyklėse pririšti prie QWERTY išdėstymo.
+Klaviatūros raktai šiose valdyklėse pririšti prie QWERTY išdėstymo.
