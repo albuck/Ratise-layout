@@ -3,7 +3,7 @@
 LEK „RATISĖ“ IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 ------------------------------------------
 
-1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ‘AltGr’ (dešinysis Alt)__. _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ‘Alt+Ctrl’ (‘Alt+Vald’). Tai nėra labai patogu. Bet pasinaudojus papildomomis programinėmis priemonėmis, tokiomis kaip ‘KeyTweak’, galima ‘AltGr’ veikimą priskirti kokiam kitam kairėje esančiam mygtukui. _Linux_ aplinkose tai galima padaryti klaviatūros išdėstymo nustatymuose. _MacOS_ aplinkoje gali būti pravartu susikeisti __⌘__ (Command, Cmd) ir __⌥__ (Option, Opt, Alt) vietomis, kad būtų galima jungti trečią lygį nykščiais patogiau.
+1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ‘AltGr’ (dešinysis Alt)__. _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ‘Alt+Ctrl’ (‘Alt+Vald’). Tai nėra labai patogu. Bet pasinaudojus papildomomis programinėmis priemonėmis, tokiomis kaip ‘KeyTweak’, galima ‘AltGr’ veikimą priskirti kokiam kitam kairėje esančiam mygtukui. _Linux_ aplinkose tai galima padaryti klaviatūros išdėstymo nustatymuose. _MacOS_ aplinkoje gali būti pravartu susikeisti __⌘__ (Command, Cmd) ir __⌥__ (Option, Opt, Alt) vietomis, kad būtų galima jungti trečią lygį nykščiais patogiau. _Haiku_ aplinkoje ‘Alt’ ir ‘AltGr’ veikia kaip trečio lygio mygtukas ‘Option’ (nustatymuose keičiama).
 
 2. __Mygtukai Z, X, C, V bei kiti yra neįprastoje vietoje, kas kartais nepatogu naudoti juos įprastiems klaviatūros raktams__.
  + _Windows_ aplinkoje visi klaviatūros raktai veiks taip kaip ir QWERTY išdėstyme.
