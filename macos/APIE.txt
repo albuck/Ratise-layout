@@ -8,7 +8,7 @@ Turinys:
 
 Diegimas:
 
-Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lithuanian Ergonomic'.
+Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lithuanian Ratise'.
 
 Išdėstymai padaryti su 'Ukelele' programa: <https://www.macupdate.com/app/mac/14495/ukelele>.
 
