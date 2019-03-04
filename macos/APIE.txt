@@ -8,7 +8,7 @@ Turinys:
 
 Diegimas:
 
-Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lithuanian Ratise'.
+Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lithuanian - Ratise (ZXCV)' ar kitą.
 
 Išdėstymai padaryti su 'Ukelele' programa: <https://www.macupdate.com/app/mac/14495/ukelele>.
 
