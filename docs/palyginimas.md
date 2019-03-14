@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
 
-# LIETUVIŠKŲ IŠDĖSTYMŲ PALYGINIMAS
+# LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS
 
 Čia pasinaudota puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo gerumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai ir rankos (34%).
 
