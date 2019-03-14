@@ -99,7 +99,7 @@ PAPILDYMAI:
 
 [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 
-[LIETUVIŠKŲ IŠDĖSTYMŲ PALYGINIMAS](docs/palyginimas.md)
+[LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
 
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
