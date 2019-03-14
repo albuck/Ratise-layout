@@ -80,9 +80,9 @@ _(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstym
 3. _Colemak (Kinesis Advantage) — 48.93_
 4. _Programmer Colemak (ANSI) — 46.64_
 5. __Ratise (ANSI)__ — 45.88
-6. _Colemak (ANSI) — 44.46_
-7. _Programmer Dvorak (ANSI) — 44.45_
-8. __Ratise (ISO)__ — 44.80
+6. __Ratise (ISO)__ — 44.80
+7. _Colemak (ANSI) — 44.46_
+8. _Programmer Dvorak (ANSI) — 44.45_
 9. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
 10. LEKPa (ANSI) — 42.35
 11. LEKP (ISO) — 41.96
