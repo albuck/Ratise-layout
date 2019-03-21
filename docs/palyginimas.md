@@ -17,7 +17,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 ### Lietuviškos pasakos (iš Basanavičiaus rinkinio):
 
 1. __Ratise (Kinesis Advantage)__ — __68.59__
-2. __Ratise (ANSI)__ — 67.64
+2. __Ratise (ANSI)__ — 67.64*
 3. __Ratise (ISO)__ — 67.42
 4. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 65.92_
 5. LEKP (Kinesis Advantage) — 60.81
@@ -28,6 +28,8 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 10. QWERTY Baltic (ANSI) — 44.61
 11. QWERTY Baltic (ISO) — 43.71
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
+
+\* Kiek teko bandyti, skirtinguose lietuviškuose tektstuose Ratisės našumas svyruoja tarp 60—70, o kai kuriuose jis viršija 70, o kituose, labai sudėtinguose tekstuose su daugybe neraidinių ženklų gali tesiekti 50—60.
 
 
 • Išsamiau (angliškai):
