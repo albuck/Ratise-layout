@@ -22,7 +22,7 @@ LEK „Ratisė“ išdėstyme raidės ir kiti ženklai esti keturiuose lygiuose 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
 
-### LEK Ratisės 1 lygis
+### LEK Ratisės 1-sis lygis
 
 — spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 
@@ -31,7 +31,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 + Tarp mygtukų  ‘pabraukimas’ ir ‘lygu’ yra mygtukas su ilguoju brūkšniu, vadinamuoju ‘m’ ilgio brūkšniu (tai yra ‘m’ raidės pločio brūkšniu).
 
 
-### LEK Ratisės 2 lygis
+### LEK Ratisės 2-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ‘Shift’.
 
@@ -40,7 +40,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 + Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (’šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniu ‘m’ ilgio brūkšniu.
 
 
-### LEK Ratisės 3 lygis
+### LEK Ratisės 3-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ‘AltGr’.
 
@@ -56,7 +56,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 
 
-### LEK Ratisės 4 lygis
+### LEK Ratisės 4-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką su _Antrojo lygio_ mygtuku (‘AltGr+Vald’).
 
