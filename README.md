@@ -104,7 +104,7 @@ PAPILDYMAI:
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
 
-Išsamus išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
+Išsamesnis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
 --------------------------------------------------------------------
 
