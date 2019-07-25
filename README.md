@@ -101,6 +101,8 @@ PAPILDYMAI:
 
 [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
 
+[RATISĖ IR QWERTY IŠDĖSTYMAI VIENAME PAVEIKSLĖLYJE](docs/ratise&qwerty.md)
+
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
 
