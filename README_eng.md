@@ -19,7 +19,7 @@ version 2.0
 
 ------------------------------------------------------------------------------------
 
-+ The specifications of this keyboard layout you can find in:  [txt](SPECIFICATIONS.txt)
++ The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
 
 [Read more about LEK "Ratise" layout (in lithuanian)](README.md)
 
