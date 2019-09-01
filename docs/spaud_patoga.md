@@ -7,9 +7,9 @@ Net ir patogiausias daiktas nemokančiam juo naudotis bus nepatogus. Taigi, vis�
 
 Be abejo, dažniau naudojamo mygtuko patogumas, tai yra jo buvimas patogesnėje vietoje — mygtuko tekimas vikresniam ir stipresniam pirštui, ar buvimas arčiau pagrindinės pirštų padėties, ar buvimas klaviatūros pirmame lygyje yra pagrindinis, bet ne vienintelis viso išdėstymo patogumo veiksnys.
 
-Taip pat dar yra svarbu ir raidžių eiliškumas žodžiuose, įvairių ženklų tarpusavio susiėjimų dažnumas bei jų kaitaliojimosi ritmiškumas, dalykai kurie, vėl gi, bus kiek skirtingi renkant skirtingus įrašus. Be to, spausdinimo patogumui dar yra svarbu, kokie ženklai yra šalia vieni kitų pačiame išdėstyme, kokiame jie yra lygyje ir kokiems pirštams tenka dalyvauti juos įvedant.
+Dar spausdinimo patogumą įtakoja raidžių eiliškumas žodžiuose, įvairių ženklų tarpusavio susiėjimų dažnumas bei jų kaitaliojimosi ritmiškumas, dalykai kurie, vėl gi, bus kiek skirtingi renkant skirtingus įrašus. Be to, spausdinimo patogumui dar yra svarbu, kokie ženklai yra šalia vieni kitų pačiame išdėstyme, kokiame jie yra tam tikrame lygyje ir kokiems pirštams tenka dalyvauti tuos ženklus įvedant.
 
-Nors ir patogesnis spausdinamųjų ženklų išdėstymas klaviatūroje ženkliai sumažina pirštų judesių apimtį spausdinant visais pirštais, kas savaime, aišku, sumažina krūvį tenkantį rankoms (pirštams) ir padidina spausdinimo našumą, kitas svarbus veiksnys spausdinimo patogumui yra pats pagamintos klaviatūros padirbimo pavidalas ir rankų santykis su tuo pavidalu (vadinamoji klaviatūros ergomomika).
+Nors ir patogesnis spausdinamųjų ženklų išdėstymas klaviatūroje žymiai sumažina pirštų judesių apimtį spausdinant visais pirštais, kas savaime, aišku, sumažina krūvį tenkantį rankoms (pirštams) ir padidina spausdinimo našumą, kitas svarbus veiksnys spausdinimo patogumui yra pats pagamintos klaviatūros padirbimo pavidalas ir rankų santykis su tuo pavidalu (vadinamoji klaviatūros ergomomika).
 
 Deja, standartinės klaviatūros nėra labai patogios spausdinimui visais pirštais: jos buvo sukurtos tais laikais, kai gamintojams teko labiau kreipti dėmesį į pačios klaviatūros, kaip prietaiso veikimą, nei į spausdintojo patogumą. Tą patį galima būtų pasakyti ir apie labiausiai paplitusį pavyzdinį QWERTY ženklų išdėstymą. Jei spausdinate labai mažai ar iš viso tik 'dviem pirštais', tai jums tokia klaviatūra nepakenks.
 
@@ -17,7 +17,7 @@ Jeigu gi ruošiatės daug spausdinti visais pirštais, tai įsigykite ergonomiš
 
 Pastaba: ne visos klaviatūros kurios užsivadina ergonomiškomis yra pilnai tokios, kartais jos teturi tik kokį vieną ar keletą iš ergonomiškumo požymių.
 
-Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunkančių ar dažnų nepatogių riešo padėčių spausdinant: plaštakos užlaužimų per riešą į šonus (ko standartinėje klaviatūroje, deja, neišvengsite, neatitraukdami pirštų nuo pagrindinės padėties), plaštakos per riešą užlaužimų į apačią ar į viršų (kurių išvengiama tinkamai susiderinant klaiviatūros padėties pakreipimą). Ilgalaikės nepatogiai pakreiptos plaštakos padėtys spausdinant gali sukelti riešo skausmus.
+Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunkančių ar dažnų nepatogių riešo padėčių spausdinant: plaštakos užlaužimų per riešą į šonus (ko standartinėje klaviatūroje, deja, neišvengsite, neatitraukdami pirštų nuo pagrindinės padėties), plaštakos per riešą užlaužimų į apačią ar į viršų (kurių išvengiama tinkamai susiderinant klaiviatūros padėties pakreipimą). Ilgalaikės nepatogiai pakreiptos plaštakos padėtys spausdinant gali sukelti riešų skausmus.
 
 --------------------------------------------------------------------
 
