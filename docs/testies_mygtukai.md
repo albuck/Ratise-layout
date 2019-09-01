@@ -18,7 +18,7 @@ __Pastabos__:
 + Skirtingose skaitmeninėse aplinkose tęsties lygių palaikymas kiek įvairuoja ir turi savo ypatumų. _MacOS_ turi papildomą galimybę įvesti tęsties spaudo uždėtinį antrininką spaudžiant tarpą kartu su ‘Option’(‘Alt’). _Linux_ ir _Haiku_ aplinkose tęsties lygiai palaikomi ne pilnai.
 + Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’), pavyzdžiui, paspaudus (ir atleidus) šį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas). Plačiau apie sudurtinį įvedimą (angliškai): https://help.ubuntu.com/community/ComposeKey
 
-Toliau nurodomi tik dar papildomai tęsties mygtuku gaunami ženklai. Akivaizdžiai gaunami sudėtiniai spaudai: uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui, ¯ + a = ā) nenurodomi žemiau. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas (visa Ratisės ženklų lentelė paveikslėlyje apačioje).
+Žemiau nurodomi tik dar papildomai tęsties mygtuku gaunami ženklai, akivaizdžiai gaunami sudėtiniai spaudai: koks nors uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui, ¯ + a = ā), nenurodomi. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas (visa Ratisės ženklų lentelė paveikslėlyje apačioje).
 
 
 ### Taškas viršuje:
