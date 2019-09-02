@@ -301,6 +301,6 @@ __Pastabos__:
 
 ---------------------------------------------------------------------------
 
-## LEK „RATISĖ“ VIENAME PAVEIKSLĖLYJE
+## RATISĖ VIENAME PAVEIKSLĖLYJE
 
-![LEK „Ratisė“ išdėstymas](images/lek_ratise_layout.png)
+![Ratisės išdėstymas](images/lek_ratise_layout.png)
