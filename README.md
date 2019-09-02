@@ -5,9 +5,9 @@
 
 Laida 2.0
 
-__Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratìsė“__, arba sutrumpintai LEK  „Ratisė“ išdėstymas, ar tiesiog išdėstymas „Ratisė“, yra skirtas patogiam lietuviško teksto rinkimui klaviatūra (spaudynu) visais pirštais, taip vadinamu „akluoju“ būdu, tai yra spausdinant klaviatūra visais pirštais apčiuopomis, nežiūrint. Taip pat išdėstymas leidžia patogiai rinkti tekstus anglų kalba, programavimo kalbomis bei įvesti ypatingas kitų kalbų raides bei kitokius reikalingus ženklus.
+__Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratìsė“__ yra skirtas patogiam lietuviško teksto rinkimui klaviatūra (spaudynu) visais pirštais, taip vadinamu „akluoju“ būdu, tai yra spausdinant klaviatūra visais pirštais apčiuopomis, nežiūrint. Taip pat išdėstymas leidžia patogiai rinkti tekstus anglų kalba, programavimo kalbomis bei įvesti ypatingas kitų kalbų raides bei kitokius reikalingus ženklus.
 
-Kuriant LEK „Ratisė“ išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme. Taip pat ženklai dėstyti tvarkingai, kad išdėstymas būtų dar patogesnis ir lengviau įsimenamas.
+Kuriant „Ratisė“ išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme. Taip pat ženklai dėstyti tvarkingai, kad išdėstymas būtų dar patogesnis ir lengviau įsimenamas.
 
  „Ratisė“ pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
@@ -17,12 +17,12 @@ uei**a** — **r**tsp
 
 (paryškintos tenkančios rankų smiliams raidės)
 
-LEK „Ratisė“ išdėstyme raidės ir kiti ženklai esti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
+Ratisės išdėstyme raidės ir kiti ženklai esti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
 
-### LEK Ratisės 1-sis lygis
+### Ratisės 1-sis lygis
 
 — spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 
@@ -31,7 +31,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 + Tarp mygtukų  ‘pabraukimas’ ir ‘lygu’ yra mygtukas su ilguoju brūkšniu, vadinamuoju ‘m’ ilgio brūkšniu (tai yra ‘m’ raidės pločio brūkšniu).
 
 
-### LEK Ratisės 2-sis lygis
+### Ratisės 2-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ‘Shift’.
 
@@ -40,7 +40,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 + Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (’šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniu ‘m’ ilgio brūkšniu.
 
 
-### LEK Ratisės 3-sis lygis
+### Ratisės 3-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ‘AltGr’.
 
@@ -56,7 +56,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 
 
-### LEK Ratisės 4-sis lygis
+### Ratisės 4-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką su _Antrojo lygio_ mygtuku (‘AltGr+Vald’).
 
@@ -70,7 +70,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 + Ant tarpo mygtuko užrašas ‘no’ reiškia, kad tai yra _nepertraukiamasis tarpas_ (tokia tarpo mygtuko reikšmė ketvirtajame lygyje).
 
 
-### LEK Ratisės Didžiųjų raidžių lygis
+### Ratisės Didžiųjų raidžių lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ‘CapsLock’ paspaudimo.
 
@@ -78,18 +78,18 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 --------------------------------------------------------------------
 
-+ _LEK „Ratisė“ išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms:
++ _„Ratisė“ išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms:
 
-[Parsisiųsti LEK „Ratisė“ išdėstymą](https://github.com/albuck/Ratise-layout/zipball/master)
+[Parsisiųsti Ratisė išdėstymą](https://github.com/albuck/Ratise-layout/zipball/master)
 
 --------------------------------------------------------------------
 
 PAPILDYMAI:
 -----------
 
-[LEK „RATISĖ“ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
+[RATISĖ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
 
-[LEK „RATISĖ“ KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
+[RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
 [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
 
