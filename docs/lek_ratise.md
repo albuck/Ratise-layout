@@ -1,10 +1,10 @@
 [Į pradžią](../README.md)
 
-LEK „RATISĖ“ IŠDĖSTYMAS
+RATISĖS IŠDĖSTYMAS
 -----------------------
 
-Paveikslėlyje yra matomi LEK „Ratisė“ išdėstymo visi keturių lygių ženklai. Palšiau pažymėta ne visose klaviatūrose būnantis brūkšnelio mygkukas bei __Z__ mygtuko galimos skirtingos vietos skirtingos darybos klaviatūrose:
+Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai. Palšiau pažymėta ne visose klaviatūrose būnantis brūkšnelio mygkukas bei __Z__ mygtuko galimos skirtingos vietos skirtingos darybos klaviatūrose:
 
-![LEK „Ratisė“ išdėstymas](images/lek_ratise_layout.png)
+![„Ratisė“ išdėstymas](images/lek_ratise_layout.png)
 
 __Pastaba__. Būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais kairiausiasiais ir dešiniausiasiais mygtukais.
