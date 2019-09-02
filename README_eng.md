@@ -25,7 +25,7 @@ version 2.0
 
 + _"Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
 
-[Download "Ratise" layout](https://github.com/albuck/Ratise-layout/zipball/master)
+[»Download "Ratise" layout«](https://github.com/albuck/Ratise-layout/zipball/master)
 
 
 ------------------------------------------------------------------------------------
