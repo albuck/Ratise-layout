@@ -2,8 +2,8 @@ Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros
 
 Aplanko turinys:
 
-'lt.txt' — LEK Ratisė išdėstymas.
-'ru.txt' — LEK Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
+'lt.txt' — Ratisė išdėstymas.
+'ru.txt' — Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
 
 Diegimas (!tobulintinas dalykas!):
 
