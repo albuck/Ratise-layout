@@ -8,7 +8,7 @@
 __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti labiau trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
 
 
-## LEK „Ratisė“ ir kitų lietuviškų išdėstymų pasiekimai lietuviškuose spaudiniuose
+## Ratisės ir kitų lietuviškų išdėstymų pasiekimai lietuviškuose spaudiniuose
 
  _Duomenų pateikimo pavidalas:_
 
@@ -44,7 +44,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ------------------------------
 
-## LEK „Ratisė“ ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
+## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
 + Imti nedideli tekstų pavyzdžiai.
 
