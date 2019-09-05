@@ -55,15 +55,15 @@
 include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 
 
-<dead_abovedot>      U<minus>             : "∸"  # DOT MINUS
+<dead_abovedot> <minus>      : "∸"  # DOT MINUS
 
-<dead_circumflex> <U002f>     : "⁄" U2044 # FRACTION SLASH
+<dead_circumflex> <U002f>    : "⁄" U2044 # FRACTION SLASH
 <dead_circumflex> <n>     : "ⁿ"  U207f # SUPERSCRIPT LATIN SMALL LETTER N
 <dead_circumflex> <U2192>    : "↗"  U2197 # NORTH EAST ARROW
 <dead_circumflex> <U2190>    : "↖"  U2196 # NORTH WEST ARROW
-<dead_circumflex> <emdash>     : "↔"  U2194 # LEFT RIGHT ARROW
-<dead_circumflex> <U007c>     : "↕"  U2195 # UP DOWN ARROW
-#<dead_circumflex> <iogonek>     : " ͛"  U035b # COMBINING ZIGZAG ABOVE
+<dead_circumflex> <emdash>   : "↔"  U2194 # LEFT RIGHT ARROW
+<dead_circumflex> <U007c>    : "↕"  U2195 # UP DOWN ARROW
+#<dead_circumflex> <iogonek>    : " ͛"  U035b # COMBINING ZIGZAG ABOVE
 <dead_circumflex> <K>     : "■"  U25a0 # BLACK SQUARE
 <dead_circumflex> <k>     : "□"  U25a1 # WHITE SQUARE
 <dead_circumflex> <T>     : "▲"  U25b2 # BLACK UP-POINTING TRIANGLE
@@ -84,52 +84,52 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_circumflex> <U00b0>     : "ª"  U00aa # FEMININE ORDINAL INDICATOR
 
 <dead_cedilla> <O>      : "Ǫ" U01ea # LATIN CAPITAL LETTER O WITH OGONEK
-<dead_cedilla> <o>         : "ǫ" U01eb # LATIN SMALL LETTER O WITH OGONEK
+<dead_cedilla> <o>      : "ǫ" U01eb # LATIN SMALL LETTER O WITH OGONEK
 <dead_cedilla> <j>      : "ʲ" U02b2 # MODIFIER LETTER SMALL J
-#<dead_cedilla> <degree>       : " ̥" U0325 # COMBINING RING BELOW
+#<dead_cedilla> <degree>      : " ̥" U0325 # COMBINING RING BELOW
 #<dead_cedilla> <colon>       : " ̤" U0324 # COMBINING DIAERESIS BELOW
 #<dead_cedilla> <comma>       : " ̦" U0326 # COMBINING COMMA BELOW
-#<dead_cedilla> <underscore>       : " ̲" U0332 # COMBINING LOW LINE
+#<dead_cedilla> <underscore>      : " ̲" U0332 # COMBINING LOW LINE
 #<dead_cedilla> <minus>       : " ̱" U0331 # COMBINING MACRON BELOW
-#<dead_cedilla> <equal>      : " ̳" U0333 # COMBINING DOUBLE LOW LINE
+#<dead_cedilla> <equal>       : " ̳" U0333 # COMBINING DOUBLE LOW LINE
 #<dead_cedilla> <period>      : " ̣" U0323 # COMBINING DOT BELOW
 <dead_cedilla> <P>      : "∏" U220f # N-ARY PRODUCT
 <dead_cedilla> <m>      : "☠" U2620 # SKULL AND CROSSBONES
-<dead_cedilla> <z>     : "☢" U2622 # RADIOACTIVE SIGN
+<dead_cedilla> <z>      : "☢" U2622 # RADIOACTIVE SIGN
 <dead_cedilla> <b>      : "☣" U2623 # BIOHAZARD SIGN
 <dead_cedilla> <zcaron>      : "⚡" U26a1 # HIGH VOLTAGE SIGN
-<dead_cedilla> <asterisk>      : "⁎" U204e # LOW ASTERISK
+<dead_cedilla> <asterisk>    : "⁎" U204e # LOW ASTERISK
 
 <dead_macron> <Z>        : "Ƶ" U01b5 # LATIN CAPITAL LETTER Z WITH STROKE
 <dead_macron> <z>        : "ƶ" U01b6 # LATIN SMALL LETTER Z WITH STROKE
 <dead_macron> <Eogonek>        : "Æ" U00c6 # LATIN CAPITAL LETTER AE
 <dead_macron> <eogonek>        : "æ" U00e6 # LATIN SMALL LETTER AE
-<dead_macron> <equal>        : "≡" U2261 # IDENTICAL TO
-<dead_macron> <notequal>        : "≢" U2262 # NOT IDENTICAL TO
-<dead_macron> <emdash>          : "―" U2015 # HORIZONTAL BAR
-<dead_macron> <endash>          : "‒" U2012 # FIGURE DASH
-<dead_macron> <underscore>        : "‾"  U203e # OVERLINE
-<dead_macron> <bracketleft>        : "⌈" U2308 # LEFT CEILING
-<dead_macron> <bracketright>        : "⌉" U2309 # RIGHT CEILING
+<dead_macron> <equal>          : "≡" U2261 # IDENTICAL TO
+<dead_macron> <notequal>       : "≢" U2262 # NOT IDENTICAL TO
+<dead_macron> <emdash>         : "―" U2015 # HORIZONTAL BAR
+<dead_macron> <endash>         : "‒" U2012 # FIGURE DASH
+<dead_macron> <underscore>       : "‾"  U203e # OVERLINE
+<dead_macron> <bracketleft>      : "⌈" U2308 # LEFT CEILING
+<dead_macron> <bracketright>     : "⌉" U2309 # RIGHT CEILING
 <dead_macron> <braceleft>        : "⌊" U230a # LEFT FLOOR
-<dead_macron> <braceright>        : "⌋" U230b # RIGHT FLOOR
-<dead_macron> <ellipsis>        : "⋯" U22ef # MIDLINE HORIZONTAL ELLIPSIS
-<dead_macron> <n>        : "№" U2116 # NUMERO SIGN
+<dead_macron> <braceright>       : "⌋" U230b # RIGHT FLOOR
+<dead_macron> <ellipsis>         : "⋯" U22ef # MIDLINE HORIZONTAL ELLIPSIS
+<dead_macron> <n>       : "№" U2116 # NUMERO SIGN
 
 <dead_grave> <i>        : "" Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_grave> <D>                   : "Ð"   ETH # LATIN CAPITAL LETTER ETH
-<dead_grave> <d>                    : "ð"   eth # LATIN SMALL LETTER ETH
-<dead_grave> <T>                    : "Þ"   THORN # LATIN CAPITAL LETTER THORN
-<dead_grave> <t>                    : "þ"   thorn # LATIN SMALL LETTER THORN
-<dead_grave> <aogonek>            : "∀" U2200 # FOR ALL
+<dead_grave> <D>        : "Ð"   ETH # LATIN CAPITAL LETTER ETH
+<dead_grave> <d>        : "ð"   eth # LATIN SMALL LETTER ETH
+<dead_grave> <T>        : "Þ"   THORN # LATIN CAPITAL LETTER THORN
+<dead_grave> <t>        : "þ"   thorn # LATIN SMALL LETTER THORN
+<dead_grave> <aogonek>        : "∀" U2200 # FOR ALL
 <dead_grave> <eogonek>        : "∃" U2203 #THERE EXISTS
-<dead_grave> <asterisk>        : "∗" U2217 # ASTERISK OPERATOR
+<dead_grave> <asterisk>       : "∗" U2217 # ASTERISK OPERATOR
 <dead_grave> <ellipsis>       : "⋱" U22f1 # DOWN RIGHT DIAGONAL ELLIPSIS
 
 <dead_acute> <Aogonek>        : "" Ue000 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <aogonek>        : "" Ue001 # LATIN SMALL LETTER A WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_acute> <Eabovedot>        : "" Ue008 # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_acute> <eabovedot>        : "" Ue009 # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
+<dead_acute> <Eabovedot>      : "" Ue008 # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
+<dead_acute> <eabovedot>      : "" Ue009 # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <Eogonek>        : "" Ue004 # LATIN CAPITAL LETTER E WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <eogonek>        : "" Ue005 # LATIN SMALL LETTER E WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <i>        : "" Ue00d # LATIN SMALL LETTER I WITH ACUTE ACCENT) (Lithuanian character in the private use area, needs special font)
@@ -137,24 +137,24 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_acute> <iogonek>        : "" Ue010 # LATIN SMALL LETTER I WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <Uogonek>        : "" Ue01b # LATIN CAPITAL LETTER U WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <uogonek>        : "" Ue01c # LATIN SMALL LETTER U WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_acute> <Umacron>       : "" Ue01f # LATIN CAPITAL LETTER U WITH MACRON AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
+<dead_acute> <Umacron>        : "" Ue01f # LATIN CAPITAL LETTER U WITH MACRON AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <umacron>        : "" Ue020 # LATIN SMALL LETTER U WITH MACRON AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_acute> <apostrophe>      : "′" U2032 # PRIME
-<dead_acute> <quotedbl>      : "″" U2033 # DOUBLE PRIME
+<dead_acute> <apostrophe>     : "′" U2032 # PRIME
+<dead_acute> <quotedbl>       : "″" U2033 # DOUBLE PRIME
 <dead_acute> <leftdoublequotemark>      : "‴" U2034 # TRIPLE PRIME
-<dead_acute> <rightdoublequotemark>        : "⁗" U2057 # QUADRUPLE PRIME
+<dead_acute> <rightdoublequotemark>     : "⁗" U2057 # QUADRUPLE PRIME
 <dead_acute> <asciitilde>        : "≁" U2241 # NOT TILDE
 <dead_acute> <U2248>        : "≉" U2249 # NOT ALMOST EQUAL TO
-<dead_acute> <less>        : "≮" U226e # NOT LESS-THAN
+<dead_acute> <less>         : "≮" U226e # NOT LESS-THAN
 <dead_acute> <greater>        : "≯" U226f # NOT GREATER-THAN
 <dead_acute> <lessthanequal>        : "≰" U2270 # NEITHER LESS-THAN NOR EQUAL TO
-<dead_acute> <greaterthanequal>        : "≱" U2271 # NEITHER GREATER-THAN NOR EQUAL TO
+<dead_acute> <greaterthanequal>     : "≱" U2271 # NEITHER GREATER-THAN NOR EQUAL TO
 <dead_acute> <t>        : "҂" U0482 # CYRILLIC THOUSANDS SIGN
 <dead_acute> <ellipsis>           : "⋰" U22f0 # UP RIGHT DIAGONAL ELLIPSIS
 <dead_acute> <0>        : "∅" U2205 # EMPTY SET
 <dead_acute> <U2192>        : "↛" U219b # RIGHTWARDS ARROW WITH STROKE
 <dead_acute> <U2190>        : "↚" U219a # LEFTWARDS ARROW WITH STROKE
-<dead_acute> <emdash>        : "↮" U21ae # LEFT RIGHT ARROW WITH STROKE
+<dead_acute> <emdash>       : "↮" U21ae # LEFT RIGHT ARROW WITH STROKE
 
 <dead_diaeresis> <Aogonek>        : "Ȍ" U020c # LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
 <dead_diaeresis> <aogonek>        : "ȍ" U020d# LATIN SMALL LETTER O WITH DOUBLE GRAVE
@@ -164,15 +164,15 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_diaeresis> <uogonek>        : "ȕ" U0215 # LATIN SMALL LETTER U WITH DOUBLE GRAVE
 <dead_diaeresis> <Umacron>        : "Ű" U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
 <dead_diaeresis> <umacron>        : "ű" U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
-<dead_diaeresis> <exclam>        : "‼" U203c # DOUBLE EXCLAMATION MARK
-<dead_diaeresis> <question>        : "⁇" U2047 # DOUBLE QUESTION MARK
+<dead_diaeresis> <exclam>         : "‼" U203c # DOUBLE EXCLAMATION MARK
+<dead_diaeresis> <question>       : "⁇" U2047 # DOUBLE QUESTION MARK
 <dead_diaeresis> <1>        : "½" U00bd # VULGAR FRACTION ONE HALF
 <dead_diaeresis> <4>        : "¼" U00bc # VULGAR FRACTION ONE QUARTER
 <dead_diaeresis> <3>        : "¾" U00be # VULGAR FRACTION THREE QUARTERS
-<dead_diaeresis> <colon>        : "‥" U2025 # TWO DOT LEADER
-<dead_diaeresis> <asterisk>        : "⁑" U2051 # TWO ASTERISKS ALIGNED VERTICALLY
+<dead_diaeresis> <colon>       : "‥" U2025 # TWO DOT LEADER
+<dead_diaeresis> <asterisk>    : "⁑" U2051 # TWO ASTERISKS ALIGNED VERTICALLY
 <dead_diaeresis> <less>        : "≪" U226a # MUCH LESS-THAN
-<dead_diaeresis> <greater>        : "≫" U226b # MUCH GREATER-THAN
+<dead_diaeresis> <greater>     : "≫" U226b # MUCH GREATER-THAN
 
 <dead_tilde> <Aogonek>        : "" Ue002 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <aogonek>        : "" Ue003 # LATIN SMALL LETTER A WITH OGONEK AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
@@ -195,16 +195,16 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_tilde> <uogonek>        : "" Ue01e # LATIN SMALL LETTER U WITH OGONEK AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <Umacron>        : "" Ue021 # LATIN CAPITAL LETTER U WITH MACRON AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <umacron>        : "" Ue022 # LATIN SMALL LETTER U WITH MACRON AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_tilde> <exclam>        : "⁉" U2049 # EXCLAMATION QUESTION MARK
-<dead_tilde> <question>        : "⁈" U2048 # QUESTION EXCLAMATION MARK
-<dead_tilde> <less>        : "≲" U2272 # LESS-THAN OR EQUIVALENT TO
+<dead_tilde> <exclam>         : "⁉" U2049 # EXCLAMATION QUESTION MARK
+<dead_tilde> <question>       : "⁈" U2048 # QUESTION EXCLAMATION MARK
+<dead_tilde> <less>           : "≲" U2272 # LESS-THAN OR EQUIVALENT TO
 <dead_tilde> <greater>        : "≳" U2273 # GREATER-THAN OR EQUIVALENT TO
-<dead_tilde> <emdash>        : "⁓" U2053 # SWUNG DASH
-<dead_tilde> <endash>        : "～" Uff5e # FULLWIDTH TILDE
-<dead_tilde> <equal>        : "≃" U2243 # ASYMPTOTICALLY EQUAL TO
+<dead_tilde> <emdash>         : "⁓" U2053 # SWUNG DASH
+<dead_tilde> <endash>         : "～" Uff5e # FULLWIDTH TILDE
+<dead_tilde> <equal>          : "≃" U2243 # ASYMPTOTICALLY EQUAL TO
 <dead_tilde> <U2248>          : "≋" U224b # TRIPLE TILDE
-<dead_tilde> <asciitilde>        : "∼" U223c # TILDE OPERATOR
-<dead_tilde> <dead_tilde>        : "˜" # SMALL TILDE
+<dead_tilde> <asciitilde>     : "∼" U223c # TILDE OPERATOR
+<dead_tilde> <dead_tilde>     : "˜" # SMALL TILDE
 
 <dead_abovering> <E>        : "Œ" U0152 # LATIN CAPITAL LIGATURE OE
 <dead_abovering> <e>        : "œ" U0153 # LATIN SMALL LIGATURE OE
@@ -221,23 +221,23 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_abovering> <p>        : "℗" U2117 # SOUND RECORDING COPYRIGHT
 <dead_abovering> <t>        : "™" U2122 # TRADE MARK SIGN
 <dead_abovering> <s>        : "℠" U2120 # SERVICE MARK
-<dead_abovering> <percent>        : "‱" U2031 # PER TEN THOUSAND SIGN
+<dead_abovering> <percent>      : "‱" U2031 # PER TEN THOUSAND SIGN
 <dead_abovering> <slash>        : "⌀" U2300 # DIAMETER SIGN
-<dead_abovering> <less>        : "∩" U2229 # INTERSECTION
+<dead_abovering> <less>         : "∩" U2229 # INTERSECTION
 <dead_abovering> <greater>        : "∪" U222a # UNION
 <dead_abovering> <k>        : "∟" U221f # RIGHT ANGLE
-<dead_abovering> <quotedbl>        : "α" U03b1 # GREEK SMALL LETTER ALPHA
-<dead_abovering> <multiply>        : "β" U03b2 # GREEK SMALL LETTER BETA
+<dead_abovering> <quotedbl>       : "α" U03b1 # GREEK SMALL LETTER ALPHA
+<dead_abovering> <multiply>       : "β" U03b2 # GREEK SMALL LETTER BETA
 <dead_abovering> <6>        : "γ" U03b3 # GREEK SMALL LETTER GAMMA
-<dead_abovering> <copyright>        : "Γ" U0393 # GREEK CAPITAL LETTER GAMMA
+<dead_abovering> <copyright>      : "Γ" U0393 # GREEK CAPITAL LETTER GAMMA
 <dead_abovering> <period>         : "δ" U03b4 # GREEK SMALL LETTER DELTA
-<dead_abovering> <doubledagger>        : "Δ" U0394 # GREEK CAPITAL LETTER DELTA
-<dead_abovering> <parenleft>        : "ε" U03b5 # GREEK SMALL LETTER EPSILON
-<dead_abovering> <ssharp>        : "ζ" U03b6 # GREEK SMALL LETTER ZETA
-<dead_abovering> <bracketleft>        : "η" U03b7 # GREEK SMALL LETTER ETA
-<dead_abovering> <U0301>       : "θ" U03b8 # GREEK SMALL LETTER THETA
-<dead_abovering> <U2191>         : "Θ" U03b8 # GREEK CAPITAL LETTER THETA
-<dead_abovering> <parenright>        : "ι" U03b9 # GREEK SMALL LETTER IOTA
+<dead_abovering> <doubledagger>   : "Δ" U0394 # GREEK CAPITAL LETTER DELTA
+<dead_abovering> <parenleft>      : "ε" U03b5 # GREEK SMALL LETTER EPSILON
+<dead_abovering> <ssharp>         : "ζ" U03b6 # GREEK SMALL LETTER ZETA
+<dead_abovering> <bracketleft>    : "η" U03b7 # GREEK SMALL LETTER ETA
+<dead_abovering> <U0301>          : "θ" U03b8 # GREEK SMALL LETTER THETA
+<dead_abovering> <U2191>          : "Θ" U03b8 # GREEK CAPITAL LETTER THETA
+<dead_abovering> <parenright>     : "ι" U03b9 # GREEK SMALL LETTER IOTA
 <dead_abovering> <5>        : "κ" U03ba # GREEK SMALL LETTER KAPPA
 <dead_abovering> <lstroke>        : "λ" U03bb # GREEK SMALL LETTER LAMDA
 <dead_abovering> <Lstroke>        : "Λ" U039b # GREEK CAPITAL LETTER LAMDA
@@ -248,17 +248,17 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_abovering> <leftdoublequotemark>         : "ο" U03bf # GREEK SMALL LETTER OMICRON
 <dead_abovering> <U2212>        : "π" U03c0 # GREEK SMALL LETTER PI
 <dead_abovering> <1>        : "ρ" U03c1 # GREEK SMALL LETTER RHO
-<dead_abovering> <cent>        : "ς" U03c2 # GREEK SMALL LETTER FINAL SIGMA
+<dead_abovering> <cent>         : "ς" U03c2 # GREEK SMALL LETTER FINAL SIGMA
 <dead_abovering> <3>        : "σ" U03c3 # GREEK SMALL LETTER SIGMA
 <dead_abovering> <U00b3>        : "Σ" U03a3 # GREEK CAPITAL LETTER SIGMA
 <dead_abovering> <2>        : "τ" U03c4 # GREEK SMALL LETTER TAU
-<dead_abovering> <apostrophe>        : "υ" U03c5 # GREEK SMALL LETTER UPSILON
-<dead_abovering> <degree>         : "φ" U03c6 # GREEK SMALL LETTER PHI
-<dead_abovering> <trademark>        : "Φ" U03a6 # GREEK CAPITAL LETTER PHI
-<dead_abovering> <U0300>          : "χ" U03c7 # GREEK SMALL LETTER CHI
-<dead_abovering> <minus>       : "ψ" U03c8 # GREEK SMALL LETTER PSI
+<dead_abovering> <apostrophe>    : "υ" U03c5 # GREEK SMALL LETTER UPSILON
+<dead_abovering> <degree>        : "φ" U03c6 # GREEK SMALL LETTER PHI
+<dead_abovering> <trademark>     : "Φ" U03a6 # GREEK CAPITAL LETTER PHI
+<dead_abovering> <U0300>         : "χ" U03c7 # GREEK SMALL LETTER CHI
+<dead_abovering> <minus>         : "ψ" U03c8 # GREEK SMALL LETTER PSI
 <dead_abovering> <endash>        : "Ψ" U03a8 # GREEK CAPITAL LETTER PSI
-<dead_abovering> <doublelowquotemark>      : "ω" U03c9 # GREEK SMALL LETTER OMEGA
+<dead_abovering> <doublelowquotemark>   : "ω" U03c9 # GREEK SMALL LETTER OMEGA
 <dead_abovering> <guillemotleft>        : "Ω" U03a9 # GREEK CAPITAL LETTER OMEGA
 <dead_abovering> <8>        : "∞" U221e # INFINITY
 
@@ -266,31 +266,31 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_breve> <eogonek>        : "ə" U0259 # LATIN SMALL LETTER SCHWA
 <dead_breve> <D>        : "∆" U2206 # INCREMENT
 <dead_breve> <d>        : "∂" U2202 # PARTIAL DIFFERENTIAL
-<dead_breve> <asciitilde>        : "∽" U223d # REVERSED TILDE
+<dead_breve> <asciitilde>     : "∽" U223d # REVERSED TILDE
 <dead_breve> <s>        : "∑" U2211 # N-ARY SUMMATION
-<dead_breve> <exclam>        : "∫" U222b # INTEGRAL
-#<dead_breve> <iogonek>        :" ̑" U0311 # COMBINING INVERTED BREVE
-<dead_breve> <asterisk>        : "⚹" U26b9 # SEXTILE
-<dead_breve> <less>        : "⊂" U2282 # SUBSET OF
+<dead_breve> <exclam>         : "∫" U222b # INTEGRAL
+#<dead_breve> <iogonek>       :" ̑" U0311 # COMBINING INVERTED BREVE
+<dead_breve> <asterisk>       : "⚹" U26b9 # SEXTILE
+<dead_breve> <less>           : "⊂" U2282 # SUBSET OF
 <dead_breve> <greater>        : "⊃" U2283 # SUPERSET OF
 <dead_breve> <lessthanequal>        : "⊆" U2286 # SUBSET OF OR EQUAL TO
-<dead_breve> <greaterthanequal>        : "⊇" U2287 # SUPERSET OF OR EQUAL TO
+<dead_breve> <greaterthanequal>     : "⊇" U2287 # SUPERSET OF OR EQUAL TO
 <dead_breve> <t>        : "⟂" U27c2 # PERPENDICULAR
-<dead_breve> <equal>        : "≅" U2245 # APPROXIMATELY EQUAL TO
+<dead_breve> <equal>         : "≅" U2245 # APPROXIMATELY EQUAL TO
 
-<dead_caron> <Scaron>        : "Ʃ" U01a9 # LATIN CAPITAL LETTER ESH
-<dead_caron> <scaron>        : "ʃ" U0283 # LATIN SMALL LETTER ESH
-<dead_caron> <Zcaron>        : "Ʒ" U01b7 # LATIN CAPITAL LETTER EZH
-<dead_caron> <zcaron>        : "ʒ" U0292 # LATIN SMALL LETTER EZH
+<dead_caron> <Scaron>       : "Ʃ" U01a9 # LATIN CAPITAL LETTER ESH
+<dead_caron> <scaron>       : "ʃ" U0283 # LATIN SMALL LETTER ESH
+<dead_caron> <Zcaron>       : "Ʒ" U01b7 # LATIN CAPITAL LETTER EZH
+<dead_caron> <zcaron>       : "ʒ" U0292 # LATIN SMALL LETTER EZH
 <dead_caron> <Z>        : "Ǯ" U01ee # LATIN CAPITAL LETTER EZH WITH CARON
 <dead_caron> <z>        : "ǯ" U01ef # LATIN SMALL LETTER EZH WITH CARON
 <dead_caron> <U2192>        : "↘" U2198 # SOUTH EAST ARROW
 <dead_caron> <U2190>        : "↙" U2199 # SOUTH WEST ARROW
-<dead_caron> <less>        : "∧" U2227 # LOGICAL AND
-<dead_caron> <greater>        : "∨" U2228 # LOGICAL OR
-<dead_caron> <ccaron>        : "∓" U2213 # MINUS-OR-PLUS SIGN
+<dead_caron> <less>         : "∧" U2227 # LOGICAL AND
+<dead_caron> <greater>      : "∨" U2228 # LOGICAL OR
+<dead_caron> <ccaron>       : "∓" U2213 # MINUS-OR-PLUS SIGN
 <dead_caron> <colon>        : "∵" U2235 # BECAUSE
-<dead_caron> <degree>        : "º" U00ba # MASCULINE ORDINAL INDICATOR
+<dead_caron> <degree>       : "º" U00ba # MASCULINE ORDINAL INDICATOR
 
 #<Multi_key>
 
