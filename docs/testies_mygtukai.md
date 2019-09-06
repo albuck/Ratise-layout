@@ -26,7 +26,7 @@ __Pastabos__:
 - (-) → (∸)
 
 
-### Stogelis viršuje:
+### Stogelis viršuje (^):
 
 - (/) → (⁄) (trupmenos pasvirasis brūkšnys)
 - (=) → (⁼)
