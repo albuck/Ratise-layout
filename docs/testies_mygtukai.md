@@ -14,7 +14,7 @@ Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsti
 Paspaudus tiesiogiai gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
 
 __Pastabos__:
-+ dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui ‘Vytis’, ‘Palemonas’. Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų ›X‹, ›H‹ ir ›Q‹ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
++ Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui ‘Vytis’, ‘Palemonas’. Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų ›X‹, ›H‹ ir ›Q‹ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
 + Skirtingose skaitmeninėse aplinkose tęsties mygtukų lygių palaikymas kiek įvairuoja ir turi savo ypatumų. _MacOS_ turi papildomą galimybę įvesti tęsties spaudo uždėtinį antrininką spaudžiant tarpą kartu su ‘Option’(‘Alt’).  _Haiku_ aplinkoje tęsties mygtukų lygiai palaikomi dalinai.
 + Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’), pavyzdžiui, paspaudus (ir atleidus) šį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas). Plačiau apie sudurtinį įvedimą (angliškai): https://help.ubuntu.com/community/ComposeKey
 
