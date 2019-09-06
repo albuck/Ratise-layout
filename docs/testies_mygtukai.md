@@ -21,7 +21,7 @@ __Pastabos__:
 Žemiau nurodomi tik dar papildomai tęsties mygtuku gaunami ženklai, akivaizdžiai gaunami sudėtiniai spaudai: koks nors uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui, ¯ + a = ā), nenurodomi. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas (visa Ratisės ženklų lentelė paveikslėlyje apačioje).
 
 
-### Taškas viršuje:
+### Taškas viršuje (˙):
 
 - (-) → (∸)
 
@@ -70,7 +70,7 @@ __Pastabos__:
 - (°) → (ª)
 
 
-### Kablelis apačioje:
+### Kablelis apačioje (¸):
 
 - (S) → (Ş)
 - (s) → (ş)
@@ -98,7 +98,7 @@ __Pastabos__:
 - (*) → (⁎)
 
 
-### Brūkšnys viršuje:
+### Brūkšnys viršuje (¯):
 
 - (D) → (Đ)
 - (d) → (đ)
@@ -124,7 +124,7 @@ __Pastabos__:
 
 
 
-### Kairinis kirčio ženklas:
+### Kairinis kirčio ženklas (`):
 
 - (D) → (Ð)
 - (d) → (ð)
@@ -136,7 +136,7 @@ __Pastabos__:
 - (…) → (⋱)
 
 
-### Dešininis kirčio žeklas:
+### Dešininis kirčio žeklas (´):
 
 - (') → (′)
 - (") → (″)
@@ -156,7 +156,7 @@ __Pastabos__:
 - (—) → (↮)
 
 
-### Du taškai viršuje:
+### Du taškai viršuje (¨):
 
 - (Ą) → (Ő)
 - (ą) → (ő)
@@ -177,7 +177,7 @@ __Pastabos__:
 - (>) → (≫)
 
 
-### Riestinis kirčio ženklas:
+### Riestinis kirčio ženklas (˜):
 
 - (!) → (⁉)
 - (?) → (⁈)
@@ -190,7 +190,7 @@ __Pastabos__:
 - (~) → (∼) (matematinis operatorius 'tildė')
 
 
-### Žiedelis viršuje:
+### Žiedelis viršuje (°):
 
 - (E) → (Œ)
 - (e) → (œ)
@@ -248,7 +248,7 @@ __Pastabos__:
 - (8) → (∞)
 
 
-### Lankelis viršuje:
+### Lankelis viršuje (˘):
 
 - (Ę) → (Ə)
 - (ę) → (ə)
@@ -267,7 +267,7 @@ __Pastabos__:
 - (=) → (≅)
 
 
-### Varnelė:
+### Varnelė (ˇ):
 
 - (Š) → (Ʃ) (didžioji lotyniška eš)
 - (š) → (ʃ) (mažoji lotyniška eš)
