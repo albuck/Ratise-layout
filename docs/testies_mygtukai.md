@@ -26,7 +26,7 @@ __Pastabos__:
 - (-) → (∸)
 
 
-### Stogelis viršuje (^):
+### Stogelis viršuje (ˆ):
 
 - (/) → (⁄) (trupmenos pasvirasis brūkšnys)
 - (=) → (⁼)
@@ -190,7 +190,7 @@ __Pastabos__:
 - (~) → (∼) (matematinis operatorius 'tildė')
 
 
-### Žiedelis viršuje (°):
+### Žiedelis viršuje (˚):
 
 - (E) → (Œ)
 - (e) → (œ)
