@@ -36,7 +36,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/JZJVf5VL
+http://patorjk.com/keyboard-layout-analyzer/#/load/LwSRZd03
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/LpN41zvh
 
