@@ -75,7 +75,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 ------------------------------
 ### Bendrai ‘Bash, C, CPP, Python’:
 
-_(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstymai)_
+_(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 
 1. __Ratise (Kinesis Advantage)__ — __55.26__*
 2. LEKP (Kinesis Advantage) — 50.99
@@ -96,9 +96,11 @@ _(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstym
 17. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
 18. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
 19. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
-20. QWERTY Baltic (ANSI) — 32.96
-21. QWERTY Baltic (ISO) — 31.65
-22. _QWERTY-Programmer (ANSI)— 31.28_
+20. _QWERTY (ANSI) — 33.69_
+21. QWERTY Baltic (ANSI) — 32.96
+22. QWERTY Baltic (ISO) — 31.65
+23. _QWERTY-Programmer (ANSI) — 31.28_
+
 
 • Išsamiau (angliškai):
 
@@ -112,7 +114,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/tDcchGCV
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/cpdwZDV6
+http://patorjk.com/keyboard-layout-analyzer/#/load/TFSkLtFX
 
 + O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ su ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
 
