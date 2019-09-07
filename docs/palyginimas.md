@@ -75,7 +75,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 ------------------------------
 ### Bendrai ‘Bash, C, CPP, Python’:
 
-_(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
+_(čia papildomai palyginimui įtraukti ir žymesni angliški išdėstymai)_
 
 1. __Ratise (Kinesis Advantage)__ — __55.26__*
 2. LEKP (Kinesis Advantage) — 50.99
@@ -86,22 +86,26 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 7. __Ratise (ISO)__ — 44.80
 8. _Colemak (ANSI) — 44.46_
 9. _Programmer Dvorak (ANSI) — 44.45_
-10. _Simplified Dvorak (ANSI) — 43.03_
-11. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
-12. LEKPa (ANSI) — 42.35
-13. LEKP (ISO) — 41.96
-14. _Neo 2 (ANSI)	— 41.89_
-15. _Workman (ANSI) — 41.66_
-16. _Workman for Programmers (ANSI) — 39.33_
-17. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
-18. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
-19. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
-20. _QWERTY (ANSI) — 33.69_
-21. QWERTY Baltic (ANSI) — 32.96
-22. QWERTY Baltic (ISO) — 31.65
-23. _QWERTY-Programmer (ANSI) — 31.28_
+10. _Acemak 1 (ANSI) — 43.94_
+11. _Anglian (ANSI) — 43.07_
+12. _Asset (ANSI) — 43.05_
+13. _Simplified Dvorak (ANSI) — 43.03_
+14. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
+15. LEKPa (ANSI) — 42.35
+16. LEKP (ISO) — 41.96
+17. _Neo 2 (ANSI)	— 41.89_
+18. _Workman (ANSI) — 41.66_
+19. _Norman (ANSI) — 41.13_
+20. _Workman for Programmers (ANSI) — 39.33_
+21. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
+22. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
+23. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
+24. _QWERTY (ANSI) — 33.69_
+25. QWERTY Baltic (ANSI) — 32.96
+26. QWERTY Baltic (ISO) — 31.65
+27. _QWERTY-Programmer (ANSI) — 31.28_
 
-
+	
 • Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
@@ -115,6 +119,8 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 http://patorjk.com/keyboard-layout-analyzer/#/load/tDcchGCV
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/TFSkLtFX
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/5sSD1JdL
 
 + O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ su ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
 
