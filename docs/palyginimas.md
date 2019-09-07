@@ -86,16 +86,19 @@ _(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstym
 7. __Ratise (ISO)__ — 44.80
 8. _Colemak (ANSI) — 44.46_
 9. _Programmer Dvorak (ANSI) — 44.45_
-10. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
-11. LEKPa (ANSI) — 42.35
-12. LEKP (ISO) — 41.96
-13. _Workman for Programmers (ANSI) — 39.33_
-14. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
-15. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
-16. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
-17. QWERTY Baltic (ANSI) — 32.96
-18. QWERTY Baltic (ISO) — 31.65	
-
+10. _Simplified Dvorak (ANSI) — 43.03_
+11. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
+12. LEKPa (ANSI) — 42.35
+13. LEKP (ISO) — 41.96
+14. _Neo 2 (ANSI)	— 41.89_
+15. _Workman (ANSI) — 41.66_
+16. _Workman for Programmers (ANSI) — 39.33_
+17. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
+18. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
+19. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
+20. QWERTY Baltic (ANSI) — 32.96
+21. QWERTY Baltic (ISO) — 31.65
+22. _QWERTY-Programmer (ANSI)— 31.28_
 
 • Išsamiau (angliškai):
 
@@ -109,6 +112,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/tDcchGCV
 
+http://patorjk.com/keyboard-layout-analyzer/#/load/cpdwZDV6
 
 + O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ su ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
 
