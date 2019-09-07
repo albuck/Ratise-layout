@@ -73,7 +73,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/RzvTRcVP
 http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 
 ------------------------------
-### Bendrai 'Bash, C, CPP, Python':
+### Bendrai ‘Bash, C, CPP, Python’:
 
 _(čia papildomai palyginimui įtraukti ir geriausi žinomi angliški išdėstymai)_
 
