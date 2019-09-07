@@ -23,8 +23,8 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 5. LEKP (Kinesis Advantage) — 60.81
 6. LEKPa (ANSI) — 58.12
 7. LEKP (ISO) — 58.00
-8. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 48.93
-9. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.73
+8. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.73
+9. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 46.94
 10. QWERTY Baltic (ANSI) — 44.61
 11. QWERTY Baltic (ISO) — 43.71
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
