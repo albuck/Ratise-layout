@@ -16,9 +16,9 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 ### Lietuviškos pasakos (iš Basanavičiaus rinkinio):
 
-1. __Ratise (Kinesis Advantage)__ — __68.59__
-2. __Ratise (ANSI)__ — 67.64*
-3. __Ratise (ISO)__ — 67.42
+1. __Ratise (Kinesis Advantage) — 68.59__*
+2. __Ratise (ANSI) — 67.64__
+3. __Ratise (ISO) — 67.42__
 4. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 65.92_
 5. LEKP (Kinesis Advantage) — 60.81
 6. LEKPa (ANSI) — 58.12
@@ -50,9 +50,9 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. __Ratise (Kinesis Advantage)__ — __64.94__
-2. __Ratise (ANSI)__ — 62.47
-3. __Ratise (ISO)__ — 62.38
+1. __Ratise (Kinesis Advantage) — 64.94__
+2. __Ratise (ANSI) — 62.47__
+3. __Ratise (ISO) — 62.38__
 4. LEKP (Kinesis Advantage) — 61.86
 5. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 60.44_
 6. LEKP (ISO) — 60.28
@@ -77,13 +77,13 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
 
 _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 
-1. __Ratise (Kinesis Advantage)__ — __55.26__*
+1. __Ratise (Kinesis Advantage) — 55.26__*
 2. LEKP (Kinesis Advantage) — 50.99
 3. _Colemak (Kinesis Advantage) — 48.93_
 4. _Ergodox/Workman/Cub  (Kinesis Advantage) — 48.24_
 5. _Programmer Colemak (ANSI) — 46.64_
-6. __Ratise (ANSI)__ — 45.88
-7. __Ratise (ISO)__ — 44.80
+6. __Ratise (ANSI) — 45.88__
+7. __Ratise (ISO) — 44.80__
 8. _Colemak (ANSI) — 44.46_
 9. _Programmer Dvorak (ANSI) — 44.45_
 10. _Simplified Dvorak (ANSI) — 43.03_
