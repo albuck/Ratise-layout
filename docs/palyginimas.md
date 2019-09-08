@@ -87,7 +87,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 8. _Colemak (ANSI) — 44.46_
 9. _Programmer Dvorak (ANSI) — 44.45_
 10. _Simplified Dvorak (ANSI) — 43.03_
-11. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02_
+11. Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 43.02
 12. LEKPa (ANSI) — 42.35
 13. LEKP (ISO) — 41.96
 14. _Workman (ANSI) — 41.66_
