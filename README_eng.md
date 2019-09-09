@@ -10,6 +10,12 @@ version 2.0
 
 !["Ratise" Layout](docs/images/lek_ratise_layout.png)
 
+------------------------------------------------------------------------------------
+
+### Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise":
+
+!["Ratise" Latvian](docs/images/lek_ratise_latvian.png)
+
 
 ------------------------------------------------------------------------------------
 
