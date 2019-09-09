@@ -83,6 +83,10 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_circumflex> <U003a>     : "∴"  U2234 # THEREFORE
 <dead_circumflex> <U00b0>     : "ª"  U00aa # FEMININE ORDINAL INDICATOR
 
+<dead_cedilla> <Scaron>      : "Ș" U0218 # LATIN CAPITAL LETTER S WITH COMMA BELOW
+<dead_cedilla> <scaron>      : "ș" U0219 # LATIN SMALL LETTER S WITH COMMA BELOW
+<dead_cedilla> <Ccaron>      : "Ț" U021a # LATIN CAPITAL LETTER T WITH COMMA BELOW
+<dead_cedilla> <ccaron>      : "ț" U021b # LATIN SMALL LETTER T WITH COMMA BELOW
 <dead_cedilla> <O>      : "Ǫ" U01ea # LATIN CAPITAL LETTER O WITH OGONEK
 <dead_cedilla> <o>      : "ǫ" U01eb # LATIN SMALL LETTER O WITH OGONEK
 <dead_cedilla> <j>      : "ʲ" U02b2 # MODIFIER LETTER SMALL J
