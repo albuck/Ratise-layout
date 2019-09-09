@@ -3,12 +3,13 @@ Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros
 Aplanko turinys:
 
 'lt.txt' — Ratisė išdėstymas.
+'lv.txt' — Ratisės latviškas fonetinis (garsinis) išdėstymas.
 'ru.txt' — Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
 'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams.
 
 Diegimas:
 
-Reikiamos bylos vidaus turinį patalpinti į reikiamos '/usr/share/X11/xkb/symbols' bylos (lt, ru) vidų vietoje kokio Jums nereikalingo išdėtymo, toliau (per)pasirinkti naująjį išdėstymą klaviatūros nustatymuose. Arba, tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt' ir 'ru' ir įdėti vietoje jau esančių (senas galima išsisaugoti kitu pavadinimu), šiuo atveju LT ir RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
+Reikiamos bylos vidaus turinį patalpinti į reikiamos '/usr/share/X11/xkb/symbols' bylos (lt, lv, ru) vidų vietoje kokio Jums nereikalingo išdėtymo, toliau (per)pasirinkti naująjį išdėstymą klaviatūros nustatymuose. Arba, tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt' ir 'ru' ir įdėti vietoje jau esančių (senas galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV ir RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje), toliau perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
 
 Pastaba:
