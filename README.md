@@ -89,6 +89,8 @@ PAPILDYMAI:
 
 [RATISĖ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
 
+[RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
+
 [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
 [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
