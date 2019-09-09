@@ -4,7 +4,9 @@ Turinys:
 
 — 'LithuanianRatiseZXCV.keylayout' bei 'LithuanianRatiseZXCV.icns' — lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklė MacOS'ui. Klaviatūros raktuose atitinkamos QWERTY išdėtymo raidės vietoje ten esančių lietuviškų raidžių (ŪĖ ŲĘĮĄ), taigi 'Grąžinti', 'Iškirpti', 'Nurašyti', 'Įrašyti' ir panašiai veikia kaip QWERTY išdėstyme.
 
-— 'RussianRatise.keylayout' bei 'RussianRatise.icns' — rusiško (kirilika) fonetinio (garsinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatiseZXCV' išdėstyme.
+— 'LatvianRatiseZXCV.keylayout' bei 'LatvianRatiseZXCV.icns' — latviško garsinio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatiseZXCV' išdėstyme.
+
+— 'RussianRatise.keylayout' bei 'RussianRatise.icns' — rusiško (kirilika) garsinio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatiseZXCV' išdėstyme.
 
 Diegimas:
 
