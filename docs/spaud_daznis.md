@@ -11,7 +11,7 @@ Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra ta
 
 ## Lietuviškas tekstas
 
-Lietuviškos pasakos iš Basanavičiaus rinkinio.
+Lietuviškos pasakos iš Basanavičiaus rinkinio:
 
 ![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas.png)
 
@@ -30,7 +30,7 @@ __Pirštų užimtumas:__
 
 ## Angliškas tekstas
 
-### Angliškas grožinis tekstas
+Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):
 
 ![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_angl.png)
 
@@ -47,7 +47,7 @@ __Pirštų užimtumas:__
 + dešinysis mažasis — 9,4%
 
 
-### Programavimo tekstas (Bash, C, CPP, Python)
+Programavimo kalbų tekstas (Bash, C, CPP, Python bendrai):
 
 ![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_angl_prog.png)
 
@@ -63,7 +63,7 @@ __Pirštų užimtumas:__
 + dešinysis bevardis — 6,9%
 + dešinysis mažasis — 15,3%
 
-• _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams derėtų pagalvoti apie tikrai ergonomiškos ir programuojamos klaviatūros įsigijimą ar pasigaminimą — [žiūrėkite nuorodas pirmojo puslapio apačioje](../README.md#naudingos-nuorodos). Taip pat apie ‘Alt’ ir ‘Shift’ mygtukų sukeitimą vietomis: ‘Shift‘ (ar/ir ‘Enter’, ‘Tab’) priskyrimą pajėgesniam pirštui (didžiajam ar bevardžiui).
+• _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams vertėtų pagalvoti apie tikrai ergonomiškos ir programuojamos klaviatūros įsigijimą ar pasigaminimą — [žiūrėkite nuorodas pirmojo puslapio apačioje](../README.md#naudingos-nuorodos). Taip pat apie ‘Alt’ ir ‘Shift’ mygtukų susikeitimą vietomis: ‘Shift‘ (ar/ir ‘Enter’, ‘Tab’) priskyrimą pajėgesniam pirštui (didžiajam ar bevardžiui).
 
 
 ### Aukščiau pateikti tekstai kartu
