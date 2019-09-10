@@ -7,11 +7,13 @@ Mygtukų paspaudimo dažnumas yra apspręstas pačių raidžių dažnumo lietuvi
 
 Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra tas klaviatūros išdėstymas, kuriame dažniau naudojamos raidės yra patogesnėje, lengviau ir greičiau pasiekiamoje vietoje.
 
+Žemiau pateikiami paveikslėliai su ratisės išdėstymo klaviatūros mygtukų naudojimo dažnumu spausdinant tam tikrą tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
+
 ## Lietuviškas tekstas
 
-Žemiau pateikiamas paveikslėlis su klaviatūros mygtukų naudojimo dažnumu spausdinant lietuvišką tekstą (lietuviškos pasakos iš Basanavičiaus rinkinio). Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
+Lietuviškos pasakos iš Basanavičiaus rinkinio.
 
-![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas.png)
+![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas.png)
 
 __Pirštų užimtumas:__
 
@@ -30,7 +32,7 @@ __Pirštų užimtumas:__
 
 ### Angliškas grožinis tekstas
 
-![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas_angl.png)
+![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_angl.png)
 
 __Pirštų užimtumas:__
 
@@ -47,7 +49,7 @@ __Pirštų užimtumas:__
 
 ### Programavimo tekstas (Bash, C, CPP, Python)
 
-![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas_angl_prog.png)
+![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_angl_prog.png)
 
 __Pirštų užimtumas:__
 
@@ -66,7 +68,7 @@ __Pirštų užimtumas:__
 
 ### Aukščiau pateikti tekstai kartu
 
-![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas_bendrai.png)
+![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_bendrai.png)
 
 
 ------------------------------
