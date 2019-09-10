@@ -8,20 +8,25 @@ version 2.0
 
 ------------------------------------------------------------------------------------
 
+### Lithuanian Ratise layout:
+
 !["Ratise" Layout](docs/images/lek_ratise_layout.png)
 
 ------------------------------------------------------------------------------------
 
-### Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise":
+### Latvian Ratise layout:
 
 !["Ratise" Latvian](docs/images/lek_ratise_latvian.png)
 
+• Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise".
 
 ------------------------------------------------------------------------------------
 
-### Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise":
+### Cyrillic Ratise layout:
 
 !["Ratise" Cyrillic](docs/images/lek_ratise_cyrillic_layout.png)
+
+• Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise".
 
 ------------------------------------------------------------------------------------
 
