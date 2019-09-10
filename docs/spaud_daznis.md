@@ -66,7 +66,7 @@ __Pirštų užimtumas:__
 • _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams vertėtų pagalvoti apie tikrai ergonomiškos ir programuojamos klaviatūros įsigijimą ar pasigaminimą — [žiūrėkite nuorodas pirmojo puslapio apačioje](../README.md#naudingos-nuorodos). Taip pat apie ‘Alt’ ir ‘Shift’ mygtukų susikeitimą vietomis: ‘Shift‘ (ar/ir ‘Enter’, ‘Tab’) priskyrimą pajėgesniam pirštui (didžiajam ar bevardžiui).
 
 
-### Aukščiau pateikti tekstai kartu:
+## Aukščiau pateikti tekstai kartu:
 
 ![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_bendrai.png)
 
