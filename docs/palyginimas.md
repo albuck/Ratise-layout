@@ -50,7 +50,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. __Ratise (Kinesis Advantage) — 64.94__
+1. __Ratise (Kinesis Advantage) — 64.94__*
 2. __Ratise (ANSI) — 62.47__
 3. __Ratise (ISO) — 62.38__
 4. LEKP (Kinesis Advantage) — 61.86
@@ -71,6 +71,14 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
 http://patorjk.com/keyboard-layout-analyzer/#/load/RzvTRcVP
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
+
+
+• Lyginant su angliškais išdėstymais ratisė angliškuose tekstuose pasirodo labai gerai ir puikiai:
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
+
 
 ------------------------------
 ### Bendrai ‘Bash, C, CPP, Python’:
