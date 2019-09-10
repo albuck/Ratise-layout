@@ -32,7 +32,7 @@ version 2.0
 
 + The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
 
-[Read more about "Ratise" layout (in lithuanian)](README.md)
++ [Read more about "Ratise" layout (in lithuanian)](README.md)
 
 + _"Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
 
