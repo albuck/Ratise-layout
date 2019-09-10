@@ -61,7 +61,13 @@ __Pirštų užimtumas:__
 + dešinysis bevardis — 6,9%
 + dešinysis mažasis — 15,3%
 
-• _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams derėtų pagalvoti apie tikrai ergonomiškos ir programuojamos klaviatūros įsigijimą ar pasigaminimą — [žiūrėkite nuorodas pirmojo puslapio apačioje](../README.md#naudingos-nuorodos). Taip pat apie ‘Alt’ ir ‘Shift’ mygtukų sukeitimą vietomis: ‘Shift‘ (ar/ir ‘Enter’, ‘Tab’) priskyrimą pajėgesniam pirštui (didžiajam ar bevardžiui). 
+• _Pastabėlė_. Sprendžiant iš rodmenų: programuotojams derėtų pagalvoti apie tikrai ergonomiškos ir programuojamos klaviatūros įsigijimą ar pasigaminimą — [žiūrėkite nuorodas pirmojo puslapio apačioje](../README.md#naudingos-nuorodos). Taip pat apie ‘Alt’ ir ‘Shift’ mygtukų sukeitimą vietomis: ‘Shift‘ (ar/ir ‘Enter’, ‘Tab’) priskyrimą pajėgesniam pirštui (didžiajam ar bevardžiui).
+
+
+### Aukščiau pateikti tekstai kartu
+
+![Mygtukų naudojimas išdėstyme](images/mygt_naudojimas_bendrai.png)
+
 
 ------------------------------
 
