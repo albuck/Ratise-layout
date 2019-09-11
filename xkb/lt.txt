@@ -6,7 +6,7 @@ xkb_symbols "ratise" {
 
     include "level3(ralt_switch)"
 
-    name[Group1]="Lithuanian";
+    name[Group1]="Lithuanian (Ratise)";
 
     key <TLDE> { [       plus,     section,                grave,          paragraph ] };
     key <AE01> { [     exclam,    currency, rightsinglequotemark,         exclamdown ] };
