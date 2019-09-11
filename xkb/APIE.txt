@@ -5,6 +5,7 @@ Aplanko turinys:
 'lt.txt' — Ratisė išdėstymas.
 'lv.txt' — Ratisės latviškas fonetinis (garsinis) išdėstymas.
 'ru.txt' — Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
+'ratise-evdev.txt' — bylos turinys yra intarpas į '/usr/share/X11/xkb/rules/evdev.xml' bylą, reikalingas, kad išdėstymus šiuos galima būtų pasirinkti iš klaviatūros nustatymų.
 'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams.
 
 
