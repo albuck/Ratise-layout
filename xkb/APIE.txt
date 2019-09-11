@@ -7,10 +7,20 @@ Aplanko turinys:
 'ru.txt' — Ratisės rusiškas fonetinis (garsinis) kirilika išdėstymas.
 'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams.
 
+
 Diegimas:
 
-Reikiamos bylos vidaus turinį patalpinti į reikiamos '/usr/share/X11/xkb/symbols' bylos (lt, lv, ru) vidų vietoje kokio Jums nereikalingo išdėtymo, toliau (per)pasirinkti naująjį išdėstymą klaviatūros nustatymuose. Arba, tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt' ir 'ru' ir įdėti vietoje jau esančių (senas galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV ir RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
-'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje), toliau perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
+Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgaliojimą.
 
-Pastaba:
+1a) Pilnas diegimas — 'lt.txt', 'lv.txt', 'ru.txt' turinį paeiliui tvarkingai, išsaugojant skiriamasias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos pabaigą iki "// EXTRAS:" įrašo, išsaugoti bylą. Įrašus esančius 'ratise-evdev.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian (LEKPa)" išdėstymo įrašo (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą.
+
+1b) Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt' ir 'ru' ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senasias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV ir RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
+
+2) (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje).*
+
+3) Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
+
+4) Po šių žingsnių galėsite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
+
+* Pastaba:
 Tęstinių mygtukų lygiuose pridėtieji uždėtiniai ženkleliai nesuveikia, todėl yra išjungti.
