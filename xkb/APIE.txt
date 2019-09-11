@@ -12,15 +12,15 @@ Diegimas:
 
 Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgaliojimą.
 
-1a) Pilnas diegimas — 'lt.txt', 'lv.txt', 'ru.txt' turinį paeiliui tvarkingai, išsaugojant skiriamasias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos pabaigą iki "// EXTRAS:" įrašo, išsaugoti bylą. Įrašus esančius 'ratise-evdev.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian (LEKPa)" išdėstymo įrašo (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą.
+1a. Pilnas diegimas — 'lt.txt', 'lv.txt', 'ru.txt' turinį paeiliui tvarkingai, išsaugojant skiriamąsias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos pabaigą iki "// EXTRAS:" įrašo, išsaugoti bylą. Įrašus esančius 'ratise-evdev.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian (LEKPa)" išdėstymo įrašo (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą.
 
-1b) Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt' ir 'ru' ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senasias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV ir RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
+1b. Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt' ir 'ru' ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senąsias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV ir RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
 
-2) (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje).*
+2. (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje).*
 
-3) Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
+3. Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
 
-4) Po šių žingsnių galėsite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
+4. Po šių žingsnių galėsite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
 
 * Pastaba:
 Tęstinių mygtukų lygiuose pridėtieji uždėtiniai ženkleliai nesuveikia, todėl yra išjungti.
