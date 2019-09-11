@@ -1,5 +1,5 @@
 // Lithuanian Ergonomic Keyboard "Ratise" keymap ver. 2.0 by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2019/02/22
+// last changes 2019/09/11
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratise" {
