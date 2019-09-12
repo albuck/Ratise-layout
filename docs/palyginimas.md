@@ -42,7 +42,6 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/LpN41zvh
 
 __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikraus, nuėję į tą puslapį nurašykite nuorodą tiesiai į naršyklės adreso lauką ir bandykite vėl įkrauti.
 
-------------------------------
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
