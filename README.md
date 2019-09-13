@@ -87,13 +87,13 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 PAPILDYMAI:
 -----------
 
+[RATISĖ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
+
 [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
 
 [TĘSTIES MYGTUKAI](docs/testies_mygtukai.md)
 
 [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
-
-[RATISĖ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
 
 [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 
