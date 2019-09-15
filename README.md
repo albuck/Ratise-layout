@@ -113,7 +113,7 @@ PAPILDYMAI:
 [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
 
-## Naudingos nuorodos:
+## Kitos naudingos nuorodos:
 
 [Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 
