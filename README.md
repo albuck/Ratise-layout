@@ -106,16 +106,11 @@ PAPILDYMAI:
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
 
---------------------------------------------------------------------
-
 ## Papildomi išdėstymai:
 
 [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
 
 [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
-
-
---------------------------------------------------------------------
 
 
 ## Naudingos nuorodos:
