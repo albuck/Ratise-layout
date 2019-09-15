@@ -12,6 +12,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>ratise_germanic</name>
+            <description>Germanic (Ratise)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>ratise_cyrillic</name>
             <description>Russian (LEK Ratise Cyrillic Phonetic)</description>
           </configItem>
