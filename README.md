@@ -78,6 +78,8 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 --------------------------------------------------------------------
 
+Darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
+
 + _„Ratisė“ išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms:
 
 [» Parsisiųsti Ratisės išdėstymą «](https://github.com/albuck/Ratise-layout/zipball/master)
@@ -103,11 +105,15 @@ PAPILDYMAI:
 
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
+
+--------------------------------------------------------------------
+
+## Papildomi išdėstymai:
+
 [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
 
 [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
-Darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
 --------------------------------------------------------------------
 
