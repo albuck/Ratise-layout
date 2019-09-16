@@ -2,9 +2,11 @@ Aplanko turinys:
 
 — 'ratise' — Windows 2000/XP/Vista/7/8/10 sistemoms skirta lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklių diegyklė.
 
-— 'ratiselv' — papildoma atatinkama latviška garsinė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
+— 'ratiseg' — papildoma atatinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
 
-— 'ratiseru' — papildoma atatinkama rusiška garsinė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
+— 'ratiselv' — papildoma atatinkama latviška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
+
+— 'ratiseru' — papildoma atatinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
 
 — 'src' — aplanke yra Ratisė išdėstymo išeitinės bylos 'MSKLC' programai <https://www.microsoft.com/en-us/download/details.aspx?id=22339> su kuria ir padarytos minėtos išdėstymo diegyklės.
 
