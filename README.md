@@ -108,6 +108,8 @@ PAPILDYMAI:
 
 ## Papildomi išdėstymai:
 
+[RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
+
 [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
 
 [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
