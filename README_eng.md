@@ -12,7 +12,22 @@ version 2.0
 
 !["Ratise" Layout](docs/images/lek_ratise_layout.png)
 
+
++ The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
+
++ [Read more about "Ratise" layout (in lithuanian)](README.md)
+
 ------------------------------------------------------------------------------------
+
+## ADDITIONAL LAYOUTS
+
+
+### Germanic Ratise layout:
+
+!["Ratise" Germanic](docs/images/lek_ratise_germanic.png)
+
+• Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise".
+
 
 ### Latvian Ratise layout:
 
@@ -20,7 +35,6 @@ version 2.0
 
 • Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise".
 
-------------------------------------------------------------------------------------
 
 ### Cyrillic Ratise layout:
 
@@ -29,10 +43,6 @@ version 2.0
 • Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard "Ratise".
 
 ------------------------------------------------------------------------------------
-
-+ The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
-
-+ [Read more about "Ratise" layout (in lithuanian)](README.md)
 
 + _"Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
 
