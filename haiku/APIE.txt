@@ -1,8 +1,9 @@
 Aplanko turinys:
 
 'Lithuanian (Ratise)' — 'Haiku' sistemai skirta lietuviško ergonomiško klaviatūros "Ratisė" išdėstymo valdyklė.
-'Latvian (Ratise)' — atatinkama latviška garsinė (fonetinė) šio išdėstymo klaviatūros valdyklė.
-'Russian (Ratise)' — atatinkama rusiška garsinė (fonetinė) šio išdėstymo klaviatūros valdyklė.
+'Germanic (Ratise)' — atatinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
+'Latvian (Ratise)' — atatinkama latviška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
+'Russian (Ratise)' — atatinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
 'Ratise (Shortcuts)' — papildomas išdėstymas klaviatūros raktų suderinamumui (kad tai veiktų dar reikalinga papildomai įdiegti "Keymap Switcher" ir jos nustatymuose pasirinkti norimą klaviatūros raktų pakaitos išdėstymą).
 
 Diegimas:
