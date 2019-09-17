@@ -8,8 +8,8 @@ Aplanko turinys:
 
 — 'ratiseru' — papildoma atatinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
 
-— 'src' — aplanke yra Ratisė išdėstymo išeitinės bylos 'MSKLC' programai <https://www.microsoft.com/en-us/download/details.aspx?id=22339> su kuria ir padarytos minėtos išdėstymo diegyklės.
+— 'src' — aplanke yra „Ratisė“ išdėstymo išeitinės bylos 'MSKLC' programai <https://www.microsoft.com/en-us/download/details.aspx?id=22339> su kuria ir padarytos minėtos išdėstymo diegyklės.
 
 — 'old_windows' — šiame aplanke valdyklės senesniems Windows.
 
-Klaviatūros raktai šiose valdyklėse pririšti prie QWERTY išdėstymo.
+! Klaviatūros raktai šiose valdyklėse kaip ir QWERTY išdėstyme.
