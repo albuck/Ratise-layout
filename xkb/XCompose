@@ -56,6 +56,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 
 
 <dead_abovedot> <minus>      : "∸"  # DOT MINUS
+<dead_abovedot> <'>      : "̇"  U0307 # COMBINING DOT ABOVE
 
 <dead_circumflex> <U002f>    : "⁄" U2044 # FRACTION SLASH
 <dead_circumflex> <n>     : "ⁿ"  U207f # SUPERSCRIPT LATIN SMALL LETTER N
@@ -63,7 +64,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_circumflex> <U2190>    : "↖"  U2196 # NORTH WEST ARROW
 <dead_circumflex> <emdash>   : "↔"  U2194 # LEFT RIGHT ARROW
 <dead_circumflex> <U007c>    : "↕"  U2195 # UP DOWN ARROW
-#<dead_circumflex> <iogonek>    : " ͛"  U035b # COMBINING ZIGZAG ABOVE
+<dead_circumflex> <iogonek>    : "͛"  U035b # COMBINING ZIGZAG ABOVE
 <dead_circumflex> <K>     : "■"  U25a0 # BLACK SQUARE
 <dead_circumflex> <k>     : "□"  U25a1 # WHITE SQUARE
 <dead_circumflex> <T>     : "▲"  U25b2 # BLACK UP-POINTING TRIANGLE
@@ -90,13 +91,14 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_cedilla> <O>      : "Ǫ" U01ea # LATIN CAPITAL LETTER O WITH OGONEK
 <dead_cedilla> <o>      : "ǫ" U01eb # LATIN SMALL LETTER O WITH OGONEK
 <dead_cedilla> <j>      : "ʲ" U02b2 # MODIFIER LETTER SMALL J
-#<dead_cedilla> <degree>      : " ̥" U0325 # COMBINING RING BELOW
-#<dead_cedilla> <colon>       : " ̤" U0324 # COMBINING DIAERESIS BELOW
-#<dead_cedilla> <comma>       : " ̦" U0326 # COMBINING COMMA BELOW
-#<dead_cedilla> <underscore>      : " ̲" U0332 # COMBINING LOW LINE
-#<dead_cedilla> <minus>       : " ̱" U0331 # COMBINING MACRON BELOW
-#<dead_cedilla> <equal>       : " ̳" U0333 # COMBINING DOUBLE LOW LINE
-#<dead_cedilla> <period>      : " ̣" U0323 # COMBINING DOT BELOW
+<dead_cedilla> <f>      : "ƒ" U0192 # LATIN SMALL LETTER F WITH HOOK
+<dead_cedilla> <degree>      : "̥" U0325 # COMBINING RING BELOW
+<dead_cedilla> <colon>       : "̤" U0324 # COMBINING DIAERESIS BELOW
+<dead_cedilla> <comma>       : "̦" U0326 # COMBINING COMMA BELOW
+<dead_cedilla> <underscore>      : "̲" U0332 # COMBINING LOW LINE
+<dead_cedilla> <minus>       : "̱" U0331 # COMBINING MACRON BELOW
+<dead_cedilla> <equal>       : "̳" U0333 # COMBINING DOUBLE LOW LINE
+<dead_cedilla> <period>      : "̣" U0323 # COMBINING DOT BELOW
 <dead_cedilla> <P>      : "∏" U220f # N-ARY PRODUCT
 <dead_cedilla> <m>      : "☠" U2620 # SKULL AND CROSSBONES
 <dead_cedilla> <z>      : "☢" U2622 # RADIOACTIVE SIGN
@@ -120,7 +122,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_macron> <ellipsis>         : "⋯" U22ef # MIDLINE HORIZONTAL ELLIPSIS
 <dead_macron> <n>       : "№" U2116 # NUMERO SIGN
 
-<dead_grave> <i>        : "" Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT (Lithuanian character in the private use area, needs special font)
+<dead_grave> <h>        : ""   Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_grave> <D>        : "Ð"   ETH # LATIN CAPITAL LETTER ETH
 <dead_grave> <d>        : "ð"   eth # LATIN SMALL LETTER ETH
 <dead_grave> <T>        : "Þ"   THORN # LATIN CAPITAL LETTER THORN
@@ -136,7 +138,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_acute> <eabovedot>      : "" Ue009 # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <Eogonek>        : "" Ue004 # LATIN CAPITAL LETTER E WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <eogonek>        : "" Ue005 # LATIN SMALL LETTER E WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_acute> <i>        : "" Ue00d # LATIN SMALL LETTER I WITH ACUTE ACCENT) (Lithuanian character in the private use area, needs special font)
+<dead_acute> <h>        : "" Ue00d # LATIN SMALL LETTER I WITH ACUTE ACCENT) (Lithuanian character in the private use area, needs special font)
 <dead_acute> <Iogonek>        : "" Ue00f # LATIN CAPITAL LETTER I WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <iogonek>        : "" Ue010 # LATIN SMALL LETTER I WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_acute> <Uogonek>        : "" Ue01b # LATIN CAPITAL LETTER U WITH OGONEK AND WITH ACUTE ACCENT (Lithuanian character in the private use area, needs special font)
@@ -184,7 +186,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_tilde> <eogonek>        : "" Ue007 # LATIN SMALL LETTER E WITH OGONEK AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <Eabovedot>        : "" Ue00a # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <eabovedot>        : "" Ue00b # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
-<dead_tilde> <i>        : "" Ue00e # LATIN SMALL LETTER I WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
+<dead_tilde> <h>        : "" Ue00e # LATIN SMALL LETTER I WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <Iogonek>        : "" Ue011 # LATIN CAPITAL LETTER I WITH OGONEK AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <iogonek>        : "" Ue012 # LATIN SMALL LETTER I WITH OGONEK AND WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
 <dead_tilde> <J>        : "" Ue013 # LATIN CAPITAL LETTER J WITH TILDE ACCENT (Lithuanian character in the private use area, needs special font)
@@ -273,7 +275,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_breve> <asciitilde>     : "∽" U223d # REVERSED TILDE
 <dead_breve> <s>        : "∑" U2211 # N-ARY SUMMATION
 <dead_breve> <exclam>         : "∫" U222b # INTEGRAL
-#<dead_breve> <iogonek>       :" ̑" U0311 # COMBINING INVERTED BREVE
+<dead_breve> <iogonek>       :"̑" U0311 # COMBINING INVERTED BREVE
 <dead_breve> <asterisk>       : "⚹" U26b9 # SEXTILE
 <dead_breve> <less>           : "⊂" U2282 # SUBSET OF
 <dead_breve> <greater>        : "⊃" U2283 # SUPERSET OF
