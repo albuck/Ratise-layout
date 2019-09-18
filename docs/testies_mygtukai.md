@@ -24,6 +24,7 @@ __Pastabos__:
 ### Taškas viršuje (˙):
 
 - (-) → (∸)
+- (') -> ( ̇) (uždėtinis ženklelis, antdėlinis taškas) 
 
 
 ### Stogelis viršuje (ˆ):
@@ -126,6 +127,7 @@ __Pastabos__:
 
 ### Kairinis kirčio ženklas (`):
 
+- (h) -> () (i su kairiniu priegaidės kirčiu, kad matytųsi reikalingi tam skirti spaudmenys)
 - (D) → (Ð)
 - (d) → (ð)
 - (T) → (Þ)
@@ -138,6 +140,7 @@ __Pastabos__:
 
 ### Dešininis kirčio žeklas (´):
 
+- (h) -> () (i su dešininiu priegaidės kirčiu, kad matytųsi reikalingi tam skirti spaudmenys)
 - (') → (′)
 - (") → (″)
 - (“) → (‴)
@@ -179,6 +182,7 @@ __Pastabos__:
 
 ### Riestinis kirčio ženklas (˜):
 
+- (h) -> () (i su riestiniu priegaidės kirčiu, kad matytųsi reikalingi tam skirti spaudmenys)
 - (!) → (⁉)
 - (?) → (⁈)
 - (<) → (≲)
