@@ -85,6 +85,7 @@ __Pastabos__:
 - (O) → (Ǫ)
 - (o) → (ǫ)
 - (j) → (ʲ)
+- (f) → (ƒ) (funkcijos ženklas, mažoji F su kabliu)
 - (°) → ( ̥ ) (uždėtinis ženklelis, podėlinis žiedelis)
 - (:) → ( ̤ ) (uždėtinis ženklelis, podėlinis dutaškis)
 - (,) → ( ̦ ) (uždėtinis ženklelis, podėlinis kablelis)
