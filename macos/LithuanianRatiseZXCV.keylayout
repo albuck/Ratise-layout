@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2019-02-23 at 22:47 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2019-09-18 at 23:06 (EEST)-->
 <keyboard group="0" id="10218" name="Lithuanian - Ratise (ZXCV)" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -1308,6 +1308,7 @@
         <action id="&#x0027; 1">
             <when state="none" output="&#x0027;"/>
             <when state="acute" output="′"/>
+            <when state="dotabove" output="̇"/>
             <when state="ringabove" output="υ"/>
         </action>
         <action id="&#x0027; 2">
@@ -2190,19 +2191,19 @@
         </action>
         <action id="e 2">
             <when state="none" output="i"/>
-            <when state="acute" output=""/>
+            <when state="acute" output="í"/>
             <when state="breve" output="ĭ"/>
             <when state="caron" output="ǐ"/>
             <when state="circumflex" output="î"/>
             <when state="diaeresis" output="ï"/>
             <when state="dotabove" output="ı"/>
-            <when state="grave" output=""/>
+            <when state="grave" output="ì"/>
             <when state="macron" output="ī"/>
             <when state="s1" output="é"/>
             <when state="s2" output="ë"/>
             <when state="s3" output="ê"/>
             <when state="s5" output="è"/>
-            <when state="tilde" output=""/>
+            <when state="tilde" output="ĩ"/>
         </action>
         <action id="f">
             <when state="none" output="f"/>
@@ -2210,6 +2211,7 @@
         </action>
         <action id="f 1">
             <when state="none" output="f"/>
+            <when state="cedilla" output="ƒ"/>
             <when state="dotabove" output="ḟ"/>
         </action>
         <action id="g">
@@ -2245,17 +2247,20 @@
         </action>
         <action id="i 2">
             <when state="none" output="h"/>
+            <when state="acute" output=""/>
             <when state="breve" output="ḫ"/>
             <when state="caron" output="ȟ"/>
             <when state="circumflex" output="ĥ"/>
             <when state="diaeresis" output="ḧ"/>
             <when state="dotabove" output="ḣ"/>
+            <when state="grave" output=""/>
             <when state="macron" output="ħ"/>
             <when state="ringabove" output="ɣ"/>
             <when state="s1" output="í"/>
             <when state="s2" output="ï"/>
             <when state="s3" output="î"/>
             <when state="s5" output="ì"/>
+            <when state="tilde" output=""/>
         </action>
         <action id="j">
             <when state="none" output="j"/>

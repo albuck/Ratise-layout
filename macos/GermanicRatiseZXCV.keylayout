@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2019-09-16 at 14:47 (EEST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2019-09-18 at 23:10 (EEST)-->
 <keyboard group="0" id="10218" name="Germanic - Ratise (ZXCV)" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -1308,6 +1308,7 @@
         <action id="&#x0027; 1">
             <when state="none" output="&#x0027;"/>
             <when state="acute" output="′"/>
+            <when state="dotabove" output="̇"/>
             <when state="ringabove" output="υ"/>
         </action>
         <action id="&#x0027; 2">
@@ -2211,6 +2212,7 @@
         </action>
         <action id="f 1">
             <when state="none" output="f"/>
+            <when state="cedilla" output="ƒ"/>
             <when state="dotabove" output="ḟ"/>
         </action>
         <action id="g">
