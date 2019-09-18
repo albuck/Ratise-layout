@@ -18,7 +18,7 @@ Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgalioji
 
 1b. Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt', 'lv', 'de' (ar į kitą germanų kalbą), 'ru' ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senąsias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV, DE, RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais.
 
-2. (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje).**
+2. (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje).
 
 3. Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
 
@@ -28,4 +28,3 @@ Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgalioji
 Pastabos:
 
 * Tokio diegimo trūkumas, kad atsinaujinant sistemai jeigu bus atnaujintos šito diegimo pakeistos bylos, ratisės išdėstymus teks diegti vėl.
-** Tęstinių mygtukų lygiuose pridėtieji uždėtiniai ženkleliai nesuveikia, todėl yra išjungti.
