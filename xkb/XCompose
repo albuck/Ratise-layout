@@ -56,7 +56,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 
 
 <dead_abovedot> <minus>      : "∸"  # DOT MINUS
-<dead_abovedot> <'>      : "̇"  U0307 # COMBINING DOT ABOVE
+<dead_abovedot> <apostrophe>      : "̇"  U0307 # COMBINING DOT ABOVE
 
 <dead_circumflex> <U002f>    : "⁄" U2044 # FRACTION SLASH
 <dead_circumflex> <n>     : "ⁿ"  U207f # SUPERSCRIPT LATIN SMALL LETTER N
