@@ -1,7 +1,7 @@
 Lithuanian Ergonomic Keyboard Layout "Ratise"
 =============================================
 
-version 2.0
+version 2.0.1
 
 
 This is four levels keyboard layout:
@@ -413,6 +413,7 @@ DEADKEY	02d9 DOT ABOVE
 005a	017b	// Z -> Ż (LATIN CAPITAL LETTER Z WITH DOT ABOVE)
 007a	017c	// z -> ż (LATIN SMALL LETTER Z WITH DOT ABOVE)
 002d	2238	// - -> ∸ (DOT MINUS)
+0027	2307	// ' -> ̇ (COMBINING DOT ABOVE)
 0020	02d9	//   -> ˙ (DOT ABOVE)
 
 
@@ -514,6 +515,7 @@ DEADKEY	00b8 CEDILLA
 004f	01ea	// O -> Ǫ (LATIN CAPITAL LETTER O WITH OGONEK)
 006f	01eb	// o -> ǫ (LATIN SMALL LETTER O WITH OGONEK)
 006a	02b2	// j -> ʲ (MODIFIER LETTER SMALL J)
+0066	0192	// f -> ƒ (LATIN SMALL LETTER F WITH HOOK)
 00b0	0325	// ° -> ̥ (COMBINING RING BELOW)
 003a	0324	// : -> ̤ (COMBINING DIAERESIS BELOW)
 002c	0326	// , -> ̦ (COMBINING COMMA BELOW)
@@ -573,7 +575,8 @@ DEADKEY	0060 GRAVE ACCENT
 0045	00c8	// E -> È (LATIN CAPITAL LETTER E WITH GRAVE)
 0065	00e8	// e -> è (LATIN SMALL LETTER E WITH GRAVE)
 0049	00cc	// I -> Ì (LATIN CAPITAL LETTER I WITH GRAVE)
-0069	e00c	// i ->  (LATIN SMALL LETTER I WITH GRAVE ACCENT) — Lithuanian character in the private use area, needs special font.
+0069	00ec	// i -> ì (LATIN SMALL LETTER I WITH GRAVE)
+0068	e00c	// h ->  (LATIN SMALL LETTER I WITH GRAVE ACCENT) — Lithuanian character in the private use area, needs special font.
 0059	1ef2	// Y -> Ỳ (LATIN CAPITAL LETTER Y WITH GRAVE)
 0079	1ef3	// y -> ỳ (LATIN SMALL LETTER Y WITH GRAVE)
 004f	00d2	// O -> Ò (LATIN CAPITAL LETTER O WITH GRAVE)
@@ -608,7 +611,8 @@ DEADKEY	00b4 ACUTE ACCENT
 0118	e004	// Ę ->  (LATIN CAPITAL LETTER E WITH OGONEK AND WITH ACUTE ACCENT) — Lithuanian character in the private use area, needs special font.
 0119	e005	// ę ->  (LATIN SMALL LETTER E WITH OGONEK AND WITH ACUTE ACCENT) — Lithuanian character in the private use area, needs special font.
 0049	00cd	// I -> Í (LATIN CAPITAL LETTER I WITH ACUTE)
-0069	e00d	// i ->  (LATIN SMALL LETTER I WITH ACUTE ACCENT) — Lithuanian character in the private use area, needs special font.
+0069	00ed	// i -> í (LATIN SMALL LETTER I WITH ACUTE)
+0068	e00d	// h ->  (LATIN SMALL LETTER I WITH ACUTE ACCENT) — Lithuanian character in the private use area, needs special font.
 012e	e00f	// Į ->  (LATIN CAPITAL LETTER I WITH OGONEK AND WITH ACUTE ACCENT) — Lithuanian character in the private use area, needs special font.
 012f	e010	// į ->  (LATIN SMALL LETTER I WITH OGONEK AND WITH ACUTE ACCENT) — Lithuanian character in the private use area, needs special font.
 0059	00dd	// Y -> Ý (LATIN CAPITAL LETTER Y WITH ACUTE)
@@ -711,7 +715,8 @@ DEADKEY	02dc SMALL TILDE or 007E TILDE
 0116	e00a	// Ė ->  (LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 0117	e00b	// ė ->  (LATIN SMALL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 0049	0128	// I -> Ĩ (LATIN CAPITAL LETTER I WITH TILDE)
-0069	e00e	// i ->  (LATIN SMALL LETTER I WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
+0069	0129	// i -> ĩ (LATIN SMALL LETTER I WITH TILDE)
+0068	e00e	// h ->  (LATIN SMALL LETTER I WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 012e	e011	// Į ->  (LATIN CAPITAL LETTER I WITH OGONEK AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 012f	e012	// į ->  (LATIN SMALL LETTER I WITH OGONEK AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 0059	1ef8	// Y -> Ỹ LATIN CAPITAL LETTER Y WITH TILDE()
