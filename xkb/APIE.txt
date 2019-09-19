@@ -20,7 +20,7 @@ Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgalioji
 
 2. (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje).
 
-3. Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijuongti prie savosios paskyros.
+3. Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros.
 
 4. Po šių žingsnių galėsite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
 
