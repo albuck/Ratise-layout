@@ -1,7 +1,7 @@
 [Read in English](README_eng.md)
 
 -----------------------------------------------
-# LIETUVIŠKAS ERGONOMIŠKAS KLAVIATŪROS SPAUDŲ IŠDĖSTYMAS „RATISĖ“
+# LIETUVIŠKAS ERGONOMIŠKAS KLAVIATŪROS IŠDĖSTYMAS „RATISĖ“
 
 Laida 2.0
 
