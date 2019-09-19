@@ -97,11 +97,11 @@ PAPILDYMAI:
 
 [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
 
+[RATISĖ IR QWERTY VIENAME PAVEIKSLĖLYJE](docs/ratise&qwerty.md)
+
 [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 
 [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
-
-[RATISĖ IR QWERTY IŠDĖSTYMAI VIENAME PAVEIKSLĖLYJE](docs/ratise&qwerty.md)
 
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
