@@ -122,12 +122,4 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/tDcchGCV
 http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
 
 
-+ O sukeitus _Kinesis Advantage_ klaviatūroje ‘Shift’ su ‘Alt’, t. y. priskyrus antro lygio mygtuką didžiajam pirštui išdėstymas testuose surenka __57.40__ taškų, taip pat nuimamas peraugęs krūvis mažiesiems pirštams:
-
-http://patorjk.com/keyboard-layout-analyzer/#/load/XGTNqMNq
-
-+ Iš čia tirtų programavimo kalbų Ratisė (Kinesis Advantage) geriausiai pasirodė Python kalboje, surinkdama virš __63__ taškų:
-
-http://patorjk.com/keyboard-layout-analyzer/#/load/Zrx90FL2
-
 ------------------------------
