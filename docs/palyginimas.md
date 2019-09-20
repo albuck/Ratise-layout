@@ -49,7 +49,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. __Ratise (Kinesis Advantage) — 64.94__*
+1. __Ratise (Kinesis Advantage) — 64.94__
 2. __Ratise (ANSI) — 62.47__
 3. __Ratise (ISO) — 62.38__
 4. LEKP (Kinesis Advantage) — 61.86
@@ -83,7 +83,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
 
 _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 
-1. __Ratise (Kinesis Advantage) — 55.26__*
+1. __Ratise (Kinesis Advantage) — 55.26__
 2. LEKP (Kinesis Advantage) — 50.99
 3. _Colemak (Kinesis Advantage) — 48.93_
 4. _Ergodox/Workman/Cub  (Kinesis Advantage) — 48.24_
