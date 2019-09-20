@@ -37,7 +37,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 ![Antrasis lygis](docs/images/lek_ratise_2l.png)
 
-+ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (’šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniu ‘m’ ilgio brūkšniu.
++ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (‘šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniu ‘m’ ilgio brūkšniu.
 
 
 ### Ratisės 3-sis lygis
