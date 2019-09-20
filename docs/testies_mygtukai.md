@@ -25,7 +25,7 @@ __Pastabos__:
 ### Taškas viršuje (˙):
 
 - (-) → (∸)
-- (') → ( ̇) (uždėtinis ženklelis, antdėlinis taškas) 
+- (') → ( ̇) (uždėtinis ženklelis, antdėlinis taškas)
 
 
 ### Stogelis viršuje (ˆ):
