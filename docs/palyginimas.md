@@ -106,7 +106,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 21. QWERTY Baltic (ISO) — 31.65
 22. _QWERTY-Programmer (ANSI) — 31.28_
 
-	
+
 • Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
