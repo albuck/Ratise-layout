@@ -16,7 +16,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 ### Lietuviškos pasakos (iš Basanavičiaus rinkinio):
 
-1. __Ratise (Kinesis Advantage) — 68.59__*
+1. __Ratise (Kinesis Advantage) — 68.61__*
 2. __Ratise (ANSI) — 67.64__
 3. __Ratise (ISO) — 67.42__
 4. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 65.92_
@@ -38,7 +38,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/LwSRZd03
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/LpN41zvh
+http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikraus, nuėję į tą puslapį nurašykite nuorodą tiesiai į naršyklės adreso lauką ir bandykite vėl įkrauti.
 
@@ -49,7 +49,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. __Ratise (Kinesis Advantage) — 64.94__
+1. __Ratise (Kinesis Advantage) — 64.97__
 2. __Ratise (ANSI) — 62.47__
 3. __Ratise (ISO) — 62.38__
 4. LEKP (Kinesis Advantage) — 61.86
@@ -69,8 +69,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/RzvTRcVP
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/cCz6k8Sr
-
+http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
 
 • Lyginant su angliškais išdėstymais ratisė angliškuose tekstuose pasirodo labai gerai ir puikiai:
 
@@ -83,7 +82,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
 
 _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 
-1. __Ratise (Kinesis Advantage) — 55.26__
+1. __Ratise (Kinesis Advantage) — 55.21__
 2. LEKP (Kinesis Advantage) — 50.99
 3. _Colemak (Kinesis Advantage) — 48.93_
 4. _Ergodox/Workman/Cub  (Kinesis Advantage) — 48.24_
@@ -113,11 +112,11 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/t81RRtxm
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/ph32Hqd0
+http://patorjk.com/keyboard-layout-analyzer/#/load/2FLJkS07
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/tDcchGCV
+http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
 
