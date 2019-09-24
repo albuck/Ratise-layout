@@ -71,7 +71,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/RzvTRcVP
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
 
-• Lyginant su angliškais išdėstymais ratisė angliškuose tekstuose pasirodo labai gerai ir puikiai:
+• Lyginant su angliškais išdėstymais ratisė angliškuose tekstuose pasirodo labai gerai:
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
 
