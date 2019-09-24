@@ -75,7 +75,11 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
 
+http://patorjk.com/keyboard-layout-analyzer/#/load/7NPPckpp
+
 http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK
 
 
 ### Bendrai ‘Bash, C, CPP, Python’:
