@@ -65,4 +65,5 @@ Skirtingų lygių spaudai čia atvaizduoti tokia tvarka:
  ¯`´¨˜Ł¹²³±–ẞ  (šitoje eilutėje esantys ¯`´¨˜ yra tęsties ženklai (mygtukai), angl. 'Dead Keys')
 ¦‹°˘«↓◊µ‡·ˇ  (šitoje eilutėje esantys °˘ˇ yra tęsties ženklai (mygtukai), angl. 'Dead Keys')
 
-------------------------------------------
+-----------------------------------------------
+2019 Algirdas Buckus <algirdasbuckus@gmail.com>
