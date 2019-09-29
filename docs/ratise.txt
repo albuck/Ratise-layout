@@ -54,7 +54,7 @@ Skirtingų lygių spaudai čia atvaizduoti tokia tvarka:
 
 `’⟨⟩”…^789÷Ω≈
  ‘[]“ ́ €456×¢°  (šitoje eilutėje esantis  ́  yra uždėtinis ženklelis)
- '()" ̃ ł123−-ß  (šitoje eilutėje esantis ̃  uždėtinis ženklelis)
+ '()" ̃ ł123−-ß  (šitoje eilutėje esantis  ̃  yra uždėtinis ženklelis)
 ‑‚{}„ ̀ √0.,+  (šitoje eilutėje esantis   ̀  yra uždėtinis ženklelis)
 
 
