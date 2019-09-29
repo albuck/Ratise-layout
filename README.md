@@ -11,12 +11,9 @@ Kuriant „Ratisė“ išdėstymą buvo atsižvelgta į atskirų raidžių dažn
 
  „Ratisė“ pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
-Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra uei**a**-**r**tsp (paryškintos tenkančios rankų smiliams raidės):
+Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:
 
-+!:.*_—=,;/w?
- ūėyoqjnkgbcf
- ueiahlrtspžz
--ųęįąxvmdšč
+uei**a**-**r**tsp (paryškintos tenkančios rankų smiliams raidės)
 
 Ratisės išdėstyme raidės ir kiti ženklai esti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
 
