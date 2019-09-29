@@ -1,7 +1,9 @@
 Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratisė“
 ========================================================
 
-    Ratisė yra keturių lygių klaviatūros (spaudyno) spausdinamųjų ženklų išdėstymas. Ratisės išdėstyme yra atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams. Spausdinamieji ženklai (spaudai) dėstyti tvarkingai.
+    Ratisė yra keturių lygių klaviatūros (spaudyno) spausdinamųjų ženklų išdėstymas.
+    
+    Ratisės išdėstyme yra atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams. Spausdinamieji ženklai (spaudai) dėstyti tvarkingai.
     
 
      ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓
