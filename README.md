@@ -13,7 +13,7 @@ Kuriant „Ratisė“ išdėstymą buvo atsižvelgta į atskirų raidžių dažn
 
 Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:
 
-uei**a** **r**tsp
+uei**a**·**r**tsp
 
 (paryškintos tenkančios rankų smiliams raidės)
 
