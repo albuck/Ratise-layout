@@ -1,3 +1,6 @@
+[Į pradžią](../README.md)
+
+
 Ratisės sutapimai su kitais išdėstymais
 ---------------------------------------
 
