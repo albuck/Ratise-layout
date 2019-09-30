@@ -95,6 +95,8 @@ PAPILDYMAI:
 
 [RATISĖ IR QWERTY VIENAME PAVEIKSLĖLYJE](docs/ratise&qwerty.md)
 
+[RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
+
 [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 
 [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
