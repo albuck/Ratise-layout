@@ -5,23 +5,23 @@ Ratisės sutapimai su kitais išdėstymais
 ---------------------------------------
 
 
-_QWERTY:_ mM@#$%& {!^789}*
+__QWERTY:__ mM@#$%& {!^789}*
 
-_QWERTY LT Baltic:_ mM {!@#$%^&789}
+__QWERTY LT Baltic:__ mM {!@#$%^&789}
 
-_AZERTY LT Standard 2000:_ !mM^ {#$&789}
+__AZERTY LT Standard 2000:__ !mM^ {#$&789}
 
-_AZERTY LT Standard 1992:_ !mMšŠ^ {@#$%&789}
+__AZERTY LT Standard 1992:__ !mMšŠ^ {@#$%&789}
 
-_LT Ergonomic 1989:_ !jJaAsS {+&789}
+__LT Ergonomic 1989:__ !jJaAsS {+&789}
 
-_LEKP:_ .@
+__LEKP:__ .@
 
-_Dvorak (Simplified):_ xXmM@#$%& {!^789-}
+__Dvorak (Simplified):__ xXmM@#$%& {!^789-}
 
-_Colemak:_ jJmM@#$%& {!^789}
+__Colemak:__ jJmM@#$%& {!^789}
 
-_Workman:_ jJ@#$%& {!^789}
+__Workman:__ jJ@#$%& {!^789}
 
 
 * Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
