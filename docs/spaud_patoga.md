@@ -7,7 +7,7 @@ Net ir patogiausias daiktas nemokančiam juo naudotis bus nepatogus. Taigi, vis�
 
 Be abejo, dažniau naudojamo mygtuko patogumas, tai yra jo buvimas patogesnėje vietoje — mygtuko tekimas vikresniam ir stipresniam pirštui, ar buvimas arčiau pagrindinės pirštų padėties, ar buvimas klaviatūros pirmame lygyje yra pagrindinis, bet ne vienintelis viso išdėstymo patogumo veiksnys.
 
-Dar spausdinimo patogumą įtakoja raidžių eiliškumas žodžiuose, įvairių ženklų tarpusavio susiėjimų dažnumas bei jų kaitaliojimosi ritmiškumas, dalykai kurie, vėl gi, bus kiek skirtingi renkant skirtingus įrašus. Be to, spausdinimo patogumui dar yra svarbu, kokie ženklai yra šalia vieni kitų pačiame išdėstyme, kokiame jie yra tam tikrame lygyje ir kokiems pirštams tenka dalyvauti tuos ženklus įvedant.
+Dar spausdinimo patogumą įtakoja raidžių eiliškumas žodžiuose, įvairių ženklų tarpusavio susiėjimų dažnumas bei jų kaitaliojimosi ritmiškumas, dalykai kurie, vėl gi, bus kiek skirtingi renkant skirtingus įrašus. Be to, spausdinimo patogumui dar yra svarbu, kokie ženklai yra šalia vieni kitų pačiame išdėstyme, kokiame jie yra lygyje bei kokiems pirštams tenka dalyvauti tuos ženklus įvedant.
 
 Nors ir patogesnis spausdinamųjų ženklų išdėstymas klaviatūroje žymiai sumažina pirštų judesių apimtį spausdinant visais pirštais, kas savaime, aišku, sumažina krūvį tenkantį rankoms (pirštams) ir padidina spausdinimo našumą, kitas svarbus veiksnys spausdinimo patogumui yra pats pagamintos klaviatūros padirbimo pavidalas ir rankų santykis su tuo pavidalu (vadinamoji klaviatūros ergomomika).
 
