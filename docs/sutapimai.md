@@ -25,7 +25,7 @@ __Colemak:__ jJmM@#$%& {!^789}
 
 __Workman:__ jJ@#$%& {!^789}
 
-
+---------------------------------------
 
 #### Ratisė ir QWERTY išdėstymai viename paveikslėlyje:
 
