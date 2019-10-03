@@ -25,3 +25,10 @@ __Workman:__ jJ@#$%& {!^789}
 
 
 * Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
+
+
+### Ratisė ir QWERTY išdėstymai viename paveikslėlyje
+
+![LEK „Ratisė“ ir QWERTY](images/ratise&qwerty.png)
+
+* Mygtukuose violetine spalva QWERTY išdėstymo spaudai, ratisės spaudai juodi.
