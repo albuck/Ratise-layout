@@ -27,7 +27,7 @@ __Workman:__ jJ@#$%& {!^789}
 
 
 
-### Ratisė ir QWERTY išdėstymai viename paveikslėlyje
+#### Ratisė ir QWERTY išdėstymai viename paveikslėlyje
 
 ![LEK „Ratisė“ ir QWERTY](images/ratise&qwerty.png)
 
