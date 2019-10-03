@@ -4,8 +4,10 @@
 Ratisės sutapimai su kitais išdėstymais
 ---------------------------------------
 
+* Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
 
-__QWERTY:__ mM@#$%& {!^789}*
+
+__QWERTY:__ mM@#$%& {!^789}
 
 __QWERTY LT Baltic:__ mM {!@#$%^&789}
 
@@ -23,8 +25,6 @@ __Colemak:__ jJmM@#$%& {!^789}
 
 __Workman:__ jJ@#$%& {!^789}
 
-
-* Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
 
 
 ### Ratisė ir QWERTY išdėstymai viename paveikslėlyje
