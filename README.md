@@ -93,8 +93,6 @@ PAPILDYMAI:
 
 [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
 
-[RATISĖ IR QWERTY VIENAME PAVEIKSLĖLYJE](docs/ratise&qwerty.md)
-
 [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
 [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
