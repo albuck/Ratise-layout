@@ -305,6 +305,8 @@ __Pastabos__:
 - (°) → (º)
 
 
++ __PASTABA:__ Tęsties mygtukų lygiai gali būti papildyti dar kam nors reikalingais ženklais. Pasiūlymai yra laukiami.
+
 ---------------------------------------------------------------------------
 
 ## RATISĖ VIENAME PAVEIKSLĖLYJE
