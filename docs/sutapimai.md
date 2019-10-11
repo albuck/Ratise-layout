@@ -10,9 +10,15 @@ __Dvorak (Simplified):__ xXmM@#$%& {!^789-}
 
 __Colemak:__ jJmM@#$%& {!^789}
 
+__Maltron:__ iIyY@#$%& {!^789}
+
+__Turkų F:__ uUaAnN+$% {!789}
+
 __QWERTY:__ mM@#$%& {!^789}
 
 __Workman:__ jJ@#$%& {!^789}
+
+__Prancūzų BEPO:__ iIoO^{}¶ {789}
 
 __LT Ergonomic 1989:__ !jJaAsS {+&789}
 
