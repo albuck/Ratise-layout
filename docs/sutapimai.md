@@ -20,13 +20,13 @@ __Workman:__ jJ@#$%& {!^789}
 
 __Prancūzų BEPO:__ iIoO^{}¶ {789}
 
-__LT Ergonomic 1989:__ !jJaAsS {+&789}
+__Lithuanian Ergonomic 1989:__ !jJaAsS {+&789}
 
-__AZERTY LT Standard 1992:__ !mMšŠ^ {@#$%&789}
+__AZERTY Lithuanian Standard 1992:__ !mMšŠ^ {@#$%&789}
 
-__AZERTY LT Standard 2000:__ !mM^ {#$&789}
+__AZERTY Lithuanian Standard 2000:__ !mM^ {#$&789}
 
-__QWERTY LT Baltic:__ mM {!@#$%^&789}
+__QWERTY Lithuanian Baltic:__ mM {!@#$%^&789}
 
 __LEKP:__ .@
 
