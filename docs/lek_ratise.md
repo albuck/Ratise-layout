@@ -7,7 +7,7 @@ Paveikslėlyje yra matomi ratisės išdėstymo visi keturių lygių ženklai. Pa
 
 ![Ratisės išdėstymas](images/lek_ratise_layout.png)
 
-1 — pagrindinis lygis;
+1 — Pagrindinis lygis;
 
 2 — "Shift" lygis;
 
