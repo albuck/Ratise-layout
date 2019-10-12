@@ -13,7 +13,7 @@ Kuriant „Ratisė“ išdėstymą buvo atsižvelgta į atskirų raidžių dažn
 
 Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 
-Ratisės išdėstyme raidės ir kiti ženklai esti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
+Ratisės išdėstyme raidės ir kiti [ženklai esti keturiuose lygiuose](docs/lek_ratise.md) (neskaitant Didžiųjų raidžių lygio).
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
