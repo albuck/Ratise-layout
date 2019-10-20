@@ -41,7 +41,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/LwSRZd03
 http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 
-• Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
+#### Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/tpf5GBVq
 
