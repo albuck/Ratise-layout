@@ -11,6 +11,6 @@ Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga
 
 ![Pirštai ir spalvos](images/rankos.png)
 
-Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai.
+Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai (na, kiek tai yra įmanoma spausdinant jūsų klaviatūra).
 
 Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti išdėstymo paveikslėlį, apčiuopomis pradėti jausti, pažinti pačią klaviatūrą, „susidraugauti“ su ja. Mokytis rinkti įrašus pradedama nuo žodelių sudarytų iš pagrindinių eilių raidžių, toliau pereinant prie sunkiau pasiekiamų. Dažniausias lietuviškas žodelis yra ‚[ir](dazn_zod.txt)‘, nuo jo galite ir pradėti. Kartojant judesius mankštinamas kiekvienas pirštas iki susidaro įgūdis, kai pirštas „žino“, kur yra koks jam priskirtas spausti ženklas. Iš pradžių mintyse kiekvienas pirštas yra „prižiūrimas“ ir vedamas prie reikiamo mygtuko. Jeigu kokį raidžių derinį yra sunkiau surinkti, žodį su tokiu deriniu reikėtų pakartotinai įvedinėti keletą šimtų kartų, o pavargus pirštams daryti pertrauką ir kartoti įvedimą vėl. Po spausdinimo įgūdžio susidarymo ir pirštų išlavėjimo, pirštai spausdina veik savaime ir be didelių pastangų.
