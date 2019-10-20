@@ -43,9 +43,9 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 #### Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/tpf5GBVq
+http://patorjk.com/keyboard-layout-analyzer/#/load/gmK9L5l4
 
-— Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti.
+• Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti.
 
 __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikraus, nuėję į tą puslapį nurašykite nuorodą tiesiai į naršyklės adreso lauką ir bandykite vėl įkrauti.
 
