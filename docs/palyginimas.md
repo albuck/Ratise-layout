@@ -45,7 +45,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/gmK9L5l4
 
-• Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti.
+• Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
 __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikraus, nuėję į tą puslapį nurašykite nuorodą tiesiai į naršyklės adreso lauką ir bandykite vėl įkrauti.
 
