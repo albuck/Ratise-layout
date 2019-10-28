@@ -6,7 +6,7 @@ Ratisės sutapimai su kitais išdėstymais
 
 * Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
 
-__Dvorak (Simplified):__ xXmM@#$%& {!^789-}
+__Dvorak:__ tTxXmM@#$%& {!^789-}
 
 __Colemak:__ jJmM@#$%& {!^789}
 
