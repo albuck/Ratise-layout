@@ -43,7 +43,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 #### Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/gmK9L5l4
+http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
 
 • Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
