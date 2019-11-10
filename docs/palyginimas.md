@@ -74,7 +74,7 @@ __Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikra
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/RzvTRcVP
+http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
 
