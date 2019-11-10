@@ -112,7 +112,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 17. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
 18. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
 19. _QWERTY (ANSI) — 33.69_
-20. QWERTY Baltic (ANSI) — 32.96
+20. QWERTY Baltic (ANSI) — 32.33
 21. QWERTY Baltic (ISO) — 31.65
 22. _QWERTY-Programmer (ANSI) — 31.28_
 
@@ -121,7 +121,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/t81RRtxm
+http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/2FLJkS07
 
