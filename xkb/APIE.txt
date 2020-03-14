@@ -23,5 +23,5 @@ Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgalioji
 
 Pastabos:
 
-* XKB aplanko vieta skirtingose Linux ir Unix atmainose gali būti kiek skirtinga (pavyzdžiui, FreeBSD: /usr/local/share/X11/xkb)
+* XKB aplanko vieta skirtingose Linux ir Unix atmainose gali būti kiek skirtinga (pavyzdžiui, FreeBSD: /usr/local/share/X11/xkb).
 ** Tokio diegimo trūkumas, kad atsinaujinant sistemai jeigu bus atnaujintos šito diegimo pakeistos bylos, ratisės išdėstymus teks diegti vėl.
