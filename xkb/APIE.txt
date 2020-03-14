@@ -1,4 +1,4 @@
-Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros išdėstymo "Ratisė" XKB valdyklės.
+Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros išdėstymo "Ratisė" XKB* valdyklės.
 
 Aplanko turinys:
 
@@ -10,7 +10,7 @@ Aplanko turinys:
 'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams.
 
 
-Diegimas*:
+Diegimas**:
 
 Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgaliojimą.
 
@@ -23,4 +23,5 @@ Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgalioji
 
 Pastabos:
 
-* Tokio diegimo trūkumas, kad atsinaujinant sistemai jeigu bus atnaujintos šito diegimo pakeistos bylos, ratisės išdėstymus teks diegti vėl.
+* XKB aplanko vieta skirtingose Linux ir Unix atmainose gali būti skirtinga (pavyzdžiui, FreeBSD: /usr/local/share/X11/xkb)
+** Tokio diegimo trūkumas, kad atsinaujinant sistemai jeigu bus atnaujintos šito diegimo pakeistos bylos, ratisės išdėstymus teks diegti vėl.
