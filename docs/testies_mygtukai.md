@@ -3,7 +3,7 @@
 TĘSTIES MYGTUKAI
 ----------------
 
-Tęsties spaudas pasiekiamas prieš tai paspaudus ir atleidus reikiamą tęsties mygtuką ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties spaudo įvedimo, tęsties mygtuko galiojimas baigiasi, ir norint įvesti kitą tęsties spaudą reikia vėl spausti norimą tęsties mygtuką.
+Tęsties lygio spaudas pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties lygio spaudo įvedimo, tęsties mygtuko galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą reikia vėl spausti norimą tęsties mygtuką.
 
 _Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame „Ratisės“ lygyje tęsties mygtukai_:
 
