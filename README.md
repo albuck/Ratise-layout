@@ -33,7 +33,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 ![Antrasis lygis](docs/images/lek_ratise_2l.png)
 
-+ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (‘šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniu ‘m’ ilgio brūkšniu.
++ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (‘šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniuoju ‘m’ ilgio brūkšniu.
 
 
 ### Ratisės 3-sis lygis
@@ -42,13 +42,13 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 ![Trečiasis lygis](docs/images/lek_ratise_3l.png)
 
-+ Paveikslėlyje virš taškinių skrituliukų esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai (‘diakritikai’), tai — _lietùviškų príegaidžių uždėtìniai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
++ Paveikslėlyje virš taškinių ratiliukų esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai (‘diakritikai’), tai — _lietùviškų príegaidžių uždėtìniai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
 
-+ Pastebėtina, kad brūkšnelio mygtukas trečiajame lygyje yra _nepertraukiamasis brūkšnelis_.
++ Pastebėtina, kad brūkšnelio mygtukas trečiajame lygyje yra _nepertraukiamasis brūkšnelis_ (rašyklėse ties tokiu brūkšneliu žodis neturėtų būti laužomas perkeliant į kitą eilutę).
 
-+ Trečiajame __P__ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame __Ž__ mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas). Senesnėje skaitmeninėje įrangoje, pavyzdžiui senoje skaičiuotuvo programoje, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite ‘\*’ bei ‘/’ mygtukus (pirmame lygyje).
++ Trečiajame __P__ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame __Ž__ mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas). Senesnėje skaitmeninėje įrangoje, pavyzdžiui senoje skaičiuotuvo programoje, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite ‘\*’ bei ‘/’ mygtukus (esančius išdėstymo pirmame lygyje).
  
-+ [Ką daryti kai klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](docs/trukumu_apejimas.md)
++ [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](docs/trukumu_apejimas.md)
 
 
 
@@ -58,17 +58,17 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 ![Ketvirtasis lygis](docs/images/lek_ratise_4l.png)
 
-+ Šičia gelzganai žymėti yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
++ Šičia gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
 [Tęsties mygtukai](docs/testies_mygtukai.md)
 
 + Ketvirtajame __Ž__ mygtuko lygyje yra pusilgis brūkšnys (‘n’ ilgio brūkšnys).
 
-+ Ant tarpo mygtuko užrašas ‘no’ reiškia, kad tai yra _nepertraukiamasis tarpas_ (tokia tarpo mygtuko reikšmė ketvirtajame lygyje).
++ Ant tarpo mygtuko užrašas ‘no’ reiškia, kad ketvirtajame lygyje tai yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 
 
 ### Ratisės Didžiųjų raidžių lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ‘CapsLock’ paspaudimo.
+— spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ‘CapsLock’ paspaudimo (įjungimo).
 
 ![Didžiųjų raidžių lygis](docs/images/lek_ratise_dl.png)
 
