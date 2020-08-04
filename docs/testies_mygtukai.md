@@ -324,3 +324,6 @@ https://en.wikipedia.org/wiki/Compose_key
 
 https://help.ubuntu.com/community/ComposeKey
 
+[Į pradžią](../README.md)
+
+
