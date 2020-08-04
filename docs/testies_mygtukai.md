@@ -315,9 +315,9 @@ __Pastabos__:
 
 _Sudurtinio įvedimo mygtuku_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’) įvedamas papildomas norimas ženklas taip: pirma — spaudžiamas sudurtinio įvedimo mygtukas (ar atitinkamas mygtukų derinys), antra — spaudžiama tam tikra dviejų ar trijų ženklų sekana, trečia — gaunamas reikiamas ženklas. Pavyzdžiui, paspaudus (ir atleidus) sudurtinį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas). Plačiau apie sudurtinį įvedimą (angliškai): 
 
-    https://en.wikipedia.org/wiki/Compose_key
+   https://en.wikipedia.org/wiki/Compose_key
 
-    https://help.ubuntu.com/community/ComposeKey
+   https://help.ubuntu.com/community/ComposeKey
     
     
 + Linux aplinkoje ‘Tab’ Ratisės trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_.
