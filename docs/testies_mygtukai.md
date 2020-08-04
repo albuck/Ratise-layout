@@ -319,5 +319,6 @@ _Sudurtinio įvedimo mygtuku_ (angliškai vadinamas ‘Multi key’ ar ‘Compos
 
     https://help.ubuntu.com/community/ComposeKey
     
-    + Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_.
-    + Skirtingose skaitmeninėse aplinkose sudurtinio įvedimo palaikymas įvairuoja, norintiems juo naudotis gali prireikti įsidiegti papildomą skaitmeninę įrangą ir pasidomėti tenais prieinamomis sudurtinio įvedimo ženklų sekomis.
+    
++ Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_.
++ Skirtingose skaitmeninėse aplinkose sudurtinio įvedimo palaikymas įvairuoja, norintiems juo naudotis gali prireikti įsidiegti papildomą skaitmeninę įrangą ir pasidomėti tenais prieinamomis sudurtinio įvedimo ženklų sekomis.
