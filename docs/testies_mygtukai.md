@@ -20,13 +20,8 @@ __Pastabos__:
 + Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __h__ mygtuką vietoje __i__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
 + Skirtingose skaitmeninėse aplinkose tęsties mygtukų lygių palaikymas kiek įvairuoja ir turi savo ypatumų. _MacOS_ turi papildomą galimybę įvesti tęsties spaudo uždėtinį antrininką spaudžiant tarpą kartu su ‘Option’(‘Alt’).
 + _Haiku_ aplinkoje tęsties mygtukų lygiai palaikomi tik dalinai.
-+ Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’), pavyzdžiui, paspaudus (ir atleidus) šį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas). Plačiau apie sudurtinį įvedimą (angliškai): 
 
-    https://en.wikipedia.org/wiki/Compose_key
-
-    https://help.ubuntu.com/community/ComposeKey
-
-Žemiau nurodomi tik dar papildomai tęsties mygtuku gaunami ženklai, akivaizdžiai gaunami sudėtiniai spaudai: koks nors uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui: ´ + a → á), nenurodomi. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas (visa ratisės keturių lygių ženklų lentelė paveikslėlyje apačioje).
+Žemiau nurodomi tik dar papildomai tęsties mygtuku gaunami ženklai, akivaizdžiai gaunami sudėtiniai spaudai: koks nors uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui: ´ + a → á), nenurodomi. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas.
 
 
 ### Taškas viršuje (˙):
@@ -316,6 +311,13 @@ __Pastabos__:
 
 ---------------------------------------------------------------------------
 
-## RATISĖ VIENAME PAVEIKSLĖLYJE
+## SUDURTINIO ĮVEDIMO MYGTUKAS IR SPAUDŲ ĮVEDIMO BŪDAS JUO
 
-![Ratisės išdėstymas](images/lek_ratise_layout.png)
+_Sudurtinio įvedimo mygtuku_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’) įvedamas papildomas norimas ženklas taip: pirma — spaudžiamas sudurtinio įvedimo mygtukas (ar atitinkamas mygtukų derinys), antra — spaudžiama tam tikra dviejų ar trijų ženklų sekana, trečia — gaunamas reikiamas ženklas. Pavyzdžiui, paspaudus (ir atleidus) sudurtinį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas). Plačiau apie sudurtinį įvedimą (angliškai): 
+
+    https://en.wikipedia.org/wiki/Compose_key
+
+    https://help.ubuntu.com/community/ComposeKey
+    
+    + Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_.
+    + Skirtingose skaitmeninėse aplinkose sudurtinio įvedimo palaikymas įvairuoja, norintiems juo naudotis gali prireikti įsidiegti papildomą skaitmeninę įrangą ir pasidomėti tenais prieinamomis sudurtinio įvedimo ženklų sekomis.
