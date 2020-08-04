@@ -76,7 +76,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūr
 
 Darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
-+ _„Ratisė“ išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms:
++ _„Ratisė“ išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
 [» Parsisiųsti Ratisės išdėstymą «](https://github.com/albuck/Ratise-layout/zipball/master)
 
