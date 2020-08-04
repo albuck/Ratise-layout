@@ -22,9 +22,9 @@ __Pastabos__:
 + _Haiku_ aplinkoje tęsties mygtukų lygiai palaikomi tik dalinai.
 + Linux aplinkoje ‘Tab’ trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’), pavyzdžiui, paspaudus (ir atleidus) šį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas). Plačiau apie sudurtinį įvedimą (angliškai): 
 
-https://en.wikipedia.org/wiki/Compose_key
+    https://en.wikipedia.org/wiki/Compose_key
 
-https://help.ubuntu.com/community/ComposeKey
+    https://help.ubuntu.com/community/ComposeKey
 
 Žemiau nurodomi tik dar papildomai tęsties mygtuku gaunami ženklai, akivaizdžiai gaunami sudėtiniai spaudai: koks nors uždėtinis tęsties mygtuko spaudas + raidė (pavyzdžiui: ´ + a → á), nenurodomi. Skliaustuose pateikiami: pirma, koks ženklas renkamas (po tęsties mygtuko paspaudimo) ir antra, koks vietoje jo gaunamas (visa ratisės keturių lygių ženklų lentelė paveikslėlyje apačioje).
 
