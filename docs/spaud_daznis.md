@@ -74,9 +74,9 @@ __Pirštų užimtumas:__
 __Pastaba:__
 + Paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
-------------------------------
-
 ### Papildomai:
 
 [Lietuviškų išdėstymų palyginimas](palyginimas.md)
 
+-------------------------
+[Į pradžią](../README.md)
