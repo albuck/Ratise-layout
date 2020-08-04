@@ -132,4 +132,5 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H
 http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
 
 
-------------------------------
+-------------------------
+[Į pradžią](../README.md)
