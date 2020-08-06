@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
-TĘSTIES MYGTUKAI — PAPILDOMI ŽENKLŲ ĮVEDIMO BŪDAI
--------------------------------------------------
+TĘSTIES MYGTUKAI
+----------------
 
 Pasinaudojus tęsties mygtukais galima įvesti daugiau papildomų ženklų, kurie nėra prieinami įprastuose išdėstymo lygiuose. Kiekvienas tęsties mygtukas turi lyg ir papildomą išdėstymo tęsties lygį.
 
@@ -309,22 +309,6 @@ __Pastabos__:
 
 
 + __PASTABA:__ Tęsties mygtukų lygiai gali būti papildyti dar kam nors reikalingais ženklais. Pasiūlymai yra laukiami.
-
----------------------------------------------------------------------------
-
-## SUDURTINIO ĮVEDIMO MYGTUKAS IR SPAUDŲ ĮVEDIMO BŪDAS JUO
-
-_Sudurtinio įvedimo mygtuku_ (angliškai vadinamas ‘Multi key’ ar ‘Compose key’) įvedamas papildomas norimas ženklas taip: pirma — spaudžiamas sudurtinio įvedimo mygtukas (ar atitinkamas mygtukų derinys), antra — spaudžiama tam tikra dviejų ar trijų ženklų seka, trečia — gaunamas reikiamas ženklas. Pavyzdžiui, paspaudus (ir atleidus) sudurtinį mygtuką, o paskui surinkus ‘d’ ir po to ‘i’, išdavoje gaunamas ‘⌀’ (skersmens ženklas).
-    
-+ Linux aplinkoje ‘Tab’ Ratisės trečiajame lygyje veikia kaip _sudurtinio įvedimo mygtukas_.
-+ Skirtingose skaitmeninėse aplinkose sudurtinio įvedimo palaikymas įvairuoja, norintiems juo naudotis gali prireikti įsidiegti papildomą skaitmeninę įrangą ir pasidomėti tenais prieinamomis sudurtinio įvedimo ženklų sekomis.
-
-Plačiau apie sudurtinį įvedimą (angliškai): 
-
-https://en.wikipedia.org/wiki/Compose_key
-
-https://help.ubuntu.com/community/ComposeKey
-
 
 -------------------------
 [Į pradžią](../README.md)
