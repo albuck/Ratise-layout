@@ -91,6 +91,8 @@ PAPILDYMAI:
 
 [TĘSTIES MYGTUKAI](docs/testies_mygtukai.md)
 
+[SUDURTINIS ĮVEDIMAS](docs/sudurt_ivedimas.md)
+
 [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
 
 [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
