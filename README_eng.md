@@ -2,7 +2,7 @@
 
 ------------------------------------
 
-# Lithuanian Ergonomic Keyboard Layout "Ratise"
+# Lithuanian Ergonomic Keyboard Layout ŪĖYOQJ or "Ratise"
 
 version 2.0
 
