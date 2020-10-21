@@ -29,9 +29,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 11. QWERTY Baltic (ISO) — 43.71
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
 
-\* Kiek teko bandyti, skirtinguose lietuviškuose tekstuose ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60. Visgi, visuose bandytuose lietuviškuose tekstuose ratisė pirmavo.
-
-
+\* Kiek teko bandyti, skirtinguose lietuviškuose tekstuose ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
 • Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
@@ -47,12 +45,11 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
 
 • Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
-__Pastaba__: palaukite kol iki galo užsikraus nuorodos puslapis, jei neužsikraus, nuėję į tą puslapį nurašykite nuorodą tiesiai į naršyklės adreso lauką ir bandykite vėl įkrauti.
-
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
 + Imti nedideli tekstų pavyzdžiai.
+
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
