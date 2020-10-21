@@ -30,6 +30,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
 
 \* Kiek teko bandyti, skirtinguose lietuviškuose tekstuose ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
+
 • Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
