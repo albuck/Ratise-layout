@@ -1,0 +1,39 @@
+
+2020-11-30
+----------
+
+Ratisės laidos 2.1 keitimai:
+
+
+Trečiajame išdėstymo lygyje:
+
+— vietoje daugtaškio įdėtas '¬' (daugtaškis dabar prieinamas per tęsties mygtuką);
+— vietoje nepertraukiamojo brūkšnelio (kuris dabar prieinamas per tęsties mygtuką) įdėtas uždėtinis taškas (lietuviško 'i' kirčiavimo uždėtinėmis priegaidėmis patogumui).
+
+
+Ketvirtajame lygyje:
+
+— Ratisė išskirta į dvi savo atmainas: su uždėtiniais ženkleliais (Ratisė) ir su tęsties mygtukais (Ratisė TM);
+— Pertvarkyti, pridėti, išimti keli ženklai.
+
+
+Tęsties mygtukai ir jų lygių spaudai:
+
+— panaikintas uždėtinio taško tęsties mygtukas;
+— perkelti kiek kitosna vietosna kiti keli tęsties mygtukai;
+— kiek pertvarkyti ženklai tęsties lygiuose;
+— kiek papildyti ženklais tęsties mygtukų lygiai.
+
+
+Papildomi Ratisės išdėstymai:
+
+— visuose išdėstymuose suvienodinti ženklai trečiame ir ketvirtame lygiuose su pagrindiniu Ratisės išdėstymu (Kirilicos išėstymą tai mažiau palietė);
+— latviškame išdėstyme sukeistos vietomis Q, Ō ir Ū raidės, paliktas tik Cedilos tęsties mygtukas;
+— germaniškame išdėstyme sukeistos vietomis Ö ir Ü raidės;
+— rusiškame (Kirilica) išdėstyme sukeistos raidės Ў ir Щ, bei Х ir Ґ vietomis; trečiajame-ketvirtajame lygyje perkeltas Џ kiton vieton bei pridėtas Ѕ (dze), vietoje Ӕ įdėta Ӏ (palochka);
+— pašalinti tęsties mygtukai kituose papildomuosiuose išdėstymuose;
+
+
+---
+
+
