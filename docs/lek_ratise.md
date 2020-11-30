@@ -9,10 +9,10 @@ Ratisė:
 
 ![Ratisės išdėstymas](images/lek_ratise_layout.png)
 
-Ratisė TM (su tęsties mygtukais):
+- 1 — Pagrindinis lygis; 2 — "Shift" lygis; 3 — "AltGr" lygis; 4 — "AltGr+Shift" lygis.
+
+Ratisė TM (su tęsties mygtukais ketvirtame lygyje vietoje atitinkamų uždėtinių spaudų bei 'ə' ir 'ı' raidžių):
 
 ![Ratisės išdėstymas](images/lek_ratise_tm_layout.png)
-
-- 1 — Pagrindinis lygis; 2 — "Shift" lygis; 3 — "AltGr" lygis; 4 — "AltGr+Shift" lygis.
 
 __Pastaba__. Būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais kairiausiasiais ir dešiniausiasiais mygtukais.
