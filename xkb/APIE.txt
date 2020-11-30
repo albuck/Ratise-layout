@@ -1,27 +1,34 @@
-Tai yra 'Linux' ir 'Unix' sistemoms skirti lietuviško ergonomiško klaviatūros išdėstymo "Ratisė" XKB* valdyklės.
+Tai yra 'Linux'ams ir 'Unix'ams skirti lietuviško klaviatūros išdėstymo "Ratisė" XKB* valdyklės.
 
-Aplanko turinys:
+Turinys:
+--------
 
-'lt.txt' — Ratisė išdėstymas.
-'lv.txt' — Ratisės latviškas garsmeninis (fonetinis) išdėstymas.
-'ger.txt' — Ratisės germaniškas garsmeninis (fonetinis) išdėstymas.
-'ru.txt' — Ratisės rusiškas garsmeninis (fonetinis) kirilika išdėstymas.
-'ratise-evdev.txt' — bylos turinys yra intarpas į '/usr/share/X11/xkb/rules/evdev.xml' bylą, reikalingas, kad išdėstymus šiuos galima būtų pasirinkti iš klaviatūros nustatymų.
-'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams.
+'ratise.txt' — Ratisės išdėstymas.
+'ratisetm.txt' — Ratisės išdėstymas su tęsties mygtukais (angl. Dead keys).
+'ratiselv.txt' — Ratisės latviškas garsmeninis (fonetinis) išdėstymas.
+'ratiseru.txt' — Ratisės rusiškas garsmeninis (fonetinis) kirilica išdėstymas.
+'ratiseg.txt' — Ratisės germaniškas garsmeninis (fonetinis) išdėstymas.
+
+'evdev_intarpai.txt' — bylos turinys yra intarpas į '/usr/share/X11/xkb/rules/evdev.xml' bylą, reikalingas, kad išdėstymus šiuos galima būtų pasirinkti iš klaviatūros nustatymų.
+'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams (veiks tik išdėstymams su tęsties mygtukais).
 
 
 Diegimas**:
+-----------
 
 Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgaliojimą.
 
-1a. Pilnas diegimas — 'lt.txt', 'lv.txt', 'ger.txt', 'ru.txt' turinį paeiliui tvarkingai, išsaugojant skiriamąsias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos pabaigą iki "// EXTRAS:" įrašo, išsaugoti bylą. Įrašus esančius 'ratise-evdev.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian (LEKPa)" išdėstymo įrašo (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą. Toliau jau galite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
+1a. Pilnas diegimas — 'ratise.txt', 'ratisetm.txt', 'ratiselv.txt', 'ratiseru.txt', 'ratiseg.txt' turinį paeiliui tvarkingai, išsaugojant skiriamąsias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos galą, išsaugoti bylą. Atitinkamus išdėstymus įrašus esančius 'evdev-intarpai.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian ..." išdėstymų įrašų (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų, imtinai), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą. Toliau jau galite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
 
-1b. Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas bylas į 'lt', 'lv', 'de' (ar į kitą germanų kalbą), 'ru' ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senąsias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV, DE, RU išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais. Šitokio diegimo atveju, naujai įdiegtus klaviatūros išdėstymus reikėtų iškart pasirinkti po diegimo, pašalinant senus pasirinkimus klaviatūros nustatymuose.
+1b. Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas klaviatūros išdėstymų bylas į 'lt', 'lv', 'ru', 'de' (ar į kokią kitą germanų kalbą) — ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senąsias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV, RU, DE išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais. Šitokio diegimo atveju, naujai įdiegtus klaviatūros išdėstymus reikėtų iškart pasirinkti po diegimo, pašalinant senus pasirinkimus klaviatūros nustatymuose.
 
-2. (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje). Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros.
+2. (žingsnis jeigu norite naudotis papildomais ratisės tęstinių mygtukų ženklais) 'XCompose' patalpinti į namų aplanką ir pervardinti į '.XCompose' (pridėti tašką pradžioje). Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros. 
+// Pasebėtas neaiškus trūkumas: ne visų įtrauktų į '.XCompose' ženklų įvedimas suveikia.//
  
 
 Pastabos:
+---------
 
 * XKB aplanko vieta skirtingose Linux ir Unix atmainose gali būti kiek skirtinga (pavyzdžiui, FreeBSD: /usr/local/share/X11/xkb).
 ** Tokio diegimo trūkumas, kad atsinaujinant sistemai jeigu bus atnaujintos šito diegimo pakeistos bylos, ratisės išdėstymus teks diegti vėl.
+

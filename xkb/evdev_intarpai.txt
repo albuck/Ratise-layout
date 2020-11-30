@@ -1,0 +1,31 @@
+        <variant>
+          <configItem>
+            <name>ratise</name>
+            <description>Lithuanian (Ratise)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>ratisetm</name>
+            <description>Lithuanian (Ratise, with dead keys)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>ratiselv</name>
+            <description>Latvian (Ratise)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>ratiseg</name>
+            <description>Germanic (Ratise)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>ratiseru</name>
+            <description>Russian (Ratise Cyrillic Phonetic)</description>
+          </configItem>
+        </variant>
+
