@@ -1,8 +1,0 @@
-Tai yra '﻿Windows NT 4.0' sistemai skirta lietuviško ergonomiško klaviatūros išdėstymo "Ratisė" valdyklė.
-
-Diegimas:
-
-Aplanke esnačią bylą įrašykite 'kbdlt.dll' į Windows'ų 'System32' aplanką.
-Jeigu sistemoje yra įdiegtas LitWinNT paketas, tai minėtą bylą pervadinkite į 'kbdlta.dll'.
-Tiesa, komandinės eilutės aplinkoje galėsite naudotis šiuo klaviatūros išdėstymu tik įdiegę LitWinNT paketą.
-...'kbdru.dll' – atatinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
