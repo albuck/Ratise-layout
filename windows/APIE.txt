@@ -27,4 +27,5 @@ Tiesa, komandinės eilutės aplinkoje galėsite naudotis šiuo klaviatūros išd
 
 
 ! Klaviatūros raktai šiose valdyklėse kaip ir QWERTY išdėstyme.
+! Prieš atnaujindami Ratisės išdėstymus į naujus, senuosius iš anksto išdiekite.
 
