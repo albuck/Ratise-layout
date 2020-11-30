@@ -22,7 +22,7 @@ __Pastabos__:
 + Skirtingose skaitmeninėse aplinkose tęsties mygtukų lygių palaikymas kiek įvairuoja ir turi savo ypatumų. _MacOS_ turi papildomą galimybę įvesti tęsties spaudo uždėtinį antrininką spaudžiant tarpą kartu su ‘Option’(‘Alt’).
 + _Haiku_ aplinkoje tęsties mygtukų lygiai palaikomi tik dalinai.
 
-Išsamų spaudų esančių tęsties mygtukų lygiuose aprašymą rasite textinėse bylose: SPECIFICATIONS.txt bei SUPPLEMENT_SPECIFICATIONS.txt
+Išsamų spaudų esančių tęsties mygtukų lygiuose aprašymą rasite tekstinėse bylose: SPECIFICATIONS.txt bei SUPPLEMENT_SPECIFICATIONS.txt
 
 -------------------------
 [Į pradžią](../README.md)
