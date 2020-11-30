@@ -29,6 +29,3 @@ __AZERTY Lithuanian Standard 2000:__ !mM^ {#$&789}
 __QWERTY Lithuanian Baltic:__ mM {!@#$%^&789}
 
 __LEKP:__ .@
-
-
----------------------------------------
