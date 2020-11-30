@@ -4,7 +4,7 @@
 
 # Lithuanian Ergonomic Keyboard Layout ŪĖYOQJ or "Ratise"
 
-version 2.0
+version 2.1
 
 ------------------------------------------------------------------------------------
 
@@ -12,6 +12,9 @@ version 2.0
 
 !["Ratise" Layout](docs/images/lek_ratise_layout.png)
 
+#### Lithuanian Ratise TM (with dead keys) layout:
+
+!["Ratise TM" Layout](docs/images/lek_ratise_tm_layout.png)
 
 + The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
 
