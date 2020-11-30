@@ -1,0 +1,6 @@
+'Windows 9x' sistemoms skirta lietuviško klaviatūros išdėstymo "Ratisė" valdyklė.
+
+Diegimas:
+
+įrašykite aplanke esnačią bylą 'kbdlt.kbd' į Windows'ų 'System' aplanką.
+Jeigu sistemoje yra įdiegtas 'LitWin98' paketas, tai minėtą bylą pervadinkite į 'kbdlta.dll'.
