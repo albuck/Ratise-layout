@@ -1,8 +1,9 @@
 
 2020-11-30
-----------
+==========
 
 Ratisės laidos 2.1 keitimai
+---------------------------
 
 — Ratisė išskirta į dvi savo atmainas besiskiriančias ketvirtuoju lygiu: su uždėtiniais ženkleliais (Ratisė) ir su tęsties mygtukais (Ratisė TM);
 
