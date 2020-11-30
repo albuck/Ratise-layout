@@ -4,6 +4,8 @@
 
 Ratisės laidos 2.1 keitimai
 
+— Ratisė išskirta į dvi savo atmainas besiskiriančias ketvirtuoju lygiu: su uždėtiniais ženkleliais (Ratisė) ir su tęsties mygtukais (Ratisė TM);
+
 
 Trečiajame išdėstymo lygyje:
 
@@ -13,14 +15,13 @@ Trečiajame išdėstymo lygyje:
 
 Ketvirtajame lygyje:
 
-— Ratisė išskirta į dvi savo atmainas: su uždėtiniais ženkleliais (Ratisė) ir su tęsties mygtukais (Ratisė TM);
-— Pertvarkyti, pridėti, išimti keli ženklai.
+— Perketi ( ¶¦±•© ̂ ), pridėti ( ´∞ƒŋɔ[əı] ), išimti ( ™̇–¬ ) (liko prieinami per tęsties mygtuką ar kitoje vietoje);
+— Perkelti-sukeisti vietomis tęsties mygtukai;
+— panaikintas uždėtinio taško tęsties mygtukas.
 
 
-Tęsties mygtukai ir jų lygių spaudai:
+Tęsties mygtukų lygių spaudai:
 
-— panaikintas uždėtinio taško tęsties mygtukas;
-— perkelti kiek kitosna vietosna kiti keli tęsties mygtukai;
 — kiek pertvarkyti ženklai tęsties lygiuose;
 — kiek papildyti ženklais tęsties mygtukų lygiai.
 
