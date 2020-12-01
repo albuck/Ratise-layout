@@ -19,7 +19,7 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 
 + Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite: [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md)
 
-+ Darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
++ Išsamus darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
 + _Ratisės išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
