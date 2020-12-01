@@ -17,7 +17,7 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 
  + „Ratisė“ pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
-+ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
++ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md)
 
 + Darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
