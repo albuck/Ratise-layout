@@ -33,7 +33,7 @@ Papildomi Ratisės išdėstymai:
 — latviškame išdėstyme sukeistos vietomis Q, Ō ir Ū raidės, paliktas tik Cedilos tęsties mygtukas;
 — germaniškame išdėstyme sukeistos vietomis Ö ir Ü raidės;
 — rusiškame (Kirilica) išdėstyme sukeistos raidės Ў ir Щ, bei Х ir Ґ vietomis; trečiajame-ketvirtajame lygyje perkeltas Џ kiton vieton bei pridėtas Ѕ (dze), vietoje Ӕ įdėta Ӏ (palochka);
-— pašalinti tęsties mygtukai kituose papildomuosiuose išdėstymuose;
+— pašalinti tęsties mygtukai papildomuosiuose išdėstymuose;
 
 
 ---
