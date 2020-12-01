@@ -21,7 +21,7 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 
 + Išsamus darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt)
 
-+ _Ratisės išdėstymo_ valdyklės yra prieinamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
++ _Ratisės išdėstymo_ valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
 [›› Parsisiųsti Ratisės išdėstymą ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
 
