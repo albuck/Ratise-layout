@@ -3,7 +3,7 @@
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
-Teikiamos dvi Ratisės išdėstymų atmainos, besiskiriančios ženklais ketvirtuose lygiuose.
++ Teikiamos dvi Ratisės išdėstymų atmainos, besiskiriančios ženklais ketvirtuose lygiuose.
 
 
 ### Ratisės 1-sis lygis
