@@ -17,7 +17,7 @@ Supplement layouts:
 3. Ratise Cyrillic Phonetic Layout
 
 
-This are four levels keyboard layouts:
+These are four level keyboard layouts:
 --------------------------------------
 
 L1 — unmodified first level
