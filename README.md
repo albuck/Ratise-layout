@@ -30,9 +30,9 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 PAPILDYMAI:
 -----------
 
-[RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
-
 [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
+
+[RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
 
 [RATISĖS KETURIŲ LYGIŲ ŽENKLAI VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
 
@@ -53,9 +53,9 @@ PAPILDYMAI:
 
 ## Papildomi išdėstymai:
 
-[RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
-
 [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
+
+[RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
 
 [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
