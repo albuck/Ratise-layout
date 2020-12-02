@@ -36,9 +36,9 @@ PAPILDYMAI:
 
 [RATISĖ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
 
-[TĘSTIES MYGTUKAI](docs/testies_mygtukai.md)
+[TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
 
-[SUDURTINIS ĮVEDIMAS](docs/sudurt_ivedimas.md)
+[SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurt_ivedimas.md)
 
 [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
 
