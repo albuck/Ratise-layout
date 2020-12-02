@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
-TĘSTIES MYGTUKAI
-----------------
+TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI
+----------------------------------------
 
 Pasinaudojus tęsties mygtukais galima įvesti daugiau papildomų ženklų, kurie nėra prieinami įprastuose išdėstymo lygiuose. Kiekvienas tęsties mygtukas turi lyg ir papildomą išdėstymo tęsties lygį.
 
