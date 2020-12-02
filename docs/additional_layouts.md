@@ -8,7 +8,7 @@ These are four level layouts:
  1. first level
  2. shifted second level
  3. AltGr third level
- 4. shifted AltGr level
+ 4. shifted AltGr fourth level
  
  ------------------------------------------------------------------------------------
 
