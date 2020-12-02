@@ -9,7 +9,8 @@ These are four level layouts:
  2. shifted second level
  3. AltGr third level
  4. shifted AltGr level
-
+ 
+ ------------------------------------------------------------------------------------
 
 ### Germanic Ratise:
 
@@ -17,6 +18,7 @@ These are four level layouts:
 
 • Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
+------------------------------------------------------------------------------------
 
 ### Latvian Ratise:
 
@@ -24,6 +26,7 @@ These are four level layouts:
 
 • Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
+------------------------------------------------------------------------------------
 
 ### Cyrillic Ratise:
 
