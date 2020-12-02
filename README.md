@@ -34,7 +34,7 @@ PAPILDYMAI:
 
 [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
 
-[RATISĖ VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
+[RATISĖS LYGIŲ ŽENKLAI VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
 
 [TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
 
