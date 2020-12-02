@@ -20,4 +20,3 @@ This is four level layout:
 #### Lithuanian Ratisė TM (with dead keys):
 
 ![Ratise TM layout](images/lek_ratise_tm_layout.png)
-
