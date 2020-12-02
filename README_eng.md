@@ -25,7 +25,7 @@ Vowels and consonants are distinguished for different hands. The more frequently
 ADDITIONS:
 ----------
 
-[RATISE WITH ALL CHARACTERS IN ONE PICTURE](docs/ratise_levels.md)
+[LITHUANIAN RATISE WITH ALL CHARACTERS IN ONE PICTURE](docs/ratise_levels.md)
 
 [ADDITIONAL LAYOUTS](docs/additional_layouts.md)
 
