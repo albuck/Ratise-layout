@@ -29,3 +29,8 @@ __AZERTY Lithuanian Standard 2000:__ !mM^ {#$&789}
 __QWERTY Lithuanian Baltic:__ mM {!@#$%^&789}
 
 __LEKP:__ .@
+
+
+QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženklai viename paveikslėjyje:
+
+![QWERTY ir Ratisė](images/qwerty-ratise.png)
