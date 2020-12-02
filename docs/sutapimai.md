@@ -9,7 +9,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 ![QWERTY ir Ratisė](images/qwerty-ratise.png)
 
 
-#### Sutapimai su kitais išdėstymais:
+### Sutapimai su kitais išdėstymais:
 
 __Dvorak:__ tTxXmM@#$%& {!^789-}
 
