@@ -6,13 +6,15 @@
 
 version 2.1
 
+![Ratise](docs/images/ratise.png)
+
 ------------------------------------------------------------------------------------
 
-### Lithuanian Ratise layout:
+### Lithuanian Ratise:
 
 !["Ratise" Layout](docs/images/lek_ratise_layout.png)
 
-#### Lithuanian Ratise TM (with dead keys) layout:
+### Lithuanian Ratise TM (with dead keys):
 
 !["Ratise TM" Layout](docs/images/lek_ratise_tm_layout.png)
 
@@ -25,21 +27,21 @@ version 2.1
 ## ADDITIONAL LAYOUTS
 
 
-### Germanic Ratise layout:
+### Germanic Ratise:
 
 !["Ratise" Germanic](docs/images/lek_ratise_germanic.png)
 
 • Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
 
-### Latvian Ratise layout:
+### Latvian Ratise:
 
 !["Ratise" Latvian](docs/images/lek_ratise_latvian.png)
 
 • Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
 
-### Cyrillic Ratise layout:
+### Cyrillic Ratise:
 
 !["Ratise" Cyrillic](docs/images/lek_ratise_cyrillic_layout.png)
 
