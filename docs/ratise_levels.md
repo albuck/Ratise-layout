@@ -3,7 +3,14 @@
 RATISE WITH ALL CHARACTERS IN ONE PICTURE
 -----------------------------------------
 
-There are two versions of the Ratise layout differing in some characters at the fourth level.
+This is four levels keyboard layout:
+
+1 — first level
+2 — shifted second level
+3 — AltGr third level
+4 — shifted AltGr level
+
++ There are two versions of the Ratise layout differing in some characters at the fourth level.
 
 ### Ratisė:
 
