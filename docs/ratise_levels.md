@@ -3,7 +3,7 @@
 RATISE WITH ALL CHARACTERS IN ONE PICTURE
 -----------------------------------------
 
-This is four levels layout:
+This is four level layout:
 
  1. first level
  2. shifted second level
