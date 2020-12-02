@@ -9,7 +9,7 @@ Lithuanian Ergonomic Computer Keyboard Layout ŪĖYOQJ or "Ratise"
 version 2.1
 
 
-This is four levels keyboard layout:
+This is four level keyboard layout:
 ------------------------------------
 
 L1 — unmodified first level
