@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
-SUDURTINIS ĮVEDIMAS IR JO MYGTUKAS
-----------------------------------
+SUDURTINIS ŽENKLŲ ĮVEDIMAS IR JO MYGTUKAS
+-----------------------------------------
 
 Sudurtinio spaudų įvedimo būdas nepriklauso nuo pačio išdėstymo. Išdėstyme gali būti nurodytas tik tokio įvedimo būdo įjungimo mygtukas.
 
