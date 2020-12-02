@@ -4,7 +4,12 @@
 Ratisės sutapimai su kitais išdėstymais
 ---------------------------------------
 
-* Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
+Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženklai viename paveikslėjyje:
+
+![QWERTY ir Ratisė](images/qwerty-ratise.png)
+
+
+Sutapimai su kitais išdėstymais:
 
 __Dvorak:__ tTxXmM@#$%& {!^789-}
 
@@ -13,8 +18,6 @@ __Colemak:__ jJmM@#$%& {!^789}
 __Maltron:__ iIyY@#$%& {!^789}
 
 __Turkų F:__ uUaAnN+$% {!789}
-
-__QWERTY:__ mM@#$%& {!^789}
 
 __Workman:__ jJ@#$%& {!^789}
 
@@ -30,7 +33,4 @@ __QWERTY Lithuanian Baltic:__ mM {!@#$%^&789}
 
 __LEKP:__ .@
 
-
-QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženklai viename paveikslėjyje:
-
-![QWERTY ir Ratisė](images/qwerty-ratise.png)
+* Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
