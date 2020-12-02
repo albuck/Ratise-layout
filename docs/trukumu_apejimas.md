@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
 RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
-------------------------------------------
+----------------------------------------------
 
 1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ‘AltGr’ (dešinysis Alt)__.
  + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ‘Alt+Ctrl’ (‘Alt+Vald’). Tai nėra labai patogu. Bet pasinaudojus papildomomis priemonėmis, tokiomis kaip ‘KeyTweak’, galima ‘AltGr’ veikimą priskirti kairiajam ‘Alt’, o šio ‘Alt’ veikimą priskirti ‘Win’ mygtukui, o ‘Win’ mygtuko veikimą priskirti dešinėje esančiam ‘Menu‘ mygtukui ar panašiai.
