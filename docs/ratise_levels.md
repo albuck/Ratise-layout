@@ -12,7 +12,7 @@ This is four level layout:
 
 + There are two versions of the Ratise layout differing in some characters at the fourth level.
 
-### Ratisė:
+#### Ratisė:
 
 ![Ratise layout](images/lek_ratise_layout.png)
 
