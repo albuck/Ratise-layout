@@ -8,6 +8,14 @@ version 2.1
 
 ![Ratise](docs/images/ratise.png)
 
++ The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
+
++ [Read more about "Ratise" layout (in lithuanian)](README.md)
+
++ _"Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
+
+[›› Download "Ratise" layout ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
+
 ------------------------------------------------------------------------------------
 
 ### Lithuanian Ratise:
@@ -17,10 +25,6 @@ version 2.1
 ### Lithuanian Ratise TM (with dead keys):
 
 !["Ratise TM" Layout](docs/images/lek_ratise_tm_layout.png)
-
-+ The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
-
-+ [Read more about "Ratise" layout (in lithuanian)](README.md)
 
 ------------------------------------------------------------------------------------
 
@@ -46,13 +50,6 @@ version 2.1
 !["Ratise" Cyrillic](docs/images/lek_ratise_cyrillic_layout.png)
 
 • Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
-
-------------------------------------------------------------------------------------
-
-+ _"Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
-
-[›› Download "Ratise" layout ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
-
 
 ------------------------------------------------------------------------------------
 
