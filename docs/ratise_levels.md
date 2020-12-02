@@ -12,12 +12,12 @@ This is four level layout:
 
 + There are two versions of the Ratise layout differing in some characters at the fourth level.
 
-#### Ratisė:
+#### Lithuanian Ratisė:
 
 ![Ratise layout](images/lek_ratise_layout.png)
 
 
-#### Ratisė TM (with dead keys):
+#### Lithuanian Ratisė TM (with dead keys):
 
 ![Ratise TM layout](images/lek_ratise_tm_layout.png)
 
