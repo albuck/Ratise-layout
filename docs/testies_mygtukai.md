@@ -26,7 +26,7 @@ __Pastabos__:
 
 
 ### Žiedelis viršuje (˚):
-
+```
 - ␣ → ̊ (ŽIEDELIS VIRŠUJE)
 - A → Å (LOTYNŲ DIDŽIOJI RAIDĖ A SU ŽIEDELIU VIRŠUJE)
 - a → å (LOTYNŲ MAŽOJI RAIDĖ A SU ŽIEDELIU VIRŠUJE)
@@ -92,10 +92,10 @@ __Pastabos__:
 - z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 - Ž → Ψ (GRAIKŲ DIDŽIOJI RAIDĖ PSI)
 - ž → ψ (GRAIKŲ MAŽOJI RAIDĖ PSI)
-
+```
 
 ### Stogelis viršuje (ˆ):
-
+```
 - 0 → ⁰ (ANTRAŠINIS NULIS)
 - 1 → ¹ (ANTRAŠINIS VIENAS)
 - 2 → ² (ANTRAŠINIS DU)
@@ -168,10 +168,10 @@ __Pastabos__:
 - v → ◁ (BALTASIS KAIRĖNKRYPTIS TRIKAMPIS)
 - W → Ŵ (LOTYNŲ DIDŽIOJI RAIDĖ W SU STOGELIU)
 - w → ŵ (LOTYNŲ MAŽOJI RAIDĖ W SU STOGELIU)
-
+```
 
 ### Brūkšnys (viršuje) (¯):
-
+```
 - € → ɟ (LOTYNŲ MAŽOJI RAIDĖ BETAŠKIS J SU PERBRAUKIMU)
 - ̃  → ʰ (KEITIKLINĖ RAIDĖ MAŽOJI H)
 - A → Ā (LOTYNŲ DIDŽIOJI RAIDĖ A SU BRŪKŠNIU)
@@ -234,10 +234,10 @@ __Pastabos__:
 - ) → ⦈ (Z PASTABŲ DEŠININO VAIZDO SKLIAUSTAS)
 - Z → Ƶ (LOTYNŲ DIDŽIOJI RAIDĖ Z SU PERBRAUKIMU)
 - z → ƶ (LOTYNŲ MAŽOJI RAIDĖ Z SU PERBRAUKIMU)
-
+```
 
 ### Kairinis kirčio ženklas (`):
-
+```
 - A → À (LOTYNŲ DIDŽIOJI RAIDĖ A SU KAIRINIU KIRČIU)
 - a → à (LOTYNŲ MAŽOJI RAIDĖ A SU KAIRINIU KIRČIU)
 - Ą → Ɑ (LOTYNŲ DIDŽIOJI RAIDĖ ALPHA)
@@ -274,10 +274,10 @@ __Pastabos__:
 - W → Ẁ (LOTYNŲ DIDŽIOJI RAIDĖ W SU KAIRINIU KIRČIU)
 - w → ẁ (LOTYNŲ MAŽOJI RAIDĖ W SU KAIRINIU KIRČIU)
 - ' → ʼ (KEITIKLINĖ RAIDĖ "APOSTROPHE")
-
+```
 
 ### Dešininis kirčio žeklas (´):
-
+```
 - A → Á (LOTYNŲ DIDŽIOJI RAIDĖ A SU DEŠININIU KIRČIU)
 - a → á (LOTYNŲ MAŽOJI RAIDĖ A SU DEŠININIU KIRČIU)
 - ␣ → ´ (DEŠININIS KIRTIS)
@@ -343,10 +343,10 @@ __Pastabos__:
 - w → ẃ (LOTYNŲ MAŽOJI RAIDĖ W SU DEŠININIU KIRČIU)
 - Z → Ź (LOTYNŲ DIDŽIOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 - z → ź (LOTYNŲ MAŽOJI RAIDĖ Z SU DEŠININIU KIRČIU)
-
+```
 
 ### Dutaškis (viršuje) (¨):
-	
+```	
 - 1 → ½ (PRASTA TRUPMENA VIENA ANTROJI)
 - 3 → ¾ (PRASTA TRUPMENA TRYS KETVIRTOSIOS)
 - 4 → ¼ (PRASTA TRUPMENA VIENA KETVIRTOJI)
@@ -405,10 +405,10 @@ __Pastabos__:
 - w → ẅ (LOTYNŲ MAŽOJI RAIDĖ W SU DUTAŠKIU)
 - X → Ẍ (LOTYNŲ DIDŽIOJI RAIDĖ X SU DUTAŠKIU)
 - x → ẍ (LOTYNŲ MAŽOJI RAIDĖ X SU DUTAŠKIU)
-
+```
 
 ### Riestinis kirčio ženklas (bangelė) (˜):
-
+```
 - : → ː (KEITIKLINĖ RAIDĖ TRIKAMPIS DVITAŠKIS)
 - . → ˑ (PUSĖ KEITIKLINĖS RAIDĖS TRIKAMPIS DVITAŠKIS)
 - A → Ã (LOTYNŲ DIDŽIOJI RAIDĖ A SU BANGELE)
@@ -464,10 +464,10 @@ __Pastabos__:
 - V → Ṽ (LOTYNŲ DIDŽIOJI RAIDĖ V SU BANGELE)
 - v → ṽ (LOTYNŲ MAŽOJI RAIDĖ V SU BANGELE)
 - | → ⸾ (VINGIUOTA STAČIA LINIJA, VINGALAS)
-
+```
 
 ### Kablelis apačioje (¸):
-
+```
 - ␣ → ¸ (KABLYS "CEDILLA")
 - ̃  → ʱ (KEITIKLINĖ RAIDĖ MAŽOJI H SU KABE)
 - 0 → ∅ (TUŠČIA AIBĖ)
@@ -512,10 +512,10 @@ __Pastabos__:
 - z → ⚡ (AUKŠTOS ĮTAMBOS ŽENKLAS)
 - Ž → Ż (LOTYNŲ DIDŽIOJI RAIDĖ Z SU TAŠKU VIRŠUJE)
 - ž → ż (LOTYNŲ MAŽOJI RAIDĖ Z SU TAŠKU VIRŠUJE)
-
+```
 
 ### Lankelis viršuje (˘):
-
+```
 - ␣ → ˘ (LANKELIS)
 - A → Ă (LOTYNŲ DIDŽIOJI RAIDĖ A SU LANKELIU)
 - a → ă (LOTYNŲ MAŽOJI RAIDĖ A SU LANKELIU)
@@ -588,10 +588,10 @@ __Pastabos__:
 - v → ʋ (LOTYNŲ MAŽOJI RAIDĖ V SU KABE)
 - z → ʑ (LOTYNŲ MAŽOJI RAIDĖ Z SU KILPA)
 - ž → ʓ (LOTYNŲ MAŽOJI RAIDĖ EZH SU KILPA)
-
+```
 
 ### Varnelė (viršuje) (ˇ):
-
+```
 - ␣ → ˇ (VARNELĖ)
 - 0 → ₀ (PORAŠINIS NULIS)
 - 1 → ₁ (PORAŠINIS VIENAS)
@@ -658,7 +658,7 @@ __Pastabos__:
 - z → ǯ (LOTYNŲ MAŽOJI RAIDĖ EZH SU VARNELE)
 - Ž → Ʒ (LOTYNŲ DIDŽIOJI RAIDĖ EZH)
 - ž → ʒ (LOTYNŲ MAŽOJI RAIDĖ EZH)
-
+```
 -------------------------
 [Į pradžią](../README.md)
 
