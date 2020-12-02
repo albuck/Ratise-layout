@@ -3,7 +3,7 @@
 ADDITIONAL LAYOUTS
 ------------------
 
-These are four levels layouts:
+These are four level layouts:
 
  1. first level
  2. shifted second level
