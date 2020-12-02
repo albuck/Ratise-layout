@@ -1,6 +1,6 @@
 [To the top](../README_eng.md)
 
-RATISE WITH ALL CHARACTERS IN ONE PICTURE
+LITHUANIAN RATISE WITH ALL CHARACTERS IN ONE PICTURE
 -----------------------------------------
 
 This is four level layout:
