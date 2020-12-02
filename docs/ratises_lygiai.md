@@ -1,4 +1,7 @@
-## RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
+[Į pradžią](../README.md)
+
+RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
+-------------------------------
 
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
