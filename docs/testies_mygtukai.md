@@ -22,7 +22,7 @@ __Pastabos__:
 + Skirtingose skaitmeninėse aplinkose tęsties mygtukų lygių palaikymas kiek įvairuoja ir turi savo ypatumų.
 
 
-Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas ("renkamas ženlklas" → "gaunamas ženklas"; "␣" — tarpo žymė):
+Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas ("renkamas ženklas" → "gaunamas ženklas"; "␣" — tarpo žymė):
 
 
 ### Žiedelis viršuje (˚):
