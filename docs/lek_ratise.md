@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
-RATISĖS IŠDĖSTYMAS
------------------------
+RATISĖS KETURIŲ LYGIŲ ŽENKLAI VIENAME PAVEIKSLĖLYJE
+---------------------------------------------------
 
 Paveikslėliuose yra matomi ratisės išdėstymo visi keturių lygių ženklai. Palšiau pažymėta ne visose klaviatūrose būnantis brūkšnelio mygkukas bei __Z__ mygtuko galimos skirtingos vietos skirtingos darybos klaviatūrose (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais):
 
@@ -11,4 +11,4 @@ Paveikslėliuose yra matomi ratisės išdėstymo visi keturių lygių ženklai. 
 
 #### Ratisė TM (su tęsties mygtukais ketvirtame lygyje vietoje atitinkamų uždėtinių spaudų bei 'ə' ir 'ı' raidžių):
 
-![Ratisės išdėstymas](images/lek_ratise_tm_layout.png)
+![Ratisės TM išdėstymas](images/lek_ratise_tm_layout.png)
