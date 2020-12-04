@@ -134,5 +134,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
 http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
++ Geriausiai pasirodžiusioje klaviatūroje (Kinesis-ErgoDox) našiausias buvo toks kraštinių mygtukų ⟨+w?cfz-) išdėtymas: [png](images/ratise_kinesis-ergodox.png)
+
 -------------------------
 [Į pradžią](../README.md)
