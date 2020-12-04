@@ -88,8 +88,6 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/6FTltG9v
-
 
 ### Bendrai ‘Bash, C, CPP, Python’:
 
