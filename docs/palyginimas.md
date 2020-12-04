@@ -135,8 +135,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
 http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
-+ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo šiek tiek geriau).
-+ Kiek čia dar laiko tos išsaugotos aukščiau nuorodos į [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapį su išdėstymų patikromis dar galios, neaišku... kartais nesuveikia.
++ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo vos vos geriau).
 
 -------------------------
 [Į pradžią](../README.md)
