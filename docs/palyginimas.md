@@ -32,7 +32,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 \* Kiek teko bandyti, skirtinguose lietuviškuose tekstuose ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
 
-• Išsamiau (angliškai):
++ Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
 
@@ -45,7 +45,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
 
-• Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
++ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
@@ -69,7 +69,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
 12. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.18
 
 
-• Išsamiau (angliškai):
++ Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
 
@@ -117,7 +117,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 23. _QWERTY-Programmer (ANSI) — 31.28_
 
 
-• Išsamiau (angliškai):
++ Išsamiau (angliškai):
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
 
