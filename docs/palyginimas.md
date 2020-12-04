@@ -77,6 +77,7 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
 
+
 #### Lyginant su angliškais išdėstymais ratisė angliškuose tekstuose pasirodo labai gerai:
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
@@ -86,6 +87,8 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/7NPPckpp
 http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/6FTltG9v
 
 
 ### Bendrai ‘Bash, C, CPP, Python’:
