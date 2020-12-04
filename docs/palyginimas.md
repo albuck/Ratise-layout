@@ -107,13 +107,14 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 13. LEKP (ISO) — 41.96
 14. _Workman (ANSI) — 41.66_
 15. _Workman for Programmers (ANSI) — 39.33_
-16. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
-17. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
-18. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
-19. _QWERTY (ANSI) — 33.69_
-20. QWERTY Baltic (ANSI) — 32.33
-21. QWERTY Baltic (ISO) — 31.65
-22. _QWERTY-Programmer (ANSI) — 31.28_
+16. _Ergodox QWERTY (Kinesis Advantage) — 36.30_
+17. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 35.98
+18. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.69
+19. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 35.26
+20. _QWERTY (ANSI) — 33.69_
+21. QWERTY Baltic (ANSI) — 32.33
+22. QWERTY Baltic (ISO) — 31.65
+23. _QWERTY-Programmer (ANSI) — 31.28_
 
 
 • Išsamiau (angliškai):
@@ -129,6 +130,8 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
 http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H
 
 http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
+
+http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
 -------------------------
