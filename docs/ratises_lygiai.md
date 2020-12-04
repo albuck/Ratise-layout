@@ -54,7 +54,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 + Ant tarpo mygtuko užrašas ‘no’ reiškia, kad ketvirtajame lygyje tai yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 
 + Ratisės TM gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
-[Tęsties mygtukai](testies_mygtukai.md)
+[Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
 
 
 ### Ratisės Didžiųjų raidžių lygis
