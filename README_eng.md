@@ -27,7 +27,7 @@ ADDITIONS:
 
 [LITHUANIAN RATISE WITH ALL CHARACTERS IN ONE PICTURE](docs/ratise_levels.md)
 
-[ADDITIONAL LAYOUTS](docs/additional_layouts.md)
+[ADDITIONAL LAYOUTS (GERMANIC, LATVIAN, CYRILLIC](docs/additional_layouts.md)
 
 ------------------------------------------------------------------------------------
 
