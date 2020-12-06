@@ -45,11 +45,11 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 + Teikiamos dvi Ratisės išdėstymų ãtmainos, besiskiriančios kai kuriais ženklais ketvirtame lygyje.
 
-#### _Ratisė 4-sis lygis:
+#### _Ratisė 4-sis lygis:_
 
 ![Ketvirtasis lygis](images/lek_ratise_4l.png)
 
-#### _Ratisės TM (su tęsties mygtukais) 4-sis lygis:
+#### _Ratisės TM (su tęsties mygtukais) 4-sis lygis:_
 
 ![Ketvirtasis lygis](images/lek_ratise_tm_4l.png)
 
