@@ -6,8 +6,6 @@ RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
-+ Teikiamos dvi Ratisės išdėstymų ãtmainos, besiskiriančios ženklais ketvirtuose lygiuose.
-
 
 ### Ratisės 1-sis lygis
 
@@ -45,9 +43,13 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką kartu su _Antrojo lygio_ mygtuku (‘AltGr+Vald’).
 
++ Teikiamos dvi Ratisės išdėstymų ãtmainos, besiskiriančios ženklais ketvirtame lygyje.
+
+#### Ratisė:
+
 ![Ketvirtasis lygis](images/lek_ratise_4l.png)
 
-#### Ratisės TM (su tęsties mygtukais) 4-sis lygis:
+#### Ratisės TM (su tęsties mygtukais):
 
 ![Ketvirtasis lygis](images/lek_ratise_tm_4l.png)
 
