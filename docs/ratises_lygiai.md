@@ -43,7 +43,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką kartu su _Antrojo lygio_ mygtuku (‘AltGr+Vald’).
 
-+ Teikiamos dvi Ratisės išdėstymų ãtmainos, besiskiriančios ženklais ketvirtame lygyje.
++ Teikiamos dvi Ratisės išdėstymų ãtmainos, besiskiriančios kai kuriais ženklais ketvirtame lygyje.
 
 #### Ratisė:
 
