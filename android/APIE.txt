@@ -1,0 +1,3 @@
+Ratisė Androidui...
+
+kol kas tik ".kcm" netikrintas.
