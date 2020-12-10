@@ -39,7 +39,7 @@ Papildomi Ratisės išdėstymai:
 2020-12-10
 ==========
 
-— pataisyti kai kurie įrašai linux'iniame XCompose (reikalinga ženklams per tęsties mygtukus suvedimui), dabar turėtų suveikti visi.
+— pataisyti kai kurie įrašai Linux'iniame 'XCompose' (reikalinga ženklų per tęsties mygtukus suvedimui), dabar turėtų suveikti visi.
 
 ---
 
