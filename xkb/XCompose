@@ -49,7 +49,6 @@
 # UTF-8  (Unicode) compose sequences
 #
 # Made for Lithuanian Ratise (with dead keys) keymap ver. 2.1 by Algirdas Buckus <algirdasbuckus@gmail.com>
-# last changes 2020/12/04
 
 # Use the sequences from en_US.UTF-8 as the basis:
 include "/usr/share/X11/locale/en_US.UTF-8/Compose"
@@ -251,18 +250,18 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_acute> <U0068>    : "" Ue00d # LATIN SMALL LETTER I WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_acute> <U0074>    : "҂" U0482 # CYRILLIC THOUSANDS SIGN
 <dead_acute> <U007e>    : "≁" U2241 # NOT TILDE
-<dead_acute> <U0104>    : "" Ue000 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0105>    : "" Ue001 # LATIN SMALL LETTER A WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0116>    : "" Ue008 # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0117>    : "" Ue009 # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0118>    : "" Ue004 # LATIN CAPITAL LETTER E WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0119>    : "" Ue005 # LATIN SMALL LETTER E WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U012e>    : "" Ue00f # LATIN CAPITAL LETTER I WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U012f>    : "" Ue010 # LATIN SMALL LETTER I WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U016a>    : "" Ue01f # LATIN CAPITAL LETTER U WITH MACRON AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U016b>    : "" Ue020 # LATIN SMALL LETTER U WITH MACRON AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0172>    : "" Ue01b # LATIN CAPITAL LETTER U WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0173>    : "" Ue01c # LATIN SMALL LETTER U WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <Aogonek>    : "" Ue000 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <aogonek>    : "" Ue001 # LATIN SMALL LETTER A WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <Eabovedot>    : "" Ue008 # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <eabovedot>    : "" Ue009 # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <Eogonek>    : "" Ue004 # LATIN CAPITAL LETTER E WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <eogonek>    : "" Ue005 # LATIN SMALL LETTER E WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <Iogonek>    : "" Ue00f # LATIN CAPITAL LETTER I WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <iogonek>    : "" Ue010 # LATIN SMALL LETTER I WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <Umacron>    : "" Ue01f # LATIN CAPITAL LETTER U WITH MACRON AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <umacron>    : "" Ue020 # LATIN SMALL LETTER U WITH MACRON AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <Uogonek>    : "" Ue01b # LATIN CAPITAL LETTER U WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_acute> <uogonek>    : "" Ue01c # LATIN SMALL LETTER U WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_acute> <emdash>    : "↮" U21ae # LEFT RIGHT ARROW WITH STROKE
 <dead_acute> <leftdoublequotemark>    : "‴" U2034 # TRIPLE PRIME
 <dead_acute> <rightdoublequotemark>    : "⁗" U2057 # QUADRUPLE PRIME
@@ -297,12 +296,12 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_diaeresis> <U007c>    : "⋮" U22ee # VERTICAL ELLIPSIS
 <dead_diaeresis> <U00ac>    : "⌐" U2310 # REVERSED NOT SIGN
 <dead_diaeresis> <U00b6>    : "⁋" U204b # REVERSED PILCROW SIGN
-<dead_diaeresis> <U0104>    : "Ȍ" U020c # LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
-<dead_diaeresis> <U0105>    : "ȍ" U020d # LATIN SMALL LETTER O WITH DOUBLE GRAVE
-<dead_diaeresis> <U016a>    : "Ű" U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
-<dead_diaeresis> <U016b>    : "ű" U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
-<dead_diaeresis> <U0172>    : "Ȕ" U0214 # LATIN CAPITAL LETTER U WITH DOUBLE GRAVE
-<dead_diaeresis> <U0173>    : "ȕ" U0215 # LATIN SMALL LETTER U WITH DOUBLE GRAVE
+<dead_diaeresis> <Aogonek>    : "Ȍ" U020c # LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
+<dead_diaeresis> <aogonek>    : "ȍ" U020d # LATIN SMALL LETTER O WITH DOUBLE GRAVE
+<dead_diaeresis> <Umacron>    : "Ű" U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
+<dead_diaeresis> <umacron>    : "ű" U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
+<dead_diaeresis> <Uogonek>    : "Ȕ" U0214 # LATIN CAPITAL LETTER U WITH DOUBLE GRAVE
+<dead_diaeresis> <uogonek>    : "ȕ" U0215 # LATIN SMALL LETTER U WITH DOUBLE GRAVE
 <dead_diaeresis> <endash>    : "⋯" U22ef # MIDLINE HORIZONTAL ELLIPSIS
 <dead_diaeresis> <emdash>    : "…" U2026 # HORIZONTAL ELLIPSIS
 <dead_diaeresis> <U2190>    : "⇐" U21d0 # LEFTWARDS DOUBLE ARROW
@@ -333,20 +332,20 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_tilde> <U0072>    : "" Ue01a # LATIN SMALL LETTER R WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <U007c>    : "⸾" U2e3e # WIGGLY VERTICAL LINE
 <dead_tilde> <U00ac>    : "⌁" U2301 # ELECTRIC ARROW
-<dead_tilde> <U0104>    : "" Ue002 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0105>    : "" Ue003 # LATIN SMALL LETTER A WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0116>    : "" Ue00a # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0117>    : "" Ue00b # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0118>    : "" Ue006 # LATIN CAPITAL LETTER E WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0119>    : "" Ue007 # LATIN SMALL LETTER E WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U012e>    : "" Ue011 # LATIN CAPITAL LETTER I WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U012f>    : "" Ue012 # LATIN SMALL LETTER I WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <Aogonek>    : "" Ue002 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <aogonek>    : "" Ue003 # LATIN SMALL LETTER A WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <Eabovedot>    : "" Ue00a # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <eabovedot>    : "" Ue00b # LATIN SMALL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <Eogonek>    : "" Ue006 # LATIN CAPITAL LETTER E WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <eogonek>    : "" Ue007 # LATIN SMALL LETTER E WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <Iogonek>    : "" Ue011 # LATIN CAPITAL LETTER I WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <iogonek>    : "" Ue012 # LATIN SMALL LETTER I WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <Lstroke>    : "Ɫ" U2c62 # LATIN CAPITAL LETTER L WITH MIDDLE TILDE
 <dead_tilde> <lstroke>    : "ɫ" U026b # LATIN SMALL LETTER L WITH MIDDLE TILDE
-<dead_tilde> <U016a>    : "" Ue021 # LATIN CAPITAL LETTER U WITH MACRON AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U016b>    : "" Ue022 # LATIN SMALL LETTER U WITH MACRON AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0172>    : "" Ue01d # LATIN CAPITAL LETTER U WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0173>    : "" Ue01e # LATIN SMALL LETTER U WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <Umacron>    : "" Ue021 # LATIN CAPITAL LETTER U WITH MACRON AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <umacron>    : "" Ue022 # LATIN SMALL LETTER U WITH MACRON AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <Uogonek>    : "" Ue01d # LATIN CAPITAL LETTER U WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <uogonek>    : "" Ue01e # LATIN SMALL LETTER U WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <endash>    : "～" Uff5e # FULLWIDTH TILDE
 <dead_tilde> <emdash>    : "⁓" U2053 # SWUNG DASH
 <dead_tilde> <U2191>    : "⭜" U2b5c # SLANTED NORTH ARROW WITH HORIZONTAL TAIL
@@ -369,6 +368,8 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_cedilla> <U006d>    : "☠" U2620 # SKULL AND CROSSBONES
 <dead_cedilla> <U006f>    : "ǫ" U01eb # LATIN SMALL LETTER O WITH OGONEK
 <dead_cedilla> <U007a>    : "⚡" U26a1 # HIGH VOLTAGE SIGN
+<dead_cedilla> <Ccaron>    : "Ț" U021A # LATIN CAPITAL LETTER S WITH COMMA BELOW
+<dead_cedilla> <ccaron>    : "ț" U021B # LATIN SMALL LETTER S WITH COMMA BELOW
 <dead_cedilla> <Scaron>    : "Ș" U0218 # LATIN CAPITAL LETTER S WITH COMMA BELOW
 <dead_cedilla> <scaron>    : "ș" U0219 # LATIN SMALL LETTER S WITH COMMA BELOW
 <dead_cedilla> <Zcaron>    : "Ż" U017b # LATIN CAPITAL LETTER Z WITH DOT ABOVE
