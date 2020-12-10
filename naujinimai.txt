@@ -36,6 +36,11 @@ Papildomi Ratisės išdėstymai:
 — pašalinti tęsties mygtukai papildomuosiuose išdėstymuose;
 
 
+2020-12-10
+==========
+
+— pataisyti kai kurie įrašai linux'iniame XCompose (reikalinga ženklams per tęsties mygtukus suvedimui), dabar turėtų suveikti visi.
+
 ---
 
 
