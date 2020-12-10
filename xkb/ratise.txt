@@ -1,6 +1,5 @@
 // Lithuanian Ratise keymap ver. 2.1 by Algirdas Buckus <algirdasbuckus@gmail.com>
 // last changes 2020/11/26
-//
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratise" {
