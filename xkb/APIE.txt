@@ -11,7 +11,7 @@ Turinys:
 
 'evdev_intarpai.txt' — bylos turinys yra intarpas į '/usr/share/X11/xkb/rules/evdev.xml' bylą, reikalingas, kad išdėstymus šiuos galima būtų pasirinkti iš klaviatūros nustatymų.
 'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams (veiks tik išdėstymams su tęsties mygtukais).
-'lt_LT.UTF-8.zip' — zipe yra paruoštas ateičiai aplankas su į '...X11/locale/' įtrauktinomis bylomis dėl ypatingų lietuviškų kirčiuotų raidžių (nosinių ir 'i') įvedimo per tęsties mygtukus (suveikimui būtini papildomi X11 nustatymų keitimai, kurie kol kas man nežinomi).
+'lt_LT.UTF-8' — paruoštas ateičiai aplankas su į '...X11/locale/' įtrauktinomis bylomis dėl ypatingų lietuviškų kirčiuotų raidžių (jlmrėūiąęįų) įvedimo per tęsties mygtukus (suveikimui būtini papildomi X11 nustatymų keitimai, kurie kol kas man nežinomi).
 
 
 Diegimas**:
