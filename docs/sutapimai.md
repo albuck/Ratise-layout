@@ -21,7 +21,7 @@ __Turkų F:__ uUaAnN+$% {!789}
 
 __Workman:__ jJ@#$%& {!^789}
 
-__Prancūzų BEPO:__ iIoO^{}¶ {789}
+__Prancūzų BEPO:__ iIoO^{} {789}
 
 __Lithuanian Ergonomic 1989:__ !jJaAsS {+&789}
 
