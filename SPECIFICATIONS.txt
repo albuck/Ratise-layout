@@ -6,7 +6,7 @@ KEYMAP SPECIFICATIONS
 Lithuanian Ergonomic Computer Keyboard Layout ŪĖYOQJ or "Ratise"
 ================================================================
 
-version 2.1
+version 2.2
 
 
 This is four level keyboard layout:
@@ -27,56 +27,31 @@ Symbols from a different levels on the keys are placed in such form:
     └─────┘
 
 
-! There are two versions of the Ratise layout differing in some characters at the fourth level.
+! There are possible two versions of the Ratise layout differing in some characters at the fourth level.
 
 
 Ratise's layout:
 ----------------
 
+
    99    00    01    02    03    04    05    06    07    08    09    10    11    12    13   14             
      ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓           
   E  │  §  ´ │ ¤ ¡ │ @ ← │ # → │ $ £ │ % ‰ │ | ¦ │ & ≠ │ < ≤ │ > ≥ │ \ ‖ │ W ® │ ~ ¿ ┃         ┃ E         
-     │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ ¬ │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
+     │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ … │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
      ┢━━━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫           
-  D  ┃         ┃ Ū › │ Ė ̊  │ Y ̂  │ O » │ Q ↑ │ J ¥ │ N ŋ │ K † │ G • │ B ∞ │ C © │ F ƒ ┃       ┃ D         
+  D  ┃         ┃ Ū › │ Ė ° │ Y ^ │ O » │ Q ↑ │ J ¥ │ N ¬ │ K † │ G • │ B ∞ │ C © │ F ™ ┃       ┃ D         
      ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q ́  │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ° ┃ Enter ┃           
      ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
-  C  ┃   Caps   ┃ U ̄  │ E ə │ I ı │ A ̈  │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ̧  │ Z ẞ ┃      ┃ C         
-     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ß ┃      ┃           
+  C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ß ┃      ┃ C         
+     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ⁄ ┃      ┃           
      ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
-  B  ┃       ┃ – ɔ │ Ų ‹ │ Ę ̆  │ Į ̌  │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
+  B  ┃       ┃ – ‑ │ Ų ‹ │ Ę ˘ │ Į ˇ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
      ┃ Shift ┃ - ̇  │ ų ‚ │ ę { │ į } │ ą „ │ x ̀  │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
      ┣━━━━━━━┻━┳━━━┷━━━━┳┷━━━━━┷━┱───┴─────┴─────┴─────┴─────┴─────┴┲━━━━┷━━━┳━┻━━━━━┳━━━━━━━━━┫           
   A  ┃         ┃  (Alt) ┃(AltGr) ┃     Space         Nobreakspace   ┃        ┃  (OS) ┃         ┃ A
      ┃  Ctrl   ┃  Meta  ┃  Alt   ┃     Space            Space       ┃  AltGr ┃  Menu ┃   Ctrl  ┃
      ┗━━━━━━━━━┻━━━━━━━━┻━━━━━━━━┹──────────────────────────────────┺━━━━━━━━┻━━━━━━━┻━━━━━━━━━┛           
               99     00    01   02    03    04    05    06    07    08    09    10    11    12    13    14     
-
-
-    
-Ratise's with dead keys layout:
--------------------------------
-
-   99    00    01    02    03    04    05    06    07    08    09    10    11    12    13   14             
-     ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓           
-  E  │  §  ´ │ ¤ ¡ │ @ ← │ # → │ $ £ │ % ‰ │ | ¦ │ & ≠ │ < ≤ │ > ≥ │ \ ‖ │ W ® │ ~ ¿ ┃         ┃ E         
-     │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ ¬ │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
-     ┢━━━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫           
-  D  ┃         ┃ Ū › │ Ė ° │ Y ^ │ O » │ Q ↑ │ J ¥ │ N ŋ │ K † │ G • │ B ∞ │ C © │ F ƒ ┃       ┃ D         
-     ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q ́  │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ° ┃ Enter ┃           
-     ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
-  C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ẞ ┃      ┃ C         
-     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ß ┃      ┃           
-     ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
-  B  ┃       ┃ – ɔ │ Ų ‹ │ Ę ˘ │ Į ˇ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
-     ┃ Shift ┃ - ̇  │ ų ‚ │ ę { │ į } │ ą „ │ x ̀  │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
-     ┣━━━━━━━┻━┳━━━┷━━━━┳┷━━━━━┷━┱───┴─────┴─────┴─────┴─────┴─────┴┲━━━━┷━━━┳━┻━━━━━┳━━━━━━━━━┫           
-  A  ┃         ┃  (Alt) ┃(AltGr) ┃     Space         Nobreakspace   ┃        ┃  (OS) ┃         ┃ A
-     ┃  Ctrl   ┃  Meta  ┃  Alt   ┃     Space            Space       ┃  AltGr ┃  Menu ┃   Ctrl  ┃
-     ┗━━━━━━━━━┻━━━━━━━━┻━━━━━━━━┹──────────────────────────────────┺━━━━━━━━┻━━━━━━━┻━━━━━━━━━┛           
-              99     00    01   02    03    04    05    06    07    08    09    10    11    12    13    14     
-
-
 
 
 Keys:
@@ -100,7 +75,7 @@ B00:
 L1 — 002D HYPHEN-MINUS
 L2 — 2013 EN DASH
 L3 — 0307 COMBINING DOT ABOVE
-L4 — 0254 LATIN SMALL LETTER OPEN O
+L4 — 2011 NON-BREAKING HYPHEN
 
 B01:
 L1 — 0173 LATIN SMALL LETTER U WITH OGONEK
@@ -172,13 +147,13 @@ C02:
 L1 — 0065 LATIN SMALL LETTER E
 L2 — 0045 LATIN CAPITAL LETTER E
 L3 — 0028 LEFT PARENTHESIS
-L4 — 0259 LATIN SMALL LETTER SCHWA | Dead Key 'GRAVE ACCENT' (*)
+L4 — Dead Key 'GRAVE ACCENT' (*)
 
 C03:
 L1 — 0069 LATIN SMALL LETTER I
 L2 — 0049 LATIN CAPITAL LETTER I
 L3 — 0029 RIGHT PARENTHESIS
-L4 — 0131 LATIN SMALL LETTER DOTLESS I | Dead Key ACUTE ACCENT (*)
+L4 — Dead Key ACUTE ACCENT (*)
 
 C04:
 L1 — 0061 LATIN SMALL LETTER A
@@ -231,8 +206,8 @@ L4 — 0327 COMBINING CEDILLA | Dead Key 'CEDILLA' (*)
 C12:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
-L3 — 00DF LATIN SMALL LETTER SHARP S
-L4 — 1E9E LATIN CAPITAL LETTER SHARP S
+L3 — 2044 FRACTION SLASH
+L4 — 00DF LATIN SMALL LETTER SHARP S
 
 D01:
 L1 — 016B LATIN SMALL LETTER U WITH MACRON
@@ -274,7 +249,7 @@ D07:
 L1 — 006E LATIN SMALL LETTER N
 L2 — 004E LATIN CAPITAL LETTER N
 L3 — 0034 DIGIT FOUR
-L4 — 014B LATIN SMALL LETTER ENG
+L4 — 00AC NOT SIGN
 
 D08:
 L1 — 006B LATIN SMALL LETTER K
@@ -304,13 +279,13 @@ D12:
 L1 — 0066 LATIN SMALL LETTER F
 L2 — 0046 LATIN CAPITAL LETTER F
 L3 — 00B0 DEGREE SIGN
-L4 — 0192 LATIN SMALL LETTER F WITH HOOK
+L4 — 2122 TRADE MARK SIGN
 
 D13:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
-L3 — 00DF LATIN SMALL LETTER SHARP S
-L4 — 1E9E LATIN CAPITAL LETTER SHARP S
+L3 — 2044 FRACTION SLASH
+L4 — 00DF LATIN SMALL LETTER SHARP S
 
 E00:
 L1 — 002B PLUS SIGN
@@ -346,7 +321,7 @@ L4 — 00A3 POUND SIGN
 E05:
 L1 — 005F LOW LINE
 L2 — 0025 PERCENT SIGN
-L3 — 00AC NOT SIGN
+L3 — 2026 HORIZONTAL ELLIPSIS
 L4 — 2030 PER MILLE SIGN
 
 E06:
@@ -395,8 +370,8 @@ L4 — 00BF INVERTED QUESTION MARK
 E13:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
-L3 — 00DF LATIN SMALL LETTER SHARP S
-L4 — 1E9E LATIN CAPITAL LETTER SHARP S
+L3 — 2044 FRACTION SLASH
+L4 — 00DF LATIN SMALL LETTER SHARP S
 
 
 
@@ -420,6 +395,7 @@ DEADKEY	030a COMBINING RING ABOVE or 02DA RING ABOVE
 0048	0194	// H -> Ɣ (LATIN CAPITAL LETTER GAMMA)
 004c	039b	// L -> Λ (GREEK CAPITAL LETTER LAMDA)
 004e	2116	// N -> № (NUMERO SIGN)
+004f	0186	// O -> Ɔ (LATIN CAPITAL LETTER OPEN O)
 0050	03a0	// P -> Π (GREEK CAPITAL LETTER PI)
 0051	0294	// Q -> ʔ (LATIN LETTER GLOTTAL STOP)
 0053	03a3	// S -> Σ (GREEK CAPITAL LETTER SIGMA)
@@ -439,7 +415,6 @@ DEADKEY	030a COMBINING RING ABOVE or 02DA RING ABOVE
 006c	03bb	// l -> λ (GREEK SMALL LETTER LAMDA)
 006d	03bc	// m -> μ (GREEK SMALL LETTER MU)
 006e	03bd	// n -> ν (GREEK SMALL LETTER NU)
-004f	0186	// O -> Ɔ (LATIN CAPITAL LETTER OPEN O)
 006f	0254	// o -> ɔ (LATIN SMALL LETTER OPEN O)
 0070	03c0	// p -> π (GREEK SMALL LETTER PI)
 0071	02c0	// q -> ˀ (MODIFIER LETTER GLOTTAL STOP)
@@ -543,6 +518,7 @@ DEADKEY	02c6 MODIFIER LETTER CIRCUMFLEX ACCENT or 005E CIRCUMFLEX ACCENT
 2018	02c8	// ‘ -> ˈ (MODIFIER LETTER VERTICAL LINE)
 201a	02cc	// ‚ -> ˌ (MODIFIER LETTER LOW VERTICAL LINE)
 2022	2023	// • -> ‣ (TRIANGULAR BULLET)
+2026	22ee	// … -> ⋮ (VERTICAL ELLIPSIS)
 2190	2196	// ← -> ↖ (NORTH WEST ARROW)
 2192	2197	// → -> ↗ (NORTH EAST ARROW)
 201a	02c6	//   -> ˆ (MODIFIER LETTER CIRCUMFLEX ACCENT) or 005E (CIRCUMFLEX ACCENT)
@@ -609,6 +585,7 @@ DEADKEY	00af MACRON
 012f	0268	// į -> ɨ (LATIN SMALL LETTER I WITH STROKE)
 0303	02b0	// ̃ -> ʰ (MODIFIER LETTER SMALL H)
 2014	2015	// — -> ― (HORIZONTAL BAR)
+2026	22ef	// … -> ⋯ (MIDLINE HORIZONTAL ELLIPSIS)
 20ac	025f	// € -> ɟ (LATIN SMALL LETTER DOTLESS J WITH STROKE)
 2260	2262	// ≠ -> ≢ (NOT IDENTICAL TO)
 0020	00af	//   -> ¯ (MACRON)
@@ -649,6 +626,7 @@ DEADKEY	0060 GRAVE ACCENT
 0117	025c	// ė -> ɜ (LATIN SMALL LETTER REVERSED OPEN E)
 0118	0190	// Ę -> Ɛ (LATIN CAPITAL LETTER OPEN E)
 0119	025b	// ę -> ɛ (LATIN SMALL LETTER OPEN E)
+2026	22f1	// … -> ⋱ (DOWN RIGHT DIAGONAL ELLIPSIS)
 2191	2b4e	// ↑ -> ⭎ (SHORT SLANTED NORTH ARROW)
 2193	2b4f	// ↓ -> ⭏ (SHORT BACKSLANTED SOUTH ARROW)
 0020	0060	//   -> ` (GRAVE ACCENT)
@@ -715,6 +693,7 @@ DEADKEY	00b4 ACUTE ACCENT
 2014	21ae	// — -> ↮ (LEFT RIGHT ARROW WITH STROKE)
 201c	2034	// “ -> ‴ (TRIPLE PRIME)
 201d	2057	// ” -> ⁗ (QUADRUPLE PRIME)
+2026	22f0	// … -> ⋰ (UP RIGHT DIAGONAL ELLIPSIS)
 2190	219a	// ← -> ↚ (LEFTWARDS ARROW WITH STROKE)
 2192	219b	// → -> ↛ (RIGHTWARDS ARROW WITH STROKE)
 2248	2249	// ≈ -> ≉ (NOT ALMOST EQUAL TO)
@@ -731,7 +710,6 @@ DEADKEY	00a8 DIAERESIS
 002a	2051	// * -> ⁑ (TWO ASTERISKS ALIGNED VERTICALLY)
 002d	2011	// - -> ‑ (NON-BREAKING HYPHEN)
 002e	0324	// . -> ̤ (COMBINING DIAERESIS BELOW)
-002f	22f0	// / -> ⋰ (UP RIGHT DIAGONAL ELLIPSIS)
 0031	00bd	// 1 -> ½ (VULGAR FRACTION ONE HALF)
 0033	00be	// 3 -> ¾ (VULGAR FRACTION THREE QUARTERS)
 0034	00bc	// 4 -> ¼ (VULGAR FRACTION ONE QUARTER)
@@ -751,7 +729,6 @@ DEADKEY	00a8 DIAERESIS
 0058	1e8c	// X -> Ẍ (LATIN CAPITAL LETTER X WITH DIAERESIS)
 0059	0178	// Y -> Ÿ (LATIN CAPITAL LETTER Y WITH DIAERESIS)
 005b	27e6	// [ -> ⟦ (MATHEMATICAL LEFT WHITE SQUARE BRACKET)
-005c	22f1	// \ -> ⋱ (DOWN RIGHT DIAGONAL ELLIPSIS)
 005d	27e7	// ] -> ⟧ (MATHEMATICAL RIGHT WHITE SQUARE BRACKET)
 005f	2017	// _ -> ‗ (DOUBLE LOW LINE)
 0061	00e4	// a -> ä (LATIN SMALL LETTER A WITH DIAERESIS)
@@ -764,7 +741,6 @@ DEADKEY	00a8 DIAERESIS
 0077	1e85	// w -> ẅ (LATIN SMALL LETTER W WITH DIAERESIS)
 0078	1e8d	// x -> ẍ (LATIN SMALL LETTER X WITH DIAERESIS)
 0079	00ff	// y -> ÿ (LATIN SMALL LETTER Y WITH DIAERESIS)
-007c	22ee	// | -> ⋮ (VERTICAL ELLIPSIS)
 00ac	2310	// ¬ -> ⌐ (REVERSED NOT SIGN)
 00b6	204b	// ¶ -> ⁋ (REVERSED PILCROW SIGN)
 0104	020c	// Ą -> Ȍ (LATIN CAPITAL LETTER O WITH DOUBLE GRAVE)
@@ -773,8 +749,6 @@ DEADKEY	00a8 DIAERESIS
 016b	0171	// ū -> ű (LATIN SMALL LETTER U WITH DOUBLE ACUTE)
 0172	0214	// Ų -> Ȕ (LATIN CAPITAL LETTER U WITH DOUBLE GRAVE)
 0173	0215	// ų -> ȕ (LATIN SMALL LETTER U WITH DOUBLE GRAVE)
-2013	22ef	// – -> ⋯ (MIDLINE HORIZONTAL ELLIPSIS)
-2014	2026	// — -> … (HORIZONTAL ELLIPSIS)
 2190	21d0	// ← -> ⇐ (LEFTWARDS DOUBLE ARROW)
 2191	21d1	// ↑ -> ⇑ (UPWARDS DOUBLE ARROW)
 2192	21d2	// → -> ⇒ (RIGHTWARDS DOUBLE ARROW)
@@ -788,6 +762,7 @@ DEADKEY	00a8 DIAERESIS
 DEADKEY	02dc SMALL TILDE or 007E TILDE
 
 0021	2049	// ! -> ⁉ (EXCLAMATION QUESTION MARK)
+002d	ff5e	// - -> ～ (FULLWIDTH TILDE)
 002e	02d1	// . -> ˑ (MODIFIER LETTER HALF TRIANGULAR COLON)
 003a	02d0	// : -> ː (MODIFIER LETTER TRIANGULAR COLON)
 003c	2272	// < -> ≲ (LESS-THAN OR EQUIVALENT TO)
@@ -836,7 +811,6 @@ DEADKEY	02dc SMALL TILDE or 007E TILDE
 016b	e022	// ū ->  (LATIN SMALL LETTER U WITH MACRON AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 0172	e01d	// Ų ->  (LATIN CAPITAL LETTER U WITH OGONEK AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
 0173	e01e	// ų ->  (LATIN SMALL LETTER U WITH OGONEK AND WITH TILDE ACCENT) — Lithuanian character in the private use area, needs special font.
-002d	ff5e	// - -> ～ (FULLWIDTH TILDE)
 2014	2053	// — -> ⁓ (SWUNG DASH)
 2191	2b5c	// ↑ -> ⭜ (SLANTED NORTH ARROW WITH HORIZONTAL TAIL)
 2193	2b5d	// ↓ -> ⭝ (BACKSLANTED SOUTH ARROW WITH HORIZONTAL TAIL)
@@ -848,7 +822,6 @@ DEADKEY	00b8 CEDILLA
 
 002c	0326	// , -> ̦ (COMBINING COMMA BELOW)
 002e	0327	// . -> ̧ (COMBINING CEDILLA)
-002f	2044	// / -> ⁄ (FRACTION SLASH)
 0030	2205	// 0 -> ∅ (EMPTY SET)
 003b	0328	// ; -> ̨ (COMBINING OGONEK)
 003d	0333	// = -> ̳ (COMBINING DOUBLE LOW LINE)
@@ -869,7 +842,8 @@ DEADKEY	00b8 CEDILLA
 0063	00e7	// c -> ç (LATIN SMALL LETTER C WITH CEDILLA)
 0064	1e11	// d -> ḑ (LATIN SMALL LETTER D WITH CEDILLA)
 0065	0229	// e -> ȩ (LATIN SMALL LETTER E WITH CEDILLA)
-0066	2622	// f -> ☢ (RADIOACTIVE SIGN)
+0066	0191	// F -> Ƒ (LATIN CAPITAL LETTER F WITH HOOK)
+0066	0192	// f -> ƒ (LATIN SMALL LETTER F WITH HOOK)
 0067	0123	// g -> ģ (LATIN SMALL LETTER G WITH CEDILLA)
 0068	0266	// h -> ɦ (LATIN SMALL LETTER H WITH HOOK)
 006a	0321	// j -> ̡ (COMBINING PALATALIZED HOOK BELOW)
@@ -881,7 +855,9 @@ DEADKEY	00b8 CEDILLA
 0072	0157	// r -> ŗ (LATIN SMALL LETTER R WITH CEDILLA)
 0073	015f	// s -> ş (LATIN SMALL LETTER S WITH CEDILLA)
 0074	0163	// t -> ţ (LATIN SMALL LETTER T WITH CEDILLA)
+0077	2622	// w -> ☢ (RADIOACTIVE SIGN)
 007a	26a1	// z -> ⚡ (HIGH VOLTAGE SIGN)
+00df	1e9e	// ß -> ẞ (LATIN CAPITAL LETTER SHARP S)
 010c	021a	// Č -> Ț (LATIN CAPITAL LETTER T WITH COMMA BELOW)
 010d	021b	// č -> ț (LATIN SMALL LETTER T WITH COMMA BELOW)
 0160	0218	// Š -> Ș (LATIN CAPITAL LETTER S WITH COMMA BELOW)
@@ -937,7 +913,7 @@ DEADKEY	02d8 BREVE
 0070	2117	// p -> ℗ (SOUND RECORDING COPYRIGHT)
 0072	0279	// r -> ɹ (LATIN SMALL LETTER TURNED R)
 0073	2120	// s -> ℠ (SERVICE MARK)
-0074	2122	// t -> ™ (TRADE MARK SIGN)
+0074	2423	// t -> ␣ (OPEN BOX)
 0075	016d	// u -> ŭ (LATIN SMALL LETTER U WITH BREVE)
 0076	028b	// v -> ʋ (LATIN SMALL LETTER V WITH HOOK)
 007a	0291	// z -> ʑ (LATIN SMALL LETTER Z WITH CURL)
