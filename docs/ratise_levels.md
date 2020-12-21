@@ -10,13 +10,6 @@ This is four level layout:
  3. AltGr third level
  4. shifted AltGr fourth level
 
-+ There are two versions of the Ratise layout differing in some characters at the fourth level.
-
 #### Lithuanian Ratisė:
 
 ![Ratise layout](images/lek_ratise_layout.png)
-
-
-#### Lithuanian Ratisė TM (with dead keys):
-
-![Ratise TM layout](images/lek_ratise_tm_layout.png)
