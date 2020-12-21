@@ -1,3 +1,6 @@
+
+! Vyksta išdėstymo naujinimas iki 2.2 laidos !
+
 Tai yra 'MacOS' sistemai skirtos lietuviško klaviatūros išdėstymo „Ratisė“ valdyklės.
 
 
