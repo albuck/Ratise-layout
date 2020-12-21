@@ -6,26 +6,20 @@
         </variant>
         <variant>
           <configItem>
-            <name>ratisetm</name>
-            <description>Lithuanian (Ratise, with dead keys)</description>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
             <name>ratiselv</name>
-            <description>Latvian (Ratise)</description>
+            <description>Lithuanian (Ratise, Latvian Phonetic)</description>
           </configItem>
         </variant>
         <variant>
           <configItem>
             <name>ratiseg</name>
-            <description>Germanic (Ratise)</description>
+            <description>Lithuanian (Ratise, Germanic Phonetic)</description>
           </configItem>
         </variant>
         <variant>
           <configItem>
             <name>ratiseru</name>
-            <description>Russian (Ratise Cyrillic Phonetic)</description>
+            <description>Lithuanian (Ratise, Russian Cyrillic Phonetic)</description>
           </configItem>
         </variant>
 

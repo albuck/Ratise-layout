@@ -4,7 +4,6 @@ Turinys:
 --------
 
 'ratise.txt' — Ratisės išdėstymas.
-'ratisetm.txt' — Ratisės išdėstymas su tęsties mygtukais (angl. Dead keys).
 'ratiselv.txt' — Ratisės latviškas garsmeninis (fonetinis) išdėstymas.
 'ratiseru.txt' — Ratisės rusiškas garsmeninis (fonetinis) kirilica išdėstymas.
 'ratiseg.txt' — Ratisės germaniškas garsmeninis (fonetinis) išdėstymas.
@@ -19,7 +18,7 @@ Diegimas**:
 
 Diegimui yra reikalinga turėti sistemos valdytojo (administratoriaus) įgaliojimą.
 
-1a. Pilnas diegimas — 'ratise.txt', 'ratisetm.txt', 'ratiselv.txt', 'ratiseru.txt', 'ratiseg.txt' turinį paeiliui tvarkingai, išsaugojant skiriamąsias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos galą, išsaugoti bylą. Atitinkamus išdėstymus įrašus esančius 'evdev-intarpai.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian ..." išdėstymų įrašų (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų, imtinai), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą. Toliau jau galite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
+1a. Pilnas diegimas — 'ratise.txt', 'ratiselv.txt', 'ratiseru.txt', 'ratiseg.txt' turinį paeiliui tvarkingai, išsaugojant skiriamąsias eilutes tarp išdėstymų, patalpinti į '/usr/share/X11/xkb/symbols/lt' bylos galą, išsaugoti bylą. Atitinkamus išdėstymus įrašus esančius 'evdev-intarpai.txt' byloje patalpinti į '/usr/share/X11/xkb/rules/evdev.xml' bylą iškart po "Lithuanian ..." išdėstymų įrašų (vienas išdėstymas yra tarp "<variant>" ir "</variant>" žymų, imtinai), svarbu išsaugoti visą įrašų pateikimo 'evdev.xml' byloje tvarką (atitraukimus ir eilutiškumą), išsaugoti bylą. Toliau jau galite rinktis naujuosius išdėstymus klaviatūros nustatymuose.
 
 1b. Paprastas (tiesmukas) diegimas — tiesiog pervadinti atitinkamai čia pateiktas klaviatūros išdėstymų bylas į 'lt', 'lv', 'ru', 'de' (ar į kokią kitą germanų kalbą) — ir įdėti vietoje jau esančių '/usr/share/X11/xkb/symbols' (senąsias galima išsisaugoti kitu pavadinimu), šiuo atveju LT, LV, RU, DE išdėstymų pasirinkimai sistemoje apsiribos Ratisės išdėstymais. Šitokio diegimo atveju, naujai įdiegtus klaviatūros išdėstymus reikėtų iškart pasirinkti po diegimo, pašalinant senus pasirinkimus klaviatūros nustatymuose.
 

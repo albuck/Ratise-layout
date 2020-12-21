@@ -1,5 +1,5 @@
-// Lithuanian Ratise Germanic Phonetic keymap ver. 2.1 by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2020/11/29
+// Lithuanian Ratise Germanic Phonetic keymap ver. 2.2 by Algirdas Buckus <algirdasbuckus@gmail.com>
+// last changes 2020/12/21
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratiseg" {
@@ -13,7 +13,7 @@ xkb_symbols "ratiseg" {
     key <AE02> { [      colon,          at,            0x10027E8,          0x1002190 ] }; // MATHEMATICAL LEFT ANGLE BRACKET; LEFTWARDS ARROW
     key <AE03> { [     period,  numbersign,            0x10027E9,          0x1002192 ] }; // MATHEMATICAL RIGHT ANGLE BRACKET; RIGHTWARDS ARROW
     key <AE04> { [   asterisk,      dollar, rightdoublequotemark,           sterling ] };
-    key <AE05> { [ underscore,     percent,              notsign,          0x1002030 ] }; // PER MILLE SIGN
+    key <AE05> { [ underscore,     percent,             ellipsis,          0x1002030 ] }; // PER MILLE SIGN
     key <AE06> { [     emdash,         bar,          asciicircum,          brokenbar ] };
     key <AE07> { [      equal,   ampersand,                    7,           notequal ] };
     key <AE08> { [      comma,        less,                    8,      lessthanequal ] };
@@ -23,34 +23,34 @@ xkb_symbols "ratiseg" {
     key <AE12> { [   question,  asciitilde,            0x1002248,       questiondown ] }; // ALMOST EQUAL TO
 
     key <AD01> { [ odiaeresis,  Odiaeresis,  leftsinglequotemark,          0x100203A ] }; // SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
-    key <AD02> { [ adiaeresis,  Adiaeresis,          bracketleft,          0x100030A ] }; // COMBINING RING ABOVE
-    key <AD03> { [          y,           Y,         bracketright,          0x1000302 ] }; // COMBINING CIRCUMFLEX ACCENT
+    key <AD02> { [      aring,       Aring,          bracketleft,     dead_abovering ] };
+    key <AD03> { [          y,           Y,         bracketright,    dead_circumflex ] };
     key <AD04> { [          o,           O,  leftdoublequotemark,     guillemotright ] };
     key <AD05> { [          q,           Q,            0x1000301,          0x1002191 ] }; // COMBINING ACUTE ACCENT; UPWARDS ARROW
     key <AD06> { [          j,           J,             EuroSign,                yen ] };
-    key <AD07> { [          n,           N,                    4,          0x100014B ] }; // LATIN SMALL LETTER ENG
+    key <AD07> { [          n,           N,                    4,            notsign ] };
     key <AD08> { [          k,           K,                    5,             dagger ] };
     key <AD09> { [          g,           G,                    6, enfilledcircbullet ] };
     key <AD10> { [          b,           B,             multiply,           infinity ] };
     key <AD11> { [          c,           C,                 cent,          copyright ] };
-    key <AD12> { [          f,           F,               degree,           function ] };
+    key <AD12> { [          f,           F,               degree,          trademark ] };
 
-    key <AC01> { [          u,           U,           apostrophe,          0x1000304 ] }; // COMBINING MACRON
-    key <AC02> { [          e,           E,            parenleft,          0x1000259 ] }; // LATIN SMALL LETTER SCHWA
-    key <AC03> { [          i,           I,           parenright,          0x1000131 ] }; // LATIN SMALL LETTER DOTLESS I
-    key <AC04> { [          a,           A,             quotedbl,          0x1000308 ] }; // COMBINING DIAERESIS
-    key <AC05> { [          h,           H,            0x1000303,          0x10002DC ] }; // COMBINING TILDE ACCENT, SMALL TILDE
+    key <AC01> { [          u,           U,           apostrophe,        dead_macron ] };
+    key <AC02> { [          e,           E,            parenleft,         dead_grave ] };
+    key <AC03> { [          i,           I,           parenright,         dead_acute ] };
+    key <AC04> { [          a,           A,             quotedbl,     dead_diaeresis ] };
+    key <AC05> { [          h,           H,            0x1000303,         dead_tilde ] }; // COMBINING TILDE ACCENT
     key <AC06> { [          l,           L,              lstroke,            Lstroke ] };
     key <AC07> { [          r,           R,                    1,        onesuperior ] }; 
     key <AC08> { [          t,           T,                    2,        twosuperior ] };
     key <AC09> { [          s,           S,                    3,      threesuperior ] };
     key <AC10> { [          p,           P,            0x1002212,          paragraph ] }; // MINUS SIGN
-    key <AC11> { [          z,           Z,                minus,          0x1000327 ] }; // COMBINING CEDILLA
+    key <AC11> { [          z,           Z,                minus,       dead_cedilla ] };
 
     key <AB01> { [ udiaeresis,  Udiaeresis,   singlelowquotemark,          0x1002039 ] }; // SINGLE LEFT-POINTING ANGLE QUOTATION MARK
-    key <AB02> { [         ae,          AE,            braceleft,          0x1000306 ] }; // COMBINING BREVE
-    key <AB03> { [     oslash,    Ooblique,           braceright,          0x100030C ] }; // COMBINING CARON
-    key <AB04> { [      aring,       Aring,   doublelowquotemark,      guillemotleft ] };
+    key <AB02> { [         ae,          AE,            braceleft,         dead_breve ] };
+    key <AB03> { [     oslash,    Ooblique,           braceright,         dead_caron ] };
+    key <AB04> { [ adiaeresis,  Adiaeresis,   doublelowquotemark,      guillemotleft ] };
     key <AB05> { [          x,           X,            0x1000300,          0x1002193 ] }; // COMBINING GRAVE ACCENT; DOWNWARDS ARROW
     key <AB06> { [          v,           V,           squareroot,          0x10025CA ] }; // LOZENGE
     key <AB07> { [          m,           M,                    0,                 mu ] };
@@ -59,11 +59,10 @@ xkb_symbols "ratiseg" {
     key <AB10> { [      thorn,       THORN,                 plus,          plusminus ] };
 
     key <BKSL> { [     ssharp,   0x1001E9E,                   oe,                 OE ] }; // LATIN CAPITAL LETTER SHARP S
-    key <LSGT> { [         oe,          OE,            0x1000307,          0x1000254 ] }; // COMBINING DOT ABOVE, LATIN SMALL LETTER OPEN O
+    key <LSGT> { [         oe,          OE,            0x1000307,          0x1002011 ] }; // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
     key <SPCE> { [      space,       space,                space,       nobreakspace ] };
 
-//    key <CAPS> { [         oe,          OE,            0x1000307,          0x1000254 ] }; // (Optional) // COMBINING DOT ABOVE, LATIN SMALL LETTER OPEN O
+//    key <CAPS> { [         oe,          OE,            0x1000307,          0x1002011 ] }; // (Optional) // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
     key <TAB>  { [        Tab,ISO_Left_Tab,            Multi_key                     ] }; // Tab as Multi_key (Compose)
-
 };
 
