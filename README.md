@@ -3,7 +3,7 @@
 -----------------------------------------------
 # LIETUVIŠKAS ERGONOMIŠKAS KLAVIATŪROS IŠDĖSTYMAS „RATISĖ“
 
-Laida 2.1
+Laida 2.2
 
 __Lietuviškas ergonomiškas kompiuterio klaviatūros spausdinamųjų ženklų išdėstymas ŪĖYOQJ, arba „Ratìsė“__ yra skirtas patogiam lietuviško teksto rinkimui klaviatūra (spaudynu) visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spaud_tvarka.md) apčiuopomis, nežiūrint. Taip pat išdėstymas leidžia patogiai rinkti tekstus anglų kalba, programavimo kalbomis bei įvesti ypatingas kitų kalbų raides bei kitokius reikalingus ženklus.
 
