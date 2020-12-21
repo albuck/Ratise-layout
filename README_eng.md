@@ -4,7 +4,7 @@
 
 # Lithuanian Ergonomic Keyboard Layout ŪĖYOQJ or "Ratise"
 
-version 2.1
+version 2.2
 
 Lithuanian ergonomic computer keyboard layout ŪĖYOQJ, or “Ratise” is designed for convenient touch typing of Lithuanian text with all fingers, the so-called “blind” way. The layout also allows you to conveniently type in English, programming languages, and enter special letters and characters.
 
