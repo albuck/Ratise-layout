@@ -43,19 +43,11 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką kartu su _Antrojo lygio_ mygtuku (‘AltGr+Vald’).
 
-+ Teikiamos dvi Ratisės išdėstymų ãtmainos, besiskiriančios kai kuriais ženklais ketvirtame lygyje.
-
-#### _Ratisė 4-sis lygis:_
-
 ![Ketvirtasis lygis](images/lek_ratise_4l.png)
-
-#### _Ratisės TM (su tęsties mygtukais) 4-sis lygis:_
-
-![Ketvirtasis lygis](images/lek_ratise_tm_4l.png)
 
 + Paveikslėliuose ant tarpo mygtuko užrašas ‘no’ reiškia, kad ketvirtajame lygyje tai yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 
-+ Ratisės TM atmainoje gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
++ Gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
 [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
 
 
