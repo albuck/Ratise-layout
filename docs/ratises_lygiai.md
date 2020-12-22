@@ -34,6 +34,8 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 + Paveikslėlyje virš taškinių ratiliukų esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai (‘diakritikai’), tai — _lietùviškų príegaidžių uždėtìniai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
 
 + Trečiajame __P__ mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame __Ž__ mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas). Senesnėje skaitmeninėje įrangoje, pavyzdžiui senoje skaičiuotuvo programoje, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ‘×’ bei ‘÷’ ženklus, kurių neatpažinimo atveju atitinkamai naudokite ‘\*’ bei ‘/’ mygtukus (esančius išdėstymo pirmame lygyje).
+
++ Trečiajame __Z__ mygtuko lygyje esantis '⁄' yra trupmeninis žambas, skirtas trupmenoms sudaryti, pvz.: 1⁄2, 2⁄3 (pastaba: ne visa skaitmeninė įranga taisyklingai atvaizduoja taip sudarytas trupmenas).
  
 + [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](trukumu_apejimas.md)
 
