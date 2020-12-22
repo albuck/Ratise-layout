@@ -47,6 +47,8 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 + Paveikslėlyje ant tarpo mygtuko užrašas ‘no’ reiškia, kad ketvirtajame lygyje tai yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 
++ Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
+
 + Gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
 [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
 
