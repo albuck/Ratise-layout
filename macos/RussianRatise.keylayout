@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2020-11-30 at 22:58 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-22 at 16:20 (EET)-->
 <keyboard group="7" id="19456" name="Rusiška Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
@@ -423,7 +423,7 @@
             <key code="20" output="]"/>
             <key code="21" action="’"/>
             <key code="22" output="^"/>
-            <key code="23" output="¬"/>
+            <key code="23" output="…"/>
             <key code="24" action="≠ 1"/>
             <key code="25" action="9"/>
             <key code="26" action="7"/>
@@ -450,7 +450,7 @@
             <key code="47" output="ћ"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="̇"/>
+            <key code="50" output="€"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -512,9 +512,9 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="4">
-            <key code="0" output="̄"/>
-            <key code="1" output="€"/>
-            <key code="2" output="¥"/>
+            <key code="0" output="̆"/>
+            <key code="1" action="` 1"/>
+            <key code="2" action="´ 1"/>
             <key code="3" output="̈"/>
             <key code="4" output="Љ"/>
             <key code="5" output="Ӏ"/>
@@ -534,7 +534,7 @@
             <key code="19" output="{"/>
             <key code="20" output="}"/>
             <key code="21" output="£"/>
-            <key code="22" output="¦"/>
+            <key code="22" output="¥"/>
             <key code="23" output="‰"/>
             <key code="24" output="¿"/>
             <key code="25" output="≥"/>
@@ -562,7 +562,7 @@
             <key code="47" output="Ћ"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="̆"/>
+            <key code="50" output="‑"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -1095,7 +1095,7 @@
             <key code="20" output="]"/>
             <key code="21" output="”"/>
             <key code="22" output="^"/>
-            <key code="23" output="¬"/>
+            <key code="23" output="…"/>
             <key code="24" output="≈"/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
@@ -1122,7 +1122,7 @@
             <key code="47" output="Ћ"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="̇"/>
+            <key code="50" output="€"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -1344,6 +1344,9 @@
         <action id="`">
             <when state="none" next="grave"/>
         </action>
+        <action id="` 1">
+            <when state="none" next="grave"/>
+        </action>
         <action id="breve">
             <when state="none" next="breve"/>
         </action>
@@ -1384,6 +1387,9 @@
             <when state="none" output="-"/>
         </action>
         <action id="´">
+            <when state="none" next="acute"/>
+        </action>
+        <action id="´ 1">
             <when state="none" next="acute"/>
         </action>
         <action id="¸">
@@ -1560,7 +1566,6 @@
         </action>
         <action id="Т 1">
             <when state="none" output="Т"/>
-            <when state="acute" output="҂"/>
         </action>
         <action id="У">
             <when state="none" output="У"/>
@@ -1713,7 +1718,6 @@
         </action>
         <action id="т">
             <when state="none" output="т"/>
-            <when state="acute" output="҂"/>
             <when state="cedilla" output="ҭ"/>
             <when state="macron" output="ћ"/>
         </action>

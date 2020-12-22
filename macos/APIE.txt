@@ -1,6 +1,3 @@
-
-! Vyksta išdėstymo naujinimas iki 2.2 laidos !
-
 Tai yra 'MacOS' sistemai skirtos lietuviško klaviatūros išdėstymo „Ratisė“ valdyklės.
 
 
@@ -8,8 +5,6 @@ Turinys:
 --------
 
 — 'LithuanianRatise.keylayout' bei 'LithuanianRatise.icns' (jos ženkliukas) — lietuviško klaviatūros išdėstymo „Ratisė“ valdyklė MacOS'ui. Klaviatūros raktuose atitinkamos QWERTY išdėtymo raidės vietoje ten esančių lietuviškų raidžių (ŪĖ ŲĘĮĄ), taigi 'Grąžinti', 'Iškirpti', 'Nurašyti', 'Įrašyti' ir panašiai veikia kaip QWERTY išdėstyme.
-
-— 'LithuanianRatiseTM.keylayout' bei 'LithuanianRatiseTM.icns' — lietuviško klaviatūros išdėstymo „Ratisė“ (su tęsties mygtukais) valdyklė MacOS'ui. Klaviatūros raktuose atitinkamos QWERTY išdėtymo raidės vietoje ten esančių lietuviškų raidžių (ŪĖ ŲĘĮĄ), taigi 'Grąžinti', 'Iškirpti', 'Nurašyti', 'Įrašyti' ir panašiai veikia kaip QWERTY išdėstyme.
 
 — 'GermanicRatise.keylayout' bei 'GermanicRatise.icns' — germanų kalbų garsmeninio (fonetinio) ir panašiai, atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
 
