@@ -99,9 +99,9 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_abovering> <U0076>    : "⟡" U27e1 # WHITE CONCAVE-SIDED DIAMOND
 <dead_abovering> <U0078>    : "χ" U03c7 # GREEK SMALL LETTER CHI
 <dead_abovering> <U007a>    : "ζ" U03b6 # GREEK SMALL LETTER ZETA
-<dead_abovering> <U0105>    : "α" U03b1 # GREEK SMALL LETTER ALPHA
-<dead_abovering> <U010c>    : "Θ" U0398 # GREEK CAPITAL LETTER THETA
-<dead_abovering> <U010d>    : "θ" U03b8 # GREEK SMALL LETTER THETA
+<dead_abovering> <aogonek>    : "α" U03b1 # GREEK SMALL LETTER ALPHA
+<dead_abovering> <Ccaron>    : "Θ" U0398 # GREEK CAPITAL LETTER THETA
+<dead_abovering> <ccaron>    : "θ" U03b8 # GREEK SMALL LETTER THETA
 <dead_abovering> <U2190>    : "↺" U21ba # ANTICLOCKWISE OPEN CIRCLE ARROW
 <dead_abovering> <U2191>    : "ꜛ" Ua71b # MODIFIER LETTER RAISED UP ARROW
 <dead_abovering> <U2192>    : "↻" U21bb # CLOCKWISE OPEN CIRCLE ARROW
