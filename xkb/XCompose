@@ -403,7 +403,6 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_breve> <U003c>    : "⊂" U2282 # SUBSET OF
 <dead_breve> <U003d>    : "≅" U2245 # APPROXIMATELY EQUAL TO
 <dead_breve> <U003e>    : "⊃" U2283 # SUPERSET OF
-<dead_breve> <U0043>    : "Ɔ" U0186 # LATIN CAPITAL LETTER OPEN O
 <dead_breve> <U0044>    : "∆" U2206 # INCREMENT
 <dead_breve> <U0047>    : "Ḫ" U1e2a # LATIN CAPITAL LETTER H WITH BREVE BELOW
 <dead_breve> <U004a>    : "Ʝ" Ua7b2 # LATIN CAPITAL LETTER J WITH CROSSED-TAIL
@@ -419,7 +418,6 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_breve> <U005d>    : "⟭" U27ed # MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
 <dead_breve> <U005d>    : "⦄" U2984 # RIGHT WHITE CURLY BRACKET
 <dead_breve> <U005f>    : "͜" U035c # COMBINING DOUBLE BREVE BELOW
-<dead_breve> <U0063>    : "ɔ" U0254 # LATIN SMALL LETTER OPEN O
 <dead_breve> <U0064>    : "∂" U2202 # PARTIAL DIFFERENTIAL
 <dead_breve> <U0067>    : "ḫ" U1e2b # LATIN SMALL LETTER H WITH BREVE BELOW
 <dead_breve> <U006a>    : "ʝ" U029d # LATIN SMALL LETTER J WITH CROSSED-TAIL
