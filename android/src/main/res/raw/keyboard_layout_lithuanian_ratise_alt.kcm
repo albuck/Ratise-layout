@@ -116,7 +116,7 @@ key MINUS {
     shift, capslock:     'W'
     shift+capslock:     'w'
     ralt:     '\u03a9'
-    shift+ralt:     '\u00ae'
+    shift+ralt:     '\u00df'
 }
 
 # ?
@@ -375,7 +375,7 @@ key BACKSLASH {
     shift, capslock:     'Z'
     shift+capslock:     'z'
     ralt:     '\u2044'
-    shift+ralt:          '\u00df'
+    shift+ralt:          '\u00ae'
 }
 
 ### ROW 4
