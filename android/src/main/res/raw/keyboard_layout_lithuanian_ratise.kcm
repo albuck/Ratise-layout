@@ -251,7 +251,7 @@ key RIGHT_BRACKET {
     base:     'f'
     shift, capslock:     'F'
     shift+capslock:     'f'
-    alt:     '\u00b0'
+    alt:     '\u2044'
     shift+alt:          '\u2122'
 }
 
@@ -374,7 +374,7 @@ key BACKSLASH {
     base:     'z'
     shift, capslock:     'Z'
     shift+capslock:     'z'
-    alt:     '\u2044'
+    alt:     '\u00b0'
     shift+alt:     '\u00ae'
 }
 
