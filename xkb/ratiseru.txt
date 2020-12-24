@@ -1,4 +1,4 @@
-// Lithuanian Ratise Cyrillic Phonetic keymap ver. 2.2 by Algirdas Buckus <algirdasbuckus@gmail.com>
+// Lithuanian Ratise Cyrillic Phonetic keymap by Algirdas Buckus <algirdasbuckus@gmail.com>
 // last changes 2020/12/21
 
 default partial alphanumeric_keys
