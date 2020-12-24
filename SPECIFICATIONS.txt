@@ -6,7 +6,7 @@ KEYMAP SPECIFICATIONS
 Lithuanian Ergonomic Computer Keyboard Layout ŪĖYOQJ or "Ratise"
 ================================================================
 
-version 2.2
+version 2.4
 
 
 This is four level keyboard layout:
@@ -40,10 +40,10 @@ Ratise's layout:
      │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ … │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
      ┢━━━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫           
   D  ┃         ┃ Ū › │ Ė ° │ Y ^ │ O » │ Q ↑ │ J ¥ │ N ¬ │ K † │ G • │ B ∞ │ C © │ F ™ ┃       ┃ D         
-     ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q ́  │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ° ┃ Enter ┃           
+     ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q ́  │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ⁄ ┃ Enter ┃           
      ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
   C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ® ┃      ┃ C         
-     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ⁄ ┃      ┃           
+     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ° ┃      ┃           
      ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
   B  ┃       ┃ – ‑ │ Ų ‹ │ Ę ˘ │ Į ˇ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
      ┃ Shift ┃ - ̇  │ ų ‚ │ ę { │ į } │ ą „ │ x ̀  │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
@@ -206,7 +206,7 @@ L4 — 0327 COMBINING CEDILLA | Dead Key 'CEDILLA' (*)
 C12:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
-L3 — 2044 FRACTION SLASH
+L3 — 00B0 DEGREE SIGN
 L4 — 00AE REGISTERED SIGN
 
 D01:
@@ -278,13 +278,13 @@ L4 — 00A9 COPYRIGHT SIGN
 D12:
 L1 — 0066 LATIN SMALL LETTER F
 L2 — 0046 LATIN CAPITAL LETTER F
-L3 — 00B0 DEGREE SIGN
+L3 — 2044 FRACTION SLASH
 L4 — 2122 TRADE MARK SIGN
 
 D13:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
-L3 — 2044 FRACTION SLASH
+L3 — 00B0 DEGREE SIGN
 L4 — 00AE REGISTERED SIGN
 
 E00:
@@ -370,7 +370,7 @@ L4 — 00BF INVERTED QUESTION MARK
 E13:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
-L3 — 2044 FRACTION SLASH
+L3 — 00B0 DEGREE SIGN
 L4 — 00AE REGISTERED SIGN
 
 
