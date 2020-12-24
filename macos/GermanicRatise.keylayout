@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 10:44 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 13:55 (EET)-->
 <keyboard group="0" id="10218" name="Germanų Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -429,7 +429,7 @@
             <key code="24" action="≈"/>
             <key code="25" action="9"/>
             <key code="26" action="7"/>
-            <key code="27" output="Ω"/>
+            <key code="27" output="œ"/>
             <key code="28" action="8"/>
             <key code="29" output="÷"/>
             <key code="30" action="°"/>
@@ -547,7 +547,7 @@
             <key code="24" output="¿"/>
             <key code="25" action="≥"/>
             <key code="26" action="≠"/>
-            <key code="27" output="®"/>
+            <key code="27" output="Œ"/>
             <key code="28" action="≤"/>
             <key code="29" output="‖"/>
             <key code="30" action="™"/>
@@ -680,7 +680,7 @@
             <key code="39" action="- 3"/>
             <key code="40" action="2 1"/>
             <key code="41" action="− 1"/>
-            <key code="42" output="Œ"/>
+            <key code="42" action="° 2"/>
             <key code="43" output="."/>
             <key code="44" action="+ 2"/>
             <key code="45" output="√"/>
@@ -2778,15 +2778,16 @@
             <when state="tilde" output="⌁"/>
         </action>
         <action id="°">
-            <when state="none" output="°"/>
-            <when state="caron" output="º"/>
+            <when state="none" output="⁄"/>
             <when state="cedilla" output=" ̥"/>
-            <when state="circumflex" output="ª"/>
         </action>
         <action id="° 1">
+            <when state="none" output="⁄"/>
+            <when state="cedilla" output=" ̥"/>
+        </action>
+        <action id="° 2">
             <when state="none" output="°"/>
             <when state="caron" output="º"/>
-            <when state="cedilla" output=" ̥"/>
             <when state="circumflex" output="ª"/>
         </action>
         <action id="±">
@@ -2824,7 +2825,9 @@
             <when state="none" output="×"/>
         </action>
         <action id="ß">
-            <when state="none" output="œ"/>
+            <when state="none" output="°"/>
+            <when state="caron" output="º"/>
+            <when state="circumflex" output="ª"/>
         </action>
         <action id="Ą">
             <when state="none" output="Ä"/>
@@ -3040,10 +3043,10 @@
             <when state="none" output="̃"/>
         </action>
         <action id="Ω">
-            <when state="none" output="Ω"/>
+            <when state="none" output="Œ"/>
         </action>
         <action id="ẞ">
-            <when state="none" output="Œ"/>
+            <when state="none" output="®"/>
             <when state="cedilla" output="ẞ"/>
         </action>
         <action id="‑">

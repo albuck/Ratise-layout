@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 12:17 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 13:57 (EET)-->
 <keyboard group="0" id="10218" name="Latvių Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -680,7 +680,7 @@
             <key code="39" action="- 3"/>
             <key code="40" action="2 1"/>
             <key code="41" action="− 1"/>
-            <key code="42" output="⁄"/>
+            <key code="42" action="° 2"/>
             <key code="43" output="."/>
             <key code="44" action="+ 2"/>
             <key code="45" output="√"/>
@@ -2792,15 +2792,16 @@
             <when state="tilde" output="⌁"/>
         </action>
         <action id="°">
-            <when state="none" output="°"/>
-            <when state="caron" output="º"/>
+            <when state="none" output="⁄"/>
             <when state="cedilla" output=" ̥"/>
-            <when state="circumflex" output="ª"/>
         </action>
         <action id="° 1">
+            <when state="none" output="⁄"/>
+            <when state="cedilla" output=" ̥"/>
+        </action>
+        <action id="° 2">
             <when state="none" output="°"/>
             <when state="caron" output="º"/>
-            <when state="cedilla" output=" ̥"/>
             <when state="circumflex" output="ª"/>
         </action>
         <action id="±">
@@ -2835,7 +2836,9 @@
             <when state="none" output="×"/>
         </action>
         <action id="ß">
-            <when state="none" output="⁄"/>
+            <when state="none" output="°"/>
+            <when state="caron" output="º"/>
+            <when state="circumflex" output="ª"/>
         </action>
         <action id="ß 1">
             <when state="none" output="ß"/>
