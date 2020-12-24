@@ -36,13 +36,13 @@ Ratise's layout:
 
    99    00    01    02    03    04    05    06    07    08    09    10    11    12    13   14             
      ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓           
-  E  │  §  ´ │ ¤ ¡ │ @ ← │ # → │ $ £ │ % ‰ │ | ¦ │ & ≠ │ < ≤ │ > ≥ │ \ ‖ │ W ® │ ~ ¿ ┃         ┃ E         
+  E  │  §  ´ │ ¤ ¡ │ @ ← │ # → │ $ £ │ % ‰ │ | ¦ │ & ≠ │ < ≤ │ > ≥ │ \ ‖ │ W ß │ ~ ¿ ┃         ┃ E         
      │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ … │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
      ┢━━━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫           
   D  ┃         ┃ Ū › │ Ė ° │ Y ^ │ O » │ Q ↑ │ J ¥ │ N ¬ │ K † │ G • │ B ∞ │ C © │ F ™ ┃       ┃ D         
      ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q ́  │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ° ┃ Enter ┃           
      ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
-  C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ß ┃      ┃ C         
+  C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ® ┃      ┃ C         
      ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ⁄ ┃      ┃           
      ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
   B  ┃       ┃ – ‑ │ Ų ‹ │ Ę ˘ │ Į ˇ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
@@ -207,7 +207,7 @@ C12:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
 L3 — 2044 FRACTION SLASH
-L4 — 00DF LATIN SMALL LETTER SHARP S
+L4 — 00AE REGISTERED SIGN
 
 D01:
 L1 — 016B LATIN SMALL LETTER U WITH MACRON
@@ -285,7 +285,7 @@ D13:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
 L3 — 2044 FRACTION SLASH
-L4 — 00DF LATIN SMALL LETTER SHARP S
+L4 — 00AE REGISTERED SIGN
 
 E00:
 L1 — 002B PLUS SIGN
@@ -359,7 +359,7 @@ E11:
 L1 — 0077 LATIN SMALL LETTER W
 L2 — 0057 LATIN CAPITAL LETTER W
 L3 — 03A9 GREEK CAPITAL LETTER OMEGA
-L4 — 00AE REGISTERED SIGN
+L4 — 00DF LATIN SMALL LETTER SHARP S
 
 E12:
 L1 — 003F QUESTION MARK
@@ -371,7 +371,7 @@ E13:
 L1 — 007A LATIN SMALL LETTER Z
 L2 — 005A LATIN CAPITAL LETTER Z
 L3 — 2044 FRACTION SLASH
-L4 — 00DF LATIN SMALL LETTER SHARP S
+L4 — 00AE REGISTERED SIGN
 
 
 
