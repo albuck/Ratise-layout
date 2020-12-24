@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 10:39 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 12:15 (EET)-->
 <keyboard group="0" id="10218" name="Lietuvių Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -547,7 +547,7 @@
             <key code="24" output="¿"/>
             <key code="25" action="≥"/>
             <key code="26" action="≠"/>
-            <key code="27" output="®"/>
+            <key code="27" action="ß 1"/>
             <key code="28" action="≤"/>
             <key code="29" output="‖"/>
             <key code="30" action="™"/>
@@ -2855,6 +2855,10 @@
         <action id="ß">
             <when state="none" output="⁄"/>
         </action>
+        <action id="ß 1">
+            <when state="none" output="ß"/>
+            <when state="cedilla" output="ẞ"/>
+        </action>
         <action id="Ą">
             <when state="none" output="Ą"/>
             <when state="acute" output=""/>
@@ -3102,8 +3106,7 @@
             <when state="none" output="Ω"/>
         </action>
         <action id="ẞ">
-            <when state="none" output="ß"/>
-            <when state="cedilla" output="ẞ"/>
+            <when state="none" output="®"/>
         </action>
         <action id="‑">
             <when state="none" output="`"/>
