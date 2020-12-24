@@ -1,5 +1,5 @@
 // Lithuanian Ratise Germanic Phonetic keymap ver. 2.2 by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2020/12/21
+// last changes 2020/12/24
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratiseg" {
@@ -19,7 +19,7 @@ xkb_symbols "ratiseg" {
     key <AE08> { [      comma,        less,                    8,      lessthanequal ] };
     key <AE09> { [  semicolon,     greater,                    9,   greaterthanequal ] };
     key <AE10> { [      slash,   backslash,             division,          0x1002016 ] }; // DOUBLE VERTICAL LINE
-    key <AE11> { [          w,           W,          Greek_OMEGA,         registered ] };
+    key <AE11> { [     ssharp,   0x1001E9E,          Greek_OMEGA,         registered ] }; // LATIN CAPITAL LETTER SHARP S
     key <AE12> { [   question,  asciitilde,            0x1002248,       questiondown ] }; // ALMOST EQUAL TO
 
     key <AD01> { [ odiaeresis,  Odiaeresis,  leftsinglequotemark,          0x100203A ] }; // SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
@@ -45,7 +45,7 @@ xkb_symbols "ratiseg" {
     key <AC08> { [          t,           T,                    2,        twosuperior ] };
     key <AC09> { [          s,           S,                    3,      threesuperior ] };
     key <AC10> { [          p,           P,            0x1002212,          paragraph ] }; // MINUS SIGN
-    key <AC11> { [          z,           Z,                minus,       dead_cedilla ] };
+    key <AC11> { [          w,           W,                minus,       dead_cedilla ] };
 
     key <AB01> { [ udiaeresis,  Udiaeresis,   singlelowquotemark,          0x1002039 ] }; // SINGLE LEFT-POINTING ANGLE QUOTATION MARK
     key <AB02> { [         ae,          AE,            braceleft,         dead_breve ] };
@@ -58,11 +58,11 @@ xkb_symbols "ratiseg" {
     key <AB09> { [        eth,         ETH,                comma,          0x10000B7 ] }; // MIDDLE DOT
     key <AB10> { [      thorn,       THORN,                 plus,          plusminus ] };
 
-    key <BKSL> { [     ssharp,   0x1001E9E,                   oe,                 OE ] }; // LATIN CAPITAL LETTER SHARP S
-    key <LSGT> { [         oe,          OE,            0x1000307,          0x1002011 ] }; // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
+    key <BKSL> { [          z,           Z,                   oe,                 OE ] };
+    key <LSGT> { [      minus,      endash,            0x1000307,          0x1002011 ] }; // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
     key <SPCE> { [      space,       space,                space,       nobreakspace ] };
 
-//    key <CAPS> { [         oe,          OE,            0x1000307,          0x1002011 ] }; // (Optional) // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
+//    key <CAPS> { [      minus,      endash,            0x1000307,          0x1002011 ] }; // (Optional) // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
     key <TAB>  { [        Tab,ISO_Left_Tab,            Multi_key                     ] }; // Tab as Multi_key (Compose)
 };
 
