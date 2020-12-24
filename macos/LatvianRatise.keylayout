@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-22 at 16:05 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 10:40 (EET)-->
 <keyboard group="0" id="10218" name="Latvių Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -1306,7 +1306,7 @@
             <when state="acute" output="″"/>
         </action>
         <action id="&#x0027;">
-            <when state="none" output="&#x0027;"/>
+            <when state="none" output="w"/>
         </action>
         <action id="&#x0027; 1">
             <when state="none" output="&#x0027;"/>

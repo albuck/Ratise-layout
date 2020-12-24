@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-22 at 16:20 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 10:40 (EET)-->
 <keyboard group="7" id="19456" name="Rusiška Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
@@ -103,7 +103,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" action="s"/>
             <key code="38" action="r"/>
-            <key code="39" output="&#x0027;"/>
+            <key code="39" output="w"/>
             <key code="40" output="t"/>
             <key code="41" output="p"/>
             <key code="42" output="z"/>

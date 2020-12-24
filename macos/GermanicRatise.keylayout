@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-22 at 16:10 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 10:44 (EET)-->
 <keyboard group="0" id="10218" name="Germanų Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -1309,7 +1309,7 @@
             <when state="acute" output="″"/>
         </action>
         <action id="&#x0027;">
-            <when state="none" output="&#x0027;"/>
+            <when state="none" output="w"/>
         </action>
         <action id="&#x0027; 1">
             <when state="none" output="&#x0027;"/>
@@ -1376,7 +1376,7 @@
             <when state="grave" output="∗"/>
         </action>
         <action id="+">
-            <when state="none" output="œ"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₋"/>
             <when state="circumflex" output="⁻"/>
             <when state="diaeresis" output="‑"/>
@@ -1393,7 +1393,7 @@
             <when state="circumflex" output="⁺"/>
         </action>
         <action id="+ 3">
-            <when state="none" output="Œ"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₋"/>
             <when state="circumflex" output="⁻"/>
             <when state="diaeresis" output="‑"/>
@@ -1699,7 +1699,6 @@
             <when state="cedilla" output="Ḑ"/>
             <when state="circumflex" output="◇"/>
             <when state="dotabove" output="Ḋ"/>
-            <when state="grave" output="Ð"/>
             <when state="macron" output="Đ"/>
             <when state="ringabove" output="Δ"/>
         </action>
@@ -2012,7 +2011,6 @@
             <when state="cedilla" output="Ț"/>
             <when state="circumflex" output="△"/>
             <when state="dotabove" output="Ṫ"/>
-            <when state="grave" output="Þ"/>
             <when state="macron" output="Ŧ"/>
         </action>
         <action id="T 1">
@@ -2082,23 +2080,15 @@
             <when state="tilde" output="Ṽ"/>
         </action>
         <action id="W">
-            <when state="none" output="W"/>
-            <when state="acute" output="Ẃ"/>
+            <when state="none" output="ẞ"/>
             <when state="cedilla" output="☢"/>
-            <when state="circumflex" output="Ŵ"/>
-            <when state="diaeresis" output="Ẅ"/>
             <when state="dotabove" output="Ẇ"/>
-            <when state="grave" output="Ẁ"/>
-            <when state="ringabove" output="W̊"/>
+            <when state="ringabove" output="ψ"/>
         </action>
         <action id="W 1">
-            <when state="none" output="W"/>
-            <when state="acute" output="Ẃ"/>
-            <when state="circumflex" output="Ŵ"/>
-            <when state="diaeresis" output="Ẅ"/>
+            <when state="none" output="ẞ"/>
             <when state="dotabove" output="Ẇ"/>
-            <when state="grave" output="Ẁ"/>
-            <when state="ringabove" output="W̊"/>
+            <when state="ringabove" output="ψ"/>
         </action>
         <action id="X">
             <when state="none" output="X"/>
@@ -2141,18 +2131,21 @@
         </action>
         <action id="Z">
             <when state="none" output="ẞ"/>
+            <when state="acute" output="Ź"/>
             <when state="caron" output="Ǯ"/>
-            <when state="cedilla" output="⚡"/>
+            <when state="cedilla" output="Ż"/>
             <when state="circumflex" output="Ẑ"/>
             <when state="dotabove" output="Ż"/>
-            <when state="ringabove" output="ψ"/>
+            <when state="macron" output="Ƶ"/>
         </action>
         <action id="Z 1">
-            <when state="none" output="ẞ"/>
+            <when state="none" output="Z"/>
+            <when state="acute" output="Ź"/>
             <when state="caron" output="Ǯ"/>
+            <when state="cedilla" output="Ż"/>
             <when state="circumflex" output="Ẑ"/>
             <when state="dotabove" output="Ż"/>
-            <when state="ringabove" output="ψ"/>
+            <when state="macron" output="Ƶ"/>
         </action>
         <action id="[">
             <when state="none" output="["/>
@@ -2630,15 +2623,10 @@
             <when state="dotabove" output="ẇ"/>
         </action>
         <action id="w 1">
-            <when state="none" output="w"/>
-            <when state="acute" output="ẃ"/>
+            <when state="none" output="ß"/>
             <when state="cedilla" output="☢"/>
-            <when state="circumflex" output="ŵ"/>
-            <when state="diaeresis" output="ẅ"/>
             <when state="dotabove" output="ẇ"/>
-            <when state="grave" output="ẁ"/>
-            <when state="macron" output="ʷ"/>
-            <when state="ringabove" output="ẘ"/>
+            <when state="ringabove" output="Ψ"/>
         </action>
         <action id="x">
             <when state="none" output="x"/>
@@ -2685,13 +2673,15 @@
             <when state="dotabove" output="ż"/>
         </action>
         <action id="z 1">
-            <when state="none" output="ß"/>
+            <when state="none" output="z"/>
+            <when state="acute" output="ź"/>
             <when state="breve" output="ʑ"/>
             <when state="caron" output="ǯ"/>
-            <when state="cedilla" output="⚡"/>
+            <when state="cedilla" output="ż"/>
             <when state="circumflex" output="ẑ"/>
             <when state="dotabove" output="ż"/>
-            <when state="ringabove" output="Ψ"/>
+            <when state="macron" output="ƶ"/>
+            <when state="ringabove" output="ζ"/>
         </action>
         <action id="{">
             <when state="none" output="{"/>
@@ -2956,7 +2946,6 @@
         <action id="Ū">
             <when state="none" output="Ö"/>
             <when state="diaeresis" output="Ű"/>
-            <when state="grave" output="Ɜ"/>
         </action>
         <action id="Ū 1">
             <when state="none" output="Ö"/>
@@ -2987,26 +2976,34 @@
         </action>
         <action id="Ž">
             <when state="none" output="Z"/>
-            <when state="acute" output="Ź"/>
+            <when state="acute" output="Ẃ"/>
             <when state="caron" output="Ʒ"/>
-            <when state="cedilla" output="Ż"/>
-            <when state="macron" output="Ƶ"/>
+            <when state="cedilla" output="⚡"/>
+            <when state="circumflex" output="Ŵ"/>
+            <when state="diaeresis" output="Ẅ"/>
+            <when state="grave" output="Ẁ"/>
+            <when state="ringabove" output="W̊"/>
         </action>
         <action id="Ž 1">
-            <when state="none" output="Z"/>
-            <when state="acute" output="Ź"/>
+            <when state="none" output="W"/>
+            <when state="acute" output="Ẃ"/>
             <when state="caron" output="Ʒ"/>
-            <when state="cedilla" output="Ż"/>
-            <when state="macron" output="Ƶ"/>
+            <when state="circumflex" output="Ŵ"/>
+            <when state="diaeresis" output="Ẅ"/>
+            <when state="grave" output="Ẁ"/>
+            <when state="ringabove" output="W̊"/>
         </action>
         <action id="ž">
-            <when state="none" output="z"/>
-            <when state="acute" output="ź"/>
+            <when state="none" output="w"/>
+            <when state="acute" output="ẃ"/>
             <when state="breve" output="ʓ"/>
             <when state="caron" output="ʒ"/>
-            <when state="cedilla" output="ż"/>
-            <when state="macron" output="ƶ"/>
-            <when state="ringabove" output="ζ"/>
+            <when state="cedilla" output="⚡"/>
+            <when state="circumflex" output="ŵ"/>
+            <when state="diaeresis" output="ẅ"/>
+            <when state="grave" output="ẁ"/>
+            <when state="macron" output="ʷ"/>
+            <when state="ringabove" output="ẘ"/>
         </action>
         <action id="ˆ">
             <when state="none" next="s3"/>
@@ -3059,7 +3056,7 @@
             <when state="none" next="cedilla"/>
         </action>
         <action id="– 2">
-            <when state="none" output="Œ"/>
+            <when state="none" output="–"/>
         </action>
         <action id="—">
             <when state="none" output="—"/>
