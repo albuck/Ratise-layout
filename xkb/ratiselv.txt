@@ -1,5 +1,5 @@
 // Lithuanian Ratise Latvian Phonetic keymap ver. 2.2 by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2020/12/21
+// last changes 2020/12/24
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratiselv" {
@@ -19,7 +19,7 @@ xkb_symbols "ratiselv" {
     key <AE08> { [      comma,        less,                    8,      lessthanequal ] };
     key <AE09> { [  semicolon,     greater,                    9,   greaterthanequal ] };
     key <AE10> { [      slash,   backslash,             division,          0x1002016 ] }; // DOUBLE VERTICAL LINE
-    key <AE11> { [          w,           W,          Greek_OMEGA,         registered ] };
+    key <AE11> { [          w,           W,          Greek_OMEGA,             ssharp ] };
     key <AE12> { [   question,  asciitilde,            0x1002248,       questiondown ] }; // ALMOST EQUAL TO
 
     key <AD01> { [   omacron,      Omacron,  leftsinglequotemark,          0x100203A ] }; // SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
@@ -58,7 +58,7 @@ xkb_symbols "ratiselv" {
     key <AB09> { [     scaron,      Scaron,                comma,          0x10000B7 ] }; // MIDDLE DOT
     key <AB10> { [     ccaron,      Ccaron,                 plus,          plusminus ] };
 
-    key <BKSL> { [     zcaron,      Zcaron,            0x1002044,             ssharp ] }; // FRACTION SLASH
+    key <BKSL> { [     zcaron,      Zcaron,            0x1002044,         registered ] }; // FRACTION SLASH
     key <LSGT> { [      minus,      endash,            0x1000307,          0x1002011 ] }; // COMBINING DOT ABOVE, NON-BREAKING HYPHEN
     key <SPCE> { [      space,       space,                space,       nobreakspace ] };
 
