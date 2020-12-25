@@ -50,7 +50,7 @@
 # This compose sequence map is for Lithuanian accented letters (JjLlMmRrĖėŪūiĄąĘęĮįŲų), which are in the private font area (needs a special font).
 # These accented letters are not included in the Unicode standard.
 # Here, the Lithuanian special accented "i" is entered by pressing "h".
-# Made for Lithuanian Ratise (with dead keys) keymap ver. 2.1 by Algirdas Buckus <algirdasbuckus@gmail.com>
+# Made for Lithuanian Ratise (with dead keys) keymap by Algirdas Buckus <algirdasbuckus@gmail.com>
 # Should work with other layouts (with dead keys) as well.
 
 # Use the sequences from en_US.UTF-8 as the basis:
