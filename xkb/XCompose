@@ -111,7 +111,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_abovering> <uogonek>    : "ω" U03c9 # GREEK SMALL LETTER OMEGA
 <dead_abovering> <Zcaron>    : "Ψ" U03a8 # GREEK CAPITAL LETTER PSI
 <dead_abovering> <zcaron>    : "ψ" U03c8 # GREEK SMALL LETTER PSI
-<dead_abovering> <U0020>    : "̊" U030a # COMBINING RING ABOVE
+<dead_abovering> <space>    : "̊" U030a # COMBINING RING ABOVE
 
 <dead_circumflex> <ellipsis>     : "⋮"  U22ee # VERTICAL ELLIPSIS
 <dead_circumflex> <emdash>    : "↔" U2194 # LEFT RIGHT ARROW
@@ -161,7 +161,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_circumflex> <U00b0>    : "ª" U00aa # FEMININE ORDINAL INDICATOR
 <dead_circumflex> <U2190>    : "↖" U2196 # NORTH WEST ARROW
 <dead_circumflex> <U2192>    : "↗" U2197 # NORTH EAST ARROW
-<dead_circumflex> <U201a>    : "ˆ" U02c6 # MODIFIER LETTER CIRCUMFLEX ACCENT
+<dead_circumflex> <space>    : "ˆ" U02c6 # MODIFIER LETTER CIRCUMFLEX ACCENT
 
 <dead_macron> <Eabovedot>    : "Œ" U0152 # LATIN CAPITAL LIGATURE OE
 <dead_macron> <eabovedot>    : "œ" U0153 # LATIN SMALL LIGATURE OE
@@ -215,7 +215,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_macron> <U0303>    : "ʰ" U02b0 # MODIFIER LETTER SMALL H
 <dead_macron> <U20ac>    : "ɟ" U025f # LATIN SMALL LETTER DOTLESS J WITH STROKE
 <dead_macron> <U2260>    : "≢" U2262 # NOT IDENTICAL TO
-<dead_macron> <U0020>    : "¯" U00af # MACRON
+<dead_macron> <space>    : "¯" U00af # MACRON
 
 <dead_grave> <aogonek>    : "ɑ" U0251 # LATIN SMALL LETTER ALPHA
 <dead_grave> <Aogonek>    : "Ɑ" U2c6d # LATIN CAPITAL LETTER ALPHA
@@ -239,7 +239,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_grave> <U0076>    : "ʌ" U028c # LATIN SMALL LETTER TURNED V
 <dead_grave> <U2191>    : "⭎" U2b4e # SHORT SLANTED NORTH ARROW
 <dead_grave> <U2193>    : "⭏" U2b4f # SHORT BACKSLANTED SOUTH ARROW
-<dead_grave> <U0020>    : "`" U0060 # GRAVE ACCENT
+<dead_grave> <space>    : "`" U0060 # GRAVE ACCENT
 
 <dead_acute> <Aogonek>    : "" Ue000 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_acute> <aogonek>    : "" Ue001 # LATIN SMALL LETTER A WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
@@ -274,7 +274,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_acute> <umacron>    : "" Ue020 # LATIN SMALL LETTER U WITH MACRON AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_acute> <Uogonek>    : "" Ue01b # LATIN CAPITAL LETTER U WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_acute> <uogonek>    : "" Ue01c # LATIN SMALL LETTER U WITH OGONEK AND WITH ACUTE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_acute> <U0020>    : "´" U00b4 # ACUTE ACCENT
+<dead_acute> <space>    : "´" U00b4 # ACUTE ACCENT
 
 <dead_diaeresis> <Aogonek>    : "Ȍ" U020c # LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
 <dead_diaeresis> <aogonek>    : "ȍ" U020d # LATIN SMALL LETTER O WITH DOUBLE GRAVE
@@ -310,7 +310,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_diaeresis> <umacron>    : "ű" U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
 <dead_diaeresis> <Uogonek>    : "Ȕ" U0214 # LATIN CAPITAL LETTER U WITH DOUBLE GRAVE
 <dead_diaeresis> <uogonek>    : "ȕ" U0215 # LATIN SMALL LETTER U WITH DOUBLE GRAVE
-<dead_diaeresis> <U0020>    : "¨" U00a8 # DIAERESIS
+<dead_diaeresis> <space>    : "¨" U00a8 # DIAERESIS
 
 <dead_tilde> <Aogonek>    : "" Ue002 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <aogonek>    : "" Ue003 # LATIN SMALL LETTER A WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
@@ -350,7 +350,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_tilde> <umacron>    : "" Ue022 # LATIN SMALL LETTER U WITH MACRON AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <Uogonek>    : "" Ue01d # LATIN CAPITAL LETTER U WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <uogonek>    : "" Ue01e # LATIN SMALL LETTER U WITH OGONEK AND WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0020>    : "˜" U02dc # SMALL TILDE
+<dead_tilde> <space>    : "˜" U02dc # SMALL TILDE
 
 <dead_cedilla> <Ccaron>    : "Ț" U021A # LATIN CAPITAL LETTER S WITH COMMA BELOW
 <dead_cedilla> <ccaron>    : "ț" U021B # LATIN SMALL LETTER S WITH COMMA BELOW
@@ -376,7 +376,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_cedilla> <w>    : "☢" U2622 # RADIOACTIVE SIGN
 <dead_cedilla> <Zcaron>    : "Ż" U017b # LATIN CAPITAL LETTER Z WITH DOT ABOVE
 <dead_cedilla> <zcaron>    : "ż" U017c # LATIN SMALL LETTER Z WITH DOT ABOVE
-<dead_cedilla> <U0020>    : "¸" U00b8 # CEDILLA
+<dead_cedilla> <space>    : "¸" U00b8 # CEDILLA
 
 <dead_breve> <aogonek>    : "ɐ" U0250 # LATIN SMALL LETTER TURNED A
 <dead_breve> <Aogonek>    : "Ɐ" U2c6f # LATIN CAPITAL LETTER TURNED A
@@ -441,7 +441,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_breve> <Uogonek>    : "Ʊ" U01b1 # LATIN CAPITAL LETTER UPSILON
 <dead_breve> <uogonek>    : "ʊ" U028a # LATIN SMALL LETTER UPSILON
 <dead_breve> <zcaron>    : "ʓ" U0293 # LATIN SMALL LETTER EZH WITH CURL
-<dead_breve> <U0020>    : "˘" U02d8 # BREVE
+<dead_breve> <space>    : "˘" U02d8 # BREVE
 
 <dead_caron> <Aogonek>    : "∀" U2200 # FOR ALL
 <dead_caron> <ccaron>    : "∓" U2213 # MINUS-OR-PLUS SIGN
@@ -481,7 +481,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_caron> <U2192>    : "↘" U2198 # SOUTH EAST ARROW
 <dead_caron> <Zcaron>    : "Ʒ" U01b7 # LATIN CAPITAL LETTER EZH
 <dead_caron> <zcaron>    : "ʒ" U0292 # LATIN SMALL LETTER EZH
-<dead_caron> <U0020>    : "ˇ" U02c7 # CARON
+<dead_caron> <space>    : "ˇ" U02c7 # CARON
 
 #<Multi_key>
 
