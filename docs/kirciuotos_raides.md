@@ -1,7 +1,7 @@
 [Į pradžią](../README.md)
 
 KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI
---------------------------------------------------------------
+----------------------------------
 
 Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skirtingais atvejais gali būti parankesni skirtingi kirčiuotų raidžių įvedimo būdai, kurie turi savo privalumų ir trūkumų.
 
@@ -121,3 +121,5 @@ U`u` U´u´ U˜u˜
 
 Ū´ū´ Ū˜ū˜
 ```
+
+[Į pradžią](../README.md)
