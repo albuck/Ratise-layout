@@ -55,7 +55,7 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
 
 ## 2. Kirčiuotų raidžių gavimas uždėtiniais priegaidžių ženkleliais
 
-Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų __X__, __H__, __Q__ trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų. 
+Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų __X__, __H__, __Q__ trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
 
 Uždėtinių ženklelių atvaizdavimo kokybė įvairuoja nuo skirtingų spaudmenų ir skirtingos skaitmeninės įrangos: kartais ji puiki, o kartais uždėtinis ženklelis gali būti paslinktas į šoną, ar uždėtas per aukštai, ar per žemai ant jau esančio kito uždėtinio ir priklausančio tai raidei ženklelio (taško, brūkšnio), kartais net, uždėtinis ženklelis gali būti klaidingai nukeltas ant kito šalia esančio ženklo.
 
