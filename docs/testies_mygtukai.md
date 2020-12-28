@@ -16,7 +16,7 @@ Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsti
 Paspaudus tiesiogiai gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
 
 __Pastabos__:
-+ Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui ‘Vytis’, ‘Palemonas’.
++ Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
 + Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __h__ mygtuką vietoje __i__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
 + Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų __X__, __H__ ir __Q__ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų (ù, ã, ą̃, ū̃, ó, ė̃, į̃, j̃, ì, i̇̀ (čia: i + uždėtinis taškas + uždėtinis kairinis kirtis). Uždėtinių ženklelių atvaizdavimo kokybė įvairuoja nuo skirtingų spaudmenų ir skirtingos skaitmeninės įrangos: kartais ji puiki, o kartais uždėtinis ženklelis gali būti paslinktas į šoną, ar uždėtas per aukštai, arba per žemai ant jau esančio kito uždėtinio ir priklausančio tai raidei ženklelio (taško, brūkšnio).
 
