@@ -51,6 +51,9 @@ Lietuviškos kirčiuotos raidės:
 
 - Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __H__ mygtuką vietoje __I__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
 
+Papildomai skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
+
+
 ## 2. Kirčiuotų raidžių gavimas uždėtiniais priegaidžių ženkleliais
 
 Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų __X__, __H__, __Q__ trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų. 
