@@ -45,7 +45,7 @@ Lietuviškos kirčiuotos raidės:
 
 † Pastabos:
 
-- Ypatingosios lietuviškos kirčiuotos raidės, esančios asmeninėje spaudmenų srityje, bus matomos tik kai jos yra tuose spaudmenyse:
+- Ypatingosios lietuviškos kirčiuotos raidės, esančios asmeninėje spaudmenų srityje, bus matomos tik kai jos yra tenais tuose spaudmenyse:
 
 ![Neįtrauktos į Unikodą lietuviškos kirčiuotos raidės](images/ypatingos_lt_raides.png)
 
