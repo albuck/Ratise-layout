@@ -11,6 +11,8 @@ Lietuviškos kirčiuotos raidės:
 
 ## 1. Kirčiuotų raidžių įvedimas tęsties mygtukais
 
+Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
+
 Šiuo būdu gaunamos raidės su visais taisyklingai atvaizduojamais kirčiais. Deja, dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
 
 ```
@@ -50,9 +52,6 @@ Lietuviškos kirčiuotos raidės:
 ![Neįtrauktos į Unikodą lietuviškos kirčiuotos raidės](images/ypatingos_lt_raides.png)
 
 - Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __H__ mygtuką vietoje __I__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
-
-Papildomai skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
-
 
 ## 2. Kirčiuotų raidžių gavimas uždėtiniais priegaidžių ženkleliais
 
