@@ -17,7 +17,7 @@ Paspaudus tiesiogiai gaunamos esamos mažosios raidės su atitinkamu tęsties my
 
 __Pastabos__:
 + Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
-+ Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __h__ mygtuką vietoje __i__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
++ Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __H__ mygtuką vietoje __I__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
 + Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų __X__, __H__ ir __Q__ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
 + Dar skaityke: [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos_raides.md).
 
