@@ -72,7 +72,7 @@ Èè Éé Ẽẽ
 
 Ìì Íí Ĩĩ (i̇̀ i̇́ i̇̃, ı̇̀ ı̇́ ı̇̃) (‡)
 
-Į́į́ Į̃į̃
+Į́į́ Į̃į̃ (į̇́, į̇̃) (‡)
 
 Ýý Ỹỹ
 
@@ -88,7 +88,7 @@ Ùù Úú Ũũ
 
 Ū́ū́ Ū̃ū̃ (Ū̄́ū̄́ Ū̄̃ū̄̃, Ū́ū́ Ū̃ū̃) (‡)
 ```
-‡ Pastaba: skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais.
+‡ Pastaba: skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pati jautriausia tokiems kirčių atvaizdavimo netolygumams yra ‘Ėė’ raidė: dingus taškui — ji pavirsta ‘Ee’, o tai jau yra rašybos klaida!
 
 ## 3. Kirčiavimas pridedant šalia raidės atskirus priegaidžių ženklus: ``` `, ´, ˜ ar ~```
 
