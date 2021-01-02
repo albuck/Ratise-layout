@@ -132,5 +132,6 @@ http://www.likit.lt/all/kirc_raid/AccMain.htm
 
 https://unicode.org/pending/proposals.html
 
+---------------------------------------------------------------------------------------------------
 
 [Į pradžią](../README.md)
