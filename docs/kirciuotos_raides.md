@@ -128,9 +128,9 @@ U`u` U´u´ U˜u˜
 ---------------------------------------------------------------------------------------------------
 ## Naudingos nuorodos:
 
-http://www.likit.lt/all/kirc_raid/AccMain.htm
+[Lietuviškų kirčiuotų raidžių ir kitų rašto ženklų aibės sudarymas bei kodavimas (www.likit.lt)](http://www.likit.lt/all/kirc_raid/AccMain.htm)
 
-https://unicode.org/pending/proposals.html
+[Submitting Character Proposals (unicode.org)](https://unicode.org/pending/proposals.html)
 
 ---------------------------------------------------------------------------------------------------
 
