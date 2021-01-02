@@ -126,7 +126,7 @@ U`u` U´u´ U˜u˜
 Ū´ū´ Ū˜ū˜
 ```
 ---------------------------------------------------------------------------------------------------
-## Naudingos nuorodos:
+## Kitos naudingos nuorodos:
 
 [Lietuviškų kirčiuotų raidžių ir kitų rašto ženklų aibės sudarymas bei kodavimas (www.likit.lt)](http://www.likit.lt/all/kirc_raid/AccMain.htm)
 
