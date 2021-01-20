@@ -449,7 +449,7 @@ DEADKEY	030a COMBINING RING ABOVE or 02DA RING ABOVE
 
 DEADKEY	02c6 MODIFIER LETTER CIRCUMFLEX ACCENT or 005E CIRCUMFLEX ACCENT
 
-00028	207d	// ( -> ⁽ (SUPERSCRIPT LEFT PARENTHESIS)
+0028	207d	// ( -> ⁽ (SUPERSCRIPT LEFT PARENTHESIS)
 0029	207e	// ) -> ⁾ (SUPERSCRIPT RIGHT PARENTHESIS)
 002a	2042	// * -> ⁂ (ASTERISM)
 002b	207a	// + -> ⁺ (SUPERSCRIPT PLUS SIGN)
@@ -1014,5 +1014,5 @@ DEADKEY	02c7 CARON
 0020	02c7	//   -> ˇ (CARON)
 
 ---------------------------------------------------------------------
-2019—2020 Algirdas Buckus <algirdasbuckus@gmail.com>
+2019—2021 Algirdas Buckus <algirdasbuckus@gmail.com>
 
