@@ -1,7 +1,7 @@
 // Lithuanian Ratise Germanic Phonetic keymap by Algirdas Buckus <algirdasbuckus@gmail.com>
 // last changes 2020/12/24
 
-default  partial alphanumeric_keys modifier_keys
+default partial alphanumeric_keys modifier_keys
 xkb_symbols "ratiseg" {
 
     include "level3(ralt_switch)"
