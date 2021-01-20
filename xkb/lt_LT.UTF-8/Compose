@@ -58,9 +58,9 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 
 
 
-<dead_grave> <U0068>    : "" Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT
+<dead_grave> <h>    : "" Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT
 
-<dead_acute> <U0068>    : "" Ue00d # LATIN SMALL LETTER I WITH ACUTE ACCENT
+<dead_acute> <h>    : "" Ue00d # LATIN SMALL LETTER I WITH ACUTE ACCENT
 <dead_acute> <Aogonek>    : "" Ue000 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH ACUTE ACCENT
 <dead_acute> <aogonek>    : "" Ue001 # LATIN SMALL LETTER A WITH OGONEK AND WITH ACUTE ACCENT
 <dead_acute> <Eabovedot>    : "" Ue008 # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH ACUTE ACCENT
@@ -74,15 +74,15 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_acute> <Uogonek>    : "" Ue01b # LATIN CAPITAL LETTER U WITH OGONEK AND WITH ACUTE ACCENT
 <dead_acute> <uogonek>    : "" Ue01c # LATIN SMALL LETTER U WITH OGONEK AND WITH ACUTE ACCENT
 
-<dead_tilde> <U004a>    : "" Ue013 # LATIN CAPITAL LETTER J WITH TILDE ACCENT
-<dead_tilde> <U004c>    : "" Ue015 # LATIN CAPITAL LETTER L WITH TILDE ACCENT
-<dead_tilde> <U004d>    : "" Ue017 # LATIN CAPITAL LETTER M WITH TILDE ACCENT
-<dead_tilde> <U0052>    : "" Ue019 # LATIN SMALL LETTER R WITH TILDE ACCENT
-<dead_tilde> <U0068>    : "" Ue00e # LATIN SMALL LETTER I WITH TILDE ACCENT
-<dead_tilde> <U006a>    : "" Ue014 # LATIN SMALL LETTER J WITH TILDE ACCENT
-<dead_tilde> <U006c>    : "" Ue016 # LATIN SMALL LETTER L WITH TILDE ACCENT
-<dead_tilde> <U006d>    : "" Ue018 # LATIN SMALL LETTER M WITH TILDE ACCENT
-<dead_tilde> <U0072>    : "" Ue01a # LATIN SMALL LETTER R WITH TILDE ACCENT
+<dead_tilde> <J>    : "" Ue013 # LATIN CAPITAL LETTER J WITH TILDE ACCENT
+<dead_tilde> <L>    : "" Ue015 # LATIN CAPITAL LETTER L WITH TILDE ACCENT
+<dead_tilde> <M>    : "" Ue017 # LATIN CAPITAL LETTER M WITH TILDE ACCENT
+<dead_tilde> <R>    : "" Ue019 # LATIN CAPITAL LETTER R WITH TILDE ACCENT
+<dead_tilde> <h>    : "" Ue00e # LATIN SMALL LETTER I WITH TILDE ACCENT
+<dead_tilde> <j>    : "" Ue014 # LATIN SMALL LETTER J WITH TILDE ACCENT
+<dead_tilde> <l>    : "" Ue016 # LATIN SMALL LETTER L WITH TILDE ACCENT
+<dead_tilde> <m>    : "" Ue018 # LATIN SMALL LETTER M WITH TILDE ACCENT
+<dead_tilde> <r>    : "" Ue01a # LATIN SMALL LETTER R WITH TILDE ACCENT
 <dead_tilde> <Aogonek>    : "" Ue002 # LATIN CAPITAL LETTER A WITH OGONEK AND WITH TILDE ACCENT
 <dead_tilde> <aogonek>    : "" Ue003 # LATIN SMALL LETTER A WITH OGONEK AND WITH TILDE ACCENT
 <dead_tilde> <Eabovedot>    : "" Ue00a # LATIN CAPITAL LETTER E WITH DOT ABOVE AND WITH TILDE ACCENT
