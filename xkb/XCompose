@@ -233,7 +233,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_grave> <U0054>    : "Þ" U00de # LATIN CAPITAL LETTER THORN
 <dead_grave> <U0056>    : "Ʌ" U0245 # LATIN CAPITAL LETTER TURNED V
 <dead_grave> <U0064>    : "ð" U00f0 # LATIN SMALL LETTER ETH
-<dead_grave> <U0068>    : "" Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_grave> <h>    : "" Ue00c # LATIN SMALL LETTER I WITH GRAVE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_grave> <U0071>    : "ɒ" U0252 # LATIN SMALL LETTER TURNED ALPHA
 <dead_grave> <U0074>    : "þ" U00fe # LATIN SMALL LETTER THORN
 <dead_grave> <U0076>    : "ʌ" U028c # LATIN SMALL LETTER TURNED V
@@ -334,7 +334,7 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <dead_tilde> <U004a>    : "" Ue013 # LATIN CAPITAL LETTER J WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <U004c>    : "" Ue015 # LATIN CAPITAL LETTER L WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <U004d>    : "" Ue017 # LATIN CAPITAL LETTER M WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
-<dead_tilde> <U0052>    : "" Ue019 # LATIN SMALL LETTER R WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
+<dead_tilde> <U0052>    : "" Ue019 # LATIN CAPITAL LETTER R WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <U0054>    : "⊨" U22a8 # TRUE
 <dead_tilde> <U0068>    : "" Ue00e # LATIN SMALL LETTER I WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
 <dead_tilde> <U006a>    : "" Ue014 # LATIN SMALL LETTER J WITH TILDE ACCENT — Lithuanian character in the private use area, needs special font.
