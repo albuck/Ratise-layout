@@ -31,3 +31,12 @@ Pastabos:
 * XKB aplanko vieta skirtingose Linux ir Unix atmainose gali būti kiek skirtinga (pavyzdžiui, FreeBSD: /usr/local/share/X11/xkb).
 ** Tokio diegimo trūkumas, kad atsinaujinant sistemai jeigu bus atnaujintos šito diegimo pakeistos bylos, ratisės išdėstymus teks diegti vėl.
 
+Papildymai:
+-----------
+
++ Norintiems turėti ir neturintiems (ANSI) klaviatūroje brūkšnelio mygtuko, pastarojo veikimą galima priskirti 'Didž' ('CapsLock') mygtukui (tam reikia prieš 'key <CAPS>' įrašą išdėstyme ištrinti '//'), tokiu atveju 'Didž' veikimą klaviatūros nustatymuose galima priskirti, pavyzdžiui, kartu paspaustiems 'Shift' mygtukams.
++ Norintiems turėti papildomą paprastą 'Alt' vietoje 'Meniu' mygtuko reikėtų pridėti išdėstymo byloje į priešpaskutinę eilutę (prieš '};') įrašą ('Menu' veiksena palieka antrame lygyje):
+    key <MENU> { [ Alt_L, Menu ] };
+   
+
+
