@@ -1,0 +1,38 @@
+
+‘Cut’ <ctrl+ę>, ‘Copy’ <ctrl+į> ir ‘Paste’ <ctrl+ą> su ‘Autokey’ programėle
+---------------------------------------------------------------------------
+
+1. Įdiegiame ‘autokey’.
+
+2. Paleidžiame ‘Autokey’.
+
+3. File → New → Folder.
+
+4. Pasirinkite/sukurkite aplanką skriptams: File → New → Script
+
+5. Po įrašu ‘# Enter script code’ įrašoma:
+
+   keyboard.send_keys(raktas kurį norite padirbti)
+
+   Pavyzdžiai:
+
+      Cut:
+         keyboard.send_keys("<ctrl>+x")
+
+      Copy:
+         keyboard.send_keys("<ctrl>+c")
+
+      Paste:
+         keyboard.send_keys("<ctrl>+v")
+
+   Pastaba: reikia pakartoti 4—5 žingsnius kiekvienam norimam raktui.
+
+6. Toliau pasirenkame raktą (Hotkey) spausdami antrąjį ‘Set’ mygtuką.
+
+7. Patikriname veikimą.
+
+8. Norint kad Autokey pasileistų prisijungiant naudotojui (Edit → preferences → general), taip pat galima išvalyti ypatingus raktus (Edit → preferences → Special Hotkeys), jeigu jums jų nereik.
+
+Pagal: https://ubuntuforums.org/showthread.php?t=1764318
+
+
