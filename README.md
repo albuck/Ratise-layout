@@ -66,6 +66,10 @@ PAPILDYMAI:
 
 [Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 
+[Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
+
+[Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
+
 [Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
 
 [Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html)
