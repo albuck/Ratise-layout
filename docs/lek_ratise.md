@@ -3,7 +3,7 @@
 RATISĖS KETURIŲ LYGIŲ ŽENKLAI VIENAME PAVEIKSLĖLYJE
 ---------------------------------------------------
 
-Paveikslėliuose yra matomi ratisės išdėstymo visi keturių lygių ženklai. Palšiau pažymėta ne visose klaviatūrose būnantis brūkšnelio mygkukas bei __Z__ mygtuko galimos skirtingos vietos skirtingos darybos klaviatūrose (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais):
+Paveikslėliuose yra matomi ratisės išdėstymo visi keturių lygių ženklai. Palšiau pažymėta ne visose klaviatūrose būnantis brūkšnelio mygkukas bei __Z__ mygtuko galimos skirtingos vietos [skirtingos darybos klaviatūrose](docs/images/Physical_keyboard_layouts_comparison_ANSI_ISO_variant.png) (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais):
 
 ![Ratisės išdėstymas](images/lek_ratise_layout.png)
 
