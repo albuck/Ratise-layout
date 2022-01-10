@@ -2,7 +2,7 @@
 
 ------------------------------------
 
-# Lithuanian Ergonomic Keyboard Layout ŪĖYOQJ or "Ratise"
+# Lithuanian Ergonomic Keyboard Layout UEYOQJ or "Ratise"
 
 version 2.4
 
@@ -12,9 +12,9 @@ Vowels and consonants are distinguished for different hands. The more frequently
 
 ![Ratise](docs/images/ratise.png)
 
-+ The specifications of this keyboard layout here:  [txt](SPECIFICATIONS.txt)
++ The specifications of this keyboard layout here: [txt](SPECIFICATIONS.txt)
 
-+ [Read more about "Ratise" layout (in lithuanian)](README.md)
++ [Read more about "Ratise" layout (in Lithuanian)](README.md)
 
 + _"Ratise" Keyboard Layout_ drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
 
