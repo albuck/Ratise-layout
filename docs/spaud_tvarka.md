@@ -7,7 +7,7 @@ Spausdinant visais pirštais, apčiuopomis, kiekvienas pirštas be pagrindinės 
 
 Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga spalva (kitos spalvos skrituliukai mygtuke rodo spaudimo dar kitu pirštu galimybę, kai tai yra patogiau), nykščiams skirti mygtukai žymėti viena spalva, nors aišku, kad kairysis ir dešinysis nykštys paprastai spaudys savo pusės mygtukus:
 
-![Spausdinimo tvarka](images/spaudotvarka.png)
+->![Spausdinimo tvarka](images/spaudotvarka.png)<-
 
 Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai (pageidautina).
 
