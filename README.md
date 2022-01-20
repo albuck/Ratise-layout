@@ -9,7 +9,7 @@ __Lietuviškas ergonomiškas kompiuterio klaviatūros spausdinamųjų ženklų i
 
 Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams. Spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas.
 
-![Ratisės išdėstymas](docs/images/ratise.png)
+![Ratisės išdėstymas](docs/images/ratise.gif)
 
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 
