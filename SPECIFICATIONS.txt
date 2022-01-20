@@ -1014,5 +1014,5 @@ DEADKEY	02c7 CARON
 0020	02c7	//   -> ˇ (CARON)
 
 ---------------------------------------------------------------------
-2019—2021 Algirdas Buckus <algirdasbuckus@gmail.com>
+2019—2022 Algirdas Buckus <algirdasbuckus@gmail.com>
 
