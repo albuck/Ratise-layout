@@ -15,7 +15,8 @@ Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti klaviat
 
 + Europietiškas 105 mygtukų su pagrindiniais išdėstymo ženklais:
   - [spalvotais ženklais](images/ratise_spausdai.png),
-  - [nespalvotais ženklais](images/ratise_spausdai_pilka.png);
+  - [nespalvotais ženklais](images/ratise_spausdai_pilka.png),
+  - [neoniniais mygtukais](images/ratise_spausdai_neon.png);
  
 + Su visais išdėstymo ženklais:
   - [105 mygtukų europietiškas ISO](images/ratise_105.png);
