@@ -14,8 +14,8 @@ Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: p
 Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti klaviatūros ženklų išdėstymo paveikslėlį (ant ekrano ar atsispausdintą):
 
 + Supaprastintas europietiškas [su spalvotomis raidėmis](images/ratise_spausdai.png) ar [su juosvomis raidėmis](images/ratise_spausdai_pilka.png);
-+ Pilnas 105 mygtukų [eropietiškas ISO](images/ratise_105.png);
-+ Pilnas 104 mygtukų [arikietiškas ANSI](images/ratise_104_1.png);
++ Pilnas 105 mygtukų [europietiškas ISO](images/ratise_105.png);
++ Pilnas 104 mygtukų [amerikietiškas ANSI](images/ratise_104_1.png);
 + Pilnas 104 mygtukų [su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
 + Pilnas 104 mygtukų [ISO be 105 mygtuko](images/ratise_104_3.png).
 
