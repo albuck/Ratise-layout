@@ -18,10 +18,10 @@ Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti klaviat
  - - [nespalvotais ženklais](images/ratise_spausdai_pilka.png);
  
 + Su visais išdėstymo ženklais:
- -- [105 mygtukų europietiškas ISO](images/ratise_105.png);
- -- [104 mygtukų amerikietiškas ANSI](images/ratise_104_1.png);
- -- [104 mygtukų su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
- -- [104 mygtukų europietiškas (ISO be 105-to mygtuko)](images/ratise_104_3.png).
+  - [105 mygtukų europietiškas ISO](images/ratise_105.png);
+  - [104 mygtukų amerikietiškas ANSI](images/ratise_104_1.png);
+  - [104 mygtukų su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
+  - [104 mygtukų europietiškas (ISO be 105-to mygtuko)](images/ratise_104_3.png).
 
 Apčiuopomis pradėti jausti, pažinti pačią klaviatūrą, „susidraugauti“ su ja. Mokytis rinkti įrašus pradedama nuo žodelių sudarytų iš pirštų pagrindinės padėties raidžių (ueia rtsp), toliau pereinant prie sunkiau pasiekiamų. Dažniausias lietuviškas žodelis yra ‚[ir](dazn_zod.txt)‘, nuo jo galima ir pradėti. Kartojant judesius mankštinamas kiekvienas pirštas iki susidaro įgūdis, kai pirštas „žino“, kur yra koks jam priskirtas spausti ženklas. Iš pradžių mintyse kiekvienas pirštas yra „prižiūrimas“ ir vedamas prie reikiamo mygtuko. Jeigu kokį raidžių derinį yra sunkiau surinkti, žodį su tokiu deriniu reikėtų pakartotinai įvedinėti keletą šimtų kartų, o pavargus pirštams daryti pertrauką ir kartoti įvedimą vėl. Po spausdinimo įgūdžio susidarymo ir pirštų išlavėjimo, pirštai spausdina veik savaime ir be didelių pastangų.
 
