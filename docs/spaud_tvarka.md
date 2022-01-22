@@ -17,7 +17,9 @@ Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti klaviat
   - [105 mygtukų europietiškas ISO](images/ratise_105.png);
   - [104 mygtukų amerikietiškas ANSI](images/ratise_104_1.png);
   - [104 mygtukų su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
-  - [104 mygtukų europietiškas (ISO be 105-to mygtuko)](images/ratise_104_3.png).
+  - [104 mygtukų europietiškas (ISO be 105-to mygtuko)](images/ratise_104_3.png);
+  - [Kinesis / ErgoDox](images/ratise_kinesis.png).
+
 
 Gerai apžiūrėti, apčiupinėti pačią klaviatūrą. Pasidėti klaviatūrą taip, kad būtų patogu. Apčiuopomis pajusti mygtukus, paspaudinėti juos, smiliais rasti esančius ant __A__ ir __R__ mygtukų kauburiukus, žodžiu, pažinti pačią klaviatūrą, „susidraugauti“ su ja.
 
