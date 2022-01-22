@@ -16,8 +16,8 @@ Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti klaviat
   - [105 mygtukų europietiškas ISO su pagrindiniais ženklais](images/ratise_spausdai.png);
   - [105 mygtukų europietiškas ISO](images/ratise_105.png);
   - [104 mygtukų amerikietiškas ANSI](images/ratise_104_1.png);
-  - [104 mygtukų su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
   - [104 mygtukų europietiškas (ISO be 105-to mygtuko)](images/ratise_104_3.png);
+  - [104 mygtukų su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
   - [Kinesis / ErgoDox](images/ratise_kinesis.png).
 
 
