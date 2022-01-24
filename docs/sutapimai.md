@@ -11,6 +11,8 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 ### Sutapimai su kitais išdėstymais:
 
+__Remigijaus__ JjNnKkGgLlRrTtSsŽžVvMm() {%789} (taip pat balsių stulpeliai kairėje pusėje vienodi tik priskirti kitiems pirštams)
+
 __Dvorak:__ tTxXmM@#$%& {!^789-}
 
 __Colemak:__ jJmM@#$%& {!^789}
