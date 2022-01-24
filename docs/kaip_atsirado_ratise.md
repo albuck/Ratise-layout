@@ -20,7 +20,7 @@ Tobulinant toliau Remigijaus išdėstymą užgimė "Tikrinė" — ne „tikroji�
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą.
 Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais:
 
-[Keyboard Layout Analyzer (tikrintas lietuviškas tekstas)](http://patorjk.com/keyboard-layout-analyzer/#/load/ggR8Pr55)
+[Keyboard Layout Analyzer (tikrintas lietuviškas tekstas)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
 
 -------------------------
 [Į pradžią](../README.md)
