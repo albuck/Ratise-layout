@@ -25,7 +25,7 @@ __[Workman](https://en.wikipedia.org/wiki/Keyboard_layout#Workman):__ jJ@#$%& {!
 
 __[Prancūzų BEPO](https://en.wikipedia.org/wiki/B%C3%89PO):__ iIoO^{} {789}
 
-__[Vokiečių Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout):__ uUmM {789}
+__[Vokiečių Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout)):__ uUmM {789}
 
 __[Lithuanian Ergonomic 1989](https://lekp.info/RST1092):__ !jJaAsS {+&789}
 
