@@ -11,7 +11,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 ### Sutapimai su kitais išdėstymais:
 
-__[Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html):__ JjNnKkGgLlRrTtSsŽžVvMm() {%789} (taip pat balsių stulpeliai kairėje pusėje vienodi tik priskirti kitiems pirštams)
+__[Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html):__ jJnNkKgGlLrRtTsSžŽvVmM() {%789} (taip pat balsių stulpeliai kairėje pusėje vienodi tik priskirti kitiems pirštams)
 
 __[Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout):__ tTxXmM@#$%& {!^789-}
 
@@ -24,6 +24,8 @@ __[Turkų F](https://kbdlayout.info/KBDTUF/):__ uUaAnN+$% {!789}
 __[Workman](https://en.wikipedia.org/wiki/Keyboard_layout#Workman):__ jJ@#$%& {!^789}
 
 __[Prancūzų BEPO](https://en.wikipedia.org/wiki/B%C3%89PO):__ iIoO^{} {789}
+
+__[Vokiečių Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout):__ uUmM {789}
 
 __[Lithuanian Ergonomic 1989](https://lekp.info/RST1092):__ !jJaAsS {+&789}
 
