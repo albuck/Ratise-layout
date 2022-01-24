@@ -52,6 +52,8 @@ PAPILDYMAI:
 
 [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 
+[KAIP ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
+
 
 ## Papildomi išdėstymai:
 
