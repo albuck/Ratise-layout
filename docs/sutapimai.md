@@ -19,7 +19,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __Workman:__ jJ@#$%& {!^789}
 - __BEPO:__ iIoO^{} {789}
 - __Neo:__ uUmM {789}
-- __Lithuanian Ergonomic 1989:__ !jJaAsS {+&789}
+- __[Lithuanian Ergonomic 1989](images/LTSR_RST_1092-89.png):__ !jJaAsS {+&789}
 - __[Lithuanian Standard 1992](https://www.registrucentras.lt/litwin/kbdlta.gif):__ !mMšŠ^ {@#$%&789}
 - __[Lithuanian Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif):__ !mM^ {#$&789}
 - __[Lithuanian Baltic](https://www.registrucentras.lt/litwin/kbdlt1.gif):__ mM {!@#$%^&789}
