@@ -19,7 +19,7 @@ Tobulinant toliau Remigijaus išdėstymą užgimė "Tikrinė" — ne „tikroji�
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
-![Ratisės išdėstymas](images/ratise_juoda.png)
+![Ratisės išdėstymas](images/ratise_pagrindiniai_zenklai.png)
 
 Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais:
 
