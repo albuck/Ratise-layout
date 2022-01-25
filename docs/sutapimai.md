@@ -44,7 +44,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - [Lithuanian Baltic (QWERTY atmaina)](https://www.registrucentras.lt/litwin/keyboard.html)
 - [Lithuanian Standard 2000 (AZERTY+QWERTY atmaina)](http://www.ims.mii.lt/klav/)
 - [Lithuanian Standard 1992 (AZERTY+QWERTY atmaina)](https://www.registrucentras.lt/litwin/keyboard.html)
-- [Lithuanian Ergonomic 1989](https://lekp.info/RST1092)
+- [Lithuanian Ergonomic 1989 (Lietuvos TSR RST 1092-89)](https://lekp.info/RST1092)
 - [Lietuviškas LEKP](https://lekp.info/)
 - [Lietuviškas Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
