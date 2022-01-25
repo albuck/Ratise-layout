@@ -17,13 +17,13 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __[Lithuanian Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif):__ !mM^ {#$&789}
 - __[Lithuanian Baltic](https://www.registrucentras.lt/litwin/kbdlt1.gif):__ mM {!@#$%^&789}
 - __[LEKP](https://lekp.info/images/lekp.png):__ .@
-- __Dvorak:__ tTxXmM@#$%& {!^789-}
-- __Colemak:__ jJmM@#$%& {!^789}
-- __Maltron:__ iIyY@#$%& {!^789}
-- __Turkų F:__ uUaAnN+$% {!789}
-- __Workman:__ jJ@#$%& {!^789}
-- __BEPO:__ iIoO^{} {789}
-- __Neo:__ uUmM {789}
+- __[Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout#/media/File:KB_United_States_Dvorak.svg):__ tTxXmM@#$%& {!^789-}
+- __[Colemak](https://colemak.com/wiki/images/6/6c/Colemak2.png):__ jJmM@#$%& {!^789}
+- __[Maltron](https://upload.wikimedia.org/wikipedia/commons/5/56/KB_Maltron_3D_US.svg):__ iIyY@#$%& {!^789}
+- __[Turkų F](https://en.wikibooks.org/wiki/Turkish/Computing_in_Turkish#/media/File:KB_Turkey_f_yeni.svg):__ uUaAnN+$% {!789}
+- __[Workman](https://en.wikipedia.org/wiki/Keyboard_layout#/media/File:KB_English_Workman.svg):__ jJ@#$%& {!^789}
+- __[BEPO](https://en.wikipedia.org/wiki/B%C3%89PO#/media/File:KB_French_B%C3%89PO-NF_Z71-300.svg):__ iIoO^{} {789}
+- __[Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout)#/media/File:Neo_2.0-Tastaturbelegung_Ebene1.svg):__ uUmM {789}
 
 † Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame išdėstymo lygyje.
 
