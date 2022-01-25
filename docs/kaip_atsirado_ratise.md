@@ -5,11 +5,11 @@ KAIP ATSIRADO RATISĖ
 
 Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais (lietuvišku standartiniu išdėstymu), nežiūrint, susidūriau su dideliais nepatogumais ir netgi pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po visą klaviatūrą, ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi ne pagal jėgas persidirba (pvz.: kairysis mažasis). Toks išdėstymas neturi jokios logikos ir sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į VLKK diskusijas. Kur ir užsimezgė būsimoji Ratisė:
 
-[„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
++ [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
 
 Laimei, tuose pokalbiuose atradau Remigijų, jo protingus patarimus bei jo sukurtą išdėstymą:
 
-[„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
++ [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
 Šis Remigijaus lietuviškas klaviatūros išdėstymas ir tapo Ratisės pagrindu.
 
@@ -20,7 +20,7 @@ Tobulinant toliau Remigijaus išdėstymą užgimė "Tikrinė" — ne „tikroji�
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą.
 Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais:
 
-[Keyboard Layout Analyzer (tikrintas lietuviškas tekstas)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
++ [Keyboard Layout Analyzer (tikrintas lietuviškas tekstas)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
 
 -------------------------
 [Į pradžią](../README.md)
