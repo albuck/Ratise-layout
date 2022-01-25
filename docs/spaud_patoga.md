@@ -21,6 +21,7 @@ Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunk
 
 --------------------------------------------------------------------
 
+[Į pradžią](../README.md)
 
 ## Naudingos nuorodos:
 
