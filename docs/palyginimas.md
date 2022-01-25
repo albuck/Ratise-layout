@@ -32,7 +32,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 \* Kiek teko bandyti, skirtinguose lietuviškuose tekstuose ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
 
-+ Išsamiau (angliškai):
+Išsamiau (angliškai):
 
  - http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
  - http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
@@ -67,7 +67,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 12. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.18
 
 
-+ Išsamiau (angliškai):
+Išsamiau (angliškai):
 
  - http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
  - http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ
@@ -111,7 +111,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 23. _QWERTY-Programmer (ANSI) — 31.28_
 
 
-+ Išsamiau (angliškai):
+Išsamiau (angliškai):
 
  - http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
  - http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc
