@@ -30,7 +30,8 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 ### Nuorodos:
 
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY)
-- [Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
+- [AZERTY](https://en.wikipedia.org/wiki/AZERTY)
+- [QWERTZ](https://en.wikipedia.org/wiki/QWERTZ)
 - [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
 - [Colemak](https://en.wikipedia.org/wiki/Colemak)
 - [Maltron](https://en.wikipedia.org/wiki/Maltron)
@@ -43,3 +44,5 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - [AZERTY Lithuanian Standard 2000](http://www.ims.mii.lt/klav/)
 - [QWERTY Lithuanian Baltic](https://www.registrucentras.lt/litwin/keyboard.html)
 - [LEKP](https://lekp.info/)
+- [Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
+
