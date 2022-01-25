@@ -76,7 +76,7 @@ __Pastaba:__
 
 ### Papildomai:
 
-[Lietuviškų išdėstymų palyginimas](palyginimas.md)
+- [Lietuviškų išdėstymų palyginimas](palyginimas.md)
 
 -------------------------
 [Į pradžią](../README.md)
