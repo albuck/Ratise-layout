@@ -48,4 +48,6 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - [LEKP](https://lekp.info/)
 - [Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
+--------------------------------------------------------------------
+
 [Į pradžią](../README.md)
