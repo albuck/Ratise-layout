@@ -11,7 +11,7 @@ Laimei, tuose pokalbiuose atradau Remigijų, jo protingus patarimus bei jo sukur
 
 + [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
-Šis [Remigijaus lietuviškas klaviatūros išdėstymas](images/remigijaus.png) ir tapo Ratisės pagrindu.
+Šis [Remigijaus lietuviškas klaviatūros išdėstymas](images/remigijaus.png) ir tapo Ratisės išeities tašku.
 
 Pradėjęs bandyti Remigijaus išdėstymą ir jame radau dalykų kurie man netiko, pirmiausia, norėjau išlyginti spausdinimo krūvį tenkantį pirštams pagal tų pirštų pajėgumą. Gavau ir dalykiškų pastabų („dažnai reikalingi skyrybos ženklai trečiame lygyje!“ — tikrai negerai) bei pagalbos skaičiuojant raidžių dažnius lietuviškame rašte. Padėka šiems žmonėms.
 
