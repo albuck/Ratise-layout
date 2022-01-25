@@ -27,7 +27,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 † Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
 
-### Nuorodos:
+### Nuorodos į kitokius išdėstymus:
 
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY)
 - [AZERTY](https://en.wikipedia.org/wiki/AZERTY)
