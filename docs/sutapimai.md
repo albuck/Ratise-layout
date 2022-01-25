@@ -20,10 +20,10 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __BEPO:__ iIoO^{} {789}
 - __Neo:__ uUmM {789}
 - __Lithuanian Ergonomic 1989:__ !jJaAsS {+&789}
-- __Lithuanian Standard 1992:__ !mMšŠ^ {@#$%&789}
-- __Lithuanian Standard 2000:__ !mM^ {#$&789}
-- __Lithuanian Baltic:__ mM {!@#$%^&789}
-- __LEKP:__ .@
+- __[Lithuanian Standard 1992](https://www.registrucentras.lt/litwin/kbdlta.gif):__ !mMšŠ^ {@#$%&789}
+- __[Lithuanian Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif):__ !mM^ {#$&789}
+- __[Lithuanian Baltic](https://www.registrucentras.lt/litwin/kbdlt1.gif):__ mM {!@#$%^&789}
+- __[LEKP](https://lekp.info/images/lekp.png):__ .@
 
 † Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame išdėstymo lygyje.
 
