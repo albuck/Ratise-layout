@@ -12,5 +12,5 @@ _Sudurtinio įvedimo mygtuku_ (angliškai vadinamas ‘Multi key’ ar ‘Compos
 
 Plačiau apie sudurtinį įvedimą (angliškai):
 
-- https://en.wikipedia.org/wiki/Compose_key
-- https://help.ubuntu.com/community/ComposeKey
+- [Compose key (Wikipedia)](https://en.wikipedia.org/wiki/Compose_key)
+- [ComposeKey (help.ubuntu.com)](https://help.ubuntu.com/community/ComposeKey)
