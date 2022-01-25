@@ -45,7 +45,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - [AZERTY Lithuanian Standard 1992](https://www.registrucentras.lt/litwin/keyboard.html)
 - [AZERTY Lithuanian Standard 2000](http://www.ims.mii.lt/klav/)
 - [QWERTY Lithuanian Baltic](https://www.registrucentras.lt/litwin/keyboard.html)
-- [LEKP](https://lekp.info/)
+- [LEKP (lietuviškas)](https://lekp.info/)
 - [Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
 --------------------------------------------------------------------
