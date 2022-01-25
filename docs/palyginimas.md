@@ -34,14 +34,14 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 + Išsamiau (angliškai):
 
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
 
 #### Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
 
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
 
 + Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
@@ -69,17 +69,17 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 + Išsamiau (angliškai):
 
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
 
 
 #### Lyginant su angliškais išdėstymais ratisė angliškuose tekstuose pasirodo labai gerai:
 
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/7NPPckpp
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/7NPPckpp
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK
 
 
 ### Bendrai ‘Bash, C, CPP, Python’:
@@ -113,13 +113,13 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 
 + Išsamiau (angliškai):
 
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/2FLJkS07
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
-- - http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/2FLJkS07
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
+ - http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
 + Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo vos vos geriau).
