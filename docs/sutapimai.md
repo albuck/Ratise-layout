@@ -11,7 +11,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 ### Sutapimai su kitais išdėstymais:
 
-__Remigijaus:__ jJnNkKgGlLrRtTsSžŽvVmM() {%789} (taip pat balsių stulpeliai kairėje pusėje vienodi tik priskirti kitiems pirštams)
+__Remigijaus išdėstymas:__ jJnNkKgGlLrRtTsSžŽvVmM() {%789} (taip pat balsių stulpeliai kairėje pusėje vienodi tik priskirti kitiems pirštams)
 
 __Dvorak:__ tTxXmM@#$%& {!^789-}
 
@@ -42,7 +42,7 @@ __LEKP:__ .@
 ### Nuorodos:
 
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY)
-- [Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
+- [Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 - [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
 - [Colemak](https://en.wikipedia.org/wiki/Colemak)
 - [Maltron](https://en.wikipedia.org/wiki/Maltron)
