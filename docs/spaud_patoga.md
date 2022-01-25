@@ -19,11 +19,12 @@ Pastaba: ne visos klaviatūros kurios užsivadina ergonomiškomis yra pilnai tok
 
 Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunkančių ar dažnų nepatogių riešo padėčių spausdinant: plaštakos užlaužimų per riešą į šonus (ko standartinėje klaviatūroje, deja, neišvengsite, neatitraukdami pirštų nuo pagrindinės padėties), plaštakos per riešą užlaužimų į apačią ar į viršų (kurių išvengiama tinkamai susiderinant klaiviatūros padėtį). Ilgalaikės nepatogiai pakreiptos plaštakos padėtys spausdinant gali sukelti riešų skausmus.
 
---------------------------------------------------------------------
-
-[Į pradžią](../README.md)
-
 ## Naudingos nuorodos:
 
 - [Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 - [Ergonomic keyboards (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
+
+--------------------------------------------------------------------
+
+[Į pradžią](../README.md)
+
