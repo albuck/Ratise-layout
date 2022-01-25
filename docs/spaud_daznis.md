@@ -68,14 +68,7 @@ __Pirštų užimtumas:__
 
 ![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_bendrai.png)
 
-
-------------------------------
-
 __Pastaba:__ paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
-
-### Papildomai:
-
-- [Lietuviškų išdėstymų palyginimas](palyginimas.md)
 
 -------------------------
 [Į pradžią](../README.md)
