@@ -17,8 +17,8 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __Maltron:__ iIyY@#$%& {!^789}
 - __Turkų F:__ uUaAnN+$% {!789}
 - __Workman:__ jJ@#$%& {!^789}
-- __Prancūzų BEPO:__ iIoO^{} {789}
-- __Vokiečių Neo:__ uUmM {789}
+- __BEPO:__ iIoO^{} {789}
+- __Neo:__ uUmM {789}
 - __Lithuanian Ergonomic 1989:__ !jJaAsS {+&789}
 - __AZERTY Lithuanian Standard 1992:__ !mMšŠ^ {@#$%&789}
 - __AZERTY Lithuanian Standard 2000:__ !mM^ {#$&789}
@@ -31,22 +31,22 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 ### Nuorodos į kitokius išdėstymus:
 
-- [QWERTY](https://en.wikipedia.org/wiki/QWERTY)
-- [AZERTY](https://en.wikipedia.org/wiki/AZERTY)
-- [QWERTZ](https://en.wikipedia.org/wiki/QWERTZ)
-- [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
-- [Colemak](https://en.wikipedia.org/wiki/Colemak)
-- [Maltron](https://en.wikipedia.org/wiki/Maltron)
+- [Angliškas QWERTY](https://en.wikipedia.org/wiki/QWERTY)
+- [Prancūziškas AZERTY](https://en.wikipedia.org/wiki/AZERTY)
+- [Vokiškas QWERTZ](https://en.wikipedia.org/wiki/QWERTZ)
+- [Angliškas Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
+- [Angliškas Colemak](https://en.wikipedia.org/wiki/Colemak)
+- [Angliškas Maltron](https://en.wikipedia.org/wiki/Maltron)
 - [Turkų F](https://kbdlayout.info/KBDTUF/)
-- [Workman](https://en.wikipedia.org/wiki/Keyboard_layout#Workman)
-- [Prancūzų BEPO](https://en.wikipedia.org/wiki/B%C3%89PO)
-- [Vokiečių Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout))
+- [Angliškas Workman](https://en.wikipedia.org/wiki/Keyboard_layout#Workman)
+- [Prancūziškas BEPO](https://en.wikipedia.org/wiki/B%C3%89PO)
+- [Vokiškas Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout))
 - [Lithuanian Ergonomic 1989](https://lekp.info/RST1092)
-- [AZERTY Lithuanian Standard 1992](https://www.registrucentras.lt/litwin/keyboard.html)
-- [AZERTY Lithuanian Standard 2000](http://www.ims.mii.lt/klav/)
-- [QWERTY Lithuanian Baltic](https://www.registrucentras.lt/litwin/keyboard.html)
-- [LEKP (lietuviškas)](https://lekp.info/)
-- [Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
+- [Lithuanian Standard 1992 (AZERTY)](https://www.registrucentras.lt/litwin/keyboard.html)
+- [Lithuanian Standard 2000 (AZERTY)](http://www.ims.mii.lt/klav/)
+- [Lithuanian Baltic (QWERTY)](https://www.registrucentras.lt/litwin/keyboard.html)
+- [Lietuviškas LEKP](https://lekp.info/)
+- [Lietuviškas Remigijaus išdėstymas](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
 --------------------------------------------------------------------
 
