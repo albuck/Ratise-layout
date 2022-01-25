@@ -25,7 +25,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __QWERTY Lithuanian Baltic:__ mM {!@#$%^&789}
 - __LEKP:__ .@
 
-† Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
+† Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame išdėstymo lygyje.
 
 --------------------------------------------------------------------
 
