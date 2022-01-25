@@ -43,12 +43,12 @@ Išsamiau (angliškai):
 
  - http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
 
-+ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
+Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
-+ Imti nedideli tekstų pavyzdžiai.
+† Imti nedideli tekstų pavyzdžiai.
 
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
@@ -122,7 +122,7 @@ Išsamiau (angliškai):
  - http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
-+ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo vos vos geriau).
+† Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo vos vos geriau).
 
 -------------------------
 [Į pradžią](../README.md)
