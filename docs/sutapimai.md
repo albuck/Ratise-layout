@@ -17,7 +17,6 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __[Lithuanian Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif):__ !mM^ {#$&789}
 - __[Lithuanian Baltic](https://www.registrucentras.lt/litwin/kbdlt1.gif):__ mM {!@#$%^&789}
 - __[LEKP](https://lekp.info/images/lekp.png):__ .@
-
 - __Dvorak:__ tTxXmM@#$%& {!^789-}
 - __Colemak:__ jJmM@#$%& {!^789}
 - __Maltron:__ iIyY@#$%& {!^789}
