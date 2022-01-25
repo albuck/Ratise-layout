@@ -21,7 +21,7 @@ __Pirštų užimtumas:__
 + kairysis bevardis — 7,2%
 + kairysis didysis — 12,5%
 + kairysis smilius — 15,0%
-+ abu nykščiai — 14,6%
++ nykščiai — 14,6%
 + dešinysis smilius — 16,3%
 + dešinysis didysis — 12,4%
 + dešinysis bevardis — 8,8%
@@ -40,7 +40,7 @@ __Pirštų užimtumas:__
 + kairysis bevardis — 9,5%
 + kairysis didysis — 6,7%
 + kairysis smilius — 17,0%
-+ abu nykščiai — 19,5%
++ nykščiai — 19,5%
 + dešinysis smilius — 14,2%
 + dešinysis didysis — 13,1%
 + dešinysis bevardis — 6,3%
@@ -57,7 +57,7 @@ __Pirštų užimtumas:__
 + kairysis bevardis — 8,2%
 + kairysis didysis — 7,2%
 + kairysis smilius — 11,7%
-+ abu nykščiai — 17,6%
++ nykščiai — 17,6%
 + dešinysis smilius — 13,4%
 + dešinysis didysis — 8,7%
 + dešinysis bevardis — 6,9%
