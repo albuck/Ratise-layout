@@ -30,48 +30,31 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 PAPILDYMAI:
 -----------
 
-[RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
-
-[SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
-
-[RATISĖS KETURIŲ LYGIŲ ŽENKLAI VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
-
-[TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
-
-[KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos_raides.md)
-
-[SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurt_ivedimas.md)
-
-[IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
-
-[RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
-
-[MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
-
-[LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
-
-[SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
-
-[KAIP ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
+- [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
+- [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
+- [RATISĖS KETURIŲ LYGIŲ ŽENKLAI VIENAME PAVEIKSLĖLYJE](docs/lek_ratise.md)
+- [TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
+- [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos_raides.md)
+- [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurt_ivedimas.md)
+- [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
+- [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
+- [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
+- [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
+- [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
+- [KAIP ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
 
 
 ## Papildomi išdėstymai:
 
-[RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
-
-[RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
-
-[RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
+- [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
+- [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
+- [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
 
 ## Kitos naudingos nuorodos:
 
-[Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
-
-[Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
-
-[Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
-
-[Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
-
-[Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html)
+- [Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+- [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
+- [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
+- [Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
+- [Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html)
