@@ -25,14 +25,12 @@ Vowels and consonants are distinguished for different hands. The more frequently
 ADDITIONS:
 ----------
 
-[LITHUANIAN RATISE WITH ALL CHARACTERS IN ONE PICTURE](docs/ratise_levels.md)
-
-[ADDITIONAL LAYOUTS (GERMANIC, LATVIAN, CYRILLIC)](docs/additional_layouts.md)
+- [LITHUANIAN RATISE WITH ALL CHARACTERS IN ONE PICTURE](docs/ratise_levels.md)
+- [ADDITIONAL LAYOUTS (GERMANIC, LATVIAN, CYRILLIC)](docs/additional_layouts.md)
 
 ------------------------------------------------------------------------------------
 
 #### Other links:
 
-[Standard ergonomic layout computer keyboard](https://albuck.github.io/SEL-keyboard/)
-
-[Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
+- [Standard ergonomic layout computer keyboard](https://albuck.github.io/SEL-keyboard/)
+- [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
