@@ -12,6 +12,12 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 ### Sutapimai su kitais išdėstymais:
 
 - __[Remigijaus išdėstymas](images/remigijaus.png):__ jJnNkKgGlLrRtTsSžŽvVmM() {789%} (taip pat balsių stulpeliai kairėje pusėje vienodi tik priskirti kitiems pirštams)
+- __[Lithuanian Ergonomic 1989](images/LTSR_RST_1092-89.png):__ !jJaAsS {+&789}
+- __[Lithuanian Standard 1992](https://www.registrucentras.lt/litwin/kbdlta.gif):__ !mMšŠ^ {@#$%&789}
+- __[Lithuanian Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif):__ !mM^ {#$&789}
+- __[Lithuanian Baltic](https://www.registrucentras.lt/litwin/kbdlt1.gif):__ mM {!@#$%^&789}
+- __[LEKP](https://lekp.info/images/lekp.png):__ .@
+
 - __Dvorak:__ tTxXmM@#$%& {!^789-}
 - __Colemak:__ jJmM@#$%& {!^789}
 - __Maltron:__ iIyY@#$%& {!^789}
@@ -19,11 +25,6 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 - __Workman:__ jJ@#$%& {!^789}
 - __BEPO:__ iIoO^{} {789}
 - __Neo:__ uUmM {789}
-- __[Lithuanian Ergonomic 1989](images/LTSR_RST_1092-89.png):__ !jJaAsS {+&789}
-- __[Lithuanian Standard 1992](https://www.registrucentras.lt/litwin/kbdlta.gif):__ !mMšŠ^ {@#$%&789}
-- __[Lithuanian Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif):__ !mM^ {#$&789}
-- __[Lithuanian Baltic](https://www.registrucentras.lt/litwin/kbdlt1.gif):__ mM {!@#$%^&789}
-- __[LEKP](https://lekp.info/images/lekp.png):__ .@
 
 † Riestiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame išdėstymo lygyje.
 
