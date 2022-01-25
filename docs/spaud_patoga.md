@@ -24,6 +24,5 @@ Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunk
 
 ## Naudingos nuorodos:
 
-[Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
-
-[Ergonomic keyboards (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
+- [Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+- [Ergonomic keyboards (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
