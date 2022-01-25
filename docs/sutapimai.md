@@ -4,7 +4,7 @@
 Ratisės sutapimai su kitais išdėstymais
 ---------------------------------------
 
-Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženklai viename paveikslėjyje:
+Palyginimui [QWERTY](https://en.wikipedia.org/wiki/QWERTY#/media/File:KB_United_States.svg) (juodi) ir [Ratisės](images/ratise_pagrindiniai_zenklai.png) (mėlyni) išdėstymų pagrindiniai ženklai viename paveikslėjyje:
 
 ![QWERTY ir Ratisė](images/qwerty-ratise.png)
 
