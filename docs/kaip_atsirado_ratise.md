@@ -11,13 +11,16 @@ Laimei, tuose pokalbiuose atradau Remigijų, jo protingus patarimus bei jo sukur
 
 + [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
-Šis Remigijaus lietuviškas klaviatūros išdėstymas ir tapo Ratisės pagrindu.
+Šis [Remigijaus lietuviškas klaviatūros išdėstymas](images/remigijaus.png) ir tapo Ratisės pagrindu.
 
 Pradėjęs bandyti Remigijaus išdėstymą ir jame radau dalykų kurie man netiko, pirmiausia, norėjau išlyginti spausdinimo krūvį tenkantį pirštams pagal tų pirštų pajėgumą. Gavau ir dalykiškų pastabų („dažnai reikalingi skyrybos ženklai trečiame lygyje!“ — tikrai negerai) bei pagalbos skaičiuojant raidžių dažnius lietuviškame rašte. Padėka šiems žmonėms.
 
 Tobulinant toliau Remigijaus išdėstymą užgimė "Tikrinė" — ne „tikroji“, kaip pasirodė, o „tikrinamoji“. Ir taip, juk tai buvo tik išmąstytas ir nupieštas išdėstymas, spausdinti aš juo nemokėjau bei ir šiaip apie visus tuos klaviatūrų reikalus mažai teišmaniau. Taigi, tikrai įvertinti, išbaigti išdėstymo negalėjau. Tolimesniam išdėstymo tobulinimui reikėjo išmokti juo spausdinti ir visokeriopai išbandyti. Tai darant, teko keisti, kai kuriuos nevykusius sprendimus, ieškoti kitų — geresnių. Kaip žmonės sako: „gyveni ir mokais“…
 
-Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą.
+Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
+
+![Ratisės išdėstymas](images/ratise_juoda.png)
+
 Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais:
 
 + [Keyboard Layout Analyzer (tikrintas lietuviškas tekstas)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
