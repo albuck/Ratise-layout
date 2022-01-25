@@ -20,7 +20,7 @@ Palyginimui [QWERTY](https://en.wikipedia.org/wiki/QWERTY#/media/File:KB_United_
 - __[Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout#/media/File:KB_United_States_Dvorak.svg):__ tTxXmM@#$%& {!^789-}
 - __[Colemak](https://colemak.com/wiki/images/6/6c/Colemak2.png):__ jJmM@#$%& {!^789}
 - __[Maltron](https://upload.wikimedia.org/wikipedia/commons/5/56/KB_Maltron_3D_US.svg):__ iIyY@#$%& {!^789}
-- __[Turkų F](https://en.wikibooks.org/wiki/Turkish/Computing_in_Turkish#/media/File:KB_Turkey_f_yeni.svg):__ uUaAnN+$% {!789}
+- __[Turkų F](https://en.wikibooks.org/wiki/Turkish/Computing_in_Turkish#/media/File:KB_Turkey_f_yeni.svg):__ uUaA$% {+!789}
 - __[Workman](https://en.wikipedia.org/wiki/Keyboard_layout#/media/File:KB_English_Workman.svg):__ jJ@#$%& {!^789}
 - __[BEPO](https://en.wikipedia.org/wiki/B%C3%89PO#/media/File:KB_French_B%C3%89PO-NF_Z71-300.svg):__ iIoO^{} {789}
 - __[Neo](https://en.wikipedia.org/wiki/Neo_(keyboard_layout)#/media/File:Neo_2.0-Tastaturbelegung_Ebene1.svg):__ uUmM {789}
