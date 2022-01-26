@@ -33,7 +33,7 @@ Valdymo myktukų ženkliukai ir pavadinimai:
 - ⎈ — Ctrl / Control / Vald / Valdymas
 - ◊ — OS / Super / System / Command / ⌘ Command (MacOS) /⊞ Win,  Windows / ◆ Meta / Logo / Vėliava / Vad, Vada
 - ⎇ — Alt / Alternate / Alternatyve / ⌥ Opt (MacOS) / Option / Kitaip
-- ⌥ —⇮ / AltGr / Alternate Graphic / ⌥ Opt (MacOS) / Option / Level 3 / Trečias lygis / Kita / Kitkas
+- ⇮ — AltGr / Alternate Graphic / ⌥ Opt (MacOS) / Option / Level 3 / Trečias lygis / Kita / Kitkas
 - ≣ — Menu / Mn / Meniu / Sąrašas
 - ⏎ — ↵ / Enter / Return / Įvesti / Įvedimas
 - ⌫ — ← / Backspace / Trinti / Trynimas
