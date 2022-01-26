@@ -18,7 +18,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 2-sis lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ‘Shift’.
+— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’.
 
 ![Antrasis lygis](images/kb_lt_ratise_2l.svg)
 
@@ -27,7 +27,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 3-sis lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ‘AltGr’.
+— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’.
 
 ![Trečiasis lygis](images/kb_lt_ratise_3l.svg)
 
@@ -43,11 +43,11 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 4-sis lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką kartu su _Antrojo lygio_ mygtuku (‘AltGr+Vald’).
+— spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
 
 ![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
-+ Paveikslėlyje ant tarpo mygtuko užrašas ‘no’ reiškia, kad ketvirtajame lygyje tai yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
++ Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 
 + Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
 
@@ -57,7 +57,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės Didžiųjų raidžių lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ‘CapsLock’ paspaudimo (įjungimo).
+— spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ⇪ ‘CapsLock’ paspaudimo (įjungimo).
 
 ![Didžiųjų raidžių lygis](images/kb_lt_ratise_d.svg)
 
