@@ -7,6 +7,8 @@ Paveikslėliuose yra matomi ratisės išdėstymo visi keturių lygių ženklai. 
 
 ![Ratisės išdėstymas](images/kb_lt_ratise_viskas.svg)
 
+Spaudų išdėstymo lygiai:
+
 ![Išdėstymo lygiai](images/lygiai.svg)
 
 
