@@ -9,7 +9,7 @@ Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidu
 
 _Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame „Ratisės“ lygyje tęsties mygtukai_:
 
-![Ketvirtasis lygis](images/lek_ratise_4l.png)
+![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
 Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsties mygtuko spaudas.
 
