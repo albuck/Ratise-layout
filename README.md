@@ -25,7 +25,7 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 
 [›› Parsisiųsti Ratisės išdėstymą ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
 
-Valdymo myktukų ženkliukai ir pavadinimai:
+__Valdymo myktukų ženkliukai ir pavadinimai:__
 
 - ↹ — Tab / Tabular / Tabulator / Atitraukimas / Įtraukimas
 - ⇪ — ⮸ / Caps / Caps Lock / Didž / Didžiosios
