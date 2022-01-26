@@ -9,7 +9,7 @@ __Lietuviškas ergonomiškas kompiuterio klaviatūros spausdinamųjų ženklų i
 
 Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams. Spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas.
 
-![Ratisės išdėstymas](docs/images/ratise.png)
+![Ratisės išdėstymas](docs/images/kb_lt_ratise.svg)
 
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 
@@ -24,6 +24,19 @@ Kuriant ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 + Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
 [›› Parsisiųsti Ratisės išdėstymą ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
+
+Valdymo myktukų ženkliukai ir pavadinimai:
+
+- ↹ — Tab / Tabular / Tabulator / Atitraukimas / Įtraukimas
+- ⇪ — ⮸ / Caps / Caps Lock / Didž / Didžiosios
+- ⇧ — Shift / Level 2 / Aukšt / Aukštesnis, Antras lygis
+- ⎈ — Ctrl / Control / Vald / Valdymas
+- ◊ — OS / Super / System / Command / ⌘ Command (MacOS) /⊞ Win,  Windows / ◆ Meta / Logo / Vėliava / Vad, Vada
+- ⎇ — Alt / Alternate / Alternatyve / ⌥ Opt (MacOS) / Option / Kitaip
+- ⌥ —⇮ / AltGr / Alternate Graphic / ⌥ Opt (MacOS) / Option / Level 3 / Trečias lygis / Kita / Kitkas
+- ≣ — Menu / Mn / Meniu / Sąrašas
+- ⏎ — ↵ / Enter / Return / Įvesti / Įvedimas
+- ⌫ — ← / Backspace / Trinti / Trynimas
 
 --------------------------------------------------------------------
 
