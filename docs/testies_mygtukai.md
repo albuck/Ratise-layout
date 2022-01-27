@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI
 ----------------------------------------
