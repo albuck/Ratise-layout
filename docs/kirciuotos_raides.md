@@ -132,5 +132,5 @@ U`u` U´u´ U˜u˜
 - [Submitting Character Proposals (unicode.org)](https://unicode.org/pending/proposals.html)
 
 ---------------------------------------------------------------------------------------------------
-
-[Į pradžią](../README.md)
++ [Toliau](sudurt_ivedimas.md)
++ [Į pradžią](../README.md)
