@@ -38,7 +38,7 @@ __Valdymo myktukų ženkliukai ir pavadinimai:__
 - ⏎ — ↵ / Enter / Return / Įvesti / Įvedimas
 - ⌫ — ← / Backspace / Trinti / Trynimas
 
-__Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūrose](https://en.wikipedia.org/wiki/Apple_keyboards) mygtukai ⎇(Alt/⌥/Opt) ir ◊(OS/Win/⌘/Cmd) savo padėtimi yra sukeisti vietomis.
+__Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūrose](https://en.wikipedia.org/wiki/Apple_keyboards) mygtukai ⌥Opt(⎇Alt) ir ⌘Cmd(⊞Win) savo padėtimi yra sukeisti vietomis.
 
 --------------------------------------------------------------------
 
