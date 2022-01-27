@@ -40,7 +40,6 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 + [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](trukumu_apejimas.md)
 
 
-
 ### Ratisės 4-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
@@ -72,8 +71,10 @@ Spaudų išdėstymo lygiai:
 
 ![Išdėstymo lygiai](images/lygiai.svg)
 
-
-+ 1 — Pagrindinis, pirmasis lygis; 2 — ⇧ antrasis ‘Shift’ lygis; 3 — ⇮ trečiasis ‘AltGr’ lygis; 4 — ⇧+⇮ ketvirtasis ‘AltGr+Shift’ lygis.
++ 1 — Pagrindinis, pirmasis lygis; 
++ 2 — ⇧ antrasis ‘Shift’ lygis; 
++ 3 — ⇮ trečiasis ‘AltGr’ lygis; 
++ 4 — ⇧+⇮ ketvirtasis ‘AltGr+Shift’ lygis.
 
 __Pastaba:__ [skirtingos darybos klaviatūrose](images/Physical_keyboard_layouts_comparison_ANSI_ISO_variants.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
 
