@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA
 -------------------------------------------
