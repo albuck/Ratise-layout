@@ -661,6 +661,7 @@ z → ǯ (LOTYNŲ MAŽOJI RAIDĖ EZH SU VARNELE)
 ž → ʒ (LOTYNŲ MAŽOJI RAIDĖ EZH)
 ```
 -------------------------
-[Į pradžią](../README.md)
++ [Toliau](kirciuotos_raides.md)
++ [Į pradžią](../README.md)
 
 
