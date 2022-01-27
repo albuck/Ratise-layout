@@ -7,7 +7,7 @@ Pasinaudojus tęsties mygtukais galima įvesti daugiau papildomų ženklų, kuri
 
 Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ‘AltGr+Shift’).
 
-_Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame „Ratisės“ lygyje tęsties mygtukai_:
+_Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje tęsties mygtukai_:
 
 ![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
