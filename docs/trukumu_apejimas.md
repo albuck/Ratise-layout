@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 ----------------------------------------------
