@@ -1,4 +1,3 @@
-[To the top](../README_eng.md)
 
 ADDITIONAL LAYOUTS
 ------------------
