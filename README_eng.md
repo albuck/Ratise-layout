@@ -10,7 +10,7 @@ Lithuanian ergonomic computer keyboard layout ŪĖYOQJ or “Ratisė” is desig
 
 Vowels and consonants are distinguished for different hands. The more frequently used letters and signs occupy more comfortable places in the layout, and fall on more powerful fingers. The characters are arranged neatly to make the layout more comfortable and easier to remember.
 
-![Ratise](docs/images/ratise.png)
+![Ratise layout](docs/images/kb_lt_ratise_viskas.svg)
 
 + The specifications of this keyboard layout here: [txt](SPECIFICATIONS.txt)
 
