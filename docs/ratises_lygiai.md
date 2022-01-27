@@ -64,7 +64,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės keturių lygių ženklai viename paveikslėlyje
 
-Paveikslėlyje žemiau yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
+Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
 
 ![Ratisės išdėstymas su visais ženklais](images/kb_lt_ratise_viskas.svg)
 
