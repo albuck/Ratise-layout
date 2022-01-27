@@ -80,6 +80,5 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](images/Physical_keyboard_layouts
 
 
 -------------------------
-[Toliau](spaud_tvarka.md)
-
-[Į pradžią](../README.md)
++ [Toliau](spaud_tvarka.md)
++ [Į pradžią](../README.md)
