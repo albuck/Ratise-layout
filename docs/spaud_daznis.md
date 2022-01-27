@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
 ------------------------------
