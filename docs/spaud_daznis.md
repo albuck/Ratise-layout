@@ -49,7 +49,7 @@ __Pirštų užimtumas:__
 
 __Programavimo kalbų tekstas (Bash, C, CPP, Python bendrai):__
 
-![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_angl_prog.png)
+![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas_angl_prog.png)
 
 __Pirštų užimtumas:__
 
@@ -66,7 +66,7 @@ __Pirštų užimtumas:__
 
 ## Aukščiau pateikti tekstai kartu:
 
-![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_bendrai.png)
+![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas_bendrai.png)
 
 __Pastaba:__ paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
