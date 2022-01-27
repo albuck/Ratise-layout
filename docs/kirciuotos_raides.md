@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI
 ----------------------------------
