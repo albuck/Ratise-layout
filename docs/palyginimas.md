@@ -1,5 +1,3 @@
-[Į pradžią](../README.md)
-
 
 LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS
 ---------------------------------------
