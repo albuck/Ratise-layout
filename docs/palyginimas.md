@@ -125,4 +125,5 @@ Išsamiau (angliškai):
 † Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo vos vos geriau).
 
 -------------------------
-[Į pradžią](../README.md)
++ [Toliau](spaud_patoga.md)
++ [Į pradžią](../README.md)
