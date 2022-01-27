@@ -29,7 +29,7 @@ __Valdymo myktukų ženkliukai ir pavadinimai:__
 
 - ↹ — Tab / Tabular / Tabulator / Atitraukimas / Įtraukimas
 - ⇪ — ⮸ / Caps / Caps Lock / Didž / Didžiosios
-- ⇧ — Shift / Level 2 / Aukšt / Aukštesnis, Antrasis lygis
+- ⇧ — Shift / Level 2 / Aukšt / Aukštinis, Aukštesnis, Antrasis lygis
 - ⎈ — Ctrl / Control / Vald / Valdymas
 - ◊ — OS / Super / System / Cmd / Command / ⌘ Command (MacOS) /⊞ Win,  Windows / ◆ Meta / Logo / Vėliava / Vada
 - ⎇ — Alt / Alternate / Alternatyve / ⌥ Opt (MacOS) / Option / Kitaip
