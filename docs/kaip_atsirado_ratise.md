@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 KAIP ATSIRADO RATISĖ
 --------------------
