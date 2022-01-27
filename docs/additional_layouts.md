@@ -14,7 +14,7 @@ These are four level layouts:
 
 ### Germanic Ratise:
 
-!["Ratise" Germanic](images/lek_ratise_germanic.png)
+!["Ratise" Germanic](images/kb_lt_ratise_germanic.svg)
 
 † Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
@@ -22,7 +22,7 @@ These are four level layouts:
 
 ### Latvian Ratise:
 
-!["Ratise" Latvian](images/lek_ratise_latvian.png)
+!["Ratise" Latvian](images/kb_lt_ratise_latvian.svg)
 
 † Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
@@ -30,7 +30,7 @@ These are four level layouts:
 
 ### Cyrillic Ratise:
 
-!["Ratise" Cyrillic](images/lek_ratise_cyrillic_layout.png)
+!["Ratise" Cyrillic](images/kb_lt_ratise_cyrillic.svg)
 
 † Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
