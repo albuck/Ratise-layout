@@ -18,3 +18,4 @@ Plačiau apie sudurtinį įvedimą (angliškai):
 -----------------------------------------
 
 + [Toliau](trukumu_apejimas.md)
++ [Į pradžią](../README.md)
