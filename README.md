@@ -31,12 +31,14 @@ __Valdymo myktukų ženkliukai ir pavadinimai:__
 - ⇪ — ⮸ / Caps / Caps Lock / Didž / Didžiosios
 - ⇧ — Shift / Level 2 / Aukšt / Aukštesnis, Antrasis lygis
 - ⎈ — Ctrl / Control / Vald / Valdymas
-- ◊ — OS / Super / System / Command / ⌘ Command (MacOS) /⊞ Win,  Windows / ◆ Meta / Logo / Vėliava / Vada
+- ◊ — OS / Super / System / Cmd / Command / ⌘ Command (MacOS) /⊞ Win,  Windows / ◆ Meta / Logo / Vėliava / Vada
 - ⎇ — Alt / Alternate / Alternatyve / ⌥ Opt (MacOS) / Option / Kitaip
 - ⇮ — AltGr / Alternate Graphic / ⌥ Opt (MacOS) / Option / Level 3 / Trečiasis lygis / Kitas
 - ≣ — Menu / Mn / Meniu / Sąrašas
 - ⏎ — ↵ / Enter / Return / Įvesti / Įvedimas
 - ⌫ — ← / Backspace / Trinti / Trynimas
+
+__Pastaba:__ [Apple klaviatūrose](https://en.wikipedia.org/wiki/Apple_keyboards) mygtukai ⎇/Alt/⌥/Opt ir ◊/OS/Win/⌘/Cmd savo padėtimi yra sukeisti vietomis.
 
 --------------------------------------------------------------------
 
