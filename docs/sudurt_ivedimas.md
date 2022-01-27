@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 SUDURTINIS ŽENKLŲ ĮVEDIMAS IR JO MYGTUKAS
 -----------------------------------------
