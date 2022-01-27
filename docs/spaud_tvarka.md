@@ -27,4 +27,5 @@ Mokytis rinkti įrašus pradedama nuo žodelių sudarytų iš pirštų pagrindin
 
 
 -------------------------
-[Į pradžią](../README.md)
++ [Toliau](testies_mygtukai.md)
++ [Į pradžią](../README.md)
