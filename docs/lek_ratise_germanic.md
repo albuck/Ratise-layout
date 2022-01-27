@@ -1,4 +1,3 @@
-[Į pradžią](../README.md)
 
 RATISĖS GERMANIŠKAS IŠDĖSTYMAS
 --------------------------------
