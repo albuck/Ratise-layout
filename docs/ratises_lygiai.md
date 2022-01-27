@@ -62,5 +62,21 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 ![Didžiųjų raidžių lygis](images/kb_lt_ratise_d.svg)
 
 
+## Ratisės keturių lygių ženklai viename paveikslėlyje
+
+Paveikslėlyje žemiau yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
+
+![Ratisės išdėstymas su visais ženklais](images/kb_lt_ratise_viskas.svg)
+
+Spaudų išdėstymo lygiai:
+
+![Išdėstymo lygiai](images/lygiai.svg)
+
+
+- 1 — Pagrindinis lygis; 2 — "Shift" lygis; 3 — "AltGr" lygis; 4 — "AltGr+Shift" lygis.
+
+__Pastaba:__ [skirtingos darybos klaviatūrose](images/Physical_keyboard_layouts_comparison_ANSI_ISO_variants.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
+
+
 -------------------------
 [Į pradžią](../README.md)
