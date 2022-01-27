@@ -7,13 +7,13 @@ Mygtukų paspaudimo dažnumas yra apspręstas pačių raidžių dažnumo lietuvi
 
 Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra tas klaviatūros išdėstymas, kuriame dažniau naudojamos raidės yra patogesnėje, lengviau ir greičiau pasiekiamoje vietoje.
 
-Žemiau pateikiami paveikslėliai su ratisės išdėstymo klaviatūros mygtukų naudojimo dažnumu spausdinant tam tikrą tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
+Žemiau pateikiami paveikslėliai su Ratisės išdėstymo klaviatūros mygtukų naudojimo dažnumu spausdinant tam tikrą tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
 ## Lietuviškas tekstas
 
 __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
-![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas.png)
+![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas.png)
 
 __Pirštų užimtumas:__
 
@@ -32,7 +32,7 @@ __Pirštų užimtumas:__
 
 __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
-![Mygtukų naudojimas ratisės išdėstyme](images/mygt_naudojimas_angl.png)
+![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas_angl.png)
 
 __Pirštų užimtumas:__
 
