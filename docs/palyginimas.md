@@ -4,7 +4,7 @@ LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS
 
 Čia pasinaudota puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo gerumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai ir rankos (34%).
 
-__Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti labiau trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
+__Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
 
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai lietuviškuose spaudiniuose
@@ -120,7 +120,7 @@ Išsamiau (angliškai):
  - http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
-† Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (panašu, kad ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais pasirodo vos vos geriau).
+† Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas: [png](images/ratise_kinesis-ergodox.png) (ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 -------------------------
 + [Toliau](spaud_patoga.md)
