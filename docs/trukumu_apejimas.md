@@ -23,3 +23,5 @@ RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 ----------------------------------------------
 
 + [Toliau](spaud_daznis.md)
++ [Į pradžią](../README.md)
+
