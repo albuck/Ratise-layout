@@ -71,9 +71,9 @@ Spaudų išdėstymo lygiai:
 ![Išdėstymo lygiai](images/lygiai.svg)
 
 + 1 — Pagrindinis, pirmasis lygis; 
-+ 2 — ⇧ antrasis ‘Shift’ lygis; 
-+ 3 — ⇮ trečiasis ‘AltGr’ lygis; 
-+ 4 — ⇧+⇮ ketvirtasis ‘AltGr+Shift’ lygis.
++ 2 — ⇧ antrasis, ‘Shift’ lygis; 
++ 3 — ⇮ trečiasis, ‘AltGr’ lygis; 
++ 4 — ⇧+⇮ ketvirtasis, ‘AltGr+Shift’ lygis.
 
 __Pastaba:__ [skirtingos darybos klaviatūrose](images/Physical_keyboard_layouts_comparison_ANSI_ISO_variants.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
 
