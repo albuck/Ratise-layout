@@ -11,7 +11,7 @@ RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 
 2. __Mygtukai Z, X, C, V bei kiti yra neįprastoje vietoje, kas kartais nepatogu naudoti juos įprastiems klaviatūros raktams__.
  + _Windows_ aplinkoje visi klaviatūros raktai veiks taip kaip ir QWERTY išdėstyme.
- + _MacOS_ aplinkoje klaviatūros raktai veiks kaip jie yra ratisės išdėstyme, išskyrus lietuviškų raidžių mygtukus __Ū Ė Ų Ę Į Ą Š__, kurie veiks atitinkamai kaip __Q W Z X C V F__.
+ + _MacOS_ aplinkoje klaviatūros raktai veiks kaip jie yra Ratisės išdėstyme, išskyrus lietuviškų raidžių mygtukus __Ū Ė Ų Ę Į Ą Š__, kurie veiks atitinkamai kaip __Q W Z X C V F__.
  + _Linux_ aplinkoje visi klaviatūros raktai veikia kaip jie yra išdėstyme. Linux'e taip pat (be įprastų ‘Ctrl+X’, ‘Ctrl+C’ ar ‘Ctrl+V’ naujose vietose) galima naudoti iškirpimui ‘Shift+Del’, nurašymui ‘Ctrl+Ins’ ir įrašymui ‘Shift+Ins’. O naudojant papildomą programėlę [Autokey](https://github.com/autokey/autokey/wiki/About), galima _Cut_, _Copy_ ir _Paste_ veikimą priskirti dar ir kitiems mygtukams ar jų deriniams (pvz.: _Cut_ — ‘Ctrl+ę’, _Copy_ — ‘Ctrl+į’, _Paste_ — ‘Ctrl+ą’).
  + _Haiku_ aplinkoje galima naudoti papildomą klaviatūros raktų suderinamumo išdėstymą (yra pridėtas, išdėstymas kaip ir _MacOS_ pakaitinis) ar kitą kokį, įsidiegus papildomą priemonę „Keymap Switcher“.
  + __Pastaba__: su kai kuria skaitmenine įranga šitokie pakeitimai gali nesuveikti (pastebėta tokių dalykų Windows ir Linux aplinkose).
