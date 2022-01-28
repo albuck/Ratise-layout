@@ -28,7 +28,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 11. QWERTY Baltic (ISO) — 43.71
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
 
-+ Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
+Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
 
 Išsamiau (patorjk.com/keyboard-layout-analyzer, angliškai):
 
@@ -46,7 +46,7 @@ Išsamiau (patorjk.com/keyboard-layout-analyzer, angliškai):
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
-+ Imti nedideli tekstų pavyzdžiai.
+Imti nedideli tekstų pavyzdžiai.
 
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
@@ -120,7 +120,7 @@ Išsamiau (patorjk.com/keyboard-layout-analyzer, angliškai):
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Kinesis Advantage Colemak, Ergodox Workman Cub, Ergodox QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT)
 
 
-† Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas](images/ratise_kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
+Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas](images/ratise_kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 -------------------------
 + [Toliau](spaud_patoga.md)
