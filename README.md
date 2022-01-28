@@ -7,7 +7,7 @@ Laida 2.4
 
 __Lietuviškas ergonomiškas kompiuterio klaviatūros spausdinamųjų ženklų išdėstymas ŪĖYOQJ, arba „Ratìsė“__ yra skirtas patogiam lietuviško teksto rinkimui klaviatūra (spaudynu) visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spaud_tvarka.md) apčiuopomis, nežiūrint. Taip pat išdėstymas leidžia patogiai rinkti tekstus anglų kalba, programavimo kalbomis bei įvesti ypatingas kitų kalbų raides bei kitokius reikalingus ženklus.
 
-Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams. Spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas.
+Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose. Balsės ir priebalsės išskirtos skirtingoms rankoms. Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams. Spausdinant žodžius Ratise ritmiškai kaitaliojamos skirtingos rankos ir vienos kurios rankos pirštai, tam pačiam pirštui išdėstyme teks daug rečiau iš eilės spaudyti sirtingus mygtukus. Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas.
 
 ![Ratisės išdėstymas](docs/images/kb_lt_ratise.svg)
 
