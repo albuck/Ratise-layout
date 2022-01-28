@@ -30,16 +30,16 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 \* Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
 
-Išsamiau (angliškai):
+Išsamiau (patorjk.com/keyboard-layout-analyzer, angliškai):
 
- - [Ratise (ANSI), LEKPa (ANSI), Lithuanian (Standard 2000), Lithuanian IBM (Standard 1992), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB)
- - http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
- - http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
+ - [Ratise (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000), ĄŽERTY Lithuanian IBM (Standard 1992), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB)
+ - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000), Lithuanian Ergonomic 1989](http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406)
+ - [Ratise (Kinesis Advantage), Ratise (ISO), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN)
 
 
 #### Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
 
- - http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1
+ - [Ratise (ANSI), LEKPa (ANSI), QWERTY Baltic (ANSI), ĄŽERTY Lithuanian (Standard 2000), ĄŽERTY Lithuanian IBM (Standard 1992)](http://patorjk.com/keyboard-layout-analyzer/#/load/gfLWhRZ1)
 
 Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: http://donelaitis.vdu.lt/main.php?id=4&nr=9_1
 
@@ -65,19 +65,19 @@ Išsamiau (angliškai):
 12. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.18
 
 
-Išsamiau (angliškai):
+Išsamiau (patorjk.com/keyboard-layout-analyzer, angliškai):
 
- - http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC
- - http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ
- - http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ
+ - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), Lithuanian Ergonomic 1989, AŽERTY Lithuanian (Standard 2000)](http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC)
+ - [Ratise (ANSI), LEKPa (ANSI), QWERTY Baltic (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992), AŽERTY Lithuanian (Standard 2000)](http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ)
+ - [Ratise (Kinesis Advantage), Ratise (ISO), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/KpGrtzVJ)
 
 
 #### Lyginant su angliškais išdėstymais Ratisė angliškuose tekstuose pasirodo labai gerai:
 
- - http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6
- - http://patorjk.com/keyboard-layout-analyzer/#/load/7NPPckpp
- - http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1
- - http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK
+ - [Programmer Colemak, Programmer Dvorak, Colemak, Ratise (ANSI), QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/zqjz3Hv6)
+ - [Ergodox Colemak Cub, Ergodox Workman Cub, Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/7NPPckpp)
+ - [Ratise (ANSI), Colemak, Programmer Colemak, Programmer Dvorak, QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/VVql7vx1)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Colemak Cub, Ergodox Workman Cub, Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/BNbFQxTK)
 
 
 ### Bendrai ‘Bash, C, CPP, Python’:
@@ -87,7 +87,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 1. __Ratise (Kinesis Advantage) — 55.21__
 2. LEKP (Kinesis Advantage) — 50.99
 3. _Colemak (Kinesis Advantage) — 48.93_
-4. _Ergodox/Workman/Cub  (Kinesis Advantage) — 48.24_
+4. _Ergodox Workman Cub  (Kinesis Advantage) — 48.24_
 5. _Programmer Colemak (ANSI) — 46.64_
 6. __Ratise (ANSI) — 45.88__
 7. __Ratise (ISO) — 44.80__
@@ -109,15 +109,15 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 23. _QWERTY-Programmer (ANSI) — 31.28_
 
 
-Išsamiau (angliškai):
+Išsamiau (patorjk.com/keyboard-layout-analyzer, angliškai):
 
- - http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc
- - http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc
- - http://patorjk.com/keyboard-layout-analyzer/#/load/2FLJkS07
- - http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0
- - http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H
- - http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs
- - http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
+ - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), AŽERTY Lithuanian (Standard 2000), Lithuanian Ergonomic 1989](http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc)
+ - [Ratise (ANSI), LEKPa (ANSI), AŽERTY Lithuanian (Standard 2000), ĄŽERTY Lithuanian IBM (Standard 1992), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ratise (ISO), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/2FLJkS07)
+ - [Kinesis Advantage Colemak, Programmer Colemak, Ratise (ANSI), Colemak, Programmer Dvorak](http://patorjk.com/keyboard-layout-analyzer/#/load/d9spH0T0)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/NjmDRR1H)
+ - [Ratise (ANSI), Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/Jg4rS5Gs)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Kinesis Advantage Colemak, Ergodox Workman Cub, Ergodox QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT)
 
 
 † Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas](images/ratise_kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
