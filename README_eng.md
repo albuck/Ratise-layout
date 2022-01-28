@@ -18,7 +18,7 @@ Vowels and consonants are distinguished for different hands. The more frequently
 
 + "Ratise" Keyboard Layout drivers are available for __Windows, MacOS, Linux (xkb), Haiku__ operating systems:
 
-[›› Download "Ratise" layout ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
+[↓ Download "Ratise" layout ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
 ------------------------------------------------------------------------------------
 
