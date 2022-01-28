@@ -31,7 +31,7 @@ __Valdymo myktukų ženkliukai ir pavadinimai:__
 - ⇪ — ⮸ Caps, Caps Lock, Didž, Didžiosios, Didžios.
 - ⇧ — Shift, Level 2, Aukšt, Aukštinis, Aukštesnis, Antrasis lygis, Antrinis.
 - ⎈ — Ctrl, Control, Vald, Valdymas, Valdinis.
-- ◊ — OS, Super, System, Cmd, Command, ⌘, Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo, Vėliava, Vadinis, Vada.
+- ◊ — OS, Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo, Vėliava, Vadinis, Vada.
 - ⎇ — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS), Kitaip.
 - ⇮ — AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3, Trečiasis lygis, Tretinis, Kitas.
 - ≣ — Menu, Mn, Application, Meniu, Sąrašas.
