@@ -10,7 +10,7 @@ Lietuviškos kirčiuotos raidės:
 
 ## 1. Kirčiuotų raidžių įvedimas tęsties mygtukais
 
-Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
+Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md).
 
 Šiuo būdu gaunamos raidės su visais taisyklingai atvaizduojamais kirčiais. Deja, dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
 
