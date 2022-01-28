@@ -6,3 +6,6 @@ RATISĖS GERMANIŠKAS IŠDĖSTYMAS
 
 Tai yra papildomas ratisės išdėstymas, kuriame germanų kalbų raidės išdėstytos vietoje lietuviškųjų pagal garso ar kitą panašumą.
 Ratisės germaniškasis išdėstymas leidžia patogiau rinkti tekstus germanų kalbomis.
+
+-------------------------
+[Į pradžią](../README.md)
