@@ -46,9 +46,6 @@ __Pastabos.__ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaid�
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
-Imti nedideli tekstų pavyzdžiai.
-
-
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
 1. __Ratise (Kinesis Advantage) — 64.97__
