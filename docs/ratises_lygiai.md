@@ -50,7 +50,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 + Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
 
 + Gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
-[Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md)
+[Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md).
 
 
 ### Ratisės Didžiųjų raidžių lygis
