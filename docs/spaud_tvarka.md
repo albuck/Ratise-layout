@@ -12,11 +12,11 @@ Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: p
 
 Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį (ant ekrano ar atsispausdintą):
 
-  - [105 mygtukų klaviatūra, europietiškas ISO su pagrindiniais ženklais](images/ratise_spausdai.png);
+  - [105 mygtukų klaviatūra, europietiškas ISO (pagrindiniai ženklai)](images/ratise_spausdai.png);
   - [105 mygtukų klaviatūra, europietiškas ISO](images/ratise_105.png);
   - [104 mygtukų klaviatūra, amerikietiškas ANSI](images/ratise_104_1.png);
-  - [104 mygtukų klaviatūra, europietiškas (ISO be 105-to mygtuko)](images/ratise_104_3.png);
-  - [104 mygtukų klaviatūra, su apverstu dideliu ‘L’ pavidalo ‘Enter’](images/ratise_104_2.png);
+  - [104 mygtukų klaviatūra (ISO be 105-to mygtuko)](images/ratise_104_3.png);
+  - [104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’)](images/ratise_104_2.png);
   - [Kinesis, ErgoDox klaviatūra (europietiška)](images/ratise_kinesis.png).
 
 
