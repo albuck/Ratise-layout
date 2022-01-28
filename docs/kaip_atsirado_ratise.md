@@ -25,8 +25,8 @@ Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anks
 Lyginant su QWERTY Baltic, spausdinant Ratise:
 
 - 1,5 karto pirštai eis mažesnį atstumą;
-- 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti kitą mygtuką;
-- 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti kitą mygtuką;
+- 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
+- 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
 - 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr).
 
 Daugiau skaičių:
