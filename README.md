@@ -27,16 +27,16 @@ Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 
 __Valdymo myktukų ženkliukai ir pavadinimai:__
 
-- ↹ — Tab / Tabular / Tabulator / Atitraukimas / Įtraukimas
-- ⇪ — ⮸ / Caps / Caps Lock / Didž / Didžiosios
-- ⇧ — Shift / Level 2 / Aukšt / Aukštinis, Aukštesnis, Antrasis lygis
-- ⎈ — Ctrl / Control / Vald / Valdymas
-- ◊ — OS / Super / System / Cmd / Command / ⌘ Command (MacOS) /⊞ Win,  Windows / ◆ Meta / Logo / Vėliava / Vada
-- ⎇ — Alt / Alternate / Alternatyve / ⌥ Opt (MacOS) / Option / Kitaip
-- ⇮ — AltGr / Alternate Graphic / ⌥ Opt (MacOS) / Option / Level 3 / Trečiasis lygis / Kitas
-- ≣ — Menu / Mn / Meniu / Sąrašas
-- ⏎ — ↵ / Enter / Return / Įvesti / Įvedimas
-- ⌫ — ← / Backspace / Trinti / Trynimas
+- ↹ — Tab, Tabular, Tabulator, Atitraukimas, Atatraukimas, Įtraukimas
+- ⇪ — ⮸ Caps, Caps Lock, Didž, Didžiosios, Didžios
+- ⇧ — Shift, Level 2, Aukšt, Aukštinis, Aukštesnis, Antrasis lygis, Antrinis
+- ⎈ — Ctrl, Control, Vald, Valdymas, Valdinis
+- ◊ — OS, Super, System, Cmd, Command, ⌘, Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo, Vėliava, Vadinis, Vada
+- ⎇ — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS), Kitaip
+- ⇮ — AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3, Trečiasis lygis, Tretinis, Kitas
+- ≣ — Menu, Mn, Application, Meniu, Sąrašas
+- ⏎ — ↵ Enter, Return, Įvesti, Įvedimas
+- ⌫ — ← Backspace, Trinti, Trynimas
 
 __Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūrose](https://en.wikipedia.org/wiki/Apple_keyboards) mygtukai ⌥Opt(⎇Alt) ir ⌘Cmd(⊞Win) savo padėtimi yra sukeisti vietomis.
 
