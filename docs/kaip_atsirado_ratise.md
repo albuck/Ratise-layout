@@ -20,7 +20,16 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 ![Lietuviškas ergonomiškas klaviatūros ženklų išdėstymas Ratisė](images/kb_lt_ratise_viskas.svg)
 
-Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais:
+Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
+
+Lyginant su QWERTY Baltic+, spausdinant Ratise:
+
+- 1,5 karto pirštai eis mažesnį atstumą;
+- 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti kitą mygtuką;
+- 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti kitą mygtuką;
+- 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr).
+
+Daugiau skaičių:
 
 + [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
 
