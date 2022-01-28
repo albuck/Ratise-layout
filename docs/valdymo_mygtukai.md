@@ -4,7 +4,7 @@ VALDYMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI
 
 Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai gali būti pažymėti ir vadinami skirtingai:
 
-- ↹ — Tab, Tabular, Tabulator, Atitraukimas, Atatraukimas, Įtraukimas.
+- ↹ — Tab, Tabular, Tabulator, Atitraukimas, Atatraukimas (Ata), Įtraukimas.
 - ⇪ — ⮸ Caps, Caps Lock, Didž, Didžiosios, Didžios.
 - ⇧ — Shift, Level 2, Aukšt, Aukštinis, Aukštesnis, Antrasis lygis, Antrinis.
 - ⎈ — Ctrl, Control, Vald, Valdymas, Valdinis.
