@@ -43,7 +43,7 @@ __Išsamiau:__
 
 __Pastabos.__ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: [donelaitis.vdu.lt](http://donelaitis.vdu.lt/main.php?id=4&nr=9_1).
 
-__Dar:__ [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
+__Daugiau skaičių:__ [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
 
 
 
