@@ -39,7 +39,6 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 | LT Standard 2000 (ISO)| 23529 (12,2%)| 13352 (6,9%)| 11617 (6,0%) | 32427 (16,8%)| 29261 (15,2%)| 26244 (13,6%)| 27545 (14,2%)| 13359 (6,9%) | 16236 (8,4%)| 193570 (100%)|
 | QWERTY Baltic+ (ISO)  | 24256 (12,5%)| 11909 (6,1%)| 12447 (6,4%) | 34196 (17,6%)| 28520 (14,7%)| 25076 (12,9%)| 31686 (16,3%)| 15434 (7,9%) | 11112 (5,7%)| 194636 (100%)|
 
-- Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas, skliaustuose nuošimčiai.
 
 
