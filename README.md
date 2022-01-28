@@ -12,8 +12,9 @@ Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 + Balsės ir priebalsės išskirtos skirtingoms rankoms.
 + Spausdinant Ratise ritmiškai kaitaliojamos skirtingos rankos ir vienos kurios rankos pirštai.
 + Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės spaudyti sirtingus mygtukus.
-+ Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas.
 + Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai.
++ Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas.
+
 
 ![Ratisės išdėstymas](docs/images/kb_lt_ratise.svg)
 
