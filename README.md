@@ -11,6 +11,8 @@ Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 
 ![Ratisės išdėstymas](docs/images/kb_lt_ratise.svg)
 
++ [Valdymo mygtukų ženkliukai ir pavadinimai](docs/valdymo_mygtukai.md)
+
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 
 + „Ratisė“ pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
@@ -24,21 +26,6 @@ Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 + Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
 [›› Parsisiųsti Ratisės išdėstymą ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
-
-__Valdymo myktukų ženkliukai ir pavadinimai:__
-
-- ↹ — Tab, Tabular, Tabulator, Atitraukimas, Atatraukimas, Įtraukimas.
-- ⇪ — ⮸ Caps, Caps Lock, Didž, Didžiosios, Didžios.
-- ⇧ — Shift, Level 2, Aukšt, Aukštinis, Aukštesnis, Antrasis lygis, Antrinis.
-- ⎈ — Ctrl, Control, Vald, Valdymas, Valdinis.
-- ◊ — OS, Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo, Vėliava, Vadinis, Vada.
-- ⎇ — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS), Kitaip.
-- ⇮ — AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3, Trečiasis lygis, Tretinis, Kitas.
-- ≣ — Menu, Mn, Application, Meniu, Sąrašas.
-- ⏎ — ↵ Enter, Return, Įvesti, Įvedimas.
-- ⌫ — ← Backspace, Trinti, Trynimas.
-
-__Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūrose](https://en.wikipedia.org/wiki/Apple_keyboards) mygtukai ⌥Opt(⎇Alt) ir ⌘Cmd(⊞Win) savo padėtimi yra sukeisti vietomis.
 
 --------------------------------------------------------------------
 
