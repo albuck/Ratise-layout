@@ -6,3 +6,6 @@ RATISĖS KIRILICA IŠDĖSTYMAS
 
 Tai yra papildomas išdėstymas, kuriame kirilicos raidės išdėstytos vietoje lietuviškųjų pagal garso ar kitą panašumą.
 Ratisės Kirilica išdėstymas leidžia rinkti tekstus rusų bei kitomis kirilicą vartojančiomis kalbomis.
+
+-------------------------
+[Į pradžią](../README.md)
