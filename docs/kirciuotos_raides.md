@@ -44,7 +44,7 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
   (†)
 ```
 
-† Pastabos:
+† __Pastabos:__
 
 - Ypatingosios lietuviškos kirčiuotos raidės, esančios asmeninėje spaudmenų srityje, bus matomos tik kai jos yra tenais tuose spaudmenyse:
 
@@ -89,7 +89,7 @@ Ùù Úú Ũũ
 
 Ū́ū́ Ū̃ū̃ (Ū̄́ū̄́ Ū̄̃ū̄̃, Ū́ū́ Ū̃ū̃) (‡)
 ```
-‡ Pastaba: skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra ‘Ėė’ ir ‘Ūū’ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida!
+‡ __Pastaba:__ skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra ‘Ėė’ ir ‘Ūū’ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida!
 
 ## 3. Kirčiavimas pridedant šalia raidės atskirus priegaidžių ženklus: ``` `, ´, ˜ ar ~```
 
