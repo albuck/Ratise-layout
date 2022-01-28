@@ -19,6 +19,4 @@ __Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūrose](https:
 
 -----------------------------------------
 
-+ [Toliau](trukumu_apejimas.md)
 + [Į pradžią](../README.md)
-
