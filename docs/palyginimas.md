@@ -32,7 +32,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 Išsamiau (angliškai):
 
- - http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB
+ - [Ratise (ANSI), LEKPa (ANSI), Lithuanian (Standard 2000), Lithuanian IBM (Standard 1992), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB)
  - http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406
  - http://patorjk.com/keyboard-layout-analyzer/#/load/52k2kqJN
 
