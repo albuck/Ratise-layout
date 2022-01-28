@@ -8,7 +8,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 1-sis lygis
 
-— spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
+— spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko. Tai yra pagrindinių ženklų išdėstymo lygis.
 
 ![Pirmasis lygis](images/kb_lt_ratise_1l.svg)
 
@@ -17,7 +17,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 2-sis lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’.
+— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’. Tai yra didžiųjų raidžių ir papildomų ženklų išdėstymo lygis.
 
 ![Antrasis lygis](images/kb_lt_ratise_2l.svg)
 
@@ -26,7 +26,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 3-sis lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’.
+— spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’. Šiame išdėstymo lygyje kairėje pusėje yra skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių ženklai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė bei keli papildomi ženklai.
 
 ![Trečiasis lygis](images/kb_lt_ratise_3l.svg)
 
@@ -41,7 +41,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 ### Ratisės 4-sis lygis
 
-— spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
+— spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’). Papildomų ženklų išdėstymo lygis.
 
 ![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
