@@ -30,7 +30,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose, jis gali viršyti 70, o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, gali nesiekti 60.
 
-__Išsamiau__ (patorjk.com/keyboard-layout-analyzer, angliškai):
+__Išsamiau:__
 
  - [Ratise (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000), ĄŽERTY Lithuanian IBM (Standard 1992), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/GLxVhlkB)
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000), Lithuanian Ergonomic 1989](http://patorjk.com/keyboard-layout-analyzer/#/load/vPT1d406)
@@ -65,7 +65,7 @@ Imti nedideli tekstų pavyzdžiai.
 12. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 47.18
 
 
-__Išsamiau__ (patorjk.com/keyboard-layout-analyzer, angliškai):
+__Išsamiau:__
 
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), Lithuanian Ergonomic 1989, AŽERTY Lithuanian (Standard 2000)](http://patorjk.com/keyboard-layout-analyzer/#/load/85853MlC)
  - [Ratise (ANSI), LEKPa (ANSI), QWERTY Baltic (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992), AŽERTY Lithuanian (Standard 2000)](http://patorjk.com/keyboard-layout-analyzer/#/load/M7xrZTnJ)
@@ -109,7 +109,7 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 23. _QWERTY-Programmer (ANSI) — 31.28_
 
 
-__Išsamiau__ (patorjk.com/keyboard-layout-analyzer, angliškai):
+__Išsamiau:__
 
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), AŽERTY Lithuanian (Standard 2000), Lithuanian Ergonomic 1989](http://patorjk.com/keyboard-layout-analyzer/#/load/r6cGlQjc)
  - [Ratise (ANSI), LEKPa (ANSI), AŽERTY Lithuanian (Standard 2000), ĄŽERTY Lithuanian IBM (Standard 1992), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/kPr1fXcc)
