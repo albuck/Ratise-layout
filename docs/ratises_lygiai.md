@@ -10,7 +10,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 — spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 
-Tai yra pagrindinių ženklų išdėstymo lygis.
+Tai yra pagrindinių rašto ženklų išdėstymo lygis.
 
 ![Pirmasis lygis](images/kb_lt_ratise_1l.svg)
 
