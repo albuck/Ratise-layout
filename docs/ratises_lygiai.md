@@ -49,7 +49,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
 
-Įvairių papildomų rečiau reikalingų rašto ženklų išdėstymo lygis.
+Įvairių papildomų retai reikalingų rašto ženklų išdėstymo lygis.
 
 ![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
