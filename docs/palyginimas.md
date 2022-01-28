@@ -120,7 +120,7 @@ Išsamiau (angliškai):
  - http://patorjk.com/keyboard-layout-analyzer/#/load/6sNvsbXT
 
 
-† Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo toks(images/ratise_kinesis-ergodox.png) Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
+† Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks](images/ratise_kinesis-ergodox.png) Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 -------------------------
 + [Toliau](spaud_patoga.md)
