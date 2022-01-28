@@ -15,7 +15,7 @@ These are four level layouts:
 
 !["Ratise" Germanic](images/kb_lt_ratise_germanic.svg)
 
-† Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
+Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
 ------------------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ These are four level layouts:
 
 !["Ratise" Latvian](images/kb_lt_ratise_latvian.svg)
 
-† Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
+Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
 ------------------------------------------------------------------------------------
 
@@ -31,9 +31,9 @@ These are four level layouts:
 
 !["Ratise" Cyrillic](images/kb_lt_ratise_cyrillic.svg)
 
-† Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
+Supplement Cyrillic (Russian) Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ratise".
 
 ------------------------------------------------------------------------------------
 
-[›› Download "Ratise" layout ‹‹](https://github.com/albuck/Ratise-layout/zipball/master)
+[↓ Download "Ratise" layout ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
