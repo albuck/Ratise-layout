@@ -22,7 +22,7 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais:
 
-+ [Keyboard Layout Analyzer (tikrintas lietuviškas tekstas)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
++ [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
 
 -------------------------
 [Į pradžią](../README.md)
