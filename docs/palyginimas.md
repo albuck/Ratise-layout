@@ -15,7 +15,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 
 ### Lietuviškos pasakos (iš Basanavičiaus rinkinio):
 
-1. __Ratise (Kinesis Advantage) — 68.61__‡
+1. __Ratise (Kinesis Advantage) — 68.61__ ‡
 2. __Ratise (ANSI) — 67.64__
 3. __Ratise (ISO) — 67.42__
 4. _Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 65.92_
