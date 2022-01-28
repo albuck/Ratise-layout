@@ -21,7 +21,7 @@ Tai yra pagrindinių rašto ženklų išdėstymo lygis.
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’.
 
-Tai yra didžiųjų raidžių ir papildomų ženklų išdėstymo lygis.
+Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 
 ![Antrasis lygis](images/kb_lt_ratise_2l.svg)
 
@@ -32,7 +32,7 @@ Tai yra didžiųjų raidžių ir papildomų ženklų išdėstymo lygis.
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’.
 
-Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių ženklai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais papildomais ženklais, bei kietuoju ‘ł’.
+Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių ženklai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ‘ł’.
 
 ![Trečiasis lygis](images/kb_lt_ratise_3l.svg)
 
@@ -49,7 +49,7 @@ Tai yra didžiųjų raidžių ir papildomų ženklų išdėstymo lygis.
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
 
-Įvairių papildomų rečiau reikalingų ženklų išdėstymo lygis.
+Įvairių papildomų rečiau reikalingų rašto ženklų išdėstymo lygis.
 
 ![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
