@@ -1,12 +1,11 @@
 
-RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
--------------------------------
+# RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
 
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
 
-### Ratisės 1-sis lygis
+## Ratisės 1-sis lygis
 
 — spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 
@@ -17,7 +16,7 @@ Tai yra pagrindinių rašto ženklų išdėstymo lygis.
 + Tarp mygtukų  ‘pabraukimas’ ir ‘lygu’ yra mygtukas su ilguoju brūkšniu, vadinamuoju ‘m’ ilgio brūkšniu (tai yra ‘m’ raidės pločio brūkšniu).
 
 
-### Ratisės 2-sis lygis
+## Ratisės 2-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’.
 
@@ -28,7 +27,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 + Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (‘šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniuoju ‘m’ ilgio brūkšniu.
 
 
-### Ratisės 3-sis lygis
+## Ratisės 3-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’.
 
@@ -45,7 +44,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 + [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](trukumu_apejimas.md)
 
 
-### Ratisės 4-sis lygis
+## Ratisės 4-sis lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
 
@@ -61,14 +60,14 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 [Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md).
 
 
-### Ratisės Didžiųjų raidžių lygis
+## Ratisės Didžiųjų raidžių lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ⇪ ‘CapsLock’ paspaudimo (įjungimo).
 
 ![Didžiųjų raidžių lygis](images/kb_lt_ratise_d.svg)
 
 
-### Ratisės keturių lygių ženklai viename paveikslėlyje
+## Ratisės keturių lygių ženklai viename paveikslėlyje
 
 Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
 
