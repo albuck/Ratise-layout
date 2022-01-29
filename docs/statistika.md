@@ -13,7 +13,7 @@ Pagrindinių lietuviškų išdėstymų palyginamoji statistika
 
 __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
-## Patikroje išdėstymų surinkti taškai (daugiau — geriau):
+### Patikroje išdėstymų surinkti taškai (daugiau — geriau):
 
 1. __Ratise (ISO) — 67.43__
 2. LEKP (ISO) — 58.00
@@ -22,9 +22,8 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 <br>
 
-## Išdėstymų statistinės lentelės
-
-<br>
+Išdėstymų statistinės lentelės
+------------------------------
 
 ### Pirštų nueitas atstumas spausdinant duotą tekstą:
 
