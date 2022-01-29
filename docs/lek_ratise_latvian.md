@@ -1,6 +1,5 @@
 
-RATISĖS LATVIŠKAS IŠDĖSTYMAS
---------------------------------
+# RATISĖS LATVIŠKAS IŠDĖSTYMAS
 
 ![Ratisės latviškas išdėstymas](images/kb_lt_ratise_latvian.svg)
 
