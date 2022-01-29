@@ -3,12 +3,12 @@
 
 ## Išdėstymų statistikos apžvalga
 
-Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
++ Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
-__Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
++ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
 
-### Lietuviškas tekstas
+### Lietuviškas tekstas:
 
 + [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
 
@@ -24,7 +24,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    3. LT Standard 2000 (ISO) — 59.29
    4. QWERTY Baltic+ (ISO) — 57.39
 
-### Angliškas tekstas
+### Angliškas tekstas:
 
 + [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer//load/tkHsP4Bn)
 
