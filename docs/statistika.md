@@ -5,6 +5,13 @@ Pagrindinių lietuviškų išdėstymų palyginamoji statistika
 + Naudotas šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
 
 + Tikrintas tekstas: Lietuviškos pasakos (iš Basanavičiaus rinkinio).
++ Tikrinto teksto apimtis:
+  - Eilučių: 1854
+  - Žodžių: 28911
+  - Ženklų (su tarpais): 189920
+  - Ženklų (be tarpų): 159873
+
+
 
 __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
