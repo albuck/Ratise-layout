@@ -36,6 +36,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — metras.
 
+-----------------------------------------
 
 ### Pirštų panaudojimo kartų skaičius (ir nuošimtis):
 
@@ -48,6 +49,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 - Matavimo vienetas — mygtuko paspaudimo kartas, skliaustuose nuošimčiai.
 
+-----------------------------------------
 
 ### Klaviatūros eilių išnaudojimas nuošimčiais:
 
@@ -73,6 +75,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
 
+-----------------------------------------
 
 ### Kaip dažnai tos pačios rankos pirštams (įskaitant nykščius) iš eilės teko spausti mygtuką (įskaitant tą patį):
 
@@ -87,6 +90,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
 
+-----------------------------------------
 
 ### Kaip dažnai yra naudoti keitimo mygtukai (antro lygio, trečio lygio ir ketvirto lygio):
 
