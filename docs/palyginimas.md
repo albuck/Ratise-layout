@@ -28,7 +28,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 11. QWERTY Baltic (ISO) — 43.71
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
 
-Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose (paprastuose), jis [gali viršyti 70](http://patorjk.com/keyboard-layout-analyzer/#/load/w9pgm91w), o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, [gali nesiekti 60](http://patorjk.com/keyboard-layout-analyzer/#/load/KwltrFFQ).
+Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, kartais, kai kuriuose (paprastuose), jis [gali viršyti 70](http://patorjk.com/keyboard-layout-analyzer/#/load/zZf6g1Ch), o kituose gi, sudėtinguose tekstuose su daugybe neraidinių ženklų, [gali nesiekti 60](http://patorjk.com/keyboard-layout-analyzer/#/load/KwltrFFQ).
 
 __Išsamiau:__
 
