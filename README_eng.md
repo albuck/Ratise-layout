@@ -22,14 +22,13 @@ Vowels and consonants are distinguished for different hands. The more frequently
 
 ------------------------------------------------------------------------------------
 
-ADDITIONS:
-----------
+## ADDITIONS:
 
 - [ADDITIONAL LAYOUTS (GERMANIC, LATVIAN, CYRILLIC)](docs/additional_layouts.md)
 
 ------------------------------------------------------------------------------------
 
-#### Other links:
+## Other links:
 
 - [Standard ergonomic layout computer keyboard](https://albuck.github.io/SEL-keyboard/)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
