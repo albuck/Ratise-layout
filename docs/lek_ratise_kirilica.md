@@ -1,6 +1,5 @@
 
-RATISĖS KIRILICA IŠDĖSTYMAS
---------------------------------
+# RATISĖS KIRILICA IŠDĖSTYMAS
 
 ![Ratisės kirilicos išdėstymas](images/kb_lt_ratise_cyrillic.svg)
 
