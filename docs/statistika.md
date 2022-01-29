@@ -25,6 +25,8 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 Išdėstymų statistinės lentelės
 ------------------------------
 
+<br>
+
 ### Pirštų nueitas atstumas spausdinant duotą tekstą:
 
 |                       |Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius| Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis| Viso |
