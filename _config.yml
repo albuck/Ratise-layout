@@ -5,8 +5,7 @@ title: Klaviatūros išdėstymas „Ratisė“
 description: Lietuviškas ergonomiškas klaviatūros išdėstymas. Lithuanian Ergonomic Keyboard Layout.
 lang: lt_LT
 encoding: UTF-8
-<style>
-.page__content {
-  text-align: justify;
-}
-</style>
+text_align:
+  # Available values: start | end | left | right | center | justify | justify-all | match-parent
+  desktop: justify
+  mobile: justify
