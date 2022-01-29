@@ -1,8 +1,4 @@
-<style>
-  th {
-    background: silver;
-  }
-</style>
+<style>th {background: lightgrey;}</style>
 
 
 Pagrindinių lietuviškų išdėstymų palyginamoji statistika
