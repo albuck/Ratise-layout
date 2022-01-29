@@ -1,6 +1,5 @@
 
-RATISĖS GERMANIŠKAS IŠDĖSTYMAS
---------------------------------
+# RATISĖS GERMANIŠKAS IŠDĖSTYMAS
 
 ![Ratisės germaniškas išdėstymas](images/kb_lt_ratise_germanic.svg)
 
