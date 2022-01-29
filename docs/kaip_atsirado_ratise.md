@@ -1,6 +1,5 @@
 
-KAIP ATSIRADO RATISĖ
---------------------
+# KAIP ATSIRADO RATISĖ
 
 Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais (lietuvišku standartiniu išdėstymu), nežiūrint, susidūriau su dideliais nepatogumais ir netgi pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po visą klaviatūrą, ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi ne pagal jėgas persidirba (pvz.: kairysis mažasis). Toks išdėstymas neturi jokios logikos ir sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į [VLKK](http://www.vlkk.lt/) diskusijas (panaikintos). Kur ir užsimezgė būsimoji Ratisė:
 
