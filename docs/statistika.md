@@ -10,14 +10,13 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
 
 ### Lietuviškas tekstas
 
-Šaltinis — [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
++ [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
+   1. __Ratise (ISO) — 67.43__
+   2. LEKP (ISO) — 58.00
+   3. LT Standard 2000 (ISO) — 47.50
+  4. QWERTY Baltic+ (ISO) — 44.22
 
-1. __Ratise (ISO) — 67.43__
-2. LEKP (ISO) — 58.00
-3. LT Standard 2000 (ISO) — 47.50
-4. QWERTY Baltic+ (ISO) — 44.22
-
-Šaltinis — [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer//load/SNLfjHck)
++ [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer//load/SNLfjHck)
 
 1. __Ratise (ISO) — 76.16__
 2. LEKP (ISO) — 69.00
@@ -26,7 +25,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
 
 ### Angliškas tekstas
 
-Šaltinis — [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer//load/tkHsP4Bn)
++ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer//load/tkHsP4Bn)
 
 1. __Ratise (ISO) — 62.38__
 2. LEKP (ISO) — 60.28
@@ -34,7 +33,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
 4. LT Standard 2000 (ISO) — 47.08
 
 
-Šaltinis — [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer//load/ShQtp9MZ)
++ [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer//load/ShQtp9MZ)
 
 1. __Ratise (ISO) — 66.90__
 2. LEKP (ISO) — 66.73
