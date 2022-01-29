@@ -1,6 +1,5 @@
 
-ADDITIONAL LAYOUTS
-------------------
+# ADDITIONAL LAYOUTS
 
 These are four level layouts:
 
@@ -11,7 +10,7 @@ These are four level layouts:
  
  ------------------------------------------------------------------------------------
 
-### Germanic Ratise:
+## Germanic Ratise:
 
 !["Ratise" Germanic](images/kb_lt_ratise_germanic.svg)
 
@@ -19,7 +18,7 @@ Supplement Germanic Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Ra
 
 ------------------------------------------------------------------------------------
 
-### Latvian Ratise:
+## Latvian Ratise:
 
 !["Ratise" Latvian](images/kb_lt_ratise_latvian.svg)
 
@@ -27,7 +26,7 @@ Supplement Latvian Phonetic Layout for Lithuanian Ergonomic Keyboard layout "Rat
 
 ------------------------------------------------------------------------------------
 
-### Cyrillic Ratise:
+## Cyrillic Ratise:
 
 !["Ratise" Cyrillic](images/kb_lt_ratise_cyrillic.svg)
 
