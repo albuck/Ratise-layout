@@ -1,3 +1,9 @@
+<style>
+  th {
+    background: silver;
+  }
+</style>
+
 
 Pagrindinių lietuviškų išdėstymų palyginamoji statistika
 --------------------------------------------------------
@@ -20,9 +26,9 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 3. LT Standard 2000 (ISO) — 47.50
 4. QWERTY Baltic+ (ISO) — 44.22
 
-## Išdėstymų statistinės lentelės
-
 <br>
+
+## Išdėstymų statistinės lentelės
 
 ### Pirštų nueitas atstumas spausdinant duotą tekstą:
 
