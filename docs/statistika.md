@@ -1,8 +1,57 @@
 
-Pagrindinių lietuviškų išdėstymų palyginamoji statistika
---------------------------------------------------------
+# Pagrindinių lietuviškų išdėstymų palyginamoji statistika
 
-+ Naudotas šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
+## Išdėstymų statistikos apžvalga
+
+Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
+
+__Duomenų pateikimo pavidalas:__
+
+„Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
+
+
+### Lietuviškas tekstas
+
+Šaltinis: [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
+
+1. __Ratise (ISO) — 67.43__
+2. LEKP (ISO) — 58.00
+3. LT Standard 2000 (ISO) — 47.50
+4. QWERTY Baltic+ (ISO) — 44.22
+
+Šaltinis: [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer//load/SNLfjHck)
+
+1. __Ratise (ISO) — 76.16__
+2. LEKP (ISO) — 69.00
+3. LT Standard 2000 (ISO) — 59.29
+4. QWERTY Baltic+ (ISO) — 57.39
+
+### Angliškas tekstas
+
+Šaltinis: [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer//load/tkHsP4Bn)
+
+1. __Ratise (ISO) — 62.38__
+2. LEKP (ISO) — 60.28
+3. QWERTY Baltic+ (ISO) — 52.89
+4. LT Standard 2000 (ISO) — 47.08
+
+
+Šaltinis: [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer//load/ShQtp9MZ)
+
+1. __Ratise (ISO) — 66.90__
+2. LEKP (ISO) — 66.73
+3. QWERTY Baltic+ (ISO) — 49.04
+4. LT Standard 2000 (ISO) — 46.72
+
+### Išvados:
+
++ Ratisės išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
++ Likę išdėstymai yra labiau pritaikyti anglų kalbos tekstams negu lietuvių. Iš esmės tai yra angliški išdėstymai su papildomomis lietuviškomis raidėmis.
+
+<hr>
+<br>
+
+## Išdėstymų statistinės lentelės
 
 + Tikrintas tekstas: Lietuviškos pasakos (iš Basanavičiaus rinkinio).
 + Tikrinto teksto apimtis:
@@ -13,19 +62,6 @@ Pagrindinių lietuviškų išdėstymų palyginamoji statistika
 
 __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
-### Patikroje išdėstymų surinkti taškai (daugiau — geriau):
-
-1. __Ratise (ISO) — 67.43__
-2. LEKP (ISO) — 58.00
-3. LT Standard 2000 (ISO) — 47.50
-4. QWERTY Baltic+ (ISO) — 44.22
-
-<br>
-
-Išdėstymų statistinės lentelės
-------------------------------
-
-<br>
 
 ### Pirštų nueitas atstumas spausdinant duotą tekstą:
 
