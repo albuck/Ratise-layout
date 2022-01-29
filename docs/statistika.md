@@ -5,9 +5,7 @@
 
 Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
-__Duomenų pateikimo pavidalas:__
-
-„Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
+__Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
 
 ### Lietuviškas tekstas
