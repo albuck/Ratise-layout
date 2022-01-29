@@ -1,5 +1,3 @@
-<style>th {background: lightgrey;}</style>
-
 
 Pagrindinių lietuviškų išdėstymų palyginamoji statistika
 --------------------------------------------------------
@@ -106,8 +104,6 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
-
-<br>
 
 -----------------------------------------
 
