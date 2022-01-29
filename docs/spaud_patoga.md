@@ -1,6 +1,5 @@
 
-SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA
--------------------------------------------
+# SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA
 
 Net ir patogiausias daiktas nemokančiam juo naudotis bus nepatogus. Taigi, visų pirma, rankų pirštai turi būti pripratinti prie spausdinimo, tai yra išlavinti. Aišku, pradedančiam mokytis spausdinti visais pirštais iškart kris į akį „nepatogūs“ mygtukai, nes būtent jie ir labiausiai vargins jo pirštus. Vieni mygtukai atrodys nepatogūs dėl to, kad rankų pirštai dar nėra pakankamai išlavėję, kiti dėl to, kad kokie nors dažniau reikalingi mygtukai yra ne „po ranka“.
 
