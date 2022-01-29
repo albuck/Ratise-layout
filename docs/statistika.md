@@ -24,6 +24,8 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 ## Išdėstymų statistinės lentelės
 
+-----------------------------------------
+
 ### Pirštų nueitas atstumas spausdinant duotą tekstą:
 
 |                       |Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius| Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis| Viso |
@@ -62,6 +64,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 | LT Standard 2000 (ISO)| 3,7%                  | 37,4%                 | 32,1%                   | 11,7%                  | 15,1%              |
 | QWERTY Baltic+ (ISO)  | 8,2%                  | 34,5%                 | 28,0%                   | 14,6%                  | 14,7%              |
 
+-----------------------------------------
 
 ### Kaip dažnai tam pačiam pirštui iš eilės teko spausti kitą (ar tą patį) mygtuką:
 
