@@ -4,7 +4,7 @@ TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI
 
 Pasinaudojus tęsties mygtukais galima įvesti daugiau papildomų ženklų, kurie nėra prieinami įprastuose išdėstymo lygiuose. Kiekvienas tęsties mygtukas turi lyg ir papildomą išdėstymo tęsties lygį.
 
-Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ‘AltGr+Shift’).
+Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ‘AltGr+Shift’).
 
 _Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje tęsties mygtukai_:
 
@@ -12,7 +12,7 @@ _Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje t�
 
 Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsties mygtuko spaudas.
 
-Paspaudus tiesiogiai gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
+Paspaudus tiesiogiai, gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
 
 __Pastabos__:
 + Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
