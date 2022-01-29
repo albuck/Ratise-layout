@@ -44,7 +44,7 @@
 ### Išvados:
 
 + Ratisės išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
-+ Likę išdėstymai yra labiau pritaikyti anglų kalbos tekstams negu lietuvių. Iš esmės tai yra angliški išdėstymai su papildomomis lietuviškomis raidėmis.
++ Likę išdėstymai yra labiau pritaikyti anglų kalbos tekstams negu lietuvių.
 
 <hr>
 <br>
