@@ -17,7 +17,7 @@
    3. LT Standard 2000 (ISO) — 47.50
    4. QWERTY Baltic+ (ISO) — 44.22
 
-+ [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer//load/SNLfjHck)
++ [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/SNLfjHck)
 
    1. __Ratise (ISO) — 76.16__
    2. LEKP (ISO) — 69.00
@@ -26,7 +26,7 @@
 
 ### Angliškas tekstas:
 
-+ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer//load/tkHsP4Bn)
++ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/tkHsP4Bn)
 
    1. __Ratise (ISO) — 62.38__
    2. LEKP (ISO) — 60.28
@@ -34,7 +34,7 @@
    4. LT Standard 2000 (ISO) — 47.08
 
 
-+ [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer//load/ShQtp9MZ)
++ [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer/#/load/ShQtp9MZ)
 
    1. __Ratise (ISO) — 66.90__
    2. LEKP (ISO) — 66.73
