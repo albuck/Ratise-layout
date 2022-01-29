@@ -23,8 +23,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 4. QWERTY Baltic+ (ISO) — 44.22
 
 ## Išdėstymų statistinės lentelės
-
------------------------------------------
+<br>
 
 ### Pirštų nueitas atstumas spausdinant duotą tekstą:
 
@@ -37,8 +36,8 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — metras.
+<br>
 
------------------------------------------
 
 ### Pirštų panaudojimo kartų skaičius (ir nuošimtis):
 
@@ -50,8 +49,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 | QWERTY Baltic+ (ISO)  | 24256 (12,5%)| 11909 (6,1%)| 12447 (6,4%) | 34196 (17,6%)| 28520 (14,7%)| 25076 (12,9%)| 31686 (16,3%)| 15434 (7,9%) | 11112 (5,7%)| 194636 (100%)|
 
 - Matavimo vienetas — mygtuko paspaudimo kartas, skliaustuose nuošimčiai.
-
------------------------------------------
+<br>
 
 ### Klaviatūros eilių išnaudojimas nuošimčiais:
 
@@ -64,7 +62,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 | LT Standard 2000 (ISO)| 3,7%                  | 37,4%                 | 32,1%                   | 11,7%                  | 15,1%              |
 | QWERTY Baltic+ (ISO)  | 8,2%                  | 34,5%                 | 28,0%                   | 14,6%                  | 14,7%              |
 
------------------------------------------
+<br>
 
 ### Kaip dažnai tam pačiam pirštui iš eilės teko spausti kitą (ar tą patį) mygtuką:
 
@@ -77,8 +75,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
-
------------------------------------------
+<br>
 
 ### Kaip dažnai tos pačios rankos pirštams (įskaitant nykščius) iš eilės teko spausti mygtuką (įskaitant tą patį):
 
@@ -92,8 +89,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
-
------------------------------------------
+<br>
 
 ### Kaip dažnai yra naudoti keitimo mygtukai (antro lygio, trečio lygio ir ketvirto lygio):
 
@@ -106,6 +102,7 @@ __Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
 
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
+<br>
 
 -----------------------------------------
 
