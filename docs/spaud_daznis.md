@@ -1,6 +1,5 @@
 
-MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
-------------------------------
+# MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
 
 Mygtukų paspaudimo dažnumas yra apspręstas pačių raidžių dažnumo lietuviškame rašte, būtent: [iasteourknlpmdvjėgšbžyųąįūčęczhfxwq](lt_raid_dazn.txt).
 
