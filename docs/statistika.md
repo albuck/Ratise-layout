@@ -14,14 +14,14 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __Ratise (ISO) — 67.43__
    2. LEKP (ISO) — 58.00
    3. LT Standard 2000 (ISO) — 47.50
-  4. QWERTY Baltic+ (ISO) — 44.22
+   4. QWERTY Baltic+ (ISO) — 44.22
 
 + [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer//load/SNLfjHck)
 
-1. __Ratise (ISO) — 76.16__
-2. LEKP (ISO) — 69.00
-3. LT Standard 2000 (ISO) — 59.29
-4. QWERTY Baltic+ (ISO) — 57.39
+   1. __Ratise (ISO) — 76.16__
+   2. LEKP (ISO) — 69.00
+   3. LT Standard 2000 (ISO) — 59.29
+   4. QWERTY Baltic+ (ISO) — 57.39
 
 ### Angliškas tekstas
 
