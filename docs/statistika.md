@@ -61,6 +61,13 @@
    3. QWERTY Baltic+ (ISO) — 49.04
    4. LT Standard 2000 (ISO) — 46.72
 
++ [Keyboard Layout Analyzer: ‘Bash, C, CPP, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/622X0jqK)
+
+   1. __Ratise (ISO) — 44.80__
+   2. LEKP (ISO) — 41.96
+   3. LT Standard 2000 (ISO) — 35.83
+   4. QWERTY Baltic+ (ISO) — 32.33
+
 ### Išvados:
 
 + Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
