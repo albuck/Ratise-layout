@@ -30,5 +30,5 @@ Vowels and consonants are distinguished for different hands. The more frequently
 
 ## Other links:
 
-- [Standard ergonomic layout computer keyboard](https://albuck.github.io/SEL-keyboard/)
+- [Standard ergonomic layout computer keyboard (draft)](https://albuck.github.io/SEL-keyboard/)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
