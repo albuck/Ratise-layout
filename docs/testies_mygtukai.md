@@ -19,7 +19,7 @@ __Pastabos__:
 + Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų __X__, __H__ ir __Q__ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
 + Dar skaityke: [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos_raides.md).
 
-Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas ("renkamas ženklas" → "gaunamas ženklas"; "␣" — tarpo žymė):
+Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (‘renkamas ženklas’ → ‘gaunamas ženklas’; ‘␣’ — tarpo žymė):
 
 
 ## Žiedelis viršuje (˚):
