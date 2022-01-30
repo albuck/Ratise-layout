@@ -72,13 +72,14 @@
 
 ### Išvados:
 
-+ Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
++ Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti, t. y. su Ratise atliksite tą patį darbą ženkliai patogiau ir lengviau negu su kitais išdėstymais.
 + [LEKP](https://lekp.info/images/lekp.png) ir Baltic+ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
 
 __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su mažai reikšmingais patikrai skirtumais, manasis Baltic+, čia tikrintas, ko gero netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir kabutes pirmame lygyje). Lithuanian Standard arba Lietuviška standartinė klaviatūra turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau LT Standard 2000, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
 
 #### Kiti išdėstymų pirvalumai:
++ Ratisės išdėstymas turi tvarkingai išdėstytus ženklus, todėl yra lengviau ir greičiau įsimenamas.
 + Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides.
 + Ratisės išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
 + Ratisės išdėstymu galima įvesti kitų Europos kalbų raides (prieinamos per tęsties lygius).
