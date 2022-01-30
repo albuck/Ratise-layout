@@ -49,10 +49,16 @@
 
 __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su mažai reikšmingais patikrai skirtumais, manasis Baltic+, čia tikrintas, ko gero netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį pirmame lygyje). Lithuanian Standard arba Lietuviška standartinė klaviatūra turi du valstybius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau Standard 2000, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
 
-#### Papildomi Ratisės pirvalumai:
+#### Papildomi išdėstymų pirvalumai:
 + Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides.
 + Ratisės išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
 + Ratisės išdėstymu galima įvesti kitų Europos kalbų raides (prieinamos per tęsties lygius).
++ Ratisė ir LEKP yra pritaikyti teksto rinkimui visais pirštais, nežiūrint.
++ Baltic/Numeric raidės sutampa su angliškojo QWERTY raidėmis, kurios dažniausiai ir būna užpaišytos and pačių klaviatūrų mygtukų, kas yra labai patogu naujokui susiieškoti klaviatūroje tas raides. Reik manyti, tai yra pagrindinė priežastis, kodėl šis išdėstymas išplito pas mus ir vis dar yra labiausiai naudojamas.
++ Baltic/Numeric išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuviškas“.
++ Lithuanian Standard išdėstymas yra platinamas valstybinės įstaigos.
++ Galima nusipirkti tikrą klaviatūrą su užrašais ant mygtukų atitinkančiais Baltic/Numeric ir Lithuanian Standard ženklų išdėstymus.
++ Baltic/Numeric ir Lithuanian standard išdėstymai yra labiau pritaikyti spausdinti dviem-keliais pirštais žiūrint į klaviatūrą ir ieškant kur kokia yra raidė.
 
 <hr>
 <br>
