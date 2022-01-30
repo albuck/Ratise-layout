@@ -52,7 +52,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 #### Papildomi Ratisės pirvalumai:
 + Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides.
 + Ratisės išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
-+ Ratisės išdėstymu galima parašyti kitų Europos kalbų raides (prieinamos per tęsties lygius).
++ Ratisės išdėstymu galima įvesti kitų Europos kalbų raides (prieinamos per tęsties lygius).
 
 <hr>
 <br>
