@@ -42,9 +42,6 @@ __Išsamiau:__
 
 __Pastabos.__ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: [donelaitis.vdu.lt](http://donelaitis.vdu.lt/main.php?id=4&nr=9_1).
 
-__Daugiau skaičių:__ [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
-
-
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
@@ -122,5 +119,7 @@ __Išsamiau:__
 Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas](images/ratise_kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 -------------------------
+__Papildymas:__ [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
+
 + [Toliau](spaud_patoga.md)
 + [Į pradžią](../README.md)
