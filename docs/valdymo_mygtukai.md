@@ -1,6 +1,5 @@
 
-Valdymo mygtukų ženkliukai ir pavadinimai
------------------------------------------
+# Valdymo mygtukų ženkliukai ir pavadinimai
 
 Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai gali būti pažymėti ir vadinami skirtingai:
 
