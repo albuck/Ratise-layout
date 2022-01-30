@@ -44,8 +44,8 @@
 ### Išvados:
 
 + Iš visų Ratisės išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
-+ LEKP ir Baltic+ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
-+ Standard 2000 ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
++ LEKP ir Baltic išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
++ Standard ir Baltic išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
 
 <hr>
 <br>
