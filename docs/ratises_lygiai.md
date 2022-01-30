@@ -5,7 +5,7 @@
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
 
-## Ratisės 1-sis lygis
+## Ratisės 1-is lygis
 
 — spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 
@@ -16,7 +16,7 @@ Tai yra pagrindinių rašto ženklų išdėstymo lygis.
 + Tarp mygtukų  ‘pabraukimas’ ir ‘lygu’ yra mygtukas su ilguoju brūkšniu, vadinamuoju ‘m’ ilgio brūkšniu (tai yra ‘m’ raidės pločio brūkšniu).
 
 
-## Ratisės 2-sis lygis
+## Ratisės 2-is lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’.
 
@@ -27,7 +27,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 + Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (‘šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniuoju ‘m’ ilgio brūkšniu.
 
 
-## Ratisės 3-sis lygis
+## Ratisės 3-is lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’.
 
@@ -44,7 +44,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 + [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](trukumu_apejimas.md)
 
 
-## Ratisės 4-sis lygis
+## Ratisės 4-is lygis
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
 
