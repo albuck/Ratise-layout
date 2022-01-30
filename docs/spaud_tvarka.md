@@ -7,7 +7,7 @@ Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga
 
 ![Spausdinimo tvarka](images/ratise_spaudotvarka.svg)
 
-Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai (pageidautina).
+Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai.
 
 Besimokinant spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį (ant ekrano ar atsispausdintą):
 
