@@ -43,9 +43,11 @@
 
 ### Išvados:
 
-+ Iš visų Ratisės išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
-+ LEKP ir Baltic išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
-+ Standard ir Baltic išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
++ Iš visų [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
++ [LEKP](https://lekp.info/images/lekp.png) ir Baltic+ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
++ [Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
+
+__Pastabos.__ Vadinamieji išdėstymai Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [Baltic+](https://lekp.info/images/baltic+.jpg) yra vienas ir tas pats išdėstymas su mažai reikšmingais patikrai skirtumais, manasis Baltic+, čia tikrintas, ko gero netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį pirmame lygyje). Lithuanian Standard arba Lietuviška standartinė klaviatūra turi du valstybius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau Standard 2000, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
 
 <hr>
 <br>
