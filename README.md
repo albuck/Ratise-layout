@@ -19,7 +19,7 @@ __Ratisės išdėstymas:__
 ![Ratisės išdėstymas](docs/images/kb_lt_ratise.svg)
 
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
-+ „Ratisė“ pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
++ „Ratìsė“ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 + Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
 + Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite: [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md).
 + Išsamus darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt).
