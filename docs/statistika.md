@@ -87,7 +87,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 + Baltic/Numeric išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuviškas“.
 + Lithuanian Standard išdėstymas yra platinamas valstybinės įstaigos.
 + Baltic/Numeric išdėstymo ženklai dažnai būna papildomai užžymėti ant Lietuvoje parduodamų klaviatūrų.
-+ Baltic/Numeric išdėstymas yra labiau pritaikytas spausdinti dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
++ Baltic/Numeric išdėstymas yra labiau pritaikytas spausdinti vienu/dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
 + Baltic/Numeric ir Lithuanian standard išdėstymų paprastai nereikia papildomai įdieginėti.
 
 <hr>
