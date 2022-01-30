@@ -24,6 +24,12 @@
    3. LT Standard 2000 (ISO) — 41.67
    4. QWERTY Baltic+ (ISO) — 40.77
 
++ [Keyboard Layout Analyzer: Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/zZf6g1Ch)
+
+   1. __Ratise (ISO) — 71.52__
+   2. LEKP (ISO) — 62.81
+   3. LT Standard 2000 (ISO) — 49.98
+   4. QWERTY Baltic+ (ISO) — 48.53
 
 + [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/SNLfjHck)
 
@@ -40,7 +46,6 @@
    2. LEKP (ISO) — 60.28
    3. QWERTY Baltic+ (ISO) — 52.89
    4. LT Standard 2000 (ISO) — 47.08
-
 
 + [Keyboard Layout Analyzer: Wikipedia “United States”](http://patorjk.com/keyboard-layout-analyzer/#/load/MhHD2B7T)
 
