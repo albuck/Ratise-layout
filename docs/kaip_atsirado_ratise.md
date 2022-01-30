@@ -21,7 +21,7 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
-Lyginant su QWERTY Baltic, spausdinant Ratise:
+Lyginant su QWERTY Baltic/Numeric, spausdinant Ratise:
 
 - 1,5 karto pirštai eis mažesnį atstumą;
 - 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
