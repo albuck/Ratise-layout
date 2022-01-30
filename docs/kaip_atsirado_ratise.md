@@ -39,7 +39,7 @@ Ar jums tinka toks išdėstymas — išbandykite ir spręskite patys. O iš anks
 
    - pirštai eis tik nežymiai mažesnį atstumą;
    - 1,8 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
-   - 1,9 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
+   - 1,9 karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr).
 
 Daugiau skaičių:
