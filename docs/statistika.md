@@ -57,8 +57,8 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 + Baltic/Numeric raidės sutampa su angliškojo QWERTY raidėmis, kurios dažniausiai ir būna užpaišytos and pačių klaviatūrų mygtukų, kas yra labai patogu naujokui susiieškoti klaviatūroje tas raides. Reik manyti, tai yra pagrindinė priežastis, kodėl šis išdėstymas išplito pas mus ir vis dar yra labiausiai naudojamas.
 + Baltic/Numeric išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuviškas“.
 + Lithuanian Standard išdėstymas yra platinamas valstybinės įstaigos.
-+ Galima nusipirkti tikrą klaviatūrą su užrašais ant mygtukų atitinkančiais Baltic/Numeric ir Lithuanian Standard ženklų išdėstymus.
-+ Baltic/Numeric ir Lithuanian standard išdėstymai yra labiau pritaikyti spausdinti dviem-keliais pirštais žiūrint į klaviatūrą ir ieškant kur kokia yra raidė.
++ Galima nusipirkti tikrą klaviatūrą su užrašais ant mygtukų atitinkančiais Baltic/Numeric ar Lithuanian Standard ženklų išdėstymus.
++ Baltic/Numeric ir Lithuanian standard išdėstymai yra labiau pritaikyti spausdinti dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
 
 <hr>
 <br>
