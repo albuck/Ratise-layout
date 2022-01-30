@@ -43,7 +43,7 @@
 
 ### Išvados:
 
-+ Iš visų [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
++ Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti.
 + [LEKP](https://lekp.info/images/lekp.png) ir Baltic+ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
 + [Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
 
