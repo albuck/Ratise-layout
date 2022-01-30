@@ -49,6 +49,11 @@
 
 __Pastabos.__ Vadinamieji išdėstymai Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [Baltic+](https://lekp.info/images/baltic+.jpg) yra vienas ir tas pats išdėstymas su mažai reikšmingais patikrai skirtumais, manasis Baltic+, čia tikrintas, ko gero netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį pirmame lygyje). Lithuanian Standard arba Lietuviška standartinė klaviatūra turi du valstybius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau Standard 2000, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
 
+__Papildomi Ratisės pirvalumai:__
++ Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides.
++ Ratisės išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
++ Ratisės išdėstymu galima parašyti kitų Europos kalbų raides (prieinamos per tęsties lygius).
+
 <hr>
 <br>
 
