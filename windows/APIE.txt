@@ -4,8 +4,6 @@ Aplanko turinys:
 
 — 'ratise' — Windows 2000/XP/Vista/7/8/10 sistemoms skirta lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklių diegyklė.
 
-— 'ratisetm' — ratisės atmainõs su tęsties mygtukais valdyklių diegyklė.
-
 — 'ratiseg' — papildoma atitinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
 
 — 'ratiselv' — papildoma atitinkama latviška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
@@ -19,7 +17,7 @@ Aplanko turinys:
 — 'Win9x' — šiame aplanke valdyklės senesniems Windows 95, 98 (ant ME nebandyta).
 
 
-— '﻿Windows NT 4.0' sistemai lietuviško klaviatūros išdėstymo "Ratisė" valdyklės diegimas:
+— 'Windows NT 4.0' sistemai lietuviško klaviatūros išdėstymo "Ratisė" valdyklės diegimas:
 Iš naujesniems Windows'ams skirtų diegimo aplanko 'i386' paimkite jums reikiamo išdėstymo '*.dll' bylą ir, pervadinę ją į 'kbdlt.dll', įrašykite ją į Windows NT4 'System32' aplanką.
 Jeigu sistemoje yra įdiegtas LitWinNT paketas, tai minėtą bylą pervadinkite į 'kbdlta.dll'.
 Tiesa, komandinės eilutės aplinkoje galėsite naudotis šiuo klaviatūros išdėstymu tik įdiegę LitWinNT paketą.
