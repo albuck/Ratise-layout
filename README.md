@@ -55,7 +55,7 @@ PAPILDYMAI:
 
 ## Kitos naudingos nuorodos:
 
-- [Standartinė ergonomiška klaviatūra](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+- [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 - [Lietuviški klaviatūrų išdėstymai (registrucentras.lt)](https://www.registrucentras.lt/litwin/keyboard.html)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
