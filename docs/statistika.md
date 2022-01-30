@@ -59,6 +59,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 + Lithuanian Standard išdėstymas yra platinamas valstybinės įstaigos.
 + Galima nusipirkti tikrą klaviatūrą su užrašais ant mygtukų atitinkančiais Baltic/Numeric ar Lithuanian Standard ženklų išdėstymus.
 + Baltic/Numeric ir Lithuanian standard išdėstymai yra labiau pritaikyti spausdinti dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
++ Baltic/Numeric ir Lithuanian standard išdėstymų paprastai nereikia papildomai įdieginėti.
 
 <hr>
 <br>
