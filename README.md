@@ -40,7 +40,7 @@ Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Hai
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS KLAVIATŪRA](docs/sudurt_ivedimas.md)
 - [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
 - [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
-- [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
+- [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip_atsirado_ratise.md)
 
