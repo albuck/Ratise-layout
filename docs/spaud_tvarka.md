@@ -17,7 +17,7 @@ Pasirinkite paveikslėlį pagal savo turimą klaviatūrą:
   - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’): [svg](images/kb_lt_ratise_104_2.svg), [pdf](images/kb_lt_ratise_104_2.pdf);
   - 104 mygtukų klaviatūra (ISO be 105-to mygtuko): [svg](images/kb_lt_ratise_104_3.svg), [pdf](images/kb_lt_ratise_104_3.pdf);
 
-Gerai apžiūrėti, apčiupinėti pačią klaviatūrą. Pasidėti klaviatūrą taip, kad būtų patogu. Apčiuopomis pajusti mygtukus, paspaudinėti juos, smiliais rasti esančius ant __A__ ir __R__ mygtukų kauburiukus, žodžiu, pažinti pačią klaviatūrą, „susidraugauti“ su ja.
+Pačią klaviatūrą gerai apžiūrėkite ir apčiupinėkite. Pasidėkite klaviatūrą taip, kad būtų patogu spausdinti ja. Apčiuopomis pajuskite mygtukus, paspaudinėkite juos, smiliais raskite esančius ant __A__ ir __R__ mygtukų kauburiukus — jūsų rankų pirštų pagrindinės padėties gaires.
 
 Mokytis rinkti įrašus pradedama nuo žodelių sudarytų iš pirštų pagrindinės padėties raidžių (ueia rtsp), toliau pereinant prie sunkiau pasiekiamų. [Dažniausias lietuviškas žodis yra „ir“](dazn_zod.txt), nuo jo galima ir pradėti. Kartojant judesius mankštinamas kiekvienas pirštas iki susidaro įgūdis, kai pirštas „žino“, kur yra koks jam priskirtas spausti ženklas. Iš pradžių mintyse kiekvienas pirštas yra „prižiūrimas“ ir vedamas prie reikiamo mygtuko. Jeigu kokį raidžių derinį yra sunkiau surinkti, žodį su tokiu deriniu reikėtų pakartotinai įvedinėti keletą šimtų kartų, pavargus pirštams daryti pertrauką ir tęsti įvedimą. Po spausdinimo įgūdžio susidarymo ir pirštų išlavėjimo, pirštai spausdina veik savaime ir be didelių pastangų.
 
