@@ -7,7 +7,7 @@ Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra ta
 
 Žemiau pateikiami paveikslėliai su Ratisės išdėstymo klaviatūros mygtukų naudojimo dažnumu spausdinant tam tikrą tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
-## Lietuviškas tekstas
+## Lietuviško teksto skaida
 
 __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
@@ -26,7 +26,7 @@ __Pirštų užimtumas:__
 + dešinysis mažasis — 6,3%
 
 
-## Angliškas tekstas
+## Angliško teksto skaida
 
 __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
