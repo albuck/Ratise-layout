@@ -35,14 +35,14 @@ Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Hai
 
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
-- [TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
+- [RATISĖS TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos_raides.md)
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurt_ivedimas.md)
-- [IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
-- [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
+- [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
+- [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 - [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
 - [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
-- [KAIP IR KODĖL ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
+- [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip_atsirado_ratise.md)
 
 
 ## Papildomi kitų kalbų Ratisės išdėstymai:
