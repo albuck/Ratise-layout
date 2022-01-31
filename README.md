@@ -31,8 +31,7 @@ Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Hai
 
 --------------------------------------------------------------------
 
-PAPILDYMAI:
------------
+## Išsamiau apie Ratisės išdėstymą:
 
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
@@ -46,18 +45,22 @@ PAPILDYMAI:
 - [KAIP ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
 
 
-## Papildomi išdėstymai:
+## Papildomi kitų kalbų Ratisės išdėstymai:
 
 - [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
 
 
-## Kitos naudingos nuorodos:
+## Ergonomiškos klaviatūros:
 
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+- [Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
+- [Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html)
+
+## Kiti lietuviški klaviatūrų išdėstymai:
+
 - [Lietuviški klaviatūrų išdėstymai (registrucentras.lt)](https://www.registrucentras.lt/litwin/keyboard.html)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
-- [Ergonomic Keyboard Reviews (angliškai)](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
-- [Do-It-Yourself Keyboards (angliškai)](http://xahlee.info/kbd/diy_keyboards_index.html)
+
