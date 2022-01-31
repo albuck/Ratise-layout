@@ -23,24 +23,25 @@ Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir sprę
 
 + Lyginant su [QWERTY Baltic/Numeric](https://www.registrucentras.lt/litwin/keyboard.html), spausdinant Ratise:
 
-   - 1,5 karto pirštai eis mažesnį atstumą;
    - 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr).
+   - 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
+   - 1,5 karto pirštai eis mažesnį atstumą.
 
 + Lyginant su [Lithuanian Standard](http://www.ims.mii.lt/klav/index.html), spausdinant Ratise:
 
-   - 1,4 karto pirštai eis mažesnį atstumą;
    - 3,6 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr).
+   - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
+   - 1,4 karto pirštai eis mažesnį atstumą.
 
 + Lyginant su [LEKP](https://lekp.info/), spausdinant Ratise:
 
-   - pirštai eis panašų atstumą;
    - 1,8 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 1,9 karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr).
+   - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
+   - pirštai eis panašų atstumą (priklausomai nuo teksto).
+
 
 Daugiau skaičių:
 
