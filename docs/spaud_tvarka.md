@@ -9,8 +9,9 @@ Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga
 
 Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai.
 
-Pradedant mokytis spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį (ant ekrano ar atsispausdintą):
+Pradedant mokytis spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį (ant ekrano ar atsispausdintą).
 
+Pasirinkite paveikslėlį pagal savo turimą klaviatūrą:
   - 105 mygtukų klaviatūra, europietiškas ISO: [svg](images/kb_lt_ratise.svg), [pdf](images/kb_lt_ratise.pdf);
   - 104 mygtukų klaviatūra, amerikietiškas ANSI: [svg](images/kb_lt_ratise_104_ansi.svg), [pdf](images/kb_lt_ratise_104_ansi.pdf);
   - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’): [svg](images/kb_lt_ratise_104_2.svg), [pdf](images/kb_lt_ratise_104_2.pdf);
