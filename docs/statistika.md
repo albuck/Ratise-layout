@@ -8,7 +8,7 @@
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
 
-### Lietuviškas tekstas:
+### Lietuviško teksto skaidymas:
 
 + [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/SNLfjHck)
 
@@ -39,7 +39,7 @@
    4. QWERTY Baltic+ (ISO) — 40.77
 
 
-### Angliškas tekstas:
+### Angliško teksto skaidymas:
 
 + [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer/#/load/ShQtp9MZ)
 
@@ -97,7 +97,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 <hr>
 <br>
 
-## Išdėstymų statistinės lentelės
+## Klaviatūros išdėstymų statistinės lentelės
 
 + Tikrintas tekstas: Lietuviškos pasakos (iš Basanavičiaus rinkinio).
 + Tikrinto teksto apimtis:
