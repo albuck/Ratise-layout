@@ -27,7 +27,7 @@ __Ratisės išdėstymas:__
 
 Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
-[↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
+[↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master/windows)
 
 --------------------------------------------------------------------
 
