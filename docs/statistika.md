@@ -1,7 +1,7 @@
 
 # Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
-## Išdėstymų statistikos apžvalga
+## Klaviatūros išdėstymų statistikos apžvalga
 
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
