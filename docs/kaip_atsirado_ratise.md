@@ -44,7 +44,7 @@ Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir sprę
 
 Daugiau skaičių:
 
-+ [Pagrindinių lietuviškų išdėstymų palyginamoji statistika](statistika.md)
++ [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika](statistika.md)
 
 -------------------------
 [Į pradžią](../README.md)
