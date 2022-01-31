@@ -15,7 +15,7 @@ Jeigu gi ruošiatės daug spausdinti visais pirštais, tai įsigykite ergonomiš
 
 __Pastaba:__ ne visos klaviatūros kurios užsivadina ergonomiškomis yra pilnai tokios, kartais jos teturi tik kokį vieną ar keletą iš ergonomiškumo požymių.
 
-Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunkančių ar dažnų nepatogių riešo padėčių spausdinant: plaštakos užlaužimų per riešą į šonus (ko standartinėje klaviatūroje, deja, neišvengsite, neatitraukdami pirštų nuo pagrindinės padėties), plaštakos per riešą užlaužimų į apačią ar į viršų (kurių išvengiama tinkamai susiderinant klaiviatūros padėtį). Ilgalaikės nepatogiai pakreiptos plaštakos padėtys spausdinant gali sukelti riešų skausmus.
+Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunkančių ar dažnų nepatogių riešo padėčių spausdinant: plaštakos užlaužimų per riešą į šonus, plaštakos per riešą užlaužimų į apačią ar į viršų (kurių išvengiama tinkamai susiderinant klaiviatūros palinkimą). Ilgalaikės nepatogiai pakreiptos plaštakos padėtys spausdinant gali sukelti riešų skausmus.
 
 --------------------------------------------------------------------
 
