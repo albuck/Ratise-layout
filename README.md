@@ -42,7 +42,7 @@ Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Hai
 - [MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 - [LIETUVIŠKŲ IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
 - [SPAUSDINIMO PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spaud_patoga.md)
-- [KAIP ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
+- [KAIP IR KODĖL ATSIRADO RATISĖ](docs/kaip_atsirado_ratise.md)
 
 
 ## Papildomi kitų kalbų Ratisės išdėstymai:
