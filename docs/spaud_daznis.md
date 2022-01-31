@@ -1,7 +1,7 @@
 
 # RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
 
-Mygtukų paspaudimo dažnumas yra apspręstas pačių raidžių dažnumo lietuviškame rašte, būtent: [iasteourknlpmdvjėgšbžyųąįūčęczhfxwq](lt_raid_dazn.txt).
+Mygtukų (klavišų) paspaudimo dažnumas yra apspręstas pačių raidžių dažnumo lietuviškame rašte, būtent: [iasteourknlpmdvjėgšbžyųąįūčęczhfxwq](lt_raid_dazn.txt).
 
 Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra tas klaviatūros išdėstymas, kuriame dažniau naudojamos raidės yra patogesnėje, lengviau ir greičiau pasiekiamoje vietoje.
 
