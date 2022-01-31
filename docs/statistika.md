@@ -1,5 +1,5 @@
 
-# Pagrindinių lietuviškų išdėstymų palyginamoji statistika
+# Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
 ## Išdėstymų statistikos apžvalga
 
