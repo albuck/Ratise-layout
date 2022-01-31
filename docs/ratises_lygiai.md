@@ -57,7 +57,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 + Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
 
 + Gelzganai žymėtieji yra tęsties mygtukai (angliškai ‘Dead Keys’), apie juos skaitykite:
-[Tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md).
+[Ratisės tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md).
 
 
 ## Ratisės Didžiųjų raidžių lygis
