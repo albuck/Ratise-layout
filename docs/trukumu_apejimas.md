@@ -18,6 +18,8 @@
 
 4. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo lenkiškai ir dzūkiškai (ar net senlietuviškai), bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir t. t.
 
++ __Priedas:__ [QWERTY ir Ratisės išdėstymas viename paveikslėlyje](images/qwerty-ratise.png)
+
 ----------------------------------------------
 
 + [Toliau](spaud_daznis.md)
