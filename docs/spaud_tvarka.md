@@ -11,13 +11,10 @@ Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: p
 
 Pradedant mokytis spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį (ant ekrano ar atsispausdintą):
 
-  - [105 mygtukų klaviatūra, europietiškas ISO (pagrindiniai ženklai)](images/ratise_spausdai.png);
-  - [105 mygtukų klaviatūra, europietiškas ISO](images/ratise_105.png);
-  - [104 mygtukų klaviatūra, amerikietiškas ANSI](images/ratise_104_1.png);
-  - [104 mygtukų klaviatūra (ISO be 105-to mygtuko)](images/ratise_104_3.png);
-  - [104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’)](images/ratise_104_2.png);
-  - [Kinesis, ErgoDox klaviatūra (europietiška)](images/ratise_kinesis.png).
-
+  - 105 mygtukų klaviatūra, europietiškas ISO: [svg](images/kb_lt_ratise.svg), [pdf](images/kb_lt_ratise.pdf);
+  - 104 mygtukų klaviatūra, amerikietiškas ANSI: [svg](images/kb_lt_ratise_104_ansi.svg), [pdf](images/kb_lt_ratise_104_ansi.pdf);
+  - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’): [svg](images/kb_lt_ratise_104_2.svg), [pdf](images/kb_lt_ratise_104_2.pdf);
+  - 104 mygtukų klaviatūra (ISO be 105-to mygtuko): [svg](images/kb_lt_ratise_104_3.svg), [pdf](images/kb_lt_ratise_104_3.pdf);
 
 Gerai apžiūrėti, apčiupinėti pačią klaviatūrą. Pasidėti klaviatūrą taip, kad būtų patogu. Apčiuopomis pajusti mygtukus, paspaudinėti juos, smiliais rasti esančius ant __A__ ir __R__ mygtukų kauburiukus, žodžiu, pažinti pačią klaviatūrą, „susidraugauti“ su ja.
 
