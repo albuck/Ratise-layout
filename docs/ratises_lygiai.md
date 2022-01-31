@@ -82,7 +82,7 @@ Spaudų išdėstymo lygiai:
 + 3 — ⇮ trečiasis, ‘AltGr’ lygis; 
 + 4 — ⇧+⇮ ketvirtasis, ‘AltGr+Shift’ lygis.
 
-__Pastaba:__ [skirtingos darybos klaviatūrose](images/Physical_keyboard_layouts_comparison_ANSI_ISO_variants.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
+__Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wikipedia/commons/b/b2/Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
 
 
 -------------------------
