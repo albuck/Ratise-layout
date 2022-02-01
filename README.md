@@ -10,7 +10,7 @@ Lietuviškas ergonomiškas kompiuterio klaviatūros spausdinamųjų ženklų iš
 Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:
 + Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams.
 + Balsės ir priebalsės išskirtos skirtingoms rankoms.
-+ Spausdinant Ratisè paprastai ritmiškai kaitaliojamos skirtingos rankos ir rankos pirštai.
++ Spausdinant Ratisè paprastai ritmiškai kaitaliojamos skirtingos rankos ir pirštai.
 + Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės vėl spaudyti mygtukus.
 + Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai.
 + Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų dar patogesnis ir lengviau įsimenamas.
