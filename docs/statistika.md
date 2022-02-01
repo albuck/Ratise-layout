@@ -24,12 +24,12 @@
    3. LT Standard 2000 (ISO) — 49.98
    4. QWERTY Baltic+ (ISO) — 48.53
 
-+ [Keyboard Layout Analyzer: Kursinių darbų rengimo metodiniai nurodymai (bakalauro programa)](http://patorjk.com/keyboard-layout-analyzer/#/load/bVVr1pbH) (kabutės ir ilgieji brūkšniai netaisyti)
++ [Keyboard Layout Analyzer: Kursinių darbų rengimo metodiniai nurodymai (bakalauro programa)](http://patorjk.com/keyboard-layout-analyzer/#/load/Jxtr8WHv) (pataisytos kabutės ir ilgieji brūkšniai)
 
-   1. __Ratise (ISO) — 69.46__
-   2. LEKP (ISO) — 61.33
-   3. LT Standard 2000 (ISO) — 44.85
-   4. QWERTY Baltic+ (ISO) — 43.38
+   1. __Ratise (ISO) — 69.51__
+   2. LEKP (ISO) — 61.28
+   3. LT Standard 2000 (ISO) — 44.81
+   4. QWERTY Baltic+ (ISO) — 43.42
 
 + [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
 
@@ -86,7 +86,7 @@
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymuose dažnai dažniau reikalingi ženklai išdėstyti toliau nuo pagrindinės pirštų padėties, daug dažniau kai kuriems pirštams tenka iš eilės spaudinėti vėl mygtukus, pirštai nueina didesnį atstumą spausdindami, kai kurie pirštai yra perkrauti darbu ne pagal jų pajėgumą. Ženklai šiuose išdėstymuose išdėstyti netvarkingai, visiškai neatsižvelgta nei į pirštų pajėgumą, nei į teksto rinkimo ritmą, nei į raidžių eiliškumą žodžiuose.
 
 
-__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su mažai reikšmingais patikrai skirtumais, manasis Baltic+, čia tikrintas, ko gero netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir kabutes pirmame lygyje). Lithuanian Standard arba Lietuviška standartinė klaviatūra turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau LT Standard 2000, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
+__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su mažai reikšmingais patikrai skirtumais, manasis Baltic+, čia tikrintas, ko gero netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). Lithuanian Standard arba Lietuviška standartinė klaviatūra turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau LT Standard 2000, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
 
 #### Kiti išdėstymų pirvalumai:
 + Ratisės išdėstymas turi tvarkingai išdėstytus ženklus, todėl yra lengviau ir greičiau įsimenamas.
