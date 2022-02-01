@@ -45,6 +45,13 @@
    3. LT Standard 2000 (ISO) — 41.67
    4. QWERTY Baltic+ (ISO) — 40.77
 
++ [Keyboard Layout Analyzer: Eglė Žalčių karalienė, Salomėja Nėris (pasaka-poema)](http://patorjk.com/keyboard-layout-analyzer/#/load/F9z4rMsG)
+
+   1. __Ratise (ISO) — 55.97__
+   2. LEKP (ISO) — 44.71
+   3. LT Standard 2000 (ISO) — 36.99
+   4. QWERTY Baltic+ (ISO) — 36.44
+
 
 ### Angliško teksto skaidymas:
 
