@@ -24,7 +24,7 @@
    3. LT Standard 2000 (ISO) — 49.98
    4. QWERTY Baltic+ (ISO) — 48.53
 
-+ [Keyboard Layout Analyzer: Kursinių darbų rengimo metodiniai nurodymai (bakalauro programa)](http://patorjk.com/keyboard-layout-analyzer/#/load/bVVr1pbH)
++ [Keyboard Layout Analyzer: Kursinių darbų rengimo metodiniai nurodymai (bakalauro programa)](http://patorjk.com/keyboard-layout-analyzer/#/load/bVVr1pbH) (kabutės ir ilgieji brūkšniai netaisyti)
 
    1. __Ratise (ISO) — 69.46__
    2. LEKP (ISO) — 61.33
