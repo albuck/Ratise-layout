@@ -42,7 +42,7 @@ Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir sprę
    - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
    - pirštai eis panašų atstumą.
 
-__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ skaidymo. Kitokiuose tekstuose šie ar tik kai kurie skaičiai kažkiek skirsis.
+__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ skaidymo. Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
 
 
 Daugiau skaičių:
