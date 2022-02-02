@@ -90,6 +90,15 @@
    3. QWERTY Baltic+ (ISO) — 44.39
    4. LT Standard 2000 (ISO) — 39.61
 
+## Programavimo kalbų teksto skaidymas:
+
++ [Keyboard Layout Analyzer: ‘HTML, JavaScript’](http://patorjk.com/keyboard-layout-analyzer/#/load/C4JgGx9T)
+
+   1. __Ratise (ISO) — 45.88__
+   2. LEKP (ISO) — 39.76
+   3. QWERTY Baltic+ (ISO) — 35.70
+   4. LT Standard 2000 (ISO) — 31.38
+
 + [Keyboard Layout Analyzer: ‘Bash, C, CPP, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/622X0jqK)
 
    1. __Ratise (ISO) — 44.80__
