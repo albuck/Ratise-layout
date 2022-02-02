@@ -1,5 +1,5 @@
 
-# RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
+# RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI KLAVIATŪROJE
 
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
