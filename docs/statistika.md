@@ -52,7 +52,7 @@
    3. LT Standard 2000 (ISO) — 36.99 (53.95)
    4. QWERTY Baltic+ (ISO) — 36.44 (49.86)
 
-   - Skliaustuose — [skaičiai šio teksto be skyrybos ir eilučių nukėlimo ženklų](http://patorjk.com/keyboard-layout-analyzer/#/load/l0lMTfKm).
+   - Skliaustuose — [šio teksto vienų žodžių skaičiai](http://patorjk.com/keyboard-layout-analyzer/#/load/l0lMTfKm).
 
 
 ### Angliško teksto skaidymas:
