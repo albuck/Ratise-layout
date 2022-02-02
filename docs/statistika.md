@@ -47,10 +47,12 @@
 
 + [Keyboard Layout Analyzer: Eglė Žalčių karalienė, Salomėja Nėris (pasaka-poema)](http://patorjk.com/keyboard-layout-analyzer/#/load/F9z4rMsG)
 
-   1. __Ratise (ISO) — 55.97__
-   2. LEKP (ISO) — 44.71
-   3. LT Standard 2000 (ISO) — 36.99
-   4. QWERTY Baltic+ (ISO) — 36.44
+   1. __Ratise (ISO) — 55.97__ (72.24)
+   2. LEKP (ISO) — 44.71 (65.20)
+   3. LT Standard 2000 (ISO) — 36.99 (53.95)
+   4. QWERTY Baltic+ (ISO) — 36.44 (49.86)
+
+   - Skliaustuose — [skaičiai šio teksto be skyrybos ir eilučių nukėlimo ženklų](http://patorjk.com/keyboard-layout-analyzer/#/load/l0lMTfKm).
 
 
 ### Angliško teksto skaidymas:
