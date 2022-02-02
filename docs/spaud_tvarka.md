@@ -3,7 +3,7 @@
 
 Spausdinant visais pirštais, apčiuopomis, kiekvienas pirštas be pagrindinės padėties (__ueia rtsp__) mygtukų spaudo tik tam tikrus savo skilties mygtukus, pirštas paspaudęs kokį ne pagrindinėje padėtyje esantį mygtuką, grąžinamas prie pagrindinės padėties mygtuko (jeigu jam netenka iškart vėl spausti kito jam priskirto mygtuko). Pagrindinę pirštų padėtį padeda surasti ant __a__ ir __r__ mygtukų esantys ir apčiuopiami rankų smiliais iškilūs kauburiukai. Renkant kokį spaudą esantį ne pirmame lygyje vienos rankos pirštu, keitimo mygtukus (‘Shift’, ‘AltGr’, ‘AltGr+Shift’) dera spausti kitos rankos pirštu/ais. Tarpo mygtukas taip pat paprastai spaudžiamas kitos rankos nykščiu nei prieš tai naudota įvedimui ranka, nebent yra patogiau kitaip, kai reikia spausti tuo nykščiu trečio lygio įjungimo mygtuką.
 
-Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga spalva (kitos spalvos skrituliukai mygtuke rodo spaudimo kitu pirštu galimybę, kai kuriose klaviatūrose taip gali būti patogiau), nykščiams skirti mygtukai žymėti viena spalva, nors aišku, kad kairysis ir dešinysis nykštys paprastai spaudys savo pusės mygtukus:
+Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga spalva (kitos spalvos skrituliukai mygtuke rodo spaudimo kitu pirštu galimybę, įparstose klaviatūrose su skersuotai išdėstytais mygtukais taip gali būti patogiau), nykščiams skirti mygtukai žymėti viena spalva, nors aišku, kad kairysis ir dešinysis nykštys paprastai spaudys savo pusės mygtukus:
 
 ![Spausdinimo tvarka](images/ratise_spaudotvarka.svg)
 
