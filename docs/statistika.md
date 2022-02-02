@@ -119,7 +119,7 @@
 
 ## Išvados:
 
-+ Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti, t. y. su Ratise atliksite tą patį darbą ženkliai patogiau ir lengviau negu su kitais išdėstymais.
++ Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių, anglų bei programavimo kalbų tekstams rinkti, t. y. su Ratise atliksite tą patį darbą ženkliai patogiau ir lengviau negu su kitais išdėstymais.
 + Ratisės išdėstyme darbo krūvis tenkantis pirštams yra sumažintas (spausdindami pirštai nukeliauja mažesnį atstumą, rečiau tam pačiam pirštui prireikia vėl iškart spausti, spausdinant dažniau yra kaitaliojamos rankos ir pirštai) ir išlygintas pagal tų pirštų pajėgumą (jėgą ir vikrumą), todėl spausdindami Ratise išvengsite ypatingo atskirų pirštų pervargimo (ir iš to sekančio skausmo).
 + [LEKP](https://lekp.info/images/lekp.png) ir Baltic+ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
