@@ -33,7 +33,7 @@ Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Hai
 
 ## Išsamiau apie Ratisės išdėstymą:
 
-- [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
+- [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI KLAVIATŪROJE](docs/ratises_lygiai.md)
 - [SPAUSDINIMO VISAIS PIRŠTAIS KVAVIATŪRA TVARKA](docs/spaud_tvarka.md)
 - [RATISĖS TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos_raides.md)
