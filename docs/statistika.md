@@ -93,6 +93,16 @@
    4. QWERTY Baltic+ (ISO) — 32.33
 
 
+### Lotyniško teksto „Lorem Ipsum“ skaidymas:
+
++ [Keyboard Layout Analyzer: Lorem Ipsum](http://patorjk.com/keyboard-layout-analyzer/#/load/nrGjhvKT)
+
+   1. __Ratise (ISO) — 70.69__
+   2. LEKP (ISO) —  	67.92
+   3. QWERTY Baltic+ (ISO) — 48.67
+   4. LT Standard 2000 (ISO) — 46.24
+
+
 ### Išvados:
 
 + Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių ir anglų kalbų tekstams rinkti, t. y. su Ratise atliksite tą patį darbą ženkliai patogiau ir lengviau negu su kitais išdėstymais.
