@@ -86,5 +86,8 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 
 
 -------------------------
+[Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](SPECIFICATIONS.txt)
+
+
 + [Toliau](spaud_tvarka.md)
 + [Į pradžią](../README.md)
