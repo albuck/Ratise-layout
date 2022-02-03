@@ -26,7 +26,7 @@ __Ratisės klaviatūros išdėstymas:__
 + Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite: [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md).
 + [Išsamus darybinis išdėstymo aprašas (angliškai)](SPECIFICATIONS.txt).
 
-__Ratisės išdėstymo valdyklės__ yra teikiamos __Windows, MacOS, Linux/Unix (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
+__Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ operacijų sistemoms (skaitmeninėms aplinkoms):
 
 [↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
