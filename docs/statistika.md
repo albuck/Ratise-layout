@@ -122,7 +122,7 @@
 + Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių, anglų bei programavimo kalbų tekstams rinkti, t. y. su Ratise atliksite tą patį darbą ženkliai patogiau ir lengviau negu su kitais išdėstymais.
 + Ratisės išdėstyme darbo krūvis tenkantis pirštams yra sumažintas (spausdindami pirštai nukeliauja mažesnį atstumą, rečiau tam pačiam pirštui prireikia vėl iškart spausti, spausdinant dažniau yra kaitaliojamos rankos ir pirštai) ir išlygintas pagal tų pirštų pajėgumą (jėgą ir vikrumą), todėl spausdindami Ratise išvengsite ypatingo atskirų pirštų pervargimo (ir iš to sekančio skausmo).
 + [LEKP](https://lekp.info/images/lekp.png) ir Baltic+ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
-+ [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose tekstuose.
++ [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose, ir programavimo tekstuose.
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir Baltic+ išdėstymuose dažnai dažniau reikalingi ženklai išdėstyti toliau nuo pagrindinės pirštų padėties, daug dažniau kai kuriems pirštams tenka iš eilės spaudinėti vėl mygtukus, pirštai nueina didesnį atstumą spausdindami, kai kurie pirštai yra perkrauti darbu ne pagal jų pajėgumą. Ženklai šiuose išdėstymuose išdėstyti netvarkingai, visiškai neatsižvelgta nei į pirštų pajėgumą, nei į teksto rinkimo ritmą, nei į raidžių eiliškumą žodžiuose.
 
 
@@ -130,15 +130,15 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 
 ### Kiti išdėstymų pirvalumai:
 + Ratisės išdėstymas turi tvarkingai išdėstytus ženklus, todėl yra lengviau ir greičiau įsimenamas.
-+ Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides.
++ Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides (per tęsties lygius).
 + Ratisės išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
-+ Ratisės išdėstymu galima įvesti kitų Europos kalbų raides (prieinamos per tęsties lygius).
++ Ratisės išdėstymu galima įvesti kitų Europos kalbų raides (per tęsties lygius).
 + Ratisė ir LEKP yra pritaikyti teksto rinkimui visais pirštais, nežiūrint.
 + Baltic/Numeric raidės sutampa su angliškojo QWERTY raidėmis, kurios dažniausiai ir būna užpaišytos and pačių klaviatūrų mygtukų, kas yra labai patogu naujokui susiieškoti klaviatūroje tas raides. (Reik manyti, tai yra pagrindinė priežastis, kodėl šis išdėstymas išplito pas mus ir vis dar yra labiausiai naudojamas.)
 + Baltic/Numeric išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuvių“.
 + Lithuanian Standard išdėstymas yra platinamas valstybinės įstaigos.
 + Baltic/Numeric išdėstymo ženklai dažnai būna papildomai užžymėti ant Lietuvoje parduodamų klaviatūrų.
-+ Baltic/Numeric išdėstymas yra labiau pritaikytas spausdinti vienu/dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
++ Baltic/Numeric išdėstymas yra pritaikytas labiau spausdinti vienu/dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
 + Baltic/Numeric ir Lithuanian standard išdėstymų paprastai nereikia papildomai įdieginėti.
 
 -----------------------------------------
