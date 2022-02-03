@@ -9,7 +9,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 — spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 
-Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikalingiausi teksto rinkimui ženklai.
+_Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikalingiausi teksto rinkimui ženklai._
 
 ![Pirmasis lygis](images/kb_lt_ratise_1l.svg)
 
@@ -20,7 +20,7 @@ Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikalin
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ⇧ ‘Shift’.
 
-Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
+_Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ![Antrasis lygis](images/kb_lt_ratise_2l.svg)
 
@@ -31,7 +31,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ⇮ ‘AltGr’.
 
-Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ‘ł’. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png/1224px-Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png), be to turi papildomą tašką.
+_Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ‘ł’. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png/1224px-Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png), be to turi papildomą tašką._
 
 ![Trečiasis lygis](images/kb_lt_ratise_3l.svg)
 
@@ -48,7 +48,7 @@ Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis.
 
 — spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ⇮ kartu su _Antrojo lygio_ mygtuku ⇧ (‘AltGr+Vald’).
 
-Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis.
+_Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
 ![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
 
