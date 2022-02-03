@@ -8,7 +8,7 @@
 
 ## Lietuviško teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: Lietuviškų dažniausių žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/SNLfjHck)
++ [Keyboard Layout Analyzer: Lietuviškų dažnų žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/SNLfjHck)
 
    1. __Ratise (ISO) — 76.16__
    2. LEKP (ISO) — 69.00
