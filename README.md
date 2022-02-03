@@ -48,9 +48,9 @@ Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Hai
 
 ## Papildomi kitų kalbų Ratisės išdėstymai:
 
-- [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/lek_ratise_latvian.md)
-- [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/lek_ratise_germanic.md)
-- [RATISĖS KIRILICA IŠDĖSTYMAS](docs/lek_ratise_kirilica.md)
+- [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise_latvian.md)
+- [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise_germanic.md)
+- [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise_kirilica.md)
 
 
 ## Ergonomiškos klaviatūros:
