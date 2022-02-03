@@ -19,12 +19,12 @@ Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 __Ratisės klaviatūros išdėstymas:__
 ![Ratisės klaviatūros išdėstymas](docs/images/kb_lt_ratise.svg)
 
++ [Valdymo mygtukų ženkliukai ir pavadinimai](docs/valdymo_mygtukai.md)
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 + „Ratìsė“ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 + Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
 + Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite: [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md).
 + Išsamus darybinis išdėstymo aprašas (angliškai): [txt](SPECIFICATIONS.txt).
-+ [Valdymo mygtukų ženkliukai ir pavadinimai](docs/valdymo_mygtukai.md)
 
 Ratisės išdėstymo valdyklės yra teikiamos __Windows, MacOS, Linux (xkb), Haiku__ operacijų sistemoms (skaitmeninėms aplinkoms):
 
