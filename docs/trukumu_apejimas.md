@@ -18,7 +18,7 @@
 
 3. __Mygtukai X, H ir Q nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti A, O__, ypatingai tai pastebima spausdinant angliškai, kur _H_ yra dažna raidė. Čia gali pagelbėti ypatingas šių raidžių rinkimo būdas: jei kairiosios rankos smilius renka __H__ ar __X__, tai __O__, __A__ renka pasislinkęs dešiniau kairiosios rankos didysis pirštas.
 
-4. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo lenkiškai ir dzūkiškai (ar net senlietuviškai), bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
+4. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
 
 __Priedas:__ [QWERTY ir Ratisės išdėstymas viename paveikslėlyje](images/qwerty-ratise.png)
 
