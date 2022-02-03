@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
 title: Klaviatūros išdėstymas „Ratisė“
-description: <em>Lietuviška klaviatūra.<br>Lietuviškas klaviatūros išdėstymas.<br>Lithuanian Keyboard Layout.</em>
+description: <em>Lietuviškas klaviatūros išdėstymas.<br>Lithuanian Keyboard Layout.</em>
 show_downloads: true
 lang: lt_LT
 encoding: UTF-8
