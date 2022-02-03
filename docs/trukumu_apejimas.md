@@ -4,7 +4,7 @@
 ![Ratisės išdėstymo klaviatūra](images/ratise.png)
 
 1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ‘AltGr’__.
- + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ‘Alt+Ctrl’ (‘Alt+Vald’). Norint turėti trečio lygio įjungimo mygtuką kairėje pusėje, galima pasinaudoti papildomomis priemonėmis, tokiomis kaip [KeyTweak](https://keytweak.en.softonic.com/download) ar [SharpKeys](https://github.com/randyrants/sharpkeys), ir ‘AltGr’ veikimą priskirti kairiajam ‘Alt’, o šio ‘Alt’ veikimą priskirti ‘Win’ mygtukui, o ‘Win’ mygtuko veikimą priskirti dešinėje esančiam ‘Menu‘ mygtukui ir panašiai.
+ + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ‘Alt+Ctrl’ (‘Alt+Vald’). Norint turėti atskirą trečio lygio įjungimo mygtuką kairėje pusėje, galima pasinaudoti papildomomis priemonėmis, tokiomis kaip [KeyTweak](https://keytweak.en.softonic.com/download) ar [SharpKeys](https://github.com/randyrants/sharpkeys), ir ‘AltGr’ veikimą priskirti kairiajam ‘Alt’, o šio ‘Alt’ veikimą priskirti ‘Win’ mygtukui, o ‘Win’ mygtuko veikimą priskirti dešinėje esančiam ‘Menu‘ mygtukui ar panašiai.
  + _Linux_ aplinkose perpaskirti valdymo mygtukų reikšmę galima klaviatūros išdėstymo nustatymuose (skirtingose Linux darbastalio aplinkose tai gali būti daroma kiek kitaip).
  + _MacOS_ aplinkoje gali būti pravartu susikeisti __⌘__ (Command, Cmd) ir __⌥__ (Option, Opt, Alt) vietomis, kad būtų galima jungti trečią lygį nykščiais patogiau.
  + _Haiku_ aplinkoje ‘Alt’ ir ‘AltGr’ veikia kaip trečio lygio mygtukas ‘Option’ (nustatymuose keičiama).
