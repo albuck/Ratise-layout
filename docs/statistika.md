@@ -134,7 +134,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 + Ratisės išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides (per tęsties lygius).
 + Ratisės išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
 + Ratisės išdėstymu galima įvesti kitų Europos kalbų raides (per tęsties lygius).
-+ Ratisė ir LEKP yra pritaikyti teksto rinkimui visais pirštais, nežiūrint.
++ Ratisė ir LEKP yra pritaikyti teksto rinkimui visais pirštais, nežiūrint į klaviatūrą.
 + Baltic/Numeric raidės sutampa su angliškojo QWERTY raidėmis, kurios dažniausiai ir būna užpaišytos and pačių klaviatūrų mygtukų, kas yra labai patogu naujokui susiieškoti klaviatūroje tas raides. (Reik manyti, tai yra pagrindinė priežastis, kodėl šis išdėstymas išplito pas mus ir vis dar yra labiausiai naudojamas.)
 + Baltic/Numeric išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuvių“.
 + Lithuanian Standard išdėstymas yra platinamas valstybinės įstaigos.
