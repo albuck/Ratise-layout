@@ -76,6 +76,13 @@
    3. QWERTY Baltic+ (ISO) — 49.04
    4. LT Standard 2000 (ISO) — 46.72
 
++ [Keyboard Layout Analyzer: Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/19Kmshnm)
+
+   1. __Ratise (ISO) — 63.59__
+   2. LEKP (ISO) — 58.91
+   3. QWERTY Baltic+ (ISO) — 47.45
+   4. LT Standard 2000 (ISO) — 42.70
+
 + [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/tkHsP4Bn)
 
    1. __Ratise (ISO) — 62.38__
