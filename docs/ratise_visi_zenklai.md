@@ -71,13 +71,13 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 
 1. Mažoji x
 2. Didžioji X
-3. Udėtinis kairinis kirtis _̀
+3. Uždėtinis kairinis kirtis _̀
 4. Rodyklė apačion (↓)
 
 ### V mygtukas
 
 1. Mažoji v
-2. Diddžioji V
+2. Didžioji V
 3. Šaknies ženklas (√)
 4. Rombo-deimanto ženklas (◊)
 
@@ -138,7 +138,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji a
 2. Didžioji A
 3. Paprastoji dviguba kabutė (")
-4. Tęsties mygtukų ženklas „Dutaškis“ (¨)
+4. Tęsties mygtukų ženklas „Dutaškis“ (Diaeresis) (¨)
 
 ### H mygtukas
 
@@ -159,21 +159,21 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji r
 2. Didžioji R
 3. Skaitmuo Vienas (1)
-4. Antrašinis vienetas (¹)
+4. Antrašinis Vienas (¹)
 
 ### T mygtukas
 
 1. Mažoji t
 2. Didžioji T
 3. Skaitmuo Du (2)
-4. Antrašinis dvejetas (²)
+4. Antrašinis Du (²)
 
 ### S mygtukas
 
 1. Mažoji s
 2. Didžioji S
 3. Skaitmuo Trys (3)
-4. Antrašinis trejetas (³)
+4. Antrašinis Trys (³)
 
 ### P mygtukas
 
@@ -187,7 +187,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji ž
 2. Didžioji Ž
 3. Brūkšnelio-minuso ženklas (-)
-4. Tęsties mygtukų ženklas „Kablys“ (Cedila) (¸)
+4. Tęsties mygtukų ženklas „Sedilė“ (Cedilla) (¸)
 
 ### Z mygtukas
 
@@ -361,9 +361,9 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 3. Dalybos ženklas (÷)
 4. Dvilazdis, dvigubas stačias brūkšnys (‖)
 
-### Dvigubos W mygtukas
+### W mygtukas
 
-1. Mažoji w
+1. Mažoji w (dviguba vė)
 2. Didžioji W
 3. Graikiška raidė Omega (Ω)
 4. Vokiška raidė ß (Escetas)
