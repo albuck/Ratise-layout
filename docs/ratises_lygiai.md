@@ -1,5 +1,5 @@
 
-# RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI KLAVIATŪROJE
+# RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
 
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
@@ -68,7 +68,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 
 ## Priedai:
-+ [Ratisės išdėstymo mygtukų ženklų aprašymas](ratise_visi_zenklai.md)
++ [Ratisės išdėstymo visi ženklai](ratise_visi_zenklai.md)
 + [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
 -------------------------
