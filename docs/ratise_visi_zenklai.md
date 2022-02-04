@@ -370,7 +370,7 @@ Aprašomi mygtukai eilėmis nuo apačios į viršų, iš kairės į dešinę. Po
 1. Klaustukas (?)
 2. Bangelė (Tildė) (~)
 3. Ženklas „Apytiksliai lygu“ (≈)
-4. Apverstas klaustukas (?)
+4. Apverstas klaustukas (¿)
 
 -------------------------
 __Priedas:__ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
