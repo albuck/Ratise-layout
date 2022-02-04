@@ -19,6 +19,8 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 ![Lietuviškas ergonomiškas klaviatūros ženklų išdėstymas Ratisė](images/kb_lt_ratise_viskas.svg)
 
++ [Ratisės išdėstymo visi ženklai](ratise_visi_zenklai.md)
+
 Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
 + Lyginant su [QWERTY Baltic/Numeric](https://www.registrucentras.lt/litwin/keyboard.html), spausdinant Ratise:
