@@ -8,7 +8,7 @@ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
 + [Valdymo mygtukų ženkliukai ir pavadinimai](valdymo_mygtukai.md)
 
 
-Spaudų išdėstymo lygiai:
+__Spaudų išdėstymo lygiai:__
 
 ![Išdėstymo lygiai](images/lygiai.svg)
 
