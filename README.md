@@ -10,6 +10,8 @@ _Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas __ŪĖYOQJ__, 
 __Ratisės klaviatūros išdėstymas:__
 ![Ratisės klaviatūros išdėstymas](docs/images/kb_lt_ratise.svg)
 
++ [Valdymo mygtukų ženkliukai ir pavadinimai](docs/valdymo_mygtukai.md)
+
 Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:
 + Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams.
 + Balsės ir priebalsės išskirtos skirtingoms rankoms.
@@ -18,7 +20,6 @@ Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą,
 + Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus.
 + Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai.
 + Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų kuo patogesnis ir lengviau įsimenamas.
-+ [Valdymo mygtukų ženkliukai ir pavadinimai](docs/valdymo_mygtukai.md)
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 + _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
