@@ -308,7 +308,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 ### Taško mygtukas
 
 1. Taškas (.)
-2. Skaičiaus (kiekio) ženklas „Grotėlės“ (#)
+2. Skaičiaus (kiekio) ženklas „Grotelės“ (#)
 3. Dešinysis kampinis skliaustas (⟩)
 4. Rodyklė dešinėn (→)
 
