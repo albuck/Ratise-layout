@@ -1,5 +1,5 @@
 
-# SUDURTINIS ŽENKLŲ ĮVEDIMAS KLAVIATŪRA
+# SUDURTINIS ŽENKLŲ ĮVEDIMAS
 
 Sudurtinio spaudų įvedimo būdas nepriklauso nuo pačio išdėstymo. Išdėstyme gali būti nurodytas tik tokio įvedimo būdo įjungimo mygtukas.
 
