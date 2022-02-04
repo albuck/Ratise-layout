@@ -1,5 +1,5 @@
 
-# KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO KLAVIATŪRA YPATUMAI
+# KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI
 
 _Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skirtingais atvejais gali būti parankesni skirtingi kirčiuotų raidžių įvedimo būdai, turintys savo privalumų ir trūkumų._
 
