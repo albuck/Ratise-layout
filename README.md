@@ -22,7 +22,6 @@ __Ratisės klaviatūros išdėstymas:__
 + [Valdymo mygtukų ženkliukai ir pavadinimai](docs/valdymo_mygtukai.md)
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 + _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
-+ Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
 + [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md).
 + [Ratisės išdėstymo visi ženklai](docs/ratise_visi_zenklai.md).
 + [Išsamus darybinis išdėstymo aprašas (angliškai)](SPECIFICATIONS.txt).
