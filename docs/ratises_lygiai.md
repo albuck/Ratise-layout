@@ -67,25 +67,10 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 ![Didžiųjų raidžių lygis](images/kb_lt_ratise_d.svg)
 
 
-## Ratisės keturių lygių ženklai viename paveikslėlyje
-
-Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
-
-![Ratisės išdėstymas su visais ženklais](images/kb_lt_ratise_viskas.svg)
-
-Spaudų išdėstymo lygiai:
-
-![Išdėstymo lygiai](images/lygiai.svg)
-
-+ 1 — Pagrindinis, pirmasis lygis; 
-+ 2 — ⇧ antrasis, ‘Shift’ lygis; 
-+ 3 — ⇮ trečiasis, ‘AltGr’ lygis; 
-+ 4 — ⇧+⇮ ketvirtasis, ‘AltGr+Shift’ lygis.
-
-__Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wikipedia/commons/b/b2/Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
-
-
 -------------------------
+[Ratisės ženklų aprašymas](ratise_visi_zenklai.md)
+
+
 __Priedas:__ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
 
