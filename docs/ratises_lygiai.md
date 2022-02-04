@@ -68,10 +68,10 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 
 -------------------------
-[Ratisės ženklų aprašymas](ratise_visi_zenklai.md)
 
-
-__Priedas:__ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
+__Priedai:__
++ [Ratisės išdėstymo ženklų aprašymas](ratise_visi_zenklai.md)
++ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
 
 + [Toliau](spaud_tvarka.md)
