@@ -68,7 +68,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 
 ## Priedai:
-+ [Ratisės išdėstymo ženklų aprašymas](ratise_visi_zenklai.md)
++ [Ratisės išdėstymo mygtukų ženklų aprašymas](ratise_visi_zenklai.md)
 + [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
 -------------------------
