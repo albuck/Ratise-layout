@@ -11,7 +11,7 @@ Akivaizdu, kad [spausdinant visais pirštais](spaud_tvarka.md) patogesnis yra ta
 
 __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
-![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas.png)
+![Mygtukų naudojimas Ratisės išdėstyme renkant lietuvišką tekstą](images/mygt_naudojimas.png)
 
 __Pirštų užimtumas:__
 
@@ -30,7 +30,7 @@ __Pirštų užimtumas:__
 
 __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
-![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas_angl.png)
+![Mygtukų naudojimas Ratisės išdėstyme renkant anglišką tekstą](images/mygt_naudojimas_angl.png)
 
 __Pirštų užimtumas:__
 
@@ -47,7 +47,7 @@ __Pirštų užimtumas:__
 
 __Programavimo kalbų tekstas (Bash, C, CPP, Python bendrai):__
 
-![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas_angl_prog.png)
+![Mygtukų naudojimas Ratisės išdėstyme renkant programavimo kalbų tekstą](images/mygt_naudojimas_angl_prog.png)
 
 __Pirštų užimtumas:__
 
@@ -64,7 +64,7 @@ __Pirštų užimtumas:__
 
 ## Aukščiau pateikti tekstai kartu:
 
-![Mygtukų naudojimas Ratisės išdėstyme](images/mygt_naudojimas_bendrai.png)
+![Mygtukų naudojimas Ratisės išdėstyme renkant įvairius tekstus](images/mygt_naudojimas_bendrai.png)
 
 __Pastaba:__ paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
