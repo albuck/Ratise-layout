@@ -5,6 +5,9 @@ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
 
 ![Ratisės išdėstymas su visais ženklais](images/kb_lt_ratise_viskas.svg)
 
++ [Valdymo mygtukų ženkliukai ir pavadinimai](valdymo_mygtukai.md)
+
+
 Spaudų išdėstymo lygiai:
 
 ![Išdėstymo lygiai](images/lygiai.svg)
