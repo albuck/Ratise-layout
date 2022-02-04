@@ -13,7 +13,7 @@ Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūr
 
 _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikalingiausi teksto rinkimui ženklai._
 
-![Pirmasis lygis](images/kb_lt_ratise_1l.svg)
+![Ratisės išdėstymo pirmojo lygio ženklai](images/kb_lt_ratise_1l.svg)
 
 + Tarp mygtukų  ‘pabraukimas’ ir ‘lygu’ yra mygtukas su ilguoju brūkšniu, vadinamuoju ‘m’ ilgio brūkšniu (tai yra ‘m’ raidės pločio brūkšniu).
 
@@ -24,7 +24,7 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 
 _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
-![Antrasis lygis](images/kb_lt_ratise_2l.svg)
+![Ratisės išdėstymo antrojo lygio ženklai](images/kb_lt_ratise_2l.svg)
 
 + Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis ‘n’ ilgio brūkšnys. Kai kuriuose spaudmenyse (‘šriftuose’) klaidingai atvaizduojamas vienodo ilgumo su ilgesniuoju ‘m’ ilgio brūkšniu.
 
@@ -35,7 +35,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ‘ł’. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png/1224px-Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png), be to turi papildomą tašką._
 
-![Trečiasis lygis](images/kb_lt_ratise_3l.svg)
+![Ratisės išdėstymo trečiojo lygio ženklai](images/kb_lt_ratise_3l.svg)
 
 + Paveikslėlyje brūkšnelio, __Q__, __H__, __X__ mygtukų vietose esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai (‘diakritikai’), tai — _lietùviškų príegaidžių uždėtìniai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
 
@@ -52,7 +52,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
-![Ketvirtasis lygis](images/kb_lt_ratise_4l.svg)
+![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb_lt_ratise_4l.svg)
 
 + Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 
@@ -66,7 +66,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 — spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ⇪ ‘CapsLock’ paspaudimo (įjungimo).
 
-![Didžiųjų raidžių lygis](images/kb_lt_ratise_d.svg)
+![Ratisės Didžiųjų raidžių įjungimas](images/kb_lt_ratise_d.svg)
 
 
 ## Priedai:
