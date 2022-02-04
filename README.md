@@ -35,11 +35,11 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 ## Išsamiau apie Ratisės išdėstymą:
 
-- [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI KLAVIATŪROJE](docs/ratises_lygiai.md)
-- [SPAUSDINIMO VISAIS PIRŠTAIS KLAVIATŪRA TVARKA](docs/spaud_tvarka.md)
+- [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises_lygiai.md)
+- [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spaud_tvarka.md)
 - [RATISĖS TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/testies_mygtukai.md)
-- [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO KLAVIATŪRA YPATUMAI](docs/kirciuotos_raides.md)
-- [SUDURTINIS ŽENKLŲ ĮVEDIMAS KLAVIATŪRA](docs/sudurt_ivedimas.md)
+- [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos_raides.md)
+- [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurt_ivedimas.md)
 - [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/trukumu_apejimas.md)
 - [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/spaud_daznis.md)
 - [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/palyginimas.md)
