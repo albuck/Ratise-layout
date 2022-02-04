@@ -2,7 +2,7 @@
 # RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
 
 
-Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose.
+_Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose._
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
