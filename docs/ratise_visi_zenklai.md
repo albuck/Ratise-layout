@@ -90,7 +90,7 @@ Aprašomi mygtukai eilėmis nuo apačios į viršų, iš kairės į dešinę. Po
 1. Mažoji d
 2. Didžioji D
 3. Taškas (.)
-4. Dviejų durklų ženklas (‡)
+4. Dvidurklis, dviejų durklų ženklas (‡)
 
 
 ### Š mygtukas
