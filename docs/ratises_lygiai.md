@@ -67,12 +67,11 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 ![Didžiųjų raidžių lygis](images/kb_lt_ratise_d.svg)
 
 
--------------------------
-
-__Priedai:__
+## Priedai:
 + [Ratisės išdėstymo ženklų aprašymas](ratise_visi_zenklai.md)
 + [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
+-------------------------
 
 + [Toliau](spaud_tvarka.md)
 + [Į pradžią](../README.md)
