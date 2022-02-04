@@ -24,7 +24,7 @@ __Ratisės klaviatūros išdėstymas:__
 + _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 + Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose (neskaitant Didžiųjų raidžių lygio).
 + Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) atskiruose lygiuose, žiūrėkite: [Ratisės ženklų išdėstymo lygiai](docs/ratises_lygiai.md).
-+ [Ratisės išdėstymo ženklų aprašymas](ratise_visi_zenklai.md)
++ [Ratisės išdėstymo ženklų aprašymas](ratise_visi_zenklai.md).
 + [Išsamus darybinis išdėstymo aprašas (angliškai)](SPECIFICATIONS.txt).
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ operacijų sistemoms (skaitmeninėms aplinkoms):
