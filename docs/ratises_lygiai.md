@@ -2,6 +2,8 @@
 # RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
 
 
+Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose.
+
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
 
@@ -60,7 +62,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 [Ratisės tęsties mygtukai ir jais įvedami ženklai](testies_mygtukai.md).
 
 
-## Ratisės Didžiųjų raidžių lygis
+## Ratisės Didžiųjų raidžių įjungimas
 
 — spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ⇪ ‘CapsLock’ paspaudimo (įjungimo).
 
