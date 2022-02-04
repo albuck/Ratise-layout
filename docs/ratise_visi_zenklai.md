@@ -113,7 +113,7 @@ Aprašomi mygtukai eilėmis nuo apačios į viršų, iš kairės į dešinę. Po
 
 1. Mažoji u
 2. Didžioji U
-3. Paprastoji vienguba kabutė, paprastasis „Apostrofas“ (')
+3. Paprastoji vienguba kabutė, paprastasis Apostrofas (')
 4. Tęsties mygtukų ženklas „Viršutinis brūkšnys“ (ˉ)
 
 ### E mygtukas
@@ -156,21 +156,21 @@ Aprašomi mygtukai eilėmis nuo apačios į viršų, iš kairės į dešinę. Po
 1. Mažoji r
 2. Didžioji R
 3. Skaitmuo Vienas (1)
-4. Anrašinis vienetas (¹)
+4. Antrašinis vienetas (¹)
 
 ### T mygtukas
 
 1. Mažoji t
 2. Didžioji T
 3. Skaitmuo Du (2)
-4. Anrašinis dvejetas (²)
+4. Antrašinis dvejetas (²)
 
 ### S mygtukas
 
 1. Mažoji s
 2. Didžioji S
 3. Skaitmuo Trys (3)
-4. Anrašinis trejetas (³)
+4. Antrašinis trejetas (³)
 
 ### P mygtukas
 
@@ -313,15 +313,15 @@ Aprašomi mygtukai eilėmis nuo apačios į viršų, iš kairės į dešinę. Po
 
 1. Žvaigždutė (*)
 2. Dolerio ženklas ($)
-3. Dvigubos uždaromosios kabutės (anglų kalboje), teksto pasikartojimo ženklas (lentelėse) (”)
+3. Dvigubos uždaromosios kabutės (anglų kalboje), įrašo pasikartojimo ženklas (lentelėse) (”)
 4. Svaro ženklas (£)
 
 ### Pabraukimo mygtukas
 
 1. Pabraukimas (_)
-2. Nuošimčio (procento) ženklas (%)
+2. Nuošimčio, šimtadalio (procento) ženklas (%)
 3. Daugtaškis (…)
-4. Nuotūkstančio, tūkstantinės dalies (promilės) ženklas (‰)
+4. Nuotūkstančio, tūkstantadalio, tūkstantinės dalies (promilės) ženklas (‰)
 
 ### Ilgojo brūkšnio mygtukas
 
