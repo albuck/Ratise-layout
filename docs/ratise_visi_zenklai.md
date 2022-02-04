@@ -16,7 +16,7 @@ Spaudų išdėstymo lygiai:
 
 __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wikipedia/commons/b/b2/Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje (būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais).
 
-Aprašomi mygtukai eilėmis nuo apačios į viršų, iš kairės į dešinę. Po ženklo pavadinimo skliaustuose duodamas pats ženklais (jei reikia), uždėtiniai ženklai duodami virš pabraukimo.
+Aprašomi mygtukai aukštais (eilėmis) nuo apačios į viršų, ir iš kairės į dešinę. Po ženklo pavadinimo skliaustuose duodamas pats ženklas (jei reikia), uždėtiniai ženklai duodami virš pabraukimo.
 
 ## Pirmasis mygtukų aukštas (eilė)
 
