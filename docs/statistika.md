@@ -158,9 +158,10 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 + _Baltic/Numeric_ ir _Lithuanian standard_ išdėstymų paprastai nereikia papildomai įdieginėti.
 
 
------------------------------------------
-__Priedai:__ 
+### Priedai:
 + [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](statistines_lenteles.md)
 + [Papildomų esamų ir galimų lietuviškų klaviatūros išdėstymų palyginamoji statistika](papildoma_statistika.md)
+
+-----------------------------------------
 
 + [Į pradžią](../README.md)
