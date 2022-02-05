@@ -2,6 +2,7 @@
 # Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
 + __Palyginami tokie lietuviški klaviatūrų išdėstymai:__
+
   + [Ratisė](images/ratise.png)
   + [LEKP](images/lekp.png)
   + [Standard](images/standard.png)
