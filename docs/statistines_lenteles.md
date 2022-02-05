@@ -1,7 +1,7 @@
 
 # Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės
 
-+ __Palyginami tokie lietuviški klaviatūrų išdėstymai:__
++ __Palyginti tokie lietuviški klaviatūrų išdėstymai:__
 
   + [Ratisė (ŪĖYOQJ)](images/ratise.png)
   + [LEKP (QGRLDČ)](images/lekp.png)
