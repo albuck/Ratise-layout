@@ -1,6 +1,12 @@
 
 # Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
+__Palyginami tokie lietuviški klaviatūrų išdėstymai:__
++ [Ratisė](images/ratise.png)
++ [LEKP](images/lekp.png)
++ [Standard](images/standard.png)
++ [Baltic/Numeric](images/baltic.png)
+
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
