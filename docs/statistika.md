@@ -19,89 +19,89 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 
 ## Lietuviško teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: Lietuviškų dažnų žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/SNLfjHck)
++ [Keyboard Layout Analyzer: Lietuviškų dažnų žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/sld9vR0J)
 
    1. __Ratise (ISO) — 76.16__
    2. LEKP (ISO) — 69.00
-   3. LT Standard 2000 (ISO) — 59.29
+   3. LT Standard 2000 (ISO) — 58.80
    4. QWERTY Baltic+ (ISO) — 57.39
 
-+ [Keyboard Layout Analyzer: Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/zZf6g1Ch)
++ [Keyboard Layout Analyzer: Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/WFx8NwLB)
 
    1. __Ratise (ISO) — 71.52__
    2. LEKP (ISO) — 62.81
-   3. LT Standard 2000 (ISO) — 49.98
+   3. LT Standard 2000 (ISO) — 50.21
    4. QWERTY Baltic+ (ISO) — 48.53
 
-+ [Keyboard Layout Analyzer: Kursinių darbų rengimo metodiniai nurodymai (bakalauro programa)](http://patorjk.com/keyboard-layout-analyzer/#/load/Jxtr8WHv) (pataisytos kabutės ir ilgieji brūkšniai)
++ [Keyboard Layout Analyzer: Kursinių darbų rengimo metodiniai nurodymai (bakalauro programa)](http://patorjk.com/keyboard-layout-analyzer/#/load/1vvGxwQC) (pataisytos kabutės ir ilgieji brūkšniai)
 
    1. __Ratise (ISO) — 69.51__
    2. LEKP (ISO) — 61.28
-   3. LT Standard 2000 (ISO) — 44.81
+   3. LT Standard 2000 (ISO) — 45.06
    4. QWERTY Baltic+ (ISO) — 43.42
 
-+ [Keyboard Layout Analyzer: Lietuvių kalbos literatūros terminų žodynėlis](http://patorjk.com/keyboard-layout-analyzer/#/load/MDTfpfJB)
++ [Keyboard Layout Analyzer: Lietuvių kalbos literatūros terminų žodynėlis](http://patorjk.com/keyboard-layout-analyzer/#/load/Xz8wSZWp)
 
    1. __Ratise (ISO) — 67.93__
    2. LEKP (ISO) — 57.11
-   3. LT Standard 2000 (ISO) — 42.97
+   3. LT Standard 2000 (ISO) — 43.05
    4. QWERTY Baltic+ (ISO) — 42.90
 
-+ [Keyboard Layout Analyzer: Lietuvių padavimai](http://patorjk.com/keyboard-layout-analyzer/#/load/bmxHph9b)
++ [Keyboard Layout Analyzer: Lietuvių padavimai](http://patorjk.com/keyboard-layout-analyzer/#/load/Qst6lLzQ)
 
    1. __Ratise (ISO) — 67.70__
    2. LEKP (ISO) — 60.51
-   3. LT Standard 2000 (ISO) — 48.51
+   3. LT Standard 2000 (ISO) — 48.34
    4. QWERTY Baltic+ (ISO) — 45.20
 
-+ [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
++ [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/FSp4k3hc)
 
    1. __Ratise (ISO) — 67.43__
    2. LEKP (ISO) — 58.00
-   3. LT Standard 2000 (ISO) — 47.50
+   3. LT Standard 2000 (ISO) — 47.29
    4. QWERTY Baltic+ (ISO) — 44.22
 
-+ [Keyboard Layout Analyzer: Vikipedijos straipsnis „Lietuva“](http://patorjk.com/keyboard-layout-analyzer/#/load/nHkzzPKv) (ilgieji brūkšniai ir tekstas netaisyti)
++ [Keyboard Layout Analyzer: Vikipedijos straipsnis „Lietuva“](http://patorjk.com/keyboard-layout-analyzer/#/load/BC5Np6hg) (ilgieji brūkšniai ir tekstas netaisyti)
 
    1. __Ratise (ISO) — 61.03__
    2. LEKP (ISO) — 53.86
-   3. LT Standard 2000 (ISO) — 41.67
+   3. LT Standard 2000 (ISO) — 41.62
    4. QWERTY Baltic+ (ISO) — 40.77
 
-+ [Keyboard Layout Analyzer: Eglė Žalčių karalienė, Salomėja Nėris (pasaka-poema)](http://patorjk.com/keyboard-layout-analyzer/#/load/F9z4rMsG)
++ [Keyboard Layout Analyzer: Eglė Žalčių karalienė, Salomėja Nėris (pasaka-poema)](http://patorjk.com/keyboard-layout-analyzer/#/load/hqhrCnh0)
 
    1. __Ratise (ISO) — 55.97__ (72.24)
    2. LEKP (ISO) — 44.71 (65.20)
-   3. LT Standard 2000 (ISO) — 36.99 (53.95)
+   3. LT Standard 2000 (ISO) — 36.58 (53.36)
    4. QWERTY Baltic+ (ISO) — 36.44 (49.86)
 
-   - Skliaustuose — [šio teksto vienų žodžių skaičiai](http://patorjk.com/keyboard-layout-analyzer/#/load/l0lMTfKm).
+   - Skliaustuose — [šio teksto vienų žodžių skaičiai](http://patorjk.com/keyboard-layout-analyzer/#/load/4dh4lPx0).
 
 
 ## Angliško teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer/#/load/ShQtp9MZ)
++ [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer/#/load/dmGqDp7C)
 
    1. __Ratise (ISO) — 66.90__
    2. LEKP (ISO) — 66.73
    3. QWERTY Baltic+ (ISO) — 49.04
    4. LT Standard 2000 (ISO) — 46.72
 
-+ [Keyboard Layout Analyzer: Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/19Kmshnm)
++ [Keyboard Layout Analyzer: Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/qnJ2s2Gk)
 
    1. __Ratise (ISO) — 63.59__
    2. LEKP (ISO) — 58.91
    3. QWERTY Baltic+ (ISO) — 47.45
    4. LT Standard 2000 (ISO) — 42.70
 
-+ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/tkHsP4Bn)
++ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/bFvC6HlX)
 
    1. __Ratise (ISO) — 62.38__
    2. LEKP (ISO) — 60.28
    3. QWERTY Baltic+ (ISO) — 52.89
    4. LT Standard 2000 (ISO) — 47.08
 
-+ [Keyboard Layout Analyzer: Wikipedia “United States”](http://patorjk.com/keyboard-layout-analyzer/#/load/MhHD2B7T)
++ [Keyboard Layout Analyzer: Wikipedia “United States”](http://patorjk.com/keyboard-layout-analyzer/#/load/PJnnHhPx)
 
    1. __Ratise (ISO) — 60.34__
    2. LEKP (ISO) — 56.89
@@ -110,14 +110,14 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 
 ## Programavimo kalbų teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: ‘HTML, JavaScript’](http://patorjk.com/keyboard-layout-analyzer/#/load/C4JgGx9T)
++ [Keyboard Layout Analyzer: ‘HTML, JavaScript’](http://patorjk.com/keyboard-layout-analyzer/#/load/H5lW3zvN)
 
    1. __Ratise (ISO) — 45.88__
    2. LEKP (ISO) — 39.76
    3. QWERTY Baltic+ (ISO) — 35.70
    4. LT Standard 2000 (ISO) — 31.38
 
-+ [Keyboard Layout Analyzer: ‘Bash, C, CPP, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/622X0jqK)
++ [Keyboard Layout Analyzer: ‘Bash, C, CPP, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/JmF3vLs9)
 
    1. __Ratise (ISO) — 44.80__
    2. LEKP (ISO) — 41.96
@@ -127,7 +127,7 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 
 ## Lotyniško teksto „Lorem Ipsum“ skaidymas:
 
-+ [Keyboard Layout Analyzer: Lorem Ipsum](http://patorjk.com/keyboard-layout-analyzer/#/load/nrGjhvKT)
++ [Keyboard Layout Analyzer: Lorem Ipsum](http://patorjk.com/keyboard-layout-analyzer/#/load/hfj6plsw)
 
    1. __Ratise (ISO) — 70.69__
    2. LEKP (ISO) —  	67.92
