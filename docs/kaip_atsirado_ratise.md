@@ -17,7 +17,7 @@ Tobulinant toliau Remigijaus išdėstymą užgimė [Tikrinė](images/tikrine.gif
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
-![Lietuviškas ergonomiškas klaviatūros ženklų išdėstymas Ratisė](images/kb_lt_ratise_viskas.svg)
+![Lietuviškas klaviatūros išdėstymas Ratisė](images/lt_ratise.svg)
 
 + [Ratisės išdėstymo visi ženklai viename paveikslėlyje](ratise_visi_zenklai.md)
 
