@@ -18,7 +18,7 @@
 
 + Duomenų šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/fCRkH0k7)
 
-__Pastaba:__ patikrai tekste ir išdėstymuose suvienodinti ilgieji brūkšniai.
+__Pastaba:__ patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkšniai.
 
 
 ## Pirštų nueitas atstumas spausdinant duotą tekstą:
