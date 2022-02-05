@@ -1,6 +1,14 @@
 
 # Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės
 
++ __Palyginami tokie lietuviški klaviatūrų išdėstymai:__
+
+  + [Ratisė (ŪĖYOQJ)](images/ratise.png)
+  + [LEKP (QGRLDČ)](images/lekp.png)
+  + [Standard (ĄŽERTY)](images/standard.png)
+  + [Baltic/Numeric (QWERTY)](images/baltic.png)
+
+
 + Tikrintas tekstas: Lietuviškos pasakos (iš Basanavičiaus rinkinio).
 + Tikrinto teksto apimtis:
   - Eilučių: 1854
