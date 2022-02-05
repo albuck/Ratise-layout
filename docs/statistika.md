@@ -3,10 +3,10 @@
 
 + __Palyginami tokie lietuviški klaviatūrų išdėstymai:__
 
-  + [Ratisė](images/ratise.png)
-  + [LEKP](images/lekp.png)
-  + [Standard](images/standard.png)
-  + [Baltic/Numeric](images/baltic.png)
+  + [Ratisė (ŪĖYOQJ)](images/ratise.png)
+  + [LEKP (QGRLDČ)](images/lekp.png)
+  + [Standard (ĄŽERTY)](images/standard.png)
+  + [Baltic/Numeric (QWERTY)](images/baltic.png)
 
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
