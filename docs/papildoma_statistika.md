@@ -30,6 +30,7 @@ __Šaltiniai:__
 
 ## Programavimo teksto skaidymas (bendrai ‘Bash, C, CPP, Python, HTML, JavaScript’):
 
+0. _Ratise „Programmer“ (ANSI) — 46.40_ (perkelti keli dažniau reikalingi programavime ženklai prie skaičiukynės)
 1. Programmer Colemak LT (ANSI) — 46.32
 2. __Ratise (ANSI) — 46.23__
 3. Colemak LT (ANSI) — 46.14
@@ -44,6 +45,7 @@ __Šaltiniai:__
 
 + http://patorjk.com/keyboard-layout-analyzer/#/load/BRs69PCl
 + http://patorjk.com/keyboard-layout-analyzer/#/load/44BHswnX
++ http://patorjk.com/keyboard-layout-analyzer/#/load/drQH0dDw
 
 ## Angliško grožinio teksto skaidymas (Alisa stebuklų šalyje, pirmasis skyrius):
 
