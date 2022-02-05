@@ -159,6 +159,8 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 
 
 ### Priedai:
+
++ [Lietuviškų klaviatūros išdėstymų našumo palyginimas](palyginimas.md)
 + [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](statistines_lenteles.md)
 + [Papildomų esamų ir galimų lietuviškų klaviatūros išdėstymų palyginamoji statistika](papildoma_statistika.md)
 
