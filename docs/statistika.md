@@ -139,7 +139,6 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 
 + Iš visų aukščiau tikrintų, [Ratisės](images/kb_lt_ratise.svg) išdėstymas geriausiai tinka lietuvių, anglų bei programavimo kalbų tekstams rinkti, t. y. su _Ratise_ atliksite tą patį darbą ženkliai patogiau ir lengviau negu su kitais išdėstymais.
 + _Ratisės_ išdėstyme darbo krūvis tenkantis pirštams yra sumažintas (spausdindami pirštai nukeliauja mažesnį atstumą, rečiau tam pačiam pirštui prireikia vėl iškart spausti, spausdinant dažniau yra kaitaliojamos rankos ir pirštai) ir išlygintas pagal tų pirštų pajėgumą (jėgą ir vikrumą), todėl spausdindami _Ratise_ išvengsite ypatingo atskirų pirštų pervargimo (ir iš to sekančio skausmo).
-+ [LEKP](https://lekp.info/images/lekp.png) ir _Baltic+_ išdėstymai yra labiau pritaikyti anglų kalbos tekstams rinkti negu lietuvių.
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir _Baltic+_ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose, ir programavimo tekstuose.
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir _Baltic+_ išdėstymuose dažnai dažniau reikalingi ženklai išdėstyti toliau nuo pagrindinės pirštų padėties, daug dažniau kai kuriems pirštams tenka iš eilės spaudinėti vėl mygtukus, pirštai nueina didesnį atstumą spausdindami, kai kurie pirštai yra perkrauti darbu ne pagal jų pajėgumą. Ženklai šiuose išdėstymuose išdėstyti netvarkingai: visiškai neatsižvelgta nei į pirštų pajėgumą, nei į teksto rinkimo ritmą, nei į raidžių dažnumą ir eiliškumą žodžiuose.
 
