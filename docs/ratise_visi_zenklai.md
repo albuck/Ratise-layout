@@ -159,21 +159,21 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji r
 2. Didžioji R
 3. Skaitmuo Vienas (1)
-4. Antrašinis Vienas (¹)
+4. Antrašinis Vienetas (¹)
 
 ### T mygtukas
 
 1. Mažoji t
 2. Didžioji T
 3. Skaitmuo Du (2)
-4. Antrašinis Du (²)
+4. Antrašinis Dvejetas (²)
 
 ### S mygtukas
 
 1. Mažoji s
 2. Didžioji S
 3. Skaitmuo Trys (3)
-4. Antrašinis Trys (³)
+4. Antrašinis Trejetas (³)
 
 ### P mygtukas
 
