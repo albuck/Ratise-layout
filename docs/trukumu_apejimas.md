@@ -19,7 +19,9 @@ __Lietuviška klaviatūra su Ratisės išdėstymu:__
 
 3. __Mygtukai X, H ir Q nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti A, O__, paprastai tai pastebima tik spausdinant angliškai, kur _H_ yra dažna raidė. Čia galėtų pagelbėti ypatingas tokių raidžių derinių rinkimo būdas: jei kairiosios rankos smilius renka __H__ ar __X__, tai __O__, __A__ renka pasislinkęs dešiniau kairiosios rankos didysis pirštas. Bet tokios gudrybės reikia papildomai mokytis.
 
-4. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
+4. __Mygtukas W nėra labai patogioje vietoje.__ Todėl yra numatyta Ratisės išdėstyme galimybė jį susikeisti su brūkšnelio mygtuku (papildomu mygtuku ISO klaviatūrose). Tai galima būtų padaryti papildomomis priemonėmis, leidžiančiomis sukeisti mygtukus programiškai, arba pasidaryti Ratisės išdėstymo atmainą. Tiesa, testai neparodo ypatingo šitokio kietimo privalumo (kai kuriuose tekstuose jie šiek tiek geresni, kai kuriuose — prastesni).
+
+5. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
 
 __Priedas:__ [QWERTY ir Ratisės išdėstymas viename paveikslėlyje](images/qwerty-ratise.png)
 
