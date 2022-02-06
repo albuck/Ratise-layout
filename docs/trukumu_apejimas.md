@@ -21,7 +21,9 @@ __Lietuviška klaviatūra su Ratisės išdėstymu:__
 
 4. __Mygtukas W nėra labai patogioje vietoje.__ Todėl yra numatyta Ratisės išdėstyme galimybė jį susikeisti su brūkšnelio mygtuku (papildomu mygtuku ISO klaviatūrose). Tai galima būtų padaryti papildomomis priemonėmis, leidžiančiomis sukeisti mygtukus programiškai, arba pasidaryti Ratisės išdėstymo atmainą. Tiesa, testai neparodo ypatingo šitokio kietimo privalumo (kai kuriuose tekstuose jie šiek tiek geresni, kai kuriuose — prastesni).
 
-5. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
+5. __Išdėstymas yra pritaikytas dešiniarankiams.__ Kairiarankiams patogesnis išdėstymas turėtų būti apverstas kairės—dešinės atžvilgiu (priebalsių pusė turėtų tekti pajėgesnei rankai), deja tokios klaviatūros nėra gaminamos. Visgi, išeitis labai norintiems turėti tokią klaviatūrą yra: pasidaryti, užsisakyti/nusipirkti perprogramuojamą simetrišką klaviatūrą (pvz.: [Kinesis Advantage2](https://kinesis-ergo.com/shop/advantage2/)) ir perprogramuoti ją, arba pasidaryti Ratisės išdėstymo veidrodiškai apverstą atmainą (įprastos klaiviatūros nėr simetriškos, toks veidrodiškai apverstas Ratisės išdėstymas nebūtų lygiavertis).
+
+6. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
 
 __Priedas:__ [QWERTY ir Ratisės išdėstymas viename paveikslėlyje](images/qwerty-ratise.png)
 
