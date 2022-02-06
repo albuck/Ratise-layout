@@ -4,16 +4,16 @@
 ## Palyginami tokie lietuviški klaviatūrų išdėstymai:
 
   __Ratisė (ŪĖYOQJ):__ 
-   ![Ratisė (ŪĖYOQJ)](images/ratise.png)
+   ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/ratise.png)
    
   __LEKP (QGRLDČ):__
-   ![LEKP (QGRLDČ)](images/lekp.png)
+   ![Lithuanian Keyboard Layout LEKP (QGRLDČ)](images/lekp.png)
    
   __Standard (ĄŽERTY):__
-   ![Standard (ĄŽERTY)](images/standard.png)
+   ![Lithuanian Keyboard Layout Standard (ĄŽERTY)](images/standard.png)
    
   __Baltic/Numeric (QWERTY):__
-   ![Baltic/Numeric (QWERTY)](images/baltic.png)
+   ![Lithuanian Keyboard Layout Baltic/Numeric (QWERTY)](images/baltic.png)
 
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
