@@ -1,7 +1,7 @@
 
 # Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
-+ __Palyginami tokie lietuviški klaviatūrų išdėstymai:__
+__Palyginami tokie lietuviški klaviatūrų išdėstymai:__
 
   + __Ratisė (ŪĖYOQJ):__ 
    ![Ratisė (ŪĖYOQJ)](images/ratise.png)
