@@ -101,13 +101,6 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    3. QWERTY Baltic+ (ISO) — 52.89
    4. LT Standard 2000 (ISO) — 47.08
 
-+ [Keyboard Layout Analyzer: Wikipedia “United States”](http://patorjk.com/keyboard-layout-analyzer/#/load/PJnnHhPx)
-
-   1. __Ratise (ISO) — 60.34__
-   2. LEKP (ISO) — 56.89
-   3. QWERTY Baltic+ (ISO) — 44.39
-   4. LT Standard 2000 (ISO) — 39.61
-
 ## Programavimo kalbų teksto skaidymas:
 
 + [Keyboard Layout Analyzer: ‘HTML, JavaScript’](http://patorjk.com/keyboard-layout-analyzer/#/load/H5lW3zvN)
