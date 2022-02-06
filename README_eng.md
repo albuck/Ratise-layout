@@ -16,7 +16,7 @@ Vowels and consonants are distinguished for different hands. The more frequently
 
 + [Read more about "Ratise" layout (in Lithuanian)](README.md)
 
-+ __Lithuanian Ratise Keyboard Layout drivers__ are available for _Windows, MacOS, Linux/Unix (xkb), Haiku_ operating systems:
+__Lithuanian Ratise Keyboard Layout drivers__ are available for _Windows, MacOS, Linux/Unix (xkb), Haiku_ operating systems:
 
 [↓ Download "Ratise" layout ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
