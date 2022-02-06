@@ -28,7 +28,7 @@ __Šaltiniai:__
 + http://patorjk.com/keyboard-layout-analyzer/#/load/QkjszH6X
 + http://patorjk.com/keyboard-layout-analyzer/#/load/M1j03hD0
 
-## Programavimo teksto skaidymas (bendrai ‘Bash, C, CPP, Python, HTML, JavaScript’):
+## Programavimo teksto skaidymas (bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’):
 
 0. _Ratise „Programmer“ (ANSI) — 46.40_ (perkelti keli dažniau reikalingi programavime ženklai prie skaičiukynės)
 1. Programmer Colemak LT (ANSI) — 46.32
