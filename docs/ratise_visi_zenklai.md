@@ -329,7 +329,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 ### Ilgojo brūkšnio mygtukas
 
 1. Ilgasis brūkšnys, M-pločio brūkšnys (—)
-2. Stačias (vertikalus) brūkšnys, "Lazdelė" (\|)
+2. Stačias (vertikalus) brūkšnys, „Lazdelė“ (\|)
 3. Stogelis „Cirkumfleksas“ (^)
 4. Stačias trūkęs brūkšnys (¦)
 
