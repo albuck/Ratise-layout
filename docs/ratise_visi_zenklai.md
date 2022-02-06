@@ -138,14 +138,14 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji a
 2. Didžioji A
 3. Paprastoji dviguba kabutė (")
-4. Tęsties mygtukų ženklas „Dutaškis“ (Diaeresis) (¨ )
+4. Tęsties mygtukų ženklas „Dutaškis“ (Diaeresis) (¨)
 
 ### H mygtukas
 
 1. Mažoji h
 2. Didžioji H
 3. Uždėtinis riestinis kirtis _̃
-4. Tęsties mygtukų ženklas „Riestinis kirtis“ (mažoji tildė) (˜ )
+4. Tęsties mygtukų ženklas „Riestinis kirtis“ (mažoji tildė) (˜)
 
 ### L mygtukas
 
@@ -187,7 +187,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji ž
 2. Didžioji Ž
 3. Brūkšnelio-minuso ženklas (-)
-4. Tęsties mygtukų ženklas „Sedilė“ (Cedilla) (¸ )
+4. Tęsties mygtukų ženklas „Sedilė“ (Cedilla) (¸)
 
 ### Z mygtukas
 
@@ -217,7 +217,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji y
 2. Didžioji Y
 3. Dešinysis laužtinis skliaustas (])
-4. Tęsties mygtukų ženklas „Stogelis“ (Circumflex) (ˆ )
+4. Tęsties mygtukų ženklas „Stogelis“ (Circumflex) (ˆ)
 
 ### O mygtukas
 
