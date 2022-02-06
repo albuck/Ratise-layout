@@ -6,7 +6,7 @@
   + __Ratisė (ŪĖYOQJ):__ 
    ![Ratisė (ŪĖYOQJ)](images/ratise.png)
    
-  + __[LEKP (QGRLDČ):__
+  + __LEKP (QGRLDČ):__
    ![LEKP (QGRLDČ)](images/lekp.png)
    
   + __Standard (ĄŽERTY):__
