@@ -18,9 +18,9 @@ __Pirštų užimtumas:__
 + kairysis mažasis — 6,9%
 + kairysis bevardis — 7,2%
 + kairysis didysis — 12,5%
-+ kairysis smilius — 15,0%
++ kairysis smilius — 15,1%
 + nykščiai — 14,6%
-+ dešinysis smilius — 16,3%
++ dešinysis smilius — 16,4%
 + dešinysis didysis — 12,4%
 + dešinysis bevardis — 8,8%
 + dešinysis mažasis — 6,3%
@@ -39,7 +39,7 @@ __Pirštų užimtumas:__
 + kairysis didysis — 6,7%
 + kairysis smilius — 17,0%
 + nykščiai — 19,5%
-+ dešinysis smilius — 14,2%
++ dešinysis smilius — 14,1%
 + dešinysis didysis — 13,1%
 + dešinysis bevardis — 6,3%
 + dešinysis mažasis — 9,4%
@@ -59,7 +59,7 @@ __Pirštų užimtumas:__
 + dešinysis smilius — 13,4%
 + dešinysis didysis — 8,7%
 + dešinysis bevardis — 6,9%
-+ dešinysis mažasis — 15,3%
++ dešinysis mažasis — 15,4%
 
 
 __Pastaba:__ paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
