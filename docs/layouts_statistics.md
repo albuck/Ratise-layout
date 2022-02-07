@@ -9,7 +9,7 @@
 "The optimal layout score is based on a weighed calculation that factors in the distance your fingers moved (33%), how often you use particular fingers (33%), and how often you switch fingers and hands while typing (34%)."
 
 
-## Analysis of the Lithuanian text (Lithuanian Tales (from Basanavičius' collection)):
+## Analysis of the Lithuanian text (Lithuanian Tales from Basanavičius' collection):
 
 1. __Ratise (ANSI) — 67.65__
 2. _Ratise Standard (ANSI) — 65.53_
