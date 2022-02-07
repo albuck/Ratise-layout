@@ -1,7 +1,7 @@
 
 # Papildomų esamų ir galimų lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
-+ Galimi lietuviški klaviatūros išdėstymai, tai žinomesni angliški išdėstymai su papildomais lietuviškais rašmenimis trečiame lygyje arba, „Colemak LT Numeric“ atveju, vietoje skaičių viršuje, kur labiau pritinka ir su kai kuriais kitų ženklų perkėlimais. „Lolemak LT“ tai „Colemak LT“ su keliais nedideliais, naudingais pertvarkymais (R, S, A raidės sukeistos vietomis). „Arietis“ tai išdėstymas gautas bandant Ratisę labiau pritaikyti anglų kalbai (lietuviškos raidės trečiame—ketvirtame lygyje). „Ratisė Standard“ tai Ratisės išdėstymo atmaina su skaičiais viršuje ir nelietuviškomis raidėmis trečiame lygyje. „Albuck LT“ ir „Buckal LT“ išdėstymai — tai bandymas Ratisės kūrimo patirtį pritaikyti anglų kalbai bei programavimui (išdėstymai turi lietuviškus rašmenis trečiame lygyje), taip pat prisilaikyti labiau išdėstymų darymo „standartų“.
++ Galimi lietuviški klaviatūros išdėstymai (užrašyti pasvirusiai). Pridedami žinomesni angliški išdėstymai su papildomais lietuviškais rašmenimis trečiame lygyje arba, „Colemak LT Numeric“ atveju, vietoje skaičių viršuje, kur labiau pritinka ir su kai kuriais kitų ženklų perkėlimais. „Lolemak LT“ tai „Colemak LT“ su keliais nedideliais, naudingais pertvarkymais (R, S, A raidės sukeistos vietomis). „Arietis“ tai išdėstymas gautas bandant Ratisę labiau pritaikyti anglų kalbai (lietuviškos raidės trečiame—ketvirtame lygyje). „Ratisė Standard“ tai Ratisės išdėstymo atmaina su skaičiais viršuje ir nelietuviškomis raidėmis trečiame lygyje. „Albuck LT“ ir „Buckal LT“ išdėstymai — tai bandymas Ratisės kūrimo patirtį pritaikyti anglų kalbai bei programavimui (išdėstymai turi lietuviškus rašmenis trečiame lygyje), taip pat prisilaikyti labiau išdėstymų darymo „standartų“.
 
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
@@ -14,16 +14,16 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 ## Lietuviško teksto skaidymas (Lietuviškos pasakos (iš Basanavičiaus rinkinio)):
 
 1. __Ratise (ANSI) — 67.65__
-2. Ratise Standard (ANSI) — 65.53
-3. Arietis (ANSI) — 62.45
+2. _Ratise Standard (ANSI) — 65.53_
+3. _Arietis (ANSI) — 62.45_
 4. LEKPa (ANSI) — 58.12
-5. Buckal LT (ANSI) — 57.43
-6. Albuck LT (ANSI) — 57.21
-7. Lolemak LT (ANSI) — 56. 80
-8. Colemak LT Numeric (ANSI) — 55.80
-9. Colemak LT (ANSI) — 54.78
-10. Programmer Colemak LT (ANSI) — 54.52
-11. Dvorak LT (ANSI) — 48.03
+5. _Buckal LT (ANSI) — 57.43_
+6. _Albuck LT (ANSI) — 57.21_
+7. _Lolemak LT (ANSI) — 56. 80_
+8. _Colemak LT Numeric (ANSI) — 55.80_
+9. _Colemak LT (ANSI) — 54.78_
+10. _Programmer Colemak LT (ANSI) — 54.52_
+11. _Dvorak LT (ANSI) — 48.03_
 12. AŽERTY Lithuanian Standard (ANSI) — 47.73
 13. ĄŽERTY Lithuanian IBM (ANSI) — 46.94
 14. QWERTY LT Programmers+ (ANSI) — 44.90
@@ -39,18 +39,18 @@ __Šaltiniai:__
 
 ## Programavimo teksto skaidymas (bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’):
 
-1. Buckal LT (ANSI) — 49.16
-2. Albuck LT (ANSI) — 47.47
-3. Lolemak LT (ANSI) — 46.51
+1. _Buckal LT (ANSI) — 49.16_
+2. _Albuck LT (ANSI) — 47.47_
+3. _Lolemak LT (ANSI) — 46.51_
 4. _Ratise „Programmer“ (ANSI) — 46.40_ (perkelti keli dažniau reikalingi programavime ženklai prie skaičiukynės)
-5. Programmer Colemak LT (ANSI) — 46.32
+5. _Programmer Colemak LT (ANSI) — 46.32_
 6. __Ratise (ANSI) — 46.23__
-7. Colemak LT (ANSI) — 46.14
-8. Colemak LT Numeric (ANSI) — 45.76
-9. Arietis (ANSI) — 43.30
-10. Ratise Standard (ANSI) — 41.27
+7. _Colemak LT (ANSI) — 46.14_
+8. _Colemak LT Numeric (ANSI) — 45.76_
+9. _Arietis (ANSI) — 43.30_
+10. _Ratise Standard (ANSI) — 41.27_
 11. LEKPa (ANSI) — 40.11
-12. Dvorak LT (ANSI) — 37.66
+12. _Dvorak LT (ANSI) — 37.66_
 13. QWERTY LT Programmers+ (ANSI) — 36.56
 14. AŽERTY Lithuanian Standard (ANSI) — 36.39
 15. ĄŽERTY Lithuanian IBM (ANSI) — 35.64
@@ -67,16 +67,16 @@ __Šaltiniai:__
 
 ## Angliško grožinio teksto skaidymas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. Albuck LT (ANSI) — 69.29
-2. Buckal LT (ANSI) — 69.13
-3. Programmer Colemak LT (ANSI) — 66.18
-4. Lolemak LT (ANSI) — 66.01
-5. Colemak LT Numeric (ANSI) — 65.88
-6. Colemak LT (ANSI) — 65.85
-7. Dvorak LT (ANSI) — 65.83
-8. Arietis (ANSI) — 64.78
+1. _Albuck LT (ANSI) — 69.29_
+2. _Buckal LT (ANSI) — 69.13_
+3. _Programmer Colemak LT (ANSI) — 66.18_
+4. _Lolemak LT (ANSI) — 66.01_
+5. _Colemak LT Numeric (ANSI) — 65.88_
+6. _Colemak LT (ANSI) — 65.85_
+7. _Dvorak LT (ANSI) — 65.83_
+8. _Arietis (ANSI) — 64.78_
 9. __Ratise (ANSI) — 62.47__
-10. Ratise Standand (ANSI) — 61.62
+10. _Ratise Standand (ANSI) — 61.62_
 11. LEKPa (ANSI) — 59.87
 12. QWERTY LT Programmers+ (ANSI) — 53.08
 13. QWERTY Baltic+ (ANSI) — 53.04
@@ -93,16 +93,16 @@ __Šaltiniai:__
 
 ## Angliško teksto skaidymas (Wikipedia “Physics”):
 
-1. Albuck LT (ANSI) — 67.07
-2. Buckal LT (ANSI) — 66.36
-3. Lolemak LT (ANSI) — 65.16
-4. Colemak LT (ANSI) — 64.27
-5. Colemak LT Numeric (ANSI) — 63.95
+1. _Albuck LT (ANSI) — 67.07_
+2. _Buckal LT (ANSI) — 66.36_
+3. _Lolemak LT (ANSI) — 65.16_
+4. _Colemak LT (ANSI) — 64.27_
+5. _Colemak LT Numeric (ANSI) — 63.95_
 6. __Ratise (ANSI) — 63.77__
-7. Dvorak LT (ANSI) — 63.54
-8. Programmer Colemak LT (ANSI) — 63.50
-9. Ratise Standard (ANSI) — 63.04
-10. Arietis (ANSI) — 61.66
+7. _Dvorak LT (ANSI) — 63.54_
+8. _Programmer Colemak LT (ANSI) — 63.50_
+9. _Ratise Standard (ANSI) — 63.04_
+10. _Arietis (ANSI) — 61.66_
 11. LEKPa (ANSI) — 58.93
 12. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 49.27
 13. QWERTY LT Programmers+ (ANSI) — 47.89
