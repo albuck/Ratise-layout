@@ -1,6 +1,6 @@
 # Comparative statistics of current and possible Lithuanian keyboard layouts
 
-+ __Current lithuanian layouts:__
++ __Current Lithuanian keyboard layouts:__
 
   + [Ratise (ŪĖYOQJ)](images/ratise.png)
   + [LEKP (QGRLDČ)](images/lekp.png)
