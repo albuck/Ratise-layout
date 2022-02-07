@@ -1,7 +1,7 @@
 
 # Papildomų esamų ir galimų lietuviškų klaviatūros išdėstymų palyginamoji statistika
 
-+ Galimi lietuviški klaviatūros išdėstymai, tai žinomesni angliški išdėstymai su papildomais lietuviškais rašmenimis trečiame lygyje.
++ Galimi lietuviški klaviatūros išdėstymai, tai žinomesni angliški išdėstymai su papildomais lietuviškais rašmenimis trečiame lygyje arba, „Colemak LT Numeric“ atveju, vietoje skaičių viršuje, kur labiau pritinka ir kai su kai kuriais kitų ženklų perkėlimais.
 
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
