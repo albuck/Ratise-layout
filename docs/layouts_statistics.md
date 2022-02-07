@@ -4,7 +4,7 @@
 
 + Data source: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
-+ __Data presentation format: __ "Primacy". "Layout" - "layout rating points"
++ __Data presentation format:__ "Primacy". "Layout" - "layout rating points"
 
 "The optimal layout score is based on a weighed calculation that factors in the distance your fingers moved (33%), how often you use particular fingers (33%), and how often you switch fingers and hands while typing (34%)."
 
