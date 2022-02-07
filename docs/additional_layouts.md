@@ -5,10 +5,10 @@ These are four level layouts:
 
 ![Keyboard character levels](images/lygiai.svg)
 
- 1. first level.
- 2. shifted second level.
+ 1. First level.
+ 2. Shifted second level.
  3. AltGr third level.
- 4. shifted AltGr fourth level.
+ 4. Shifted AltGr fourth level.
 
  ------------------------------------------------------------------------------------
 
