@@ -1,4 +1,4 @@
-# Comparative statistics of current and possible Lithuanian keyboard layouts
+# Comparative statistics of current and possible Lithuanian-English keyboard layouts
 
 + __Current Lithuanian keyboard layouts:__
 
