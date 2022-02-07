@@ -7,7 +7,7 @@ These are four level layouts:
  2. shifted second level
  3. AltGr third level
  4. shifted AltGr fourth level
- 
+
  ------------------------------------------------------------------------------------
 
 ## Germanic Ratise:
