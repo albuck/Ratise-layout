@@ -12,6 +12,13 @@ Vowels and consonants are distinguished for different hands. The more frequently
 
 ![Ratise layout](docs/images/kb_lt_ratise_viskas.svg)
 
+![Keyboard character levels](docs/images/lygiai.svg)
+
+   1. First level.
+   2. Shifted second level.
+   3. AltGr third level.
+   4. Shifted AltGr fourth level.
+
 + The specifications of this keyboard layout here: [txt](SPECIFICATIONS.txt)
 + [Comparative statistics of current and possible Lithuanian-English keyboard layouts](docs/layouts_statistics.md)
 + [Read more about "Ratise" layout (in Lithuanian)](README.md)
