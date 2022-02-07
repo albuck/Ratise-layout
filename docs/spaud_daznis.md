@@ -62,10 +62,6 @@ __Pirštų užimtumas:__
 + dešinysis mažasis — 15,3%
 
 
-## Aukščiau pateikti tekstai kartu:
-
-![Mygtukų naudojimas Ratisės išdėstyme renkant įvairius tekstus](images/mygt_naudojimas_bendrai.png)
-
 __Pastaba:__ paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
 -------------------------
