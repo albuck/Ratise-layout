@@ -2,7 +2,7 @@
 
 + __Posible Lithuanian keyboard layouts (written in italics) .__ Known English layouts with additional Lithuanian characters are added at the third level or, in the case of _Colemak LT Numeric_, at the top instead of the numbers, with some additional tweaks. _Lolemak LT_ is a _Colemak LT_ with several conversions (_R, S, A_ letters swapped). _Arietis_ is a layout obtained by trying to adapt _Ratisė_ to the English language (Lithuanian letters in the third-fourth level). _Ratisė Standard_ is a variant of the _Ratisė_ layout with numbers at the top and non-Lithuanian letters in the third level. The _Albuck LT_ and _Buckal LT_ layouts are an attempt to apply the _Ratisė_ development experience to English language and programming (layouts have Lithuanian characters at the third level), also with some more traditional approach.
 
-+ Data source: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
++ Data source: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
 
 + __Data presentation format:__ "Primacy". "Layout" — "layout rating points"
 
