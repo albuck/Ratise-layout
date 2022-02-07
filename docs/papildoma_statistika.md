@@ -22,11 +22,12 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 7. ĄŽERTY Lithuanian IBM (ANSI) — 46.94
 8. QWERTY LT Programmers+ (ANSI) — 44.90
 9. QWERTY Baltic+ (ANSI) — 43.92
+10. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
 
 __Šaltiniai:__
 
 + http://patorjk.com/keyboard-layout-analyzer/#/load/QkjszH6X
-+ http://patorjk.com/keyboard-layout-analyzer/#/load/M1j03hD0
++ http://patorjk.com/keyboard-layout-analyzer/#/load/LDjnPTM1
 
 ## Programavimo teksto skaidymas (bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’):
 
@@ -40,11 +41,12 @@ __Šaltiniai:__
 7. AŽERTY Lithuanian Standard (ANSI) — 36.39
 8. ĄŽERTY Lithuanian IBM (ANSI) — 35.64
 9. QWERTY Baltic+ (ANSI) — 34.66
+10. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 34.65
 
 __Šaltiniai:__
 
 + http://patorjk.com/keyboard-layout-analyzer/#/load/BRs69PCl
-+ http://patorjk.com/keyboard-layout-analyzer/#/load/44BHswnX
++ http://patorjk.com/keyboard-layout-analyzer/#/load/HV7Vtb6b
 + http://patorjk.com/keyboard-layout-analyzer/#/load/drQH0dDw
 
 ## Angliško grožinio teksto skaidymas (Alisa stebuklų šalyje, pirmasis skyrius):
@@ -56,12 +58,13 @@ __Šaltiniai:__
 5. LEKPa (ANSI) — 59.87
 6. QWERTY LT Programmers+ (ANSI) — 53.08
 7. QWERTY Baltic+ (ANSI) — 53.04
-8. ĄŽERTY Lithuanian IBM (ANSI) — 48.93
-9. AŽERTY Lithuanian Standard (ANSI) — 47.18
+8. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 50.85
+9. ĄŽERTY Lithuanian IBM (ANSI) — 48.93
+10. AŽERTY Lithuanian Standard (ANSI) — 47.18
 
 __Šaltiniai:__
 
-+ http://patorjk.com/keyboard-layout-analyzer/#/load/PFHTP2Wr
++ http://patorjk.com/keyboard-layout-analyzer/#/load/KtZNnmsJ
 + http://patorjk.com/keyboard-layout-analyzer/#/load/nHwDwm7s
 
 ## Angliško teksto skaidymas (Wikipedia “Physics”):
@@ -71,14 +74,15 @@ __Šaltiniai:__
 3. Dvorak LT (ANSI) — 63.54
 4. Programmer Colemak LT (ANSI) — 63.50
 5. LEKPa (ANSI) — 58.93
-6. QWERTY LT Programmers+ (ANSI) — 47.89
-7. QWERTY Baltic+ (ANSI) — 47.55
-8. ĄŽERTY Lithuanian IBM (ANSI) — 45.01
-9. AŽERTY Lithuanian Standard (ANSI) — 42.81
+6. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 49.27
+7. QWERTY LT Programmers+ (ANSI) — 47.89
+8. QWERTY Baltic+ (ANSI) — 47.55
+9. ĄŽERTY Lithuanian IBM (ANSI) — 45.01
+10. AŽERTY Lithuanian Standard (ANSI) — 42.81
 
 __Šaltiniai:__
 
-+ http://patorjk.com/keyboard-layout-analyzer/#/load/nsvNfXSB
++ http://patorjk.com/keyboard-layout-analyzer/#/load/ScKT975S
 + http://patorjk.com/keyboard-layout-analyzer/#/load/Gd9svxxW
 
 -----------------------------------------
