@@ -13,7 +13,7 @@ Vowels and consonants are distinguished for different hands. The more frequently
 ![Ratise layout](docs/images/kb_lt_ratise_viskas.svg)
 
 + The specifications of this keyboard layout here: [txt](SPECIFICATIONS.txt)
-+ [Comparative statistics of current and possible Lithuanian keyboard layouts](docs/layouts_statistics.md)
++ [Comparative statistics of current and possible Lithuanian-English keyboard layouts](docs/layouts_statistics.md)
 + [Read more about "Ratise" layout (in Lithuanian)](README.md)
 
 __Lithuanian Ratise Keyboard Layout drivers__ are available for _Windows, MacOS, Linux/Unix (xkb), Haiku_ operating systems:
