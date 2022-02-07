@@ -3,15 +3,15 @@
 
 ## Palyginami tokie lietuviški klaviatūrų išdėstymai:
 
-  __Ratisė (ŪĖYOQJ):__ 
+  __Ratisė (ŪĖYOQJ):__
    ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/ratise.png)
-   
+
   __LEKP (QGRLDČ):__
    ![Lithuanian Keyboard Layout LEKP (QGRLDČ)](images/lekp.png)
-   
+
   __Standard (ĄŽERTY):__
    ![Lithuanian Keyboard Layout Standard (ĄŽERTY)](images/standard.png)
-   
+
   __Baltic/Numeric (QWERTY):__
    ![Lithuanian Keyboard Layout Baltic/Numeric (QWERTY)](images/baltic.png)
 
