@@ -12,10 +12,10 @@ Mygtukų paspaudimo pirštais būdas yra toks pat kaip ir grojant fortepijonu: p
 Pradedant mokytis spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį, atsispausdintą ar ant ekrano.
 
 Pasirinkite paveikslėlį pagal savo turimą klaviatūrą:
-  - 105 mygtukų klaviatūra, europietiškas ISO: [svg](images/kb_lt_ratise.svg), [pdf](images/kb_lt_ratise.pdf), [spalvotas svg](images/ratise_spaudotvarka.svg), [spalvotas pdf](images/ratise_spaudotvarka.pdf), [nespalvotas png](images/lek_ratise_layout.png);
-  - 104 mygtukų klaviatūra, amerikietiškas ANSI: [svg](images/kb_lt_ratise_104_ansi.svg), [pdf](images/kb_lt_ratise_104_ansi.pdf);
-  - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’): [svg](images/kb_lt_ratise_104_2.svg), [pdf](images/kb_lt_ratise_104_2.pdf);
-  - 104 mygtukų klaviatūra (ISO be 105-to mygtuko): [svg](images/kb_lt_ratise_104_3.svg), [pdf](images/kb_lt_ratise_104_3.pdf);
+  - 105 mygtukų klaviatūra, europietiškas ISO: [svg](images/kb_lt_ratise.svg), [nespalvotas pdf](images/kb_lt_ratise.pdf), [spalvotas svg](images/ratise_spaudotvarka.svg), [spalvotas pdf](images/ratise_spaudotvarka.pdf), [nespalvotas png](images/lek_ratise_layout.png), [su visais ženklais svg](images/kb_lt_ratise_viskas.svg);
+  - 104 mygtukų klaviatūra, amerikietiškas ANSI: [svg](images/kb_lt_ratise_104_ansi.svg), [nespalvotas pdf](images/kb_lt_ratise_104_ansi.pdf);
+  - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’): [svg](images/kb_lt_ratise_104_2.svg), [nespalvotas pdf](images/kb_lt_ratise_104_2.pdf);
+  - 104 mygtukų klaviatūra (ISO be 105-to mygtuko): [svg](images/kb_lt_ratise_104_3.svg), [nespalvotas pdf](images/kb_lt_ratise_104_3.pdf);
 
 Pačią klaviatūrą gerai apžiūrėkite ir apčiupinėkite. Pasidėkite klaviatūrą taip, kad būtų patogu spausdinti ja. Apčiuopomis pajuskite mygtukus, paspaudinėkite juos, smiliais raskite esančius ant __A__ ir __R__ mygtukų kauburiukus — jūsų rankų pirštų pagrindinės padėties gaires.
 
