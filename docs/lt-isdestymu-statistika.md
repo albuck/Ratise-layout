@@ -107,6 +107,13 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 
 ## Programavimo kalbų teksto skaidymas:
 
++ [Keyboard Layout Analyzer: ‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/w95Sqrdr)
+
+   1. __Ratise (ISO) — 46.95__
+   2. LT Standard 2000 (ISO) — 34.29
+   3. QWERTY Baltic+ (ISO) — 22.23
+   4. LEKP (ISO) — 22.14
+
 + [Keyboard Layout Analyzer: ‘HTML, JavaScript’](http://patorjk.com/keyboard-layout-analyzer/#/load/H5lW3zvN)
 
    1. __Ratise (ISO) — 45.88__
@@ -139,7 +146,7 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir _Baltic+_ išdėstymai prastai pasirodo ir lietuviškuose, ir angliškuose, ir programavimo tekstuose.
 + [LT Standard 2000](https://www.registrucentras.lt/litwin/kbdlts.gif) ir _Baltic+_ išdėstymuose dažnai dažniau reikalingi ženklai išdėstyti toliau nuo pagrindinės pirštų padėties, daug dažniau kai kuriems pirštams tenka iš eilės spaudinėti vėl mygtukus, pirštai nueina didesnį atstumą spausdindami, kai kurie pirštai yra perkrauti darbu ne pagal jų pajėgumą. Ženklai šiuose išdėstymuose išdėstyti netvarkingai: visiškai neatsižvelgta nei į pirštų pajėgumą, nei į teksto rinkimo ritmą, nei į raidžių dažnumą ir eiliškumą žodžiuose.
 
-__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis _QWERTY Baltic+ (ISO)_, čia, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
+__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis _QWERTY Baltic+ (ISO)_, čia, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito. ‘Programming Punctuation Torture Test’ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 
 ### Kiti išdėstymų pirvalumai:
 + _Ratisės_ išdėstymas turi tvarkingai išdėstytus ženklus, todėl yra lengviau ir greičiau įsimenamas.
