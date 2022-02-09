@@ -3,14 +3,14 @@
 
 Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
 
-![Ratisės išdėstymas su visais ženklais](images/kb_lt_ratise_viskas.svg)
+![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
-+ [Valdymo mygtukų ženkliukai ir pavadinimai](valdymo_mygtukai.md)
++ [Valdymo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
 
 
 __Spaudų išdėstymo lygiai:__
 
-![Išdėstymo lygiai](images/lygiai.svg)
+![Išdėstymo lygiai](images/zenklu-lygiai.svg)
 
 + 1 — Pagrindinis, pirmasis lygis;
 + 2 — ⇧ antrasis, ‘Shift’ lygis;
