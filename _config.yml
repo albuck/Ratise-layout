@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
-title: Klaviatūros išdėstymas Ratisė
+title: Ratisė
 description: <em>Lietuviškas ergonomiškas klaviatūros išdėstymas.<br>Lithuanian Ergonomic Keyboard Layout.</em>
 show_downloads: true
 lang: lt_LT
