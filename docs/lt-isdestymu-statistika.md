@@ -126,7 +126,7 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    3. QWERTY Baltic+ (ISO) — 43.25
    4. LT Standard 2000 (ISO) — 38.98
 
-    + Kai kuriuose angliškuose tekstuose _LEKP_ pasirodo kiek geriau nei _Ratisė_.
+  __Pastaba:__ kai kuriuose angliškuose tekstuose _LEKP_ pasirodo kiek geriau nei _Ratisė_.
 
 ## Programavimo kalbų teksto skaidymas:
 
