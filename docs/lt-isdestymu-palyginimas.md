@@ -116,7 +116,7 @@ __Išsamiau:__
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Kinesis Advantage Colemak, Ergodox Workman Cub, Ergodox QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/BRzmwhqP)
 
 
-Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėtymas](images/ratise-kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
+Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/ratise-kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 -------------------------
 __Papildymas:__ [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika](lt-isdestymu-statistika.md)
