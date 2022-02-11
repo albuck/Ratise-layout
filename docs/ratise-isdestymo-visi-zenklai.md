@@ -210,7 +210,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 1. Mažoji ė
 2. Didžioji Ė
 3. Kairysis laužtinis skliaustas ([)
-4. Tęsties mygtukų ženklas „Žiedelis viršuje“ (˚ )
+4. Tęsties mygtukų ženklas „Žiedelis viršuje“ (˚)
 
 ### Y mygtukas
 
