@@ -35,7 +35,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 ### Brūkšnelio mygtukas
 
 1. Brūkšnelis-minusas (-)
-2. N-pločio brūkšnys (–)
+2. N-pločio (pusilgis) brūkšnys (–)
 3. Uždėtinis taškas _̇
 4. Nepertraukiamasis brūkšnelis (‑)
 
