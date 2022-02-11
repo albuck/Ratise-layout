@@ -357,7 +357,7 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 ### Žambo mygtukas
 
 1. Žambas (įžambus brūkšnys) (/)
-2. Atžambis (atvirkštinis žambas) (\)
+2. Atžambis (atvirkštinis žambas) (\\)
 3. Dalybos ženklas (÷)
 4. Dvilazdis, dvigubas stačias brūkšnys (‖)
 
