@@ -70,7 +70,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 
 ## Priedai:
-+ [Ratisės išdėstymo visi ženklai](ratise-isdestymo-visi-zenklai.md)
++ [Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
 + [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
 -------------------------
