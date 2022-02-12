@@ -19,7 +19,7 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 ![Lietuviškas klaviatūros išdėstymas Ratisė](images/lt-ratise-isdestymas.svg)
 
-+ [Ratisės išdėstymo visi ženklai viename paveikslėlyje](ratise-isdestymo-visi-zenklai.md)
++ [Ratisės išdėstymo visi ženklai viename paveikslėlyje](ratise-isdestymo-zenklai.md)
 
 Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
