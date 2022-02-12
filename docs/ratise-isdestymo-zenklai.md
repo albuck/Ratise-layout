@@ -1,5 +1,5 @@
 
-# Ratisės išdėstymo visi ženklai
+# Ratisės išdėstymo ženklai
 
 Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
 
