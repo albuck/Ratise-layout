@@ -33,7 +33,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
 
-   - [Ratisės išdėstymo visi ženklai](docs/ratise-isdestymo-visi-zenklai.md)
+   - [Ratisės išdėstymo ženklai](docs/ratise-isdestymo-zenklai.md)
 
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spausdinimo-visais-pirstais-tvarka.md)
 
@@ -45,7 +45,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 - [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/ratises-trukumu-apejimas.md)
 
-- [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/ratises-mygtuku-spaudeliojimo-daznumai.md)
+- [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/mygtuku-spaudeliojimo-daznumai.md)
 
 - [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/lt-isdestymu-palyginimas.md)
    
