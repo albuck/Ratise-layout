@@ -9,7 +9,7 @@ Tai yra vidutiniai didesnio ėminio skaičiai, atskiruose tekstuose jie kažkiek
 
 Antras atsižvelgtinas dalykas yra žodžių skyrybos ženklų vartosena, kuri taip pat, vėlgi, kažkiek įvairuos skirtinguose tekstuose.
 
-Akivaizdu, kad [spausdinant visais pirštais](spausdinimo-visais-pirstais-tvarka.md) patogesnis bus tas klaviatūros išdėstymas, kuriame dažniau naudojamos raidės bei dažnesni skyrybos ženklai yra patogesnėje, lengviau ir greičiau pasiekiamoje vietoje.
+Tad, akivaizdu, kad [spausdinant visais pirštais](spausdinimo-visais-pirstais-tvarka.md) patogesnis bus tas klaviatūros išdėstymas, kuriame dažniau naudojamos raidės bei dažnesni skyrybos ženklai yra patogesnėje, lengviau ir greičiau pasiekiamoje vietoje.
 
 Žemiau pateikiami paveikslėliai su Ratisės išdėstymo klaviatūros mygtukų naudojimo dažnumu spausdinant tam tikrą tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
