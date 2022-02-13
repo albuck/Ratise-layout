@@ -1,7 +1,7 @@
 
 # RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
 
-Mygtukų (klavišų) paspaudimo dažnumas yra apspręstas raidžių dažnumo lietuviškame rašte ([iasteourknlpmdvjėgšbžyųąįūčęczhf](lt-raidziu-daznumas.txt)):
+Mygtukų (klavišų) paspaudimo dažnumas yra apspręstas raidžių dažnumo lietuviškame rašte ([iastoeurknlmpdvėjgšbyžųąįūčęzcfh](lt-raidziu-daznumas.txt)):
 
 __i__ — 12.99%; __a__ — 11.68%; __s__ — 7.96%; __t__ — 5.60%; __o__ — 5.53%; __e__ — 5.33%; __u__ — 5.33%; __r__ — 5.12%; __k__ — 5.11%; __n__ — 4.92%; __l__ — 3.15%; __m__ — 3.12%; __p__ — 3.09%; __d__ — 2.74%; __v__ — 2.48%; __ė__ — 2.16%; __j__ — 2.08%; __g__ — 1.96%; __š__ — 1.68%; __b__ — 1.41%; __y__ — 1.08%; __ž__ — 1.05%; __ų__ — 0.87%; __ą__ — 0.85%; __į__ — 0.76%; __ū__ — 0.55%; __č__ — 0.44%; __ę__ — 0.38%; __z__ — 0.20%; __c__ — 0.17%; __f__ — 0.13%; __h__ — 0.08%.
 
