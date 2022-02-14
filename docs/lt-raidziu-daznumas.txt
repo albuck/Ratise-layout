@@ -3,9 +3,7 @@ Raidžių dažnumas lietuviškame rašte:
 
 Didžiosios ir mažosios raidės šičia skaičiavimuose neskiriamos.
 
-
 Pastaba. Raidžių dažnumas kiek svyruoja skirtingų rašytojų darbuose.
-
 
 
 ### 1)
@@ -51,7 +49,6 @@ h — 0 — 0
 Viso: 12886 — 100%
 
 
-
 ### 2)
 
 Jonas Biliūnas — Brisiaus galas
@@ -93,7 +90,6 @@ h — 0 — 0
 f — 0 — 0
 
 Viso: 3656 — 100%
-
 
 
 ### 3)
@@ -139,7 +135,6 @@ h — 2 — 0
 Viso: 363900 — 100%
 
 
-
 ### 4)
 
 Kazys Boruta — Baltaragio malūnas, arba Kas dėjosi anuo metu Paudruvės krašte
@@ -183,7 +178,6 @@ f — 9 — 0
 Viso: 272143 — 100%
 
 
-
 ### 5)
 
 Vytautas Rinkevičius — Elektra ir magnetizmas
@@ -225,7 +219,6 @@ z — 722 — 00.32%
 h — 265 — 00.11%
 
 Viso: 224238 — 100%
-
 
 
 ### 6)
@@ -318,7 +311,6 @@ q — 29 — ~
 ō — 1 — ~
 
 Viso: 1232455 — 100% — (1069117 — 100%)
-
 
 
 ### 7)
@@ -431,4 +423,4 @@ Vytautė Žilinskaitė — Nebijokė
 Vladas Dautartas — Žydrieji Jungos
 Zigmas Stankus — Kaip Tampama Albinosais
 Walter Isaacson — Steve Jobs
-
+---
