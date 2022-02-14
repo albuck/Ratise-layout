@@ -376,6 +376,8 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 4. Apverstas klaustukas (¿)
 
 -------------------------
-__Priedas:__ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
+__Priedai:__
++ [Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
++ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
 
 + [Į pradžią](../README.md)
