@@ -1,11 +1,11 @@
 
 # RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
 
-Mygtukų (klavišų) paspaudimo dažnumas yra iš anksto apspręstas raidžių dažnumo lietuviškame rašte (_iasteourknlpmdvjėgšbžyųąįūčęczhf_):
+Mygtukų (klavišų) paspaudimo dažnumas yra iš anksto apspręstas raidžių dažnumo lietuviškame rašte ([iasteourknlpmdvjėgšbžyųąįūčęczhf](lt-raidziu-daznumas.txt)):
 
 __i__ — 13,03%; __a__ — 11,97%; __s__ — 8,01%; __t__ — 5,58%; __e__ — 5,38%; __o__ — 5,38%; __u__ — 5,19%; __r__ — 5,10%; __k__ — 4,96%; __n__ — 4,82%; __l__ — 3,23%; __p__ — 3,05%; __m__ — 2,96%; __d__ — 2,67%; __v__ — 2,48%; __j__ — 2,19%; __ė__ — 2,16%; __g__ — 2,02%; __š__ — 1,65%; __b__ — 1,50%; __ž__ — 1,15%; __y__ — 1,11%; __ų__ — 0,90%; __ą__ — 0,86%; __į__ — 0,72%; __ū__ — 0,50%; __č__ — 0,44%; __ę__ — 0,36%; __c__ — 0,15%; __z__ — 0,14%; __h__ — 0,09%; __f__ — 0,09%.
 
-Tai yra vidutiniai didesnio ėminio skaičiai, atskiruose tekstuose jie kažkiek svyruos.
+Tai yra didesnio ėminio skaičiai, atskiruose tekstuose jie kažkiek svyruos.
 
 Antras atsižvelgtinas dalykas yra žodžių skyrybos ženklų vartosena, kuri taip pat, vėlgi, kažkiek įvairuos skirtinguose tekstuose.
 
