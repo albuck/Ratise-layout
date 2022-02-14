@@ -19,7 +19,7 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 4. LEKPa (ANSI) — 58.12
 5. _Buckal LT (ANSI) — 57.43_
 6. _Albuck LT (ANSI) — 57.21_
-7. _Lolemak LT (ANSI) — 56. 80_
+7. _Lolemak LT (ANSI) — 56.80_
 8. _Colemak LT Numeric (ANSI) — 55.80_
 9. _Colemak LT (ANSI) — 54.78_
 10. _Programmer Colemak LT (ANSI) — 54.52_
