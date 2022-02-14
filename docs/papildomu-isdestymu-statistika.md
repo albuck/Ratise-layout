@@ -76,7 +76,7 @@ __Šaltiniai:__
 7. _Dvorak LT (ANSI) — 65.83_
 8. _Arietis (ANSI) — 64.78_
 9. __Ratise (ANSI) — 62.47__
-10. _Ratise Standand (ANSI) — 61.62_
+10. _Ratise Standard (ANSI) — 61.62_
 11. LEKPa (ANSI) — 59.87
 12. QWERTY LT Programmers+ (ANSI) — 53.08
 13. QWERTY Baltic+ (ANSI) — 53.04
