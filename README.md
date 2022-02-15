@@ -48,10 +48,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/mygtuku-spaudeliojimo-daznumai.md)
 
 - [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/lt-isdestymu-palyginimas.md)
-   
-   - [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika](docs/lt-isdestymu-statistika.md)
-   - [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](docs/lt-isdestymu-statistines-lenteles.md)
-   - [Papildomų esamų ir galimų lietuviškų klaviatūros išdėstymų palyginamoji statistika](docs/papildomu-isdestymu-statistika.md)
 
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 
