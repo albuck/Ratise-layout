@@ -377,5 +377,6 @@ __Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wik
 
 -------------------------
 
-+ [Spausdinimo visais pirštais tvarka](spausdinimo-visais-pirstais-tvarka.md)
-+ [Į pradžią](../README.md)
+[Spausdinimo visais pirštais tvarka](spausdinimo-visais-pirstais-tvarka.md)
+
+[Į pradžią](../README.md)
