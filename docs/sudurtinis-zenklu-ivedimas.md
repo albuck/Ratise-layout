@@ -13,6 +13,8 @@ Plačiau apie sudurtinį įvedimą (angliškai):
 - [Compose key (Wikipedia)](https://en.wikipedia.org/wiki/Compose_key)
 - [ComposeKey (help.ubuntu.com)](https://help.ubuntu.com/community/ComposeKey)
 
+
 -----------------------------------------
 
++ [Ratisės išdėstymo trūkumai ir jų apėjimo būdai](ratises-trukumu-apejimas.md)
 + [Į pradžią](../README.md)
