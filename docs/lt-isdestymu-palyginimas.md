@@ -118,6 +118,8 @@ __Išsamiau:__
 
 Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/ratise-kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
+
 -------------------------
 
++ [Spausdinimo klaviatūra patogumas, našumas bei sveikata](spausdinimo-klaviatura-patogumas.md)
 + [Į pradžią](../README.md)
