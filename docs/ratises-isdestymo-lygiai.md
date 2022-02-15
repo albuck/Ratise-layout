@@ -69,10 +69,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 ![Ratisės Didžiųjų raidžių įjungimas](images/kb-lt-ratise-didzios.svg)
 
 
-## Priedai:
-+ [Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
-+ [Išsamus darybinis išdėstymo ženklų aprašas (tekstinė byla, angliškai)](../SPECIFICATIONS.txt)
-
 -------------------------
 
++ [Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
 + [Į pradžią](../README.md)
