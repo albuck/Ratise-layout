@@ -5,7 +5,7 @@
 
   __Ratisė (ŪĖYOQJ):__
 
-   ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/ratise-iso.svg)
+   ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/ueyoqj-ratise-iso.svg)
 
   __LEKP (QGRLDČ):__
 
