@@ -125,4 +125,6 @@ U`u` U´u´ U˜u˜
 ```
 
 ---------------------------------------------------------------------------------------------------
+
++ [Sudurtinis ženklų įvedimas](sudurtinis-zenklu-ivedimas.md)
 + [Į pradžią](../README.md)
