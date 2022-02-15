@@ -29,4 +29,5 @@ __Pastabos.__ Spausdinimo klaviatūra mokymo programėlės, dažniausiai, netink
 
 -------------------------
 
++ [Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md)
 + [Į pradžią](../README.md)
