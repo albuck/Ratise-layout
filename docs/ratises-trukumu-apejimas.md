@@ -1,7 +1,7 @@
 
 # RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 
-__Lietuviška klaviatūra su Ratisės išdėstymu:__
+__Lietuviška klaviatūra su Ratisės išdėstymu (viduryje pilkšvi QWERTY išdėstymo spaudai):__
 ![Ratisės išdėstymo klaviatūra](images/kb-lt-ratise-ueyoqj-qwerty.svg)
 
 1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ‘⇮ AltGr’__.
