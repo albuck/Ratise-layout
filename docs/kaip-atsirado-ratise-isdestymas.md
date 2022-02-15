@@ -49,7 +49,7 @@ __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanav
 
 Daugiau skaičių:
 
-+ [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamoji statistika](lt-isdestymu-statistika.md)
++ [Lietuviškų klaviatūros išdėstymų našumo palyginimas](lt-isdestymu-palyginimas.md)
 
 -------------------------
 
