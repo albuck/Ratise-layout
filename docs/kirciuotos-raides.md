@@ -124,7 +124,9 @@ U`u` U´u´ U˜u˜
 Ū´ū´ Ū˜ū˜
 ```
 
+
 ---------------------------------------------------------------------------------------------------
 
-+ [Sudurtinis ženklų įvedimas](sudurtinis-zenklu-ivedimas.md)
-+ [Į pradžią](../README.md)
+[Sudurtinis ženklų įvedimas](sudurtinis-zenklu-ivedimas.md)
+
+[Į pradžią](../README.md)
