@@ -20,6 +20,6 @@ Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunk
 
 --------------------------------------------------------------------
 
-+ [Kaip ir kodėl atsirado Ratisės išdėstymas](kaip-atsirado-ratise-isdestymas.md)
-+ [Į pradžią](../README.md)
+[Kaip ir kodėl atsirado Ratisės išdėstymas](kaip-atsirado-ratise-isdestymas.md)
 
+[Į pradžią](../README.md)
