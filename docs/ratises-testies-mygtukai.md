@@ -659,9 +659,9 @@ z → ǯ (LOTYNŲ MAŽOJI RAIDĖ EZH SU VARNELE)
 ž → ʒ (LOTYNŲ MAŽOJI RAIDĖ EZH)
 ```
 
+
 -------------------------
 
-+ [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md)
-+ [Į pradžią](../README.md)
+[Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md)
 
-
+[Į pradžią](../README.md)
