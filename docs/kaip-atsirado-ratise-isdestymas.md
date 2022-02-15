@@ -1,7 +1,7 @@
 
 # KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS
 
-Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais ([lietuvišku standartiniu išdėstymu](images/standard.png), jis ne ką geresnis už [Baltic/Numeric](images/baltic.png)), nežiūrint į klaviatūrą, susidūriau su dideliais nepatogumais ir netgi pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po visą klaviatūrą, ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi ne pagal jėgas persidirba (pvz.: kairysis mažasis). Toks išdėstymas neturi jokios logikos ir sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į [VLKK](http://www.vlkk.lt/) diskusijas (panaikintos). Kur ir užsimezgė būsimoji Ratisė:
+Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais ([lietuvišku standartiniu išdėstymu](https://www.registrucentras.lt/litwin/kbdlts.gif), jis ne ką geresnis už [Baltic/Numeric](https://www.registrucentras.lt/litwin/kbdlt1.gif)), nežiūrint į klaviatūrą, susidūriau su dideliais nepatogumais ir netgi pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po visą klaviatūrą, ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi ne pagal jėgas persidirba (pvz.: kairysis mažasis). Toks išdėstymas neturi jokios logikos ir sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į [VLKK](http://www.vlkk.lt/) diskusijas (panaikintos). Kur ir užsimezgė būsimoji Ratisė:
 
 + [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
 
@@ -23,21 +23,21 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
-+ Lyginant su [QWERTY Baltic/Numeric](images/baltic.png), spausdinant Ratise:
++ Lyginant su [QWERTY Baltic/Numeric](https://www.registrucentras.lt/litwin/kbdlt1.gif), spausdinant Ratise:
 
    - 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
    - 1,5 karto pirštai eis mažesnį atstumą.
 
-+ Lyginant su [Lithuanian Standard](images/standard.png), spausdinant Ratise:
++ Lyginant su [Lithuanian Standard](https://www.registrucentras.lt/litwin/kbdlts.gif), spausdinant Ratise:
 
    - 3,6 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
    - 1,4 karto pirštai eis mažesnį atstumą.
 
-+ Lyginant su [LEKP](images/lekp.png), spausdinant Ratise:
++ Lyginant su [LEKP](https://lekp.info/images/lekp.png), spausdinant Ratise:
 
    - 1,8 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 1,9 karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
