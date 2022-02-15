@@ -5,19 +5,19 @@
 
   __Ratisė (ŪĖYOQJ):__
 
-   ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/ratise.png)
+   ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/kb-lt-ratise.svg)
 
   __LEKP (QGRLDČ):__
 
-   ![Lithuanian Keyboard Layout LEKP (QGRLDČ)](images/lekp.png)
+   ![Lithuanian Keyboard Layout LEKP (QGRLDČ)](https://lekp.info/images/lekp.png)
 
   __Standard (ĄŽERTY):__
 
-   ![Lithuanian Keyboard Layout Standard (ĄŽERTY)](images/standard.png)
+   ![Lithuanian Keyboard Layout Standard (ĄŽERTY)](https://www.registrucentras.lt/litwin/kbdlts.gif)
 
   __Baltic/Numeric (QWERTY):__
 
-   ![Lithuanian Keyboard Layout Baltic/Numeric (QWERTY)](images/baltic.png)
+   ![Lithuanian Keyboard Layout Baltic/Numeric (QWERTY)](https://www.registrucentras.lt/litwin/kbdlt1.gif)
 
 + Duomenys imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
 
