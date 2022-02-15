@@ -47,7 +47,7 @@ Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir sprę
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ skaidymo. Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
 
 
-Išsamiau:
+__Išsamiau:__
 
 + [Lietuviškų klaviatūros išdėstymų našumo palyginimas](lt-isdestymu-palyginimas.md)
 
