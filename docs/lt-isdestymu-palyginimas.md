@@ -121,5 +121,6 @@ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpask
 
 -------------------------
 
-+ [Spausdinimo klaviatūra patogumas, našumas bei sveikata](spausdinimo-klaviatura-patogumas.md)
-+ [Į pradžią](../README.md)
+[Spausdinimo klaviatūra patogumas, našumas bei sveikata](spausdinimo-klaviatura-patogumas.md)
+
+[Į pradžią](../README.md)
