@@ -28,6 +28,6 @@ __Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu (viduryje pilkšvi QW
 
 ----------------------------------------------
 
-+ [Ratisės mygtukų spaudeliojimo dažnumai](mygtuku-spaudeliojimo-daznumai.md)
-+ [Į pradžią](../README.md)
+[Ratisės mygtukų spaudeliojimo dažnumai](mygtuku-spaudeliojimo-daznumai.md)
 
+[Į pradžią](../README.md)
