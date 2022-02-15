@@ -54,4 +54,6 @@ __Išsamiau:__
 
 -------------------------
 
+[↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
+
 [Į pradžią](../README.md)
