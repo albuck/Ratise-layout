@@ -3,10 +3,10 @@
 
 + __Palyginti tokie lietuviški klaviatūrų išdėstymai:__
 
-  + [Ratisė (ŪĖYOQJ)](images/kb-lt-ratise.svg)
-  + [LEKP (QGRLDČ)](https://lekp.info/images/lekp.png)
-  + [Standard (ĄŽERTY)](https://www.registrucentras.lt/litwin/kbdlts.gif)
-  + [Baltic/Numeric (QWERTY)](https://www.registrucentras.lt/litwin/kbdlt1.gif)
+  + [Ratisė (ŪĖYOQJ)](images/lt-ueyoqj-ratise-iso.svg)
+  + [LEKP (QGRLDČ)](images/lt-qgrldc-lekp-iso.svg)
+  + [Standard (ĄŽERTY)](images/lt-azerty-standard-iso.svg)
+  + [Baltic/Numeric (QWERTY)](images/lt-qwerty-baltic-numeric-iso.svg)
 
 
 + Tikrintas tekstas: Lietuviškos pasakos (iš Basanavičiaus rinkinio).
