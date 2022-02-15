@@ -71,5 +71,6 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 -------------------------
 
-+ [Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
-+ [Į pradžią](../README.md)
+[Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
+
+[Į pradžią](../README.md)
