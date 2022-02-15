@@ -3,19 +3,19 @@
 
 ## Palyginami tokie lietuviški klaviatūrų išdėstymai:
 
-  __Ratisė (ŪĖYOQJ):__
+  __ŪĖYOQJ-Ratisė:__
 
    ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/lt-ueyoqj-ratise-iso.svg)
 
-  __LEKP (QGRLDČ):__
+  __QGRLDČ-Lekp:__
 
    ![Lithuanian Keyboard Layout LEKP (QGRLDČ)](images/lt-qgrldc-lekp-iso.svg)
 
-  __Standard (ĄŽERTY):__
+  __ĄŽERTY-Standard:__
 
    ![Lithuanian Keyboard Layout Standard (ĄŽERTY)](images/lt-azerty-standard-iso.svg)
 
-  __Baltic/Numeric (QWERTY):__
+  __QWERTY-Baltic/Numeric:__
 
    ![Lithuanian Keyboard Layout Baltic/Numeric (QWERTY)](images/lt-qwerty-baltic-numeric-iso.svg)
 
