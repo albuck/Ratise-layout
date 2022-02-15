@@ -17,7 +17,9 @@ __Pastaba:__ ne visos klaviatūros kurios užsivadina ergonomiškomis yra pilnai
 
 Spausdinant yra svarbu, kad rankoms būtų patogu. Ypatingai venkite ilgai trunkančių ar dažnų nepatogių riešo padėčių spausdinant: plaštakos užlaužimų per riešą į šonus, plaštakos per riešą užlaužimų į apačią ar į viršų (kurių išvengiama tinkamai susiderinant klaviatūros palinkimą). Ilgalaikės nepatogiai pakreiptos plaštakos padėtys spausdinant gali sukelti riešų skausmus.
 
+
 --------------------------------------------------------------------
 
++ [Kaip ir kodėl atsirado Ratisės išdėstymas](kaip-atsirado-ratise-isdestymas.md)
 + [Į pradžią](../README.md)
 
