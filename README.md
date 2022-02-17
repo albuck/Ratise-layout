@@ -50,7 +50,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
 
-
 ## Ergonomiškos klaviatūros:
 
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
@@ -63,3 +62,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
 
+## Kiti naudingi klaviatūrų naudotojų ištekliai:
+
+- [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
