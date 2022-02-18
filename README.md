@@ -62,7 +62,10 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
 
-## Naudingi angliškų klaviatūrų naudotojų ištekliai:
+## Kiti naudingi ištekliai:
 
+- [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+- [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
+- [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html)
 - [Keyboard layouts](https://deskthority.net/wiki/Keyboard_layouts)
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
