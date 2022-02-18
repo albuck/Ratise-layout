@@ -65,3 +65,4 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 ## Naudingi angliškų klaviatūrų naudotojų ištekliai:
 
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
+- [Keyboard layouts](https://deskthority.net/wiki/Keyboard_layouts)
