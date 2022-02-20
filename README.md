@@ -63,3 +63,5 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html)
 - [Keyboard layouts](https://deskthority.net/wiki/Keyboard_layouts)
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
+- [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
+- [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis)
