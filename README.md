@@ -56,6 +56,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Lietuviški klaviatūrų išdėstymai (registrucentras.lt)](https://www.registrucentras.lt/litwin/keyboard.html)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
+- [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
 
 ## Kiti naudingi ištekliai:
