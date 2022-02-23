@@ -38,7 +38,7 @@ __Išsamiau:__
  - [Ratise (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/B0dlW15Z)
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), Lithuanian Ergonomic 1989 (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/L0z41KdL)
  - [Ratise (Kinesis Advantage), Ratise (ISO), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/DMfl1WBV)
- - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/2VJDGn0P)
+ - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/l6LcJ7Rd)
 
 
 #### Ir kirčiuotas uždėtinėmis priegaidėmis šio teksto gabalėlis:
