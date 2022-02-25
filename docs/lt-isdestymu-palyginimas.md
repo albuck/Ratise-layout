@@ -129,7 +129,7 @@ __Išsamiau:__
  - [Ratise (ANSI), Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/vLP0LwMh)
 
 
-__Pastaba.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/ratise-kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
+__Pastaba.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 
 -------------------------
