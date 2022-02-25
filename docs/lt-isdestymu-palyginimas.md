@@ -105,16 +105,17 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
 14. _Programmer Dvorak (ANSI) — 40.63_
 15. LEKPa (ANSI) — 40.11
 16. _Simplified Dvorak (ANSI) — 38.03_
-17. QWERTY Lithuanian (ISO) — 36.44
-18. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 36.39
-19. _QWERTY (ANSI) — 36.39_
-20. _Ergodox QWERTY (Kinesis Advantage) — 36.27_
-21. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.64
-22. QWERTY Baltic/Numeric (ANSI) — 34.66
-23. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 34.65
-24. QWERTY LEKP Baltic+ (ISO) — 34.08
-25. QWERTY Baltic/Numeric (ISO) — 33.09
-26. _QWERTY-Programmer (ANSI) — 31.58_
+17. QWERTY Lithuanian (Programmers) (ANSI) — 36.56
+18. QWERTY Lithuanian (ISO) — 36.44
+19. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 36.39
+20. _QWERTY (ANSI) — 36.39_
+21. _Ergodox QWERTY (Kinesis Advantage) — 36.27_
+22. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.64
+23. QWERTY Baltic/Numeric (ANSI) — 34.66
+24. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 34.65
+25. QWERTY LEKP Baltic+ (ISO) — 34.08
+26. QWERTY Baltic/Numeric (ISO) — 33.09
+27. _QWERTY-Programmer (ANSI) — 31.58_
 
 
 __Išsamiau:__
