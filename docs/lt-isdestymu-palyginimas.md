@@ -87,7 +87,7 @@ __Išsamiau:__
 
 ### Bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’:
 
-_(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai)_
+_(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai, spaudžiamų mygtukų skiltys patikroje nekeistos)_
 
 1. __Ratise (Kinesis Advantage) — 54.76__
 2. LEKP (Kinesis Advantage) — 52.85
@@ -129,7 +129,7 @@ __Išsamiau:__
  - [Ratise (ANSI), Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/vLP0LwMh)
 
 
-Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/ratise-kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
+__Pastaba.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/ratise-kinesis-ergodox.png) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
 
 -------------------------
