@@ -87,7 +87,7 @@ __Išsamiau:__
 
 ### Bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’:
 
-_(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai, spaudžiamų mygtukų skiltys patikroje nekeistos)_
+_(čia papildomai palyginimui įtraukti ir žinomesni angliški išdėstymai, pirštų spaudžiamų mygtukų skiltys patikroje nekeistos)_
 
 1. __Ratise (Kinesis Advantage) — 54.76__
 2. LEKP (Kinesis Advantage) — 52.85
