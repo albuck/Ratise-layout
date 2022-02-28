@@ -37,7 +37,7 @@ Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir sprę
    - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
    - 1,4 karto pirštai eis mažesnį atstumą.
 
-+ Lyginant su [LEKP](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-qgrldc-lekp-iso.svg), spausdinant Ratise:
++ Lyginant su [LEKP](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-qgrldc-lekp-iso.svg), spausdinant [Ratise](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-ueyoqj-ratise-iso.svg):
 
    - 1,8 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 1,9 karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
