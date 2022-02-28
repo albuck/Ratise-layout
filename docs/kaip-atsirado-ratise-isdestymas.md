@@ -23,14 +23,14 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
-+ Lyginant su [QWERTY Baltic/Numeric](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-qwerty-baltic-numeric-iso.svg), spausdinant Ratise:
++ Lyginant su [QWERTY Baltic/Numeric](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-qwerty-baltic-numeric-iso.svg), spausdinant [Ratise](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-ueyoqj-ratise-iso.svg):
 
    - 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
    - 1,5 karto pirštai eis mažesnį atstumą.
 
-+ Lyginant su [Lithuanian Standard](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-azerty-standard-iso.svg), spausdinant Ratise:
++ Lyginant su [Lithuanian Standard](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-azerty-standard-iso.svg), spausdinant [Ratise](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-ueyoqj-ratise-iso.svg):
 
    - 3,6 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
