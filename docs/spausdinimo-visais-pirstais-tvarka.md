@@ -19,7 +19,7 @@ Arba pasirinkite paveikslėlį su daugiau ženklų pagal savo turimą klaviatūr
   - 104 mygtukų klaviatūra, amerikietiškas ANSI: [svg](images/kb-lt-ratise-104-ansi.svg), [nespalvotas pdf](images/kb-lt-ratise-104-ansi.pdf);
   - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’): [svg](images/kb-lt-ratise-104-b.svg), [nespalvotas pdf](images/kb-lt-ratise-104-b.pdf);
   - 104 mygtukų klaviatūra (ISO be 105-to mygtuko): [svg](images/kb-lt-ratise-104-c.svg), [nespalvotas pdf](images/kb-lt-ratise-104-c.pdf);
-  - stačiakampio mygtukų išdėstymo klaviatūra (Kinesis/Ergodox): [svg](images/kb-lt-ratise-kinesis-ergodox.svg).
+  - stačiakampio mygtukų išdėstymo klaviatūra (Kinesis/Ergodox): [numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg), [patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg).
 
 Pačią klaviatūrą gerai apžiūrėkite ir apčiupinėkite. Pasidėkite klaviatūrą taip, kad būtų patogu spausdinti ja. Apčiuopomis pajuskite mygtukus, paspaudinėkite juos, smiliais raskite esančius ant __A__ ir __R__ mygtukų kauburiukus — jūsų rankų pirštų pagrindinės padėties gaires.
 
