@@ -3,7 +3,7 @@
 
 Čia pasinaudota puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo gerumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai ir rankos (34%).
 
-__Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
+__Pastabos.__ Patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės). Prie AŽERTY Lithuanian (Standard 2000) prierašas „paslinkta dešinė“ reiškia, kad dešinės rankos pagrindinės pirštų padėtys ir spaudžiamų mygtukų skiltys pastumtos per vieną langelį dešinėn, kaip [yra patariama išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) bei [lietuvai.lt „Aklasis teksto rinkimas“](https://lietuvai.lt/wiki/Aklasis_teksto_rinkimas).
 
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai lietuviškuose spaudiniuose
@@ -32,7 +32,7 @@ __Pastaba__: patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti il
 16. QWERTY LEKP Baltic+ (ISO) — 43.77
 17. QWERTY Baltic/Numeric (ISO) — 43.71
 18. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 43.44
-19. AŽERTY Lithuanian (Standard 2000) (ANSI) [paslinkta dešinė](https://lietuvai.lt/wiki/Aklasis_teksto_rinkimas) — 37.64
+19. AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė — 37.64
 20. AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė — 37.09
 
 __Pastaba.__ Kiek teko bandyti, skirtinguose lietuviškuose tekstuose Ratisės našumas paprastai svyruoja tarp 60—70, paprastuose gi tekstuose jis [gali viršyti 70](http://patorjk.com/keyboard-layout-analyzer/#/load/WFx8NwLB), o sudėtinguose tekstuose su daugybe neraidinių ženklų [gali nesiekti 60](http://patorjk.com/keyboard-layout-analyzer/#/load/T8M63Zqh).
