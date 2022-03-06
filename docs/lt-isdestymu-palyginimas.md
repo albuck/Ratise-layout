@@ -144,7 +144,6 @@ __Išsamiau:__
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ratise (ISO), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/g94pXMmv)
  - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/kf6G05h8)
  - [AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage), ĄŽERTY Lithuanian (Standard 2000) (ANSI), AŽERTY Lithuanian (Standard 2000) (ISO), AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė, AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė](http://patorjk.com/keyboard-layout-analyzer/#/load/23HbwB1x)
- - 
  - [Kinesis Advantage Colemak, Programmer Colemak, Ratise (ANSI), Colemak, Programmer Dvorak](http://patorjk.com/keyboard-layout-analyzer/#/load/m7PVGf2x)
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/bjTBd8MN)
  - [Kinesis Advantage Dvorak, Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/L1QKztGk)
