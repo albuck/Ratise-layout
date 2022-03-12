@@ -136,8 +136,9 @@ _(čia papildomai palyginimui įtraukti ir žinomesni angliški bei kiti išdės
 33. QWERTY Baltic/Numeric (ISO) — 33.09
 34. AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė — 32.99
 35. _AZERTY (ISO) — 32.58_
-36. _QWERTY-Programmer (ANSI) — 31.58_
-37. AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė — 29.96
+36. _QWERTZ (Typografie Mk2) — 32.28_
+37. _QWERTY-Programmer (ANSI) — 31.58_
+38. AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė — 29.96
 
 
 __Išsamiau:__
@@ -150,7 +151,7 @@ __Išsamiau:__
  - [Kinesis Advantage Colemak, Programmer Colemak, Ratise (ANSI), Colemak, Programmer Dvorak](http://patorjk.com/keyboard-layout-analyzer/#/load/m7PVGf2x)
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/bjTBd8MN)
  - [Kinesis Advantage Dvorak, Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/L1QKztGk)
- - [Ratise (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/x3rsVsgJ)
+ - [QWERTZ (Typografie Mk2) (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/9rNNMW7N)
 
 __Pastaba.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
