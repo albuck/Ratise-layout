@@ -99,46 +99,51 @@ __Išsamiau:__
 
 ### Bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’:
 
-_(čia papildomai palyginimui įtraukti ir žinomesni angliški bei kiti išdėstymai, pirštų spaudžiamų mygtukų skiltys patikroje nekeistos)_
+_(čia papildomai palyginimui įtraukta ir žinomesnių ar įdomesnių nelietuviškų išdėstymų, juose pirštų spaudžiamų mygtukų skiltys patikroje nekeistos)_
 
 1. __Ratise (Kinesis Advantage) — 54.76__
 2. LEKP (Kinesis Advantage) — 52.85
-3. _Programmer Colemak (ANSI) — 46.32_
-4. __Ratise (ANSI) — 46.23__
-5. _Colemak (ANSI) — 46.10_
-6. _Colemak (Kinesis Advantage) — 45.74_
-7. __Ratise (ISO) — 45.38__
-8. _Dvorak (Kinesis Advantage) — 44.98_
-9. _Ergodox Workman Cub  (Kinesis Advantage) — 43.57_
-10. _Workman (ANSI) — 43.24_
-11. Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 42.71
-12. Remigijaus ĖOŪYHJ (ANSI) — 41.99
-13. _Workman for Programmers (ANSI) — 41.32_
-14. LEKP (ISO) — 40.70
-15. _Programmer Dvorak (ANSI) — 40.63_
-16. _Neo 2 (ANSI) — 40.45_
-17. LEKPa (ANSI) — 40.11
-18. _BÉPO (ISO) — 39.53_
-19. QWERTY Baltic/Numeric (Kinesis Advantage) — 39.34
-20. AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage) — 39.20
-21. _Simplified Dvorak (ANSI) — 38.03_
-22. QWERTY Lithuanian (Programmers) (ANSI) — 36.56
-23. QWERTY Lithuanian (ISO) — 36.44
-24. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 36.39
-25. _QWERTY (ANSI) — 36.39_
-26. _Ergodox QWERTY (Kinesis Advantage) — 36.27_
-27. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.64
-28. QWERTY Baltic/Numeric (ANSI) — 34.66
-29. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 34.65
-30. QWERTY LEKP Baltic+ (ISO) — 34.08
-31. AŽERTY Lithuanian (Standard 2000) (ISO) — 33.34
-32. _Latvių ŪGJRMV (ISO) — 33.25_
-33. QWERTY Baltic/Numeric (ISO) — 33.09
-34. AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė — 32.99
-35. _AZERTY (ISO) — 32.58_
-36. _QWERTZ (Typografie Mk2) — 32.28_
-37. _QWERTY-Programmer (ANSI) — 31.58_
-38. AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė — 29.96
+3. _MTGAP (ANSI) — 47.22_
+4. _Programmer Colemak (ANSI) — 46.32_
+5. __Ratise (ANSI) — 46.23__
+6. _Colemak (ANSI) — 46.10_
+7. _Colemak (Kinesis Advantage) — 45.74_
+8. __Ratise (ISO) — 45.38__
+9. _Dvorak (Kinesis Advantage) — 44.98_
+10. _Capewell (ANSI) — 44.46_
+11. _Ergodox Workman Cub  (Kinesis Advantage) — 43.57_
+12. _Norman (ANSI) — 43.48_
+13. _Workman (ANSI) — 43.24_
+14. Tikrinė 0.8a (ANSI) (Ratisės pirmavaizdis) — 42.71
+15. Remigijaus ĖOŪYHJ (ANSI) — 41.99
+16. _Workman for Programmers (ANSI) — 41.32_
+17. LEKP (ISO) — 40.70
+18. _Programmer Dvorak (ANSI) — 40.63_
+19. _Neo 2 (ANSI) — 40.45_
+20. LEKPa (ANSI) — 40.11
+21. _BÉPO (ISO) — 39.53_
+22. QWERTY Baltic/Numeric (Kinesis Advantage) — 39.34
+23. AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage) — 39.20
+24. _QWERFJ (ANSI) — 38.84_
+25. _Simplified Dvorak (ANSI) — 38.03_
+26. QWERTY Lithuanian (Programmers) (ANSI) — 36.56
+27. QWERTY Lithuanian (ISO) — 36.44
+28. ĄŽERTY Lithuanian (Standard 2000) (ANSI) — 36.39
+29. _QWERTY (ANSI) — 36.39_
+30. _Ergodox QWERTY (Kinesis Advantage) — 36.27_
+31. ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI) — 35.64
+32. QWERTY Baltic/Numeric (ANSI) — 34.66
+33. Lithuanian Ergonomic 1989 (RST 1092-89) (ANSI) — 34.65
+34. QWERTY LEKP Baltic+ (ISO) — 34.08
+35. AŽERTY Lithuanian (Standard 2000) (ISO) — 33.34
+36. _Latvių ŪGJRMV (ISO) — 33.25_
+37. QWERTY Baltic/Numeric (ISO) — 33.09
+38. AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė — 32.99
+39. _AZERTY (ISO) — 32.58_
+40. _QWERTZ (Typografie Mk2) (ISO) — 32.28_
+41. _QWERTY-Programmer (ANSI) — 31.58_
+42. AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė — 29.96
+43. _TNWMLC (Worst CarpalX layout) (ANSI) — 18.75_
 
 
 __Išsamiau:__
@@ -152,6 +157,7 @@ __Išsamiau:__
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/bjTBd8MN)
  - [Kinesis Advantage Dvorak, Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/L1QKztGk)
  - [QWERTZ (Typografie Mk2) (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/9rNNMW7N)
+ - [MTGAP (ANSI), Capewell (ANSI), Norman (ANSI), QWERFJ (ANSI), TNWMLC (Worst CarpalX layout) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/PzRkvPG6)
 
 __Pastaba.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 
