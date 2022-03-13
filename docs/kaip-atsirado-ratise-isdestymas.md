@@ -21,7 +21,7 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 + [Ratisės išdėstymo visi ženklai viename paveikslėlyje](ratise-isdestymo-zenklai.md)
 
-Ar jums tinka toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
+Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
 + Lyginant su [QWERTY Baltic/Numeric](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-qwerty-baltic-numeric-iso.svg), spausdinant [Ratise](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-ueyoqj-ratise-iso.svg):
 
