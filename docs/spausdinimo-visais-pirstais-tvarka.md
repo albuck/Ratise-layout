@@ -23,7 +23,7 @@ Arba pasirinkite paveikslėlį su daugiau ženklų pagal savo turimą klaviatūr
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-104-ansi.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-ansi.pdf).
 
-  - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’):
+  - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’, kartais vadinamas „azijietišku“):
 ![104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’)](images/kb-lt-ratise-104-b.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-b.pdf).
 
