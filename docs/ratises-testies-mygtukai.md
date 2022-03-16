@@ -17,7 +17,7 @@ __Pastabos__:
 + Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
 + Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __H__ mygtuką vietoje __I__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
 + Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų __X__, __H__ ir __Q__ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
-+ _Linux/Unix_ vartotojams norintiems naudotis papildomais ratisės tęstinių mygtukų ženklais būtina Ratisės išdėstymo įdiegimo aplanke ‘XKB’ esančią bylą ‘XCompose’ patalpinti į namų aplanką ir pervardinti ją į '.XCompose' (pridėti tašką pradžioje). Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros. 
++ _Linux/Unix_ vartotojams norintiems naudotis papildomais Ratisės tęstinių mygtukų ženklais būtina išdėstymo įdiegimo aplanke ‘XKB’ esančią bylą ‘XCompose’ patalpinti į namų aplanką ir pervardinti ją į '.XCompose' (pridėti tašką pradžioje). Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros. 
 + Dar skaitykite: [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md).
 
 Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (‘renkamas ženklas’ → ‘gaunamas ženklas’; ‘␣’ — tarpo žymė):
