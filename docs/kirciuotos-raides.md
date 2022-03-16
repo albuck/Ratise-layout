@@ -3,7 +3,7 @@
 
 _Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skirtingais atvejais gali būti parankesni skirtingi kirčiuotų raidžių įvedimo būdai, turintys savo privalumų ir trūkumų._
 
-+ Lietuviškos kirčiuotos raidės:
++ __Lietuviškos kirčiuotos raidės:__
 
     ![Lietuviškos kirčiuotos raidės](images/kirciuotos-lt-raides.svg)
 
