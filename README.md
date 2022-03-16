@@ -23,7 +23,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus.
 + Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai.
 + Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų kuo patogesnis ir lengviau įsimenamas.
-+ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**·**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
++ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**··**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ operacijų sistemoms (skaitmeninėms aplinkoms):
 
