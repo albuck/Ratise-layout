@@ -5,7 +5,7 @@ _Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skir
 
 Lietuviškos kirčiuotos raidės:
 
-\<img src="images/kirciuotos-lt-raides.svg" width=50% alt="Lietuviškos kirčiuotos raidės"\>
+![Lietuviškos kirčiuotos raidės](images/kirciuotos-lt-raides.svg)
 
 ## 1. Kirčiuotų raidžių įvedimas tęsties mygtukais
 
@@ -47,7 +47,7 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
 
 - Ypatingosios lietuviškos kirčiuotos raidės, esančios asmeninėje spaudmenų srityje, bus matomos tik kai jos yra tenais tuose spaudmenyse:
 
-<img src="images/ypatingos-lt-raides.svg" width=30% alt="Neįtrauktos į Unikodą lietuviškos kirčiuotos raidės">
+![Neįtrauktos į Unikodą lietuviškos kirčiuotos raidės](images/ypatingos-lt-raides.svg)
 
 - Šios 35 (iš 68) kirčiuotos lietuviškos raidės, deja, dar nėra įtrauktos į Unikodą.
 
