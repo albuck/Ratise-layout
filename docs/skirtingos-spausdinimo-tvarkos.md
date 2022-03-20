@@ -55,5 +55,5 @@ Galima būtų išskirti bent penkis kiek skirtingus spausdinimo visais pirštais
 
 -----------------------------------------
 
-+ [Į pradžią](README.md)
++ [Į pradžią](../README.md)
 
