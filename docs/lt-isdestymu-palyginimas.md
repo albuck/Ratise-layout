@@ -159,7 +159,7 @@ __Išsamiau:__
  - [QWERTZ (Typografie Mk2) (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/9rNNMW7N)
  - [MTGAP (ANSI), Capewell (ANSI), Norman (ANSI), QWERFJ (ANSI), TNWMLC (Worst CarpalX layout) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/PzRkvPG6)
 
-__Pastaba.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
+__Pastabos.__ Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau). Dėl to, kad Ratisės išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas, ko gero, ne visada pasirenka patogiausią skaičiuodamas.
 
 
 -------------------------
