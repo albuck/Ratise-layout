@@ -20,7 +20,7 @@ Galima būtų išskirti penkis kiek skirtingus spausdinimo visais pirštais būd
 
 ## Patikrų lyginamieji duomenys
 
-+ [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/KQTKhs5V)
++ [Keyboard Layout Analyzer — Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/KQTKhs5V):
 
    1. Ratise (ISO) - pagerintas 3 — 67.44
    2. Ratise (ISO) - pagerintas 1 — 67.42
@@ -28,7 +28,7 @@ Galima būtų išskirti penkis kiek skirtingus spausdinimo visais pirštais būd
    4. Ratise (ISO) - įprastas — 67.26
    5. Ratise (ISO) - ergonomiškas — 66.98
 
-+ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/THSFcdDz)
++ [Keyboard Layout Analyzer — Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/THSFcdDz):
 
    1. Ratise (ISO) - pagerintas 3 — 62.49
    2. Ratise (ISO) - pagerintas 1 — 62.38
@@ -37,7 +37,7 @@ Galima būtų išskirti penkis kiek skirtingus spausdinimo visais pirštais būd
    5. Ratise (ISO) - ergonomiškas — 62.28
 
 
-+ [Keyboard Layout Analyzer: ‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Nt46GlH3)
++ [Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Nt46GlH3):
 
    1. Ratise (ISO) - ergonomiškas — 46.05
    2. Ratise (ISO) - pagerintas 3 — 45.84
@@ -45,7 +45,7 @@ Galima būtų išskirti penkis kiek skirtingus spausdinimo visais pirštais būd
    4. Ratise (ISO) - pagerintas 1 — 45.38
    5. Ratise (ISO) - įprastas — 45.29
 
-+ [Keyboard Layout Analyzer: ‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/1hHNb7kL)
++ [Keyboard Layout Analyzer — ‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/1hHNb7kL):
 
    1. Ratise (ISO) - pagerintas 3 — 47.80
    2. Ratise (ISO) - pagerintas 2 — 47.32
