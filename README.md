@@ -62,7 +62,9 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 ## Spausdinimo klaviatūra pamokos:
 
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
-
+- [Touch Typing Practice](https://www.typingstudy.com/)
+- [TypingGames](https://www.typinggames.zone/)
+- [Typing Games - Learn...](https://www.typing.com/student/games)
 
 ## Kiti naudingi ištekliai:
 
