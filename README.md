@@ -68,3 +68,5 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
 - [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
 - [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis)
+- [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
+
