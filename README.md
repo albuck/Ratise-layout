@@ -61,7 +61,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
 
-### Spausdinimo klaviatūra pamokos:
+### Spausdinimo klaviatūra pratybos:
 
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
 - [Touch Typing Practice](https://www.typingstudy.com/)
