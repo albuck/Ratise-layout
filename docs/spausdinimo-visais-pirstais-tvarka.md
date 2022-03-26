@@ -27,8 +27,8 @@ Arba pasirinkite paveikslėlį su daugiau ženklų pagal savo turimą klaviatūr
 ![104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’)](images/kb-lt-ratise-104-b.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-b.pdf).
 
-  - 104 mygtukų klaviatūra (ISO be 105-to mygtuko):
-![104 mygtukų klaviatūra (ISO be 105-to mygtuko)](images/kb-lt-ratise-104-c.svg)
+  - 104 mygtukų klaviatūra (ISO be 105-to mygtuko, „ISO+ANSI“):
+![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ISO+ANSI](images/kb-lt-ratise-104-c.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-c.pdf).
 
   - Stačiakampio mygtukų išdėstymo klaviatūros: [Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg), [Kinesis/Ergodox patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg), [SEL (svg)](images/kb-lt-ratise-sel.svg), [Matrix (svg)](images/kb-lt-ratise-matrix.svg).
