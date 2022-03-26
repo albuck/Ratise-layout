@@ -1,7 +1,7 @@
 
 # SPAUSDINIMO VISAIS PIRŠTAIS TVARKA
 
-Tai yra, vadinamojo, „aklojo teksto rinkimo“ arba „teksto rinkimo nežiūrint į klaviatūrą“ pagrindai. Turint gerą klaviatūros ženklų išdėstymą, rinkti tekstą visais pirštais išmokti nėra sudėtinga.
+Tai yra, vadinamojo, „aklojo teksto rinkimo“ arba „teksto rinkimo nežiūrint į klaviatūrą“ pagrindai. Turint gerą klaviatūros ženklų išdėstymą, rinkti tekstą visais pirštais išmokti nėra sunku.
 
 Spausdinant visais pirštais, apčiuopomis, kiekvienas pirštas be pagrindinės padėties __UEIA··RTSP__ mygtukų (paryškinti) spaudo tik tam tikrus savo skilties mygtukus, pirštas paspaudęs kokį ne pagrindinėje padėtyje esantį mygtuką, grąžinamas prie pagrindinės padėties mygtuko (jeigu jam netenka iškart vėl spausti kito jam priskirto mygtuko). Pagrindinę pirštų padėtį padeda surasti ant __A__ ir __R__ mygtukų esantys ir apčiuopiami rankų smiliais iškilūs kauburiukai. Renkant kokį spaudą esantį ne pirmame lygyje vienos rankos pirštu, keitimo mygtukus (‘Shift’, ‘AltGr’, ‘AltGr+Shift’) dera spausti kitos rankos pirštu/ais. Tarpo mygtukas taip pat paprastai spaudžiamas kitos rankos nykščiu nei prieš tai naudota įvedimui ranka, nebent yra patogiau kitaip, kai reikia spausti tuo nykščiu trečio lygio įjungimo mygtuką.
 
