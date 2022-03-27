@@ -15,7 +15,7 @@ __Ratisės klaviatūros išdėstymas:__
 
 _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
-___Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:___
+___Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 + Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams.
 + Balsės ir priebalsės išskirtos skirtingoms rankoms.
 + Spausdinant Ratisè paprastai ritmiškai kaitaliojamos skirtingos rankos ir pirštai, dėl to sumažėja pirštų nuovargis ir yra lengviau spausdinti.
@@ -23,7 +23,7 @@ ___Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum
 + Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus.
 + Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai.
 + Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų kuo patogesnis ir lengviau įsimenamas.
-+ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**··**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės).
++ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: _uei**a**··**r**tsp_ (čia paryškintos tenkančios rankų smiliams raidės)._
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ operacijų sistemoms (skaitmeninėms aplinkoms):
 
