@@ -185,6 +185,8 @@ __Pastabos:__
 
 -------------------------
 
+[Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md)
+
 [Spausdinimo klaviatūra patogumas, našumas bei sveikata](spausdinimo-klaviatura-patogumas.md)
 
 [Į pradžią](../README.md)
