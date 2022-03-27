@@ -7,7 +7,7 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise.pdf), [spalvotas svg](images/ratise-spausdinimo-tvarka.svg), [spalvotas pdf](images/ratise-spausdinimo-tvarka.pdf), [nespalvotas png](images/lek_ratise_layout.png), [su visais ženklais svg](images/kb-lt-ratise-visi-zenklai.svg).
 
-    104 mygtukų klaviatūra, amerikietiškas ANSI:
+  - 104 mygtukų klaviatūra, amerikietiškas ANSI:
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-104-ansi.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-ansi.pdf).
 
