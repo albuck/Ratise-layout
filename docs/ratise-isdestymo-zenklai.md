@@ -17,7 +17,7 @@ __Spaudų išdėstymo lygiai:__
 + 3 — ⇮ trečiasis, ‘AltGr’ lygis;
 + 4 — ⇧+⇮ ketvirtasis, ‘AltGr+Shift’ lygis.
 
-__Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wikipedia/commons/b/b2/Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje: [Ratisė (ISO, 105 myktukai)](images/kb-lt-ratise.svg), [Ratisė (ANSI, 104 mygtukai)](images/kb-lt-ratise-104-ansi.svg), [Ratisė (ISO be 105-to mygtuko)](images/kb-lt-ratise-104-c.svg), [Ratisė (104 mygtukai, su dideliu „Įvesti“ mygtuku)](images/kb-lt-ratise-104-b.svg), būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
+__Pastaba:__ [skirtingos darybos klaviatūrose](https://upload.wikimedia.org/wikipedia/commons/b/b2/Physical_keyboard_layouts_comparison_ANSI_ISO_KS_ABNT_JIS.png) gali trūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje: [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md).
 
 Žemiau yra aprašomi mygtukai aukštais (eilėmis) nuo apačios į viršų, ir iš kairės į dešinę. Po ženklo pavadinimo skliaustuose duodamas pats ženklas (jei reikia), uždėtiniai ženklai duodami virš pabraukimo.
 
