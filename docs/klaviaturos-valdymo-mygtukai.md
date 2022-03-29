@@ -1,6 +1,8 @@
 
 # Valdymo mygtukų ženkliukai ir pavadinimai
 
+![Ratisės klaviatūros išdėstymas](docs/images/kb-lt-ratise.svg)
+
 Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai gali būti pažymėti ir vadinami skirtingai:
 
 - ↹ — Tab, Tabular, Tabulator, Atitraukimas, Atatraukimas (Ata), Įtraukimas.
