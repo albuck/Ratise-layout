@@ -1,7 +1,7 @@
 
 # Valdymo mygtukų ženkliukai ir pavadinimai
 
-![Ratisės klaviatūros išdėstymas](docs/images/kb-lt-ratise.svg)
+![Ratisės klaviatūros išdėstymas](images/kb-lt-ratise.svg)
 
 Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai gali būti pažymėti ir vadinami skirtingai:
 
