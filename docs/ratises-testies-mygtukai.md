@@ -8,10 +8,8 @@ Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidu
 ![Ratisės išdėstymo ketvirtojo lygio ženklai, išskirti spalva tęsties mygtukai](images/kb-lt-ratise-4-lygis.svg)
 
 + Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje tęsties mygtukai.
-
-Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsties mygtuko spaudas.
-
-Paspaudus tiesiogiai, gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
++ Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsties mygtuko spaudas.
++ Paspaudus tiesiogiai, gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
 
 __Pastabos__:
 + Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
