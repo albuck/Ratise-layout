@@ -5,9 +5,9 @@ _Pasinaudojus tęsties mygtukais (angl. Dead Keys) galima įvesti daugiau papild
 
 Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ‘AltGr+Shift’).
 
-_Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje tęsties mygtukai_:
-
 ![Ratisės išdėstymo ketvirtojo lygio ženklai, išskirti spalva tęsties mygtukai](images/kb-lt-ratise-4-lygis.svg)
+
++ Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje tęsties mygtukai.
 
 Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsties mygtuko spaudas.
 
