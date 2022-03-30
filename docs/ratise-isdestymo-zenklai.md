@@ -2,7 +2,6 @@
 # Ratisės išdėstymo ženklai
 
 Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai:
-
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
 + [Valdymo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
