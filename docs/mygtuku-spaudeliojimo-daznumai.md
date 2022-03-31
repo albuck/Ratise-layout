@@ -21,16 +21,9 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
 __Pirštų užimtumas:__
 
-+ kairysis mažasis — 6,9%
-+ kairysis bevardis — 7,2%
-+ kairysis didysis — 12,5%
-+ kairysis smilius — 15,1%
-+ nykščiai — 14,6%
-+ dešinysis smilius — 16,4%
-+ dešinysis didysis — 12,4%
-+ dešinysis bevardis — 8,8%
-+ dešinysis mažasis — 6,3%
-
+|K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|
+|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
+|   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   |
 
 ## Angliško teksto skaida
 
@@ -40,32 +33,19 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
 __Pirštų užimtumas:__
 
-+ kairysis mažasis — 4,3%
-+ kairysis bevardis — 9,5%
-+ kairysis didysis — 6,7%
-+ kairysis smilius — 17,0%
-+ nykščiai — 19,5%
-+ dešinysis smilius — 14,1%
-+ dešinysis didysis — 13,1%
-+ dešinysis bevardis — 6,3%
-+ dešinysis mažasis — 9,4%
+|K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|
+|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
+|   4,3%   |   9,5%    |    6,7%  |   17,0%  |  19,5% |   14,1%  |   13,1%  |    6,3%   |   9,4%   |
 
-
-__Programavimo kalbų tekstas (Bash, C, CPP, Python bendrai):__
+__Programavimo kalbų tekstas (‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai):__
 
 ![Mygtukų naudojimas Ratisės išdėstyme renkant programavimo kalbų tekstą](images/ratises-mygtuku-naudojimas-programavimas.png)
 
 __Pirštų užimtumas:__
 
-+ kairysis mažasis — 11,0%
-+ kairysis bevardis — 8,2%
-+ kairysis didysis — 7,2%
-+ kairysis smilius — 11,7%
-+ nykščiai — 17,6%
-+ dešinysis smilius — 13,4%
-+ dešinysis didysis — 8,7%
-+ dešinysis bevardis — 6,9%
-+ dešinysis mažasis — 15,4%
+|K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|
+|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
+|   8,0%   |   7,4%    |   6,4%   |   13,8%  |  15,6% |   15,3%  |   9,9%   |    9,8%   |   13,9%  |
 
 
 __Pastaba:__ paveikslėliai imti iš [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main) puslapio.
