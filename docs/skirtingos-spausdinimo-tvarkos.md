@@ -2,19 +2,19 @@
 
 Galima būtų išskirti bent penkis kiek skirtingus spausdinimo visais pirštais būdus klaviatūrose su skersuotais mygtukais. Dėl to mygtukų skilčių skersavimo, kartais yra patogiau spausti pirštu viršutinės ar apatinės eilės (aukšto) mygtuką priklausantį kito piršto skilčiai. Šiaip jau, Ratisės išdėstymo bendram patogumui tai turi nedidelį poveikį.
 
-1. Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
++ Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
 ![Įprastas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-iprasta.svg)
 
-2. Pirmas pagerintas spausdinimo būdas:
++ Pirmas pagerintas spausdinimo būdas:
 ![Pirmas pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p1.svg)
 
-3. Antras pagerintas spausdinimo būdas:
++ Antras pagerintas spausdinimo būdas:
 ![Antras pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p2.svg)
 
-4. Trečias pagerintas spausdinimo būdas:
++ Trečias pagerintas spausdinimo būdas:
 ![Trečias pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p3.svg)
 
-1. Ergonomiškas spausdinimo būdas (šiuo atveju yra būtina kiek keisti klaviatūros išdėstymą):
++ Ergonomiškas spausdinimo būdas (šiuo atveju yra būtina kiek keisti klaviatūros išdėstymą):
 ![Ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo.svg)
 
 
