@@ -2,7 +2,6 @@
 # RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 
 Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje pilkšvi QWERTY išdėstymo spaudai:
-
 ![Ratisės ŪĖYOQJ išdėstymo klaviatūra su QWERTY spaudais](images/kb-lt-ratise-ueyoqj-qwerty.svg)
 
 1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ‘⇮ AltGr’__.
