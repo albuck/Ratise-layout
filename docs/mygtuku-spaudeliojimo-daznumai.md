@@ -35,7 +35,9 @@ Pirštų užimtumas:
 |----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |   4,3%   |   9,5%    |    6,7%  |   17,0%  |  19,5% |   14,1%  |   13,1%  |    6,3%   |   9,4%   |
 
-__Programavimo kalbų tekstas (‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai):__
+## Programavimo kalbų tekstas
+
+__‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 ![Mygtukų naudojimas Ratisės išdėstyme renkant programavimo kalbų tekstą](images/ratises-mygtuku-naudojimas-programavimas.png)
 
