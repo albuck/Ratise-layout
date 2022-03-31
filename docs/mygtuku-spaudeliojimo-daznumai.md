@@ -19,7 +19,8 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
 ![Mygtukų naudojimas Ratisės išdėstyme renkant lietuvišką tekstą](images/ratises-mygtuku-naudojimas.png)
 
-Pirštų užimtumas:
+_Pirštų užimtumas:_
+
 |Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius|Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis|
 |----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   |
@@ -30,7 +31,8 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
 ![Mygtukų naudojimas Ratisės išdėstyme renkant anglišką tekstą](images/ratises-mygtuku-naudojimas-angliskas.png)
 
-Pirštų užimtumas:
+_Pirštų užimtumas:_
+
 |Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius|Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis|
 |----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |   4,3%   |   9,5%    |    6,7%  |   17,0%  |  19,5% |   14,1%  |   13,1%  |    6,3%   |   9,4%   |
@@ -41,7 +43,8 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 ![Mygtukų naudojimas Ratisės išdėstyme renkant programavimo kalbų tekstą](images/ratises-mygtuku-naudojimas-programavimas.png)
 
-Pirštų užimtumas:
+_Pirštų užimtumas:_
+
 |Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius|Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis|
 |----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |   8,0%   |   7,4%    |   6,4%   |   13,8%  |  15,6% |   15,3%  |   9,9%   |    9,8%   |   13,9%  |
