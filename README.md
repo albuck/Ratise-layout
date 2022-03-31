@@ -7,7 +7,7 @@ Laida 2.4
 
 _Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas __ŪĖYOQJ__, arba __Ratìsė__ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymas leidžia patogiai rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus._
 
-Ratisės klaviatūros išdėstymas:
+__Ratisės klaviatūros išdėstymas:__
 
 ![Ratisės klaviatūros išdėstymas](docs/images/kb-lt-ratise.svg)
 
