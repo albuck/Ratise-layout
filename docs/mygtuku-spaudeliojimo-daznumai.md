@@ -20,7 +20,6 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 ![Mygtukų naudojimas Ratisės išdėstyme renkant lietuvišką tekstą](images/ratises-mygtuku-naudojimas.png)
 
 __Pirštų užimtumas:__
-
 |Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius|Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis|
 |----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   |
