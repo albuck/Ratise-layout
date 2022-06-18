@@ -13,7 +13,7 @@ Laimei, tuose pokalbiuose atradau Remigijų, jo protingus patarimus bei jo sukur
 
 Pradėjęs bandyti Remigijaus išdėstymą ir jame radau dalykų kurie man netiko, pirmiausia, norėjau išlyginti spausdinimo krūvį tenkantį pirštams pagal tų pirštų pajėgumą. Gavau ir dalykiškų pastabų („dažnai reikalingi skyrybos ženklai trečiame lygyje!“ — tikrai negerai) bei pagalbos skaičiuojant raidžių dažnius lietuviškame rašte. Padėka šiems žmonėms.
 
-Tobulinant toliau Remigijaus išdėstymą užgimė [Tikrinė](images/tikrine.gif) — ne „tikroji“, kaip pasirodė, o „tikrinamoji“. Ir taip, juk tai buvo tik išmąstytas ir nupieštas išdėstymas, spausdinti aš juo nemokėjau bei ir šiaip apie visus tuos klaviatūrų reikalus mažai teišmaniau. Taigi, tikrai įvertinti, išbaigti išdėstymo negalėjau. Tolimesniam išdėstymo tobulinimui reikėjo išmokti juo spausdinti ir visokeriopai išbandyti. Tai darant, teko keisti, kai kuriuos nevykusius sprendimus, ieškoti kitų — geresnių. Kaip žmonės sako: „gyveni ir mokais“…
+Tobulinant toliau Remigijaus išdėstymą užgimė [Tikrinė](images/sena_tikrine.gif) — ne „tikroji“, kaip pasirodė, o „tikrinamoji“. Ir taip, juk tai buvo tik išmąstytas ir nupieštas išdėstymas, spausdinti aš juo nemokėjau bei ir šiaip apie visus tuos klaviatūrų reikalus mažai teišmaniau. Taigi, tikrai įvertinti, išbaigti išdėstymo negalėjau. Tolimesniam išdėstymo tobulinimui reikėjo išmokti juo spausdinti ir visokeriopai išbandyti. Tai darant, teko keisti, kai kuriuos nevykusius sprendimus, ieškoti kitų — geresnių. Kaip žmonės sako: „gyveni ir mokais“…
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
