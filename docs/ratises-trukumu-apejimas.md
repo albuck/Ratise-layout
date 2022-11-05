@@ -30,6 +30,9 @@ Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje pilk
 
 ----------------------------------------------
 
+[Ratisės sutapimai su kitais išdėstymais](sutapimai.md)
+
 [Ratisės mygtukų spaudeliojimo dažnumai](mygtuku-spaudeliojimo-daznumai.md)
+
 
 [Į pradžią](../README.md)
