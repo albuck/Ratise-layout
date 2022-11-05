@@ -377,4 +377,6 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 [Spausdinimo visais pirštais tvarka](spausdinimo-visais-pirstais-tvarka.md)
 
+[Ratisės sutapimai su kitais išdėstymais](sutapimai.md)
+
 [Į pradžią](../README.md)
