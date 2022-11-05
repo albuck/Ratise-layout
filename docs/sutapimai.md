@@ -51,7 +51,7 @@ __Anglų QWERTY:__ ```@ # $ % & mM ⟨` ^ 7 8 9⟩```
 __Prancūzų AZERTY:__ ```⟨# | 7 8 9⟩```
 
 
-__Pastaba.__ Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
+_Pastaba._ Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
 
 
 -------------------------
