@@ -11,8 +11,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 ## Sutapimai su kitais lietuviškais išdėstymais:
 
-_Pastaba._ Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
-
+(Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.)
 
 __ĖOŪYHJ Remigijaus:__ ```jJ nN kK gG lL rR tT sS žŽ vV mM ⟨% 7 8 9⟩```
 
