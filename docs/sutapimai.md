@@ -11,7 +11,7 @@ Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženk
 
 ## Sutapimai su kitais lietuviškais išdėstymais:
 
-__ĖOŪYHJ Remigijaus:__ ```jJ nN kK gG lL rR tT sS žŽ vV mM ⟨% 7 8 9⟩```*
+__ĖOŪYHJ Remigijaus:__ ```jJ nN kK gG lL rR tT sS žŽ vV mM ⟨% 7 8 9⟩```
 
 __FZVPUJ Lithuanian Ergonomic 1989 (LST 1092-89):__ ```! jJ aA sS ⟨+ & 7 8 9⟩```
 
@@ -51,7 +51,7 @@ __Anglų QWERTY:__ ```@ # $ % & mM ⟨` ^ 7 8 9⟩```
 __Prancūzų AZERTY:__ ```⟨# | 7 8 9⟩```
 
 
-* Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
+__Pastaba.__ Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
 
 
 -------------------------
