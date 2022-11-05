@@ -28,7 +28,7 @@ __QWERTY Lithuanian:__ mM ⟨! @ # $ % 7 8 9⟩
 __QGRLDČ LEKP:__ . @ ⟨` ´⟩
 
 
-## Sutapimai su kitų kalbų išdėstymais:
+## Sutapimai su kitų kalbų žinomesniais/ergonominiais išdėstymais:
 
 __Latvių ŪGJRMV:__ @ # $ % & ūŪ nN tT īĪ(įĮ) ⟨` ´ ^ 7 8 9⟩
 
@@ -38,17 +38,17 @@ __Prancūzų BEPO:__ iI oO ^ { } ⟨7 8 9⟩
 
 __Vokiečių Neo2:__ uU mM ⟨7 8 9⟩
 
-__Dvorak:__ tT xX mM @ # $ % & ⟨` ! ^ 7 8 9 -⟩
+__Anglų Dvorak:__ tT xX mM @ # $ % & ⟨` ! ^ 7 8 9 -⟩
 
-__Colemak:__ jJ mM @ # $ % & ⟨` ! ^ 7 8 9⟩
+__Anglų Colemak:__ jJ mM @ # $ % & ⟨` ! ^ 7 8 9⟩
 
-__Maltron:__ iI yY @ # $ % & ⟨! ^ 7 8 9⟩
+__Anglų Maltron:__ iI yY @ # $ % & ⟨! ^ 7 8 9⟩
 
-__Workman:__ jJ @ # $ % & ⟨` ! ^ 7 8 9⟩
+__Anglų Workman:__ jJ @ # $ % & ⟨` ! ^ 7 8 9⟩
 
-__QWERTY:__ @ # $ % & mM ⟨` ^ 7 8 9⟩
+__Anglų QWERTY:__ @ # $ % & mM ⟨` ^ 7 8 9⟩
 
-__AZERTY:__ ⟨# | 7 8 9⟩
+__Prancūzų AZERTY:__ ⟨# | 7 8 9⟩
 
 
 * Kampiniuose skliaustuose spaudai, kurie yra tame pačiame mygtuke, bet tik kitame lygyje.
