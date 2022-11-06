@@ -18,7 +18,7 @@ Galima būtų išskirti bent penkis kiek skirtingus spausdinimo visais pirštais
 ![Ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo.svg)
 
 
-## Patikrų lyginamieji duomenys
+## Klaviatūrų išdėstymo našumo patikrų lyginamieji duomenys
 
 + [Keyboard Layout Analyzer — Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/KQTKhs5V):
 
