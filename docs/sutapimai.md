@@ -7,7 +7,7 @@ Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje paly
 
 ## Mygtukų sutapimai su kitais lietuviškais išdėstymais:
 
-| Išdėstymas | Sutampantys spaudai | Spaudas kitame lygyje |
+| Išdėstymas | Sutampantys spaudai | Spaudas kitame mygtuko lygyje |
 | --- | --- | --- |
 |__ĖOŪYHJ Remigijaus:__ | ``` jJ nN kK gG lL rR tT sS žŽ vV mM ``` | ``` % 7 8 9 ``` |
 |__FZVPUJ Lithuanian Ergonomic 1989 (LST 1092-89):__ | ``` ! jJ aA sS``` | ``` + & 7 8 9 ``` |
@@ -21,7 +21,7 @@ Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje paly
 
 ## Mygtukų sutapimai su kitų kalbų žinomesniais/ergonominiais išdėstymais:
 
-| Išdėstymas | Sutampantys spaudai | Spaudas kitame lygyje |
+| Išdėstymas | Sutampantys spaudai | Spaudas kitame mygtuko lygyje |
 | --- | --- | --- |
 |__Latvių ŪGJRMV:__| ``` @ # $ % & ūŪ nN tT īĪ(įĮ) ``` | ``` ` ´ ^ 7 8 9 ``` |
 |__Anglų Dvorak:__| ``` tT xX mM @ # $ % & ``` | ``` ` ! ^ 7 8 9 - ``` |
