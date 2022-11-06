@@ -32,9 +32,12 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 ## TURINYS
 
+- [KLAVIATŪROS VALDYMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
+- [RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE](docs/ratise-skirtingos-darybos-klaviaturose.md)
 - [RATISĖS IŠDĖSTYMO ŽENKLAI](docs/ratise-isdestymo-zenklai.md)
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spausdinimo-visais-pirstais-tvarka.md)
+- [GALIMOS SKIRTINGOS SPAUSDINIMO VISAIS PIRŠTAIS TVARKOS](docs/skirtingos-spausdinimo-tvarkos.md)
 - [RATISĖS TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/ratises-testies-mygtukai.md)
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos-raides.md)
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
@@ -43,6 +46,8 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/lt-isdestymu-palyginimas.md)
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
+- [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
+
 
 
 ### Papildomi kitų kalbų Ratisės išdėstymai:
