@@ -55,5 +55,7 @@ Galima būtų išskirti bent penkis kiek skirtingus spausdinimo visais pirštais
 
 -----------------------------------------
 
+[Lietuviškų klaviatūros išdėstymų našumo palyginimas](lt-isdestymu-palyginimas.md)
+
 + [Į pradžią](../README.md)
 
