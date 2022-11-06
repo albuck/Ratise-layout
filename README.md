@@ -1,6 +1,7 @@
 [Read in English](README_eng.md)
 
 -----------------------------------------------
+
 # LIETUVIŠKAS KLAVIATŪROS IŠDĖSTYMAS RATISĖ
 
 Laida 2.4
@@ -30,6 +31,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 --------------------------------------------------------------------
 
+
 ## TURINYS
 
 - [KLAVIATŪROS VALDYMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
@@ -49,12 +51,12 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
 
-
 ### Papildomi kitų kalbų Ratisės išdėstymai:
 
 - [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise-latvian.md)
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
+
 
 ### Lietuviški klaviatūrų išdėstymai:
 
@@ -64,12 +66,14 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
 
+
 ### Spausdinimo klaviatūra pratybos:
 
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
 - [Touch Typing Practice](https://www.typingstudy.com/)
 - [TypingGames](https://www.typinggames.zone/)
 - [Typing Games - Learn...](https://www.typing.com/student/games)
+
 
 ### Kiti naudingi ištekliai:
 
