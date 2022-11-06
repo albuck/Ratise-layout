@@ -9,7 +9,7 @@ Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje paly
 
 | Išdėstymas | Sutampantys spaudai | Spaudas kitame mygtuko lygyje |
 | --- | --- | --- |
-|__ĖOŪYHJ Remigijaus:__ | ``` jJ nN kK gG lL rR tT sS žŽ vV mM ``` | ``` % 7 8 9 ``` |
+| ĖOŪYHJ Remigijaus: | ``` jJ nN kK gG lL rR tT sS žŽ vV mM ``` | ``` % 7 8 9 ``` |
 |__FZVPUJ Lithuanian Ergonomic 1989 (LST 1092-89):__ | ``` ! jJ aA sS``` | ``` + & 7 8 9 ``` |
 |__AZERTY Lithuanian Standard 1992 (IBM):__ | ``` ! mM šŠ ^ ``` | ``` ` @ # $ % & 7 8 9 ```|
 |__QWERTY Lithuanian Programmers:__ | ``` @ # $ % & mM ``` | ``` ` ! ^ ūŪ ėĖ ``` |
