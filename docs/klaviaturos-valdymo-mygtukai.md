@@ -16,7 +16,7 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai
 - ⏎ — ↵ Enter, Return; Įvesti, Įvedimas.
 - ⌫ — ← Backspace; Trinti, Trynimas.
 
-__Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūroje](https://upload.wikimedia.org/wikipedia/commons/e/ea/Apple_iMac_Keyboard_A1243.png) mygtukai __⌥ Option (⎇ Alt)__ ir __⌘ Command (⊞ Win)__ savo padėtimi yra sukeisti vietomis.
+__Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūroje](https://upload.wikimedia.org/wikipedia/commons/e/ea/Apple_iMac_Keyboard_A1243.png) mygtukai _⌥ Option (⎇ Alt)_ ir _⌘ Command (⊞ Win)_ savo padėtimi yra sukeisti vietomis.
 
 -----------------------------------------
 
