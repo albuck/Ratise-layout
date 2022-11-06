@@ -32,7 +32,7 @@ Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje paly
 |__Turkų F:__| ``` uU aA + $ % ``` | ``` ! # 7 8 9 ``` |
 |__Prancūzų BEPO:__ | ``` iI oO ^ { } ``` | ``` 7 8 9 ``` |
 |__Vokiečių Neo2:__ | ``` uU mM ``` | ``` 7 8 9 ``` |
-|__Prancūzų AZERTY:__ |  | ``` # | 7 8 9 ``` |
+|__Prancūzų AZERTY:__ |  | ``` # \| 7 8 9 ``` |
 
 -------------------------
 
