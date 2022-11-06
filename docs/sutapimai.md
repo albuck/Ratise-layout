@@ -1,10 +1,8 @@
 
 # Ratisės sutapimai su kitais išdėstymais
 
-
-Palyginimui QWERTY (juodi) ir Ratisės (mėlyni) išdėstymų pagrindiniai ženklai viename paveikslėjyje:
-
-![QWERTY ir Ratisė](images/qwerty-ratise.png)
+Lietuviška klaviatūra su Ratisės ŪĖYOQJ išdėstymu, mygtukų vyduryje palyginimui pilkšvi QWERTY išdėstymo spaudai:
+![Ratisės ŪĖYOQJ išdėstymo klaviatūra su QWERTY spaudais](images/kb-lt-ratise-ueyoqj-qwerty.svg)
 
 
 ## Sutapimai su kitais lietuviškais išdėstymais:
@@ -49,7 +47,6 @@ __Prancūzų BEPO:__ ```iI oO ^ { } ⟨7 8 9⟩```
 __Vokiečių Neo2:__ ```uU mM ⟨7 8 9⟩```
 
 __Prancūzų AZERTY:__ ```⟨# | 7 8 9⟩```
-
 
 -------------------------
 
