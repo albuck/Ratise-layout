@@ -20,4 +20,4 @@ __Pastaba:__ lyginant su įprastomis klaviatūromis [Apple klaviatūroje](https:
 
 -----------------------------------------
 
-+ [Į pradžią](../README.md)
+[Į pradžią](../README.md)
