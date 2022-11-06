@@ -31,9 +31,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 --------------------------------------------------------------------
 
-
 ## TURINYS
-
 - [KLAVIATŪROS VALDYMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
 - [RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE](docs/ratise-skirtingos-darybos-klaviaturose.md)
@@ -50,33 +48,25 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
-
 ### Papildomi kitų kalbų Ratisės išdėstymai:
-
 - [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise-latvian.md)
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
 
-
 ### Lietuviški klaviatūrų išdėstymai:
-
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
 
-
 ### Spausdinimo klaviatūra pratybos:
-
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
 - [Touch Typing Practice](https://www.typingstudy.com/)
 - [TypingGames](https://www.typinggames.zone/)
 - [Typing Games - Learn...](https://www.typing.com/student/games)
 
-
 ### Kiti naudingi ištekliai:
-
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
 - [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html)
