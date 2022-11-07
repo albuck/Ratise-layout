@@ -356,7 +356,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Žambas (įžambus brūkšnys) ```/```
 2. Atžambis (atvirkštinis žambas) ```\```
-3. Dalybos ženklas (÷)
+3. Dalybos ženklas ```÷```
 4. Dvilazdis, dvigubas stačias brūkšnys ```‖```
 
 ### W mygtukas
