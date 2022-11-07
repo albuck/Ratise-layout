@@ -90,7 +90,7 @@ Ùù Úú Ũũ
 ```
 ‡ __Pastaba:__ skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra ‘Ėė’ ir ‘Ūū’ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida!
 
-## 3. Kirčiavimas pridedant šalia raidės atskirus priegaidžių ženklus: ``` `, ´, ˜ ar ~```
+## 3. Kirčiavimas pridedant šalia raidės atskirus priegaidžių ženklus: ``` ` ```, ``` ´ ```, ``` ˜ ``` ar ``` ~ ```
 
 Tai yra netaisyklingas kirčių dėjimo būdas, visgi, kartais gali būti vienintelis galimas.
 
