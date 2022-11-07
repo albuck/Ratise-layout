@@ -327,7 +327,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 ### Ilgojo brūkšnio mygtukas
 
 1. Ilgasis brūkšnys, M-pločio brūkšnys ```—```
-2. Stačias (vertikalus) brūkšnys, „Lazdelė“ ```\|```
+2. Stačias (vertikalus) brūkšnys, „Lazdelė“ ```|```
 3. Stogelis „Cirkumfleksas“ ```^```
 4. Stačias trūkęs brūkšnys ```¦```
 
@@ -355,7 +355,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 ### Žambo mygtukas
 
 1. Žambas (įžambus brūkšnys) ```/```
-2. Atžambis (atvirkštinis žambas) ```\\```
+2. Atžambis (atvirkštinis žambas) ```\```
 3. Dalybos ženklas (÷)
 4. Dvilazdis, dvigubas stačias brūkšnys ```‖```
 
