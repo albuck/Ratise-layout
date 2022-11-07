@@ -17,7 +17,7 @@ __Spaudų išdėstymo lygiai:__
 
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
 
-Žemiau yra aprašomi mygtukai aukštais (eilėmis) nuo apačios į viršų, ir iš kairės į dešinę. Po ženklo pavadinimo duodamas pats ženklas (jei reikia), uždėtiniai ženklai duodami virš pabraukimo.
+Žemiau yra aprašomi mygtukai aukštais (eilėmis) nuo apačios į viršų, ir iš kairės į dešinę. Po ženklo pavadinimo duodamas pats ženklas (jei reikia).
 
 ## Pirmasis mygtukų aukštas (eilė)
 
@@ -34,7 +34,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Brūkšnelis-minusas ```-```
 2. N-pločio (pusilgis) brūkšnys ```–```
-3. Uždėtinis taškas ```_̇```
+3. Uždėtinis taškas ```̇```
 4. Nepertraukiamasis brūkšnelis ```‑```
 
 ### Ų mygtukas
