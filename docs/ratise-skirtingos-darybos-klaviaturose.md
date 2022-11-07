@@ -20,10 +20,10 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-c.pdf).
 
   - Ratisė stačiakampio mygtukų išdėstymo klaviatūrose:
-  - - [Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg)
-  - - [Kinesis/Ergodox patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
-  - - [SEL (svg)](images/kb-lt-ratise-sel.svg)
-  - - [Matrix (svg)](images/kb-lt-ratise-matrix.svg).
+    - [Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg)
+    - [Kinesis/Ergodox patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
+    - [SEL (svg)](images/kb-lt-ratise-sel.svg)
+    - [Matrix (svg)](images/kb-lt-ratise-matrix.svg).
 
 
 --------------------------------------------------------------------
