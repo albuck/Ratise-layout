@@ -25,7 +25,6 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     - [SEL (svg)](images/kb-lt-ratise-sel.svg)
     - [Matrix (svg)](images/kb-lt-ratise-matrix.svg).
 
-
 --------------------------------------------------------------------
 
 [Į pradžią](../README.md)
