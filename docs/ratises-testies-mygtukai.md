@@ -21,7 +21,7 @@ __Pastabos__:
 Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (‘renkamas ženklas’ → ‘gaunamas ženklas’; ‘␣’ — tarpo žymė):
 
 
-## Žiedelis viršuje (˚):
+## Žiedelis viršuje ```˚```:
 ```
 ␣ → ̊ (ŽIEDELIS VIRŠUJE)
 A → Å (LOTYNŲ DIDŽIOJI RAIDĖ A SU ŽIEDELIU VIRŠUJE)
@@ -90,7 +90,7 @@ z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 ž → ψ (GRAIKŲ MAŽOJI RAIDĖ PSI)
 ```
 
-## Stogelis viršuje (ˆ):
+## Stogelis viršuje ```ˆ```:
 ```
 0 → ⁰ (ANTRAŠINIS NULIS)
 1 → ¹ (ANTRAŠINIS VIENAS)
@@ -167,7 +167,7 @@ W → Ŵ (LOTYNŲ DIDŽIOJI RAIDĖ W SU STOGELIU)
 w → ŵ (LOTYNŲ MAŽOJI RAIDĖ W SU STOGELIU)
 ```
 
-## Brūkšnys (viršuje) (¯):
+## Brūkšnys (viršuje) ```¯```:
 ```
 € → ɟ (LOTYNŲ MAŽOJI RAIDĖ BETAŠKIS J SU PERBRAUKIMU)
  ̃  → ʰ (KEITIKLINĖ RAIDĖ MAŽOJI H)
@@ -234,7 +234,7 @@ Z → Ƶ (LOTYNŲ DIDŽIOJI RAIDĖ Z SU PERBRAUKIMU)
 z → ƶ (LOTYNŲ MAŽOJI RAIDĖ Z SU PERBRAUKIMU)
 ```
 
-## Kairinis kirčio ženklas (`):
+## Kairinis kirčio ženklas ``` ` ```:
 ```
 A → À (LOTYNŲ DIDŽIOJI RAIDĖ A SU KAIRINIU KIRČIU)
 a → à (LOTYNŲ MAŽOJI RAIDĖ A SU KAIRINIU KIRČIU)
@@ -275,7 +275,7 @@ w → ẁ (LOTYNŲ MAŽOJI RAIDĖ W SU KAIRINIU KIRČIU)
 ' → ʼ (KEITIKLINĖ RAIDĖ "APOSTROPHE")
 ```
 
-## Dešininis kirčio žeklas (´):
+## Dešininis kirčio žeklas ```´```:
 ```
 A → Á (LOTYNŲ DIDŽIOJI RAIDĖ A SU DEŠININIU KIRČIU)
 a → á (LOTYNŲ MAŽOJI RAIDĖ A SU DEŠININIU KIRČIU)
@@ -345,7 +345,7 @@ Z → Ź (LOTYNŲ DIDŽIOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 z → ź (LOTYNŲ MAŽOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 ```
 
-## Dutaškis (viršuje) (¨):
+## Dutaškis (viršuje) ```¨```:
 ```	
 1 → ½ (PAPRASTOJI TRUPMENA VIENA ANTROJI)
 3 → ¾ (PAPRASTOJI TRUPMENA TRYS KETVIRTOSIOS)
@@ -403,7 +403,7 @@ X → Ẍ (LOTYNŲ DIDŽIOJI RAIDĖ X SU DUTAŠKIU)
 x → ẍ (LOTYNŲ MAŽOJI RAIDĖ X SU DUTAŠKIU)
 ```
 
-## Riestinis kirčio ženklas (bangelė) (˜):
+## Riestinis kirčio ženklas (bangelė) ```˜```:
 ```
 : → ː (KEITIKLINĖ RAIDĖ TRIKAMPIS DVITAŠKIS)
 . → ˑ (PUSĖ KEITIKLINĖS RAIDĖS TRIKAMPIS DVITAŠKIS)
@@ -462,7 +462,7 @@ v → ṽ (LOTYNŲ MAŽOJI RAIDĖ V SU BANGELE)
 | → ⸾ (VINGIUOTOJI STAČIOJI LINIJA, VINGALAS)
 ```
 
-## Kablelis apačioje (¸):
+## Kablelis apačioje ```¸```:
 ```
 ␣ → ¸ (KABLYS "CEDILLA")
  ̃  → ʱ (KEITIKLINĖ RAIDĖ MAŽOJI H SU KABE)
@@ -512,7 +512,7 @@ z → ⚡ (AUKŠTOS ĮTAMPOS ŽENKLAS)
 ž → ż (LOTYNŲ MAŽOJI RAIDĖ Z SU TAŠKU VIRŠUJE)
 ```
 
-## Lankelis viršuje (˘):
+## Lankelis viršuje ```˘```:
 ```
 ␣ → ˘ (LANKELIS)
 A → Ă (LOTYNŲ DIDŽIOJI RAIDĖ A SU LANKELIU)
@@ -588,7 +588,7 @@ z → ʑ (LOTYNŲ MAŽOJI RAIDĖ Z SU KILPA)
 ž → ʓ (LOTYNŲ MAŽOJI RAIDĖ EZH SU KILPA)
 ```
 
-## Varnelė (viršuje) (ˇ):
+## Varnelė (viršuje) ```ˇ```:
 ```
 ␣ → ˇ (VARNELĖ)
 0 → ₀ (PORAŠINIS NULIS)
@@ -657,7 +657,6 @@ z → ǯ (LOTYNŲ MAŽOJI RAIDĖ EZH SU VARNELE)
 Ž → Ʒ (LOTYNŲ DIDŽIOJI RAIDĖ EZH)
 ž → ʒ (LOTYNŲ MAŽOJI RAIDĖ EZH)
 ```
-
 
 -------------------------
 
