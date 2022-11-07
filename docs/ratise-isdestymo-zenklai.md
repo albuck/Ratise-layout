@@ -69,7 +69,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Mažoji ```x```
 2. Didžioji ```X```
-3. Uždėtinis kairinis kirtis ```_̀```
+3. Uždėtinis kairinis kirtis ```̀```
 4. Rodyklė apačion ```↓```
 
 ### V mygtukas
@@ -142,7 +142,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Mažoji ```h```
 2. Didžioji ```H```
-3. Uždėtinis riestinis kirtis ```_̃```
+3. Uždėtinis riestinis kirtis ```̃```
 4. Tęsties mygtukų ženklas „Riestinis kirtis“ (mažoji tildė) ```˜```
 
 ### L mygtukas
@@ -228,7 +228,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Mažoji ```q```
 2. Didžioji ```Q```
-3. Uždėtinis dešininis kirtis ```_́```
+3. Uždėtinis dešininis kirtis ```́```
 4. Rodyklė viršun ```↑```
 
 ### J mygtukas
