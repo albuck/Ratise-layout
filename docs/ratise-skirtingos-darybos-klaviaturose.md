@@ -19,7 +19,11 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 ![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ISO+ANSI, ANSISO](images/kb-lt-ratise-104-c.svg)
     - Daugiau paveikslėlių: [nespalvotas pdf](images/kb-lt-ratise-104-c.pdf).
 
-  - Stačiakampio mygtukų išdėstymo klaviatūros: [Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg), [Kinesis/Ergodox patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg), [SEL (svg)](images/kb-lt-ratise-sel.svg), [Matrix (svg)](images/kb-lt-ratise-matrix.svg).
+  - Ratisė stačiakampio mygtukų išdėstymo klaviatūrose:
+  - - [Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg)
+  - - [Kinesis/Ergodox patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
+  - - [SEL (svg)](images/kb-lt-ratise-sel.svg)
+  - - [Matrix (svg)](images/kb-lt-ratise-matrix.svg).
 
 
 --------------------------------------------------------------------
