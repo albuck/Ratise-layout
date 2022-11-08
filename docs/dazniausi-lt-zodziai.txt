@@ -1,5 +1,5 @@
-Dažnų lietuviškų žodžių šimtukas
---------------------------------
+Dažniausių lietuviškų žodžių šimtukas
+-------------------------------------
 
 ir
 į
@@ -101,4 +101,3 @@ tos
 tie
 koks
 tikrai
-
