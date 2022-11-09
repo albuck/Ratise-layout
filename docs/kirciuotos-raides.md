@@ -11,7 +11,7 @@ _Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skir
 
 Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
 
-Šiuo būdu gaunamos raidės su visais taisyklingai atvaizduojamais kirčiais. Deja, dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
+Šiuo būdu gaunamos raidės su visais taisyklingai atvaizduojamais kirčiais. Deja, dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: _Vytis_, _Palemonas_.
 
 ```
 Àà Áá Ãã
@@ -51,11 +51,11 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
 
 - Šios 35 (iš 68) kirčiuotos lietuviškos raidės, deja, dar nėra įtrauktos į Unikodą.
 
-- Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __H__ mygtuką vietoje __I__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
+- Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant ```H``` mygtuką vietoje ```I```  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
 
 ## 2. Kirčiuotų raidžių gavimas uždėtiniais priegaidžių ženkleliais
 
-Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų __X__, __H__, __Q__ trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
+Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų ```X```, ```H```, ```Q``` trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės. Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
 
 Uždėtinių ženklelių atvaizdavimo kokybė įvairuoja nuo skirtingų spaudmenų ir skirtingos skaitmeninės įrangos: kartais ji puiki, o kartais uždėtinis ženklelis gali būti paslinktas į šoną, ar uždėtas per aukštai, ar per žemai ir ant jau esančio kito uždėtinio ir priklausančio tai raidei ženklelio (taško, brūkšnio), kartais net, uždėtinis ženklelis gali būti klaidingai nukeltas ant kito šalia esančio rašmens.
 
@@ -88,7 +88,7 @@ Ùù Úú Ũũ
 
 Ū́ū́ Ū̃ū̃ (Ū̄́ū̄́ Ū̄̃ū̄̃, Ū́ū́ Ū̃ū̃) (‡)
 ```
-‡ __Pastaba:__ skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra ‘Ėė’ ir ‘Ūū’ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida!
+‡ __Pastaba:__ skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra _Ėė_ ir _Ūū_ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida!
 
 ## 3. Kirčiavimas pridedant šalia raidės atskirus priegaidžių ženklus: ``` ` ```, ``` ´ ```, ``` ˜ ``` ar ``` ~ ```
 
