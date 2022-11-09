@@ -115,7 +115,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 1. Mažoji ```u```
 2. Didžioji ```U```
 3. Paprastoji vienguba kabutė, paprastasis Apostrofas ```'```
-4. Tęsties mygtukų ženklas „Viršutinis brūkšnys“ ```ˉ```
+4. Tęsties mygtukų ženklas „Antdėtinis brūkšnys“ ```ˉ```
 
 ### E mygtukas
 
