@@ -8,7 +8,7 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai
 - ```↹``` — Tab, Tabular, Tabulator; Atitraukimas, Atatraukimas (Ata), Įtraukimas.
 - ```⇪``` — ⮸, ⇬ Caps, Caps Lock; Didž, Didžiosios, Didžios.
 - ```⇧``` — Shift, Level 2; Aukšt, Aukštinis, Aukštesnis, Antrasis lygis, Antrinis.
-- ```⎈``` — Ctrl, Control; Vald, Valdymas, Valdinis.
+- ```⎈``` — ✲, Ctrl, Control; Vald, Valdymas, Valdinis.
 - ```◊``` — OS, Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo; Vėliava, Vadinis, Vada.
 - ```⎇``` — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS); Kitaip.
 - ```⇮``` — AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3; Trečiasis lygis, Tretinis, Kitas.
