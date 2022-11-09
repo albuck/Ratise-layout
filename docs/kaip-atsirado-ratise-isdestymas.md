@@ -27,21 +27,21 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 
    - 4,7 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - 1,5 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
+   - 1,5 karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
    - 1,5 karto pirštai eis mažesnį atstumą.
 
 + Lyginant su [Lithuanian Standard](https://albuck.github.io/lithuanian-keyboard-layouts/images/azerty-lt-standard-iso.svg), spausdinant Ratise:
 
    - 3,6 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 2 kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
+   - 1,3 karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
    - 1,4 karto pirštai eis mažesnį atstumą.
 
 + Lyginant su [LEKP](https://albuck.github.io/lithuanian-keyboard-layouts/images/qgrldc-lekp-iso.svg), spausdinant Ratise:
 
    - 1,8 karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - 1,9 karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - 1,3 karto rečiau teks spausti keitimo mygtukus (Shift, AltGr, Shift+AltGr);
+   - 1,3 karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
    - pirštai eis panašų atstumą (priklausomai nuo teksto, kai kur Ratisė mažesnį, kai kur LEKP).
 
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ skaidymo. Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
