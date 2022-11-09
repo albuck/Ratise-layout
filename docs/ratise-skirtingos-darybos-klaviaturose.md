@@ -11,8 +11,8 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-104-ansi.svg)
     - Daugiau paveikslėlių: [juodbaltis pdf](images/kb-lt-ratise-104-ansi.pdf).
 
-  - 104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’, kartais vadinamas „azijietišku“):
-![104 mygtukų klaviatūra (su apverstu dideliu ‘L’ pavidalo ‘Enter’)](images/kb-lt-ratise-104-b.svg)
+  - 104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, kartais dar vadinamas „azijietišku“):
+![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter)](images/kb-lt-ratise-104-b.svg)
     - Daugiau paveikslėlių: [juodbaltis pdf](images/kb-lt-ratise-104-b.pdf).
 
   - 104 mygtukų klaviatūra (ISO be 105-to mygtuko, „ISO+ANSI“, „ANSISO“):
