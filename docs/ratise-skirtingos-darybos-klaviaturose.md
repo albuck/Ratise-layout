@@ -1,7 +1,7 @@
 
 # RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE
 
-Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti kiek kitoje vietoje.
+Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti kiek kitoje vietoje.
 
   - 105 mygtukų klaviatūra, europietiškas ISO:
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise.svg)
