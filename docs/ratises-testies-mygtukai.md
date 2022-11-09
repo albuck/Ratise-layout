@@ -3,22 +3,22 @@
 
 _Pasinaudojus tęsties mygtukais (angl. Dead Keys) galima įvesti daugiau papildomų ženklų, kurie nėra prieinami įprastuose išdėstymo lygiuose. Kiekvienas tęsties mygtukas turi lyg ir papildomą išdėstymo tęsties lygį._
 
-Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ‘AltGr+Shift’). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ‘AltGr+Shift’).
+Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ```AltGr+Shift```). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ```AltGr+Shift```).
 
 ![Ratisės išdėstymo ketvirtojo lygio ženklai, išskirti spalva tęsties mygtukai](images/kb-lt-ratise-4-lygis.svg)
 
 + Paveikslėlyje gelzganai žymėtieji ir esantys ketvirtajame Ratisės lygyje — _tęsties mygtukai_.
 + Po tęsties mygtuko įjungimo, paspaudus tarpo mygtuką, gaunamas pats to tęsties mygtuko spaudas.
-+ Paspaudus tiesiogiai, gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ‘Shift’ — didžiosios.
++ Paspaudus tiesiogiai, gaunamos esamos mažosios raidės su atitinkamu tęsties mygtuko uždėtiniu spaudu, o paspaudus su ```Shift``` — didžiosios.
 
 __Pastabos__:
-+ Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: ‘Vytis’, ‘Palemonas’.
-+ Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios ‘i’, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant __H__ mygtuką vietoje __I__  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms ‘i’ raidėms.
-+ Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų __X__, __H__ ir __Q__ trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
++ Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: _Vytis_, _Palemonas_.
++ Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant ```H``` mygtuką vietoje ```I```  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
++ Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų ```X```, ```H``` ir ```Q``` trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
 + _Linux/Unix_ vartotojams norintiems naudotis papildomais Ratisės tęstinių mygtukų ženklais (nepaisant to ar patys yra diegę išdėstymą, ar pasirinkę Ratisę klaviatūros nustatymuose) būtina išdėstymo įdiegimo aplanke _XKB_ esančią bylą _XCompose_ patalpinti į namų aplanką ir pervardinti ją į _.XCompose_ (pridėti tašką pradžioje). Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros. 
 + Dar skaitykite: [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md).
 
-Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (‘renkamas ženklas’ → ‘gaunamas ženklas’; ‘␣’ — tarpo žymė):
+Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (```renkamas ženklas``` → ```gaunamas ženklas```; ```␣``` — tarpo žymė):
 
 
 ## Žiedelis viršuje ```˚```:
