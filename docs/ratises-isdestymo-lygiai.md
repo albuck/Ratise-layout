@@ -33,7 +33,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ```⇮ AltGr```.
 
-_Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis _ł_. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://en.wikipedia.org/wiki/ISO/IEC_9995), be to turi papildomą tašką._
+_Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ```ł```. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://en.wikipedia.org/wiki/ISO/IEC_9995), be to turi papildomą tašką._
 
 ![Ratisės išdėstymo trečiojo lygio ženklai](images/kb-lt-ratise-3-lygis.svg)
 
