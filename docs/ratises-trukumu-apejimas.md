@@ -22,7 +22,7 @@
 
 6. __Programavimo kalbose padidėja mažųjų pirštų užimtumas.__ Taip atsitinka dėl to, kad programavimo kalbose daug dažniau yra naudojami ```Shift```, ```Tab``` ir ```Enter``` mygtukai. Tai galima būtų išspresti įsigyjant ar pasigaminant ergonomišką programuojamą klaviatūrą, kurioje pastarieji mygtukai būtų perpaskirti pajėgesniems pirštams.
 
-7. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ‘ł’ įsidės ‘%’ ir panašiai.
+7. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai (ar senlietuviškai, ar lenkiškai), o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ```ł``` įsidės ```%``` ir panašiai.
 
 
 ----------------------------------------------
