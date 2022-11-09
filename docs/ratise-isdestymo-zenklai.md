@@ -15,7 +15,7 @@ __Spaudų išdėstymo lygiai:__
 + 3 — ```⇮``` trečiasis, ‘AltGr’ lygis;
 + 4 — ```⇧```+```⇮``` ketvirtasis, ‘AltGr+Shift’ lygis.
 
-__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir __Z__ mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
+__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
 
 Žemiau yra aprašomi mygtukai aukštais (eilėmis) nuo apačios į viršų, ir iš kairės į dešinę. Po ženklo pavadinimo duodamas pats ženklas (jei reikia).
 
