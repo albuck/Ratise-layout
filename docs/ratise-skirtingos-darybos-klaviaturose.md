@@ -1,7 +1,9 @@
 
 # RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE
 
-Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti kiek kitoje vietoje. Čia, žemiau, klaviatūrų mygtukų išdėstymai rikiuojami pagal patogumą, nuo geresnio prie prastesnio (nors tas skirtumas ir nedidelis).
+Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti kiek kitoje vietoje.
+
+Čia, žemiau, klaviatūrų mygtukų išdėstymai rikiuojami pagal patogumą, nuo geresnio prie prastesnio (nors tas skirtumas ir nedidelis).
 
 
   - 104 mygtukų klaviatūra (ISO be 105-to mygtuko, „ISO+ANSI“, „ANSISO“):
@@ -24,8 +26,8 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
     - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-isoansi.pdf).
 
-  - [Ratisė stačiakampio mygtukų išdėstymo klaviatūrose](ratise-staciakampese-klaviaturose.md)
-
 --------------------------------------------------------------------
+
+[Ratisė stačiakampio mygtukų išdėstymo klaviatūrose](ratise-staciakampese-klaviaturose.md)
 
 [Į pradžią](../README.md)
