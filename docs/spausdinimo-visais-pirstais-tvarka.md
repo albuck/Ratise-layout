@@ -27,6 +27,8 @@ __Pastabos:__
 
 -------------------------
 
+[Ratisė stačiakampio mygtukų išdėstymo klaviatūrose](ratise-staciakampese-klaviaturose.md)
+
 [Galimos skirtingos spausdinimo visais pirštais tvarkos](skirtingos-spausdinimo-tvarkos.md)
 
 [Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md)
