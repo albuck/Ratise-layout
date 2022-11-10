@@ -14,7 +14,7 @@ Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėst
 ## „Key Matrix“:
 ![Matrix (svg)](images/kb-lt-ratise-matrix.svg).
 
-__Pastaba.__ Yra klaviatūrų dar ir su kitokiu mygtukų išdėstymu.
+__Pastaba.__ Būna klaviatūrų dar ir kiek su kitokiu mygtukų išdėstymu.
 
 -----------------------------------------
 
