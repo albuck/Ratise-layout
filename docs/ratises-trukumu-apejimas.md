@@ -2,9 +2,9 @@
 # RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 
 1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ```⇮ AltGr```__.
- + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ```⎇ Alt + ⎈ Ctrl``` (```⎇ Alt + ⎈ Vald```). Norint turėti atskirą trečio lygio įjungimo mygtuką kairėje pusėje, galima pasinaudoti papildomomis priemonėmis, tokiomis kaip [KeyTweak](https://keytweak.en.softonic.com/download) ar [SharpKeys](https://github.com/randyrants/sharpkeys), ir ```⇮ AltGr``` veikimą priskirti kairiajam ```⎇ Alt```, o šio ```⎇ Alt``` veikimą priskirti ```⊞ Win``` mygtukui, o ```⊞ Win``` mygtuko veikimą priskirti dešinėje esančiam ```≣ Menu``` mygtukui ar panašiai.
- + _Linux_ aplinkose perpaskirti valdymo mygtukų reikšmę galima klaviatūros išdėstymo nustatymuose (skirtingose Linux darbastalio aplinkose tai gali būti daroma kiek kitaip).
- + _MacOS_ aplinkoje gali būti pravartu susikeisti ```⌘``` (_Command, Cmd_) ir ```⌥``` (_Option, Opt, Alt_) vietomis, kad būtų galima jungti trečią lygį nykščiais patogiau.
+ + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ```⎇ Alt + ⎈ Ctrl``` (```⎇ Alt + ⎈ Vald```), ketvirtasis lygis paiekiamas atitinkamai per ```Alt+Ctrl+Shift```. Norint turėti atskirą trečio lygio įjungimo mygtuką kairėje pusėje, galima pasinaudoti papildomomis priemonėmis, tokiomis kaip [KeyTweak](https://keytweak.en.softonic.com/download) ar [SharpKeys](https://github.com/randyrants/sharpkeys), ir ```⇮ AltGr``` veikimą priskirti kairiajam ```⎇ Alt```, o šio ```⎇ Alt``` veikimą priskirti ```⊞ Win``` mygtukui, o ```⊞ Win``` mygtuko veikimą priskirti dešinėje esančiam ```≣ Menu``` mygtukui ar panašiai.
+ + _Linux_ aplinkose perpaskirti valdymo mygtukų reikšmę galima klaviatūros išdėstymo nustatymuose (paprastai numatytai ```Alt+Ctrl``` neveikia kaip ```AltGr```).
+ + _MacOS_ aplinkoje ```⌥ Option``` (_Opt, Alt_) abiejose pusėse veikia kaip trečio lygio įjungimo mygtukas, visgi gali būti patogiau jį sukeitus su ```⌘``` (_Command, Cmd_) vietomis (tai galima padaryti nustatymuose).
  + _Haiku_ aplinkoje ```⎇ Alt``` ir ```⇮ AltGr``` veikia kaip trečio lygio mygtukas ```⌥ Option``` (nustatymuose keičiama).
 
 2. __Mygtukai ```Z```, ```X```, ```C```, ```V``` bei ir kiti yra kitoje vietoje, kas kartais nepatogu naudoti juos įprastiems _QWERTY_ išdėstymui klaviatūros raktams__.
