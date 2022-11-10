@@ -16,8 +16,8 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-l.pdf).
 
   - 104 mygtukų klaviatūra (ISO be 105-to mygtuko, „ISO+ANSI“, „ANSISO“):
-![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ISO+ANSI, ANSISO](images/kb-lt-ratise-104-c.svg)
-    - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-104-c.pdf).
+![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ISO+ANSI, ANSISO](images/kb-lt-ratise-ansiso.svg)
+    - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-ansiso.pdf).
     
   - 105 mygtukų klaviatūra (ANSI su 105-tu mygtuku, „ISO+ANSI“, „ISOANSI“):
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
