@@ -181,7 +181,7 @@ __Išsamiau:__
 __Pastabos:__
 + Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 + Dėl to, kad Ratisės išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas, ko gero, ne visada pasirenka patogiausią skaičiuodamas.
-+ Kaip „ISO+ANSI“ čia tikrintas vadinamasis [„ANSISO“](images/kb-lt-ratise-ansiso.svg).
++ Kaip „ISO+ANSI“ čia tikrintas vadinamasis [„ANSISO“](images/kb-lt-ratise-ansiso.svg) klaviatūros išdėstymas.
 
 
 -------------------------
