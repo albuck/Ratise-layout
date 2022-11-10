@@ -31,7 +31,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ## Ratisės 3-is lygis
 
-Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ```⇮ AltGr```.
+Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ```⇮ AltGr``` arba ```Alt+Ctrl```.
 
 _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ```ł```. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://en.wikipedia.org/wiki/ISO/IEC_9995), be to turi papildomą tašką._
 
@@ -45,7 +45,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 
 ## Ratisės 4-is lygis
 
-Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ```⇮``` kartu su _Antrojo lygio_ mygtuku ```⇧``` (```AltGr+Vald```).
+Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ```⇮``` kartu su _Antrojo lygio_ mygtuku ```⇧``` (```AltGr+Shift``` arba ```Alt+Ctrl+Shift```).
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
