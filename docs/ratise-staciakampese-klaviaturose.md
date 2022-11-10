@@ -2,7 +2,7 @@
 
 Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėstytais mygtukais bei spausdinimo tvarka klaviatūrose su tokiu mygtukų išdėstymu. Paveikslėliuose skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga spalva (kitos spalvos skrituliukas mygtuke rodo spaudimo kitu pirštu galimybę).
 
-## Kinesis/ergodox
+## Kinesis/ergodox (numatytasis):
 ![Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg)
 
 ## Kinesis/argodox (pertvarkytas-pagerintas):
