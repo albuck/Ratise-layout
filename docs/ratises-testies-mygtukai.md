@@ -662,4 +662,6 @@ z → ǯ (LOTYNŲ MAŽOJI RAIDĖ EZH SU VARNELE)
 
 [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md)
 
+[Sudurtinis ženklų įvedimas](sudurtinis-zenklu-ivedimas.md)
+
 [Į pradžią](../README.md)
