@@ -47,11 +47,8 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ skaidymo. Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
 
 
-__Išsamiau:__ [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
-
-
 -------------------------
 
-[↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
+[Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
 
 [Į pradžią](../README.md)
