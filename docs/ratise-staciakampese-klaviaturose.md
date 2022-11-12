@@ -18,7 +18,4 @@ __Pastaba.__ Būna klaviatūrų dar ir kiek su kitokiu mygtukų išdėstymu.
 
 -----------------------------------------
 
-[Lietuviškų klaviatūros išdėstymų našumo palyginimas](lt-isdestymu-palyginimas.md)
-
 [Į pradžią](../README.md)
-
