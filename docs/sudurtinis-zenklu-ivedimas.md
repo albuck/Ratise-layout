@@ -16,6 +16,4 @@ Plačiau apie sudurtinį įvedimą (angliškai):
 
 -----------------------------------------
 
-[Ratisės išdėstymo trūkumai ir jų apėjimo būdai](ratises-trukumu-apejimas.md)
-
 [Į pradžią](../README.md)
