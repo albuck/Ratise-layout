@@ -98,7 +98,7 @@ __Išsamiau:__
   - [Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/wQ3cNn9V)
 
 
-#### Lyginant su angliškais išdėstymais Ratisė angliškuose tekstuose pasirodo labai gerai:
+#### Lyginant su angliškais išdėstymais Ratisė angliškuose tekstuose pasirodo gerai:
 
  - [Programmer Colemak, Programmer Dvorak, Colemak, Ratise (ANSI), QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/SwHL37Dp)
  - [Ergodox Colemak Cub, Ergodox Workman Cub, Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/JLlTTWZ7)
