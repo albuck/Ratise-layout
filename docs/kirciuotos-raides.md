@@ -88,7 +88,7 @@ Ùù Úú Ũũ
 
 Ū́ū́ Ū̃ū̃ (Ū̄́ū̄́ Ū̄̃ū̄̃, Ū́ū́ Ū̃ū̃) (‡)
 ```
-‡ __Pastaba:__ skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra _Ėė_ ir _Ūū_ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida!
+‡ __Pastaba:__ skliaustuose yra kirčiuotos raidės su papildomu uždėtiniu tašku ar brūkšniu, ant raidžių be uždėtinių ženklelių ar su jais. Kartais, priklausomai nuo spaudmenų ir skaitmeninės įrangos, vienas kuris (arba nei vienas) iš jų gali būti taisyklingai atvaizduojamas. Pačios jautriausios tokiems kirčių atvaizdavimo netolygumams yra _Ėė_ ir _Ūū_ raidės: dingus taškui ar brūkšniui — jos pavirsta kitomis raidėmis, o tai jau yra rašybos klaida! Taškas nuo _i_ dedant kitą uždėtinį kirtį skaitmeninės įrangos yra nuimamas, nes taip yra priimta Vakarų Europos kalbose.
 
 ## 3. Kirčiavimas pridedant šalia raidės atskirus priegaidžių ženklus: ``` ` ```, ``` ´ ```, ``` ˜ ``` ar ``` ~ ```
 
