@@ -12,7 +12,7 @@
  + _MacOS_ aplinkoje klaviatūros raktai veiks kaip jie yra Ratisės išdėstyme, išskyrus lietuviškų raidžių mygtukus __Ū Ė Ų Ę Į Ą Š__, kurie veiks atitinkamai kaip __Q W Z X C V F__.
  + _Linux_ aplinkoje visi klaviatūros raktai veikia kaip jie yra išdėstyme. Linux'e taip pat (be įprastų ```Ctrl+X```, ```Ctrl+C``` ar ```Ctrl+V``` naujose vietose) galima naudoti iškirpimui ```Shift+Del```, nurašymui ```Ctrl+Ins``` ir įrašymui ```Shift+Ins```. Taip pat naudojant papildomą priemonę [Autokey](https://github.com/autokey/autokey/wiki/About), galima _Cut_, _Copy_ ir _Paste_ veikimą priskirti dar ir kitiems mygtukams ar jų deriniams (pvz.: _Cut_ — ```Ctrl+ę```, _Copy_ — ```Ctrl+į```, _Paste_ — ```Ctrl+ą```).
  + _Haiku_ aplinkoje galima naudoti papildomą klaviatūros raktų pakaitos išdėstymą (yra pridėtas) ar kitą kokį, įsidiegus papildomą priemonę _Keymap Switcher_.
- + __Pastabos.__ Su kai kuria skaitmenine įranga šitokie raktų pakeitimai gali nesuveikti (pastebėta tokių dalykų Windows ir Linux aplinkose). Na, kraštutiniu atveju, visada yra galimybė turėti antrą išdėstymą _QWERTY_, ir persijungti trumpam į jį, jei kažkas ne taip suveikia su Ratise.
+ + __Pastabos.__ Su kai kuria skaitmenine įranga šitokie raktų pakeitimai gali nesuveikti (pastebėta tokių dalykų Windows ir Linux aplinkose).
 
 3. __Mygtukai ```X```, ```H``` ir ```Q``` nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti ```A```, ```O```__, paprastai tai pastebima tik spausdinant angliškai, kur _h_ yra dažna raidė. Čia galėtų pagelbėti ypatingas tokių raidžių derinių rinkimo būdas: jei kairiosios rankos smilius renka ```H``` ar ```X```, tai ```O```, ```A``` renka pasislinkęs dešiniau kairiosios rankos didysis pirštas. Bet tokios gudrybės reikia papildomai mokytis.
 
@@ -20,7 +20,7 @@
 
 5. __Išdėstymas yra pritaikytas dešiniarankiams.__ Kairiarankiams patogesnis išdėstymas turėtų būti apverstas kairės—dešinės atžvilgiu (priebalsių pusė turėtų tekti pajėgesnei rankai), deja tokios klaviatūros nėra gaminamos. Visgi, išeitis labai norintiems turėti tokią klaviatūrą yra: pasidaryti, užsisakyti/nusipirkti perprogramuojamą simetrišką klaviatūrą (pvz.: Kinesis Advantage2, Ergodox ir kitos) ir perprogramuoti ją, arba pasidaryti Ratisės išdėstymo veidrodiškai apverstą atmainą.
 
-6. __Programavimo kalbose padidėja mažųjų pirštų užimtumas.__ Taip atsitinka dėl to, kad programavimo kalbose daug dažniau yra naudojami ```Shift```, ```Tab``` ir ```Enter``` mygtukai. Tai galima būtų išspresti įsigyjant ar pasigaminant ergonomišką programuojamą klaviatūrą, kurioje pastarieji mygtukai būtų perpaskirti pajėgesniems pirštams.
+6. __Programavimo kalbose padidėja mažųjų pirštų užimtumas.__ Taip atsitinka dėl to, kad programavimo kalbose daug dažniau yra naudojami ```Shift```, ```Tab``` ir ```Enter``` mygtukai. Tai galima būtų išspresti įsigyjant (ar pasigaminant) ergonomišką programuojamą klaviatūrą, kurioje pastarieji mygtukai būtų perpaskirti pajėgesniems pirštams.
 
 7. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai, senlietuviškai ar lenkiškai, o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ```ł``` įsidės ```%``` ir panašiai.
 
