@@ -6,7 +6,7 @@
 
 Laida 2.4
 
-Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_, arba _Ratìsė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymas leidžia patogiai rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus.
+Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Ratìsė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus.
 
 __Ratisės klaviatūros išdėstymas:__
 ![Ratisės klaviatūros išdėstymas](docs/images/kb-lt-ratise-iso.svg)
@@ -18,7 +18,7 @@ _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaud
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
-+ _Spausdinant Ratisè paprastai ritmiškai kaitaliojamos skirtingos rankos ir pirštai, dėl to sumažėja pirštų nuovargis ir yra lengviau spausdinti._
++ _Spausdinant Ratisè paprastai ritmiškai kaitaliojamos rankos ir pirštai, dėl to sumažėja pirštų nuovargis ir yra lengviau spausdinti._
 + _Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės vėl spaudyti mygtukus._
 + _Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai._
