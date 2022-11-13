@@ -26,7 +26,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ![Ratisės išdėstymo antrojo lygio ženklai](images/kb-lt-ratise-2-lygis.svg)
 
-+ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse („šriftuose“) klaidingai atvaizduojamas vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu.
++ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse („šriftuose“) klaidingai atvaizduojamas vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio).
 
 
 ## Ratisės 3-is lygis
