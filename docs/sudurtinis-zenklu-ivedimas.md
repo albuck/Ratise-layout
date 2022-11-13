@@ -1,7 +1,7 @@
 
 # SUDURTINIS ŽENKLŲ ĮVEDIMAS
 
-Sudurtinio spaudų įvedimo būdas nepriklauso nuo pačio išdėstymo. Visgi, išdėstymo klaviatūros valdyklėje gali būti nustatytas tokio įvedimo būdo įjungimo mygtukas.
+Sudurtinio spaudų įvedimo būdas nepriklauso nuo pačio išdėstymo. Nors, išdėstymo klaviatūros valdyklėje gali būti nustatytas tokio įvedimo būdo įjungimo mygtukas.
 
 _Sudurtinio įvedimo mygtuku_ (angliškai vadinamas _Multi key_ ar _Compose key_) įvedamas papildomas norimas ženklas taip: pirma — spaudžiamas sudurtinio įvedimo mygtukas (ar atitinkamas mygtukų derinys), antra — spaudžiama tam tikra dviejų ar trijų ženklų seka, trečia — gaunamas reikiamas ženklas. Pavyzdžiui, paspaudus (ir atleidus) sudurtinio įvedimo mygtuką, o paskui surinkus _d_ ir po to _i_, gaunamas _⌀_ (skersmens ženklas).
 
