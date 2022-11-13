@@ -26,7 +26,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ![Ratisės išdėstymo antrojo lygio ženklai](images/kb-lt-ratise-2-lygis.svg)
 
-+ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo ar dėl spaudmenų darytojo pasirinkimo, gali kelti painiavos, palyginkite: 5−7, 5–7, 5—7 (kas gi čia parašyta? — kai kuriuose spaudmenyse brūkšniai gali mažne nesiskirti.).
++ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo ar dėl spaudmenų darytojo pasirinkimo, gali kelti painiavos, palyginkite: 5-7, 5−7, 5–7, 5—7 (kas gi čia parašyta? — kai kuriuose spaudmenyse brūkšniai gali mažne nesiskirti.).
 
 
 ## Ratisės 3-is lygis
