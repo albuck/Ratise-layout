@@ -3,7 +3,7 @@
 
 ![Ratisės klaviatūros išdėstymas](images/kb-lt-ratise-iso.svg)
 
-Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai gali būti pažymėti ir vadinami skirtingai:
+Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo mygtukai gali būti pažymėti ir pavadinti skirtingai:
 
 - ```↹``` — ⭾, ⇥, Tab, Tabular, Tabulator; Atitraukimas, Atatraukimas (Ata), Įtraukimas.
 - ```⇪``` — ⮸, ⇬, 🄰, 🅰, Caps, Caps Lock; Didž, Didžiosios, Didžios.
