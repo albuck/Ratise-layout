@@ -41,7 +41,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
    - __1,3__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
    - pirštai eis panašų atstumą (priklausomai nuo teksto, kai kur Ratisė mažesnį, kai kur LEKP).
 
-__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ skaidymo. Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
+__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF). Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
 
 
 -------------------------
