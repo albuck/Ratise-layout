@@ -23,7 +23,7 @@ __Pastabos:__
 + Mokykitės palaipsniui — nuo paprasto prie sudėtingo.
 + Išmokę vieną kurį raidžių derinį ar žodį, pereikite prie kito.
 + Griežtai prisilaikykite kiekvienam pirštui priskirtų spausti mygtukų, išimtys galėtų būti taikomos kraštiniams viršutiniams šoniniams mygtukams (pvz.: ```Esc```, ```W``` ir ```Backspace```), kur mažylį silpnesnį pirštą gali pakeisti bevardis, tik turėkite omeny, tai papildomai išmokstama gudrybė, kuri ir ne visados būna patogi.
-+ Mokantis ir išmokus spausdinti nežiūrint į klaviatūrą kokie nors lipdukai ar užrašai ant pačios klaviatūros mygtukų nėra reikalingi. Iš kitos pusės, išsaugoję QWERTY išdėstymo užrašus ant klaviatūros mygtukų, prireikus, lengviau surasite juos.
++ Mokantis ir išmokus spausdinti nežiūrint į klaviatūrą kokie nors lipdukai ar užrašai ant pačios klaviatūros mygtukų nėra reikalingi. Kita vertus, išsaugoję QWERTY išdėstymo užrašus ant klaviatūros mygtukų, prireikus, lengviau surasite juos.
 
 
 -------------------------
