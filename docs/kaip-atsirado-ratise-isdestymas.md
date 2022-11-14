@@ -17,9 +17,7 @@ Tobulinant toliau Remigijaus išdėstymą užgimė [Tikrinė](images/sena_tikrin
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
-![Lietuviškas klaviatūros išdėstymas Ratisė](images/lt-ratise-isdestymas.svg)
-
-+ [Ratisės išdėstymo visi ženklai viename paveikslėlyje](ratise-isdestymo-zenklai.md)
+![Lietuviškas klaviatūros išdėstymas Ratisė](images/kb-lt-ratise-visi-zenklai.svg)
 
 Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
