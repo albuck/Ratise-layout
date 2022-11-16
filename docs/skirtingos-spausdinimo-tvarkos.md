@@ -53,6 +53,8 @@ Galima būtų išskirti bent penkis kiek skirtingus spausdinimo visais pirštais
    4. Ratise (ISO) - įprastas — 46.42
    5. Ratise (ISO) - ergonomiškas — 44.60
 
+__Pastaba.__ Lengviausia išmokti spausdinti yra įprastuoju būdu. O našiausias (ir sudėtingesnis) spausdinimo būdas būtų įprasto ir trečio pagerintojo derinimas tarpusavyje, priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu.
+
 -----------------------------------------
 
 [Ratisė stačiakampio mygtukų išdėstymo klaviatūrose](ratise-staciakampese-klaviaturose.md)
