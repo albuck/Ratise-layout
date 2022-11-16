@@ -53,7 +53,7 @@ Galima būtų išskirti bent penkis kiek skirtingus spausdinimo visais pirštais
    4. Ratise (ISO) - įprastas — 46.42
    5. Ratise (ISO) - ergonomiškas — 44.60
 
-__Pastaba.__ Lengviausia išmokti spausdinti yra įprastuoju būdu. O našesnis (ir sudėtingesnis) spausdinimo būdas būtų įprasto ir trečio pagerintojo derinimas tarpusavyje: priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu. Pavyzdžiui: po ```d```, ```t```, ```k``` spaudimo didžiuoju pirštu — ```;``` renkamas bevardžiu, o po ```š```, ```s```, ```g``` spaudimo bevardžiu pirštu — ```;``` renkamas jau didžiuoju pirštu.
+__Pastaba.__ Lengviausia išmokti spausdinti yra įprastuoju būdu. O našesnis (ir sudėtingesnis) spausdinimo būdas būtų įprastojo ir trečiojo pagerinto derinimas tarpusavyje: priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu. Pavyzdžiui: po ```d```, ```t```, ```k``` spaudimo didžiuoju pirštu — ```;``` renkamas bevardžiu, o po ```š```, ```s```, ```g``` spaudimo bevardžiu pirštu — ```;``` renkamas jau didžiuoju pirštu.
 
 -----------------------------------------
 
