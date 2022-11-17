@@ -25,7 +25,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Spausdinant Ratisè paprastai ritmiškai kaitaliojamos rankos ir pirštai — sumažėja pirštų nuovargis ir yra lengviau spausdinti._
 + _Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės vėl spaudyti mygtukus._
 + _Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus._
-+ _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai. Rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
++ _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės)._
 
