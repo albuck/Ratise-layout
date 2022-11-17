@@ -17,7 +17,10 @@ _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaud
 
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
++ _Pajėgesniem pirštams tenka ir didesnis spausdinimo krūvis._
++ _Abiejoms rankoms ir atitinkamiems jų pirštams tenka panašus spausdinimo krūvis (dešinei rankai — šiek tiek didesnis)._
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
++ _Beveik pusė visų paspaudimų tenka pagrindinės padėties mygtukams._
 + _Spausdinant Ratisè paprastai ritmiškai kaitaliojamos rankos ir pirštai, dėl to sumažėja pirštų nuovargis ir yra lengviau spausdinti._
 + _Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės vėl spaudyti mygtukus._
 + _Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus._
