@@ -20,6 +20,9 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
 + „Ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina kiek keisti Ratisės išdėstymą):
 ![Ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo.svg)
 
++ Antras „ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina kiek keisti Ratisės išdėstymą):
+![Antras ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo2.svg)
+
 
 ## Skirtingų spausdinimo tvarkų našumų patikrų lyginamieji duomenys
 
@@ -29,8 +32,9 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
    2. Ratise (ISO) - pagerintas 1 — 67.42
    3. Ratise (ISO) - pagerintas 2 — 67.42
    4. Ratise (ISO) - įprastas — 67.26
-   5. Ratise (ISO) - ergonomiškas — 66.98
-   6. Ratise (ISO) - pagerintas 4 — 66.94
+   5. Ratise (ISO) - ergonomiškas 2 — 67.24
+   6. Ratise (ISO) - ergonomiškas — 66.98
+   7. Ratise (ISO) - pagerintas 4 — 66.94
 
 + [Keyboard Layout Analyzer — Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/THSFcdDz):
 
@@ -39,16 +43,18 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
    3. Ratise (ISO) - pagerintas 2 — 62.38
    4. Ratise (ISO) - įprastas — 62.38
    5. Ratise (ISO) - ergonomiškas — 62.28
-   6. Ratise (ISO) - pagerintas 4 — 62.10
+   6. Ratise (ISO) - ergonomiškas 2 — 62.28
+   7. Ratise (ISO) - pagerintas 4 — 62.10
 
 + [Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Nt46GlH3):
 
    1. Ratise (ISO) - ergonomiškas — 46.05
-   2. Ratise (ISO) - pagerintas 3 — 45.84
-   3. Ratise (ISO) - pagerintas 2 — 45.54
-   4. Ratise (ISO) - pagerintas 4 — 45.52
-   5. Ratise (ISO) - pagerintas 1 — 45.38
-   6. Ratise (ISO) - įprastas — 45.29
+   2. Ratise (ISO) - ergonomiškas 2 — 45.63
+   3. Ratise (ISO) - pagerintas 3 — 45.84
+   4. Ratise (ISO) - pagerintas 2 — 45.54
+   5. Ratise (ISO) - pagerintas 4 — 45.52
+   6. Ratise (ISO) - pagerintas 1 — 45.38
+   7. Ratise (ISO) - įprastas — 45.29
 
 + [Keyboard Layout Analyzer — ‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/1hHNb7kL):
 
@@ -56,12 +62,13 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
    2. Ratise (ISO) - pagerintas 2 — 47.32
    3. Ratise (ISO) - pagerintas 1 — 46.95
    4. Ratise (ISO) - įprastas — 46.42
-   5. Ratise (ISO) - ergonomiškas — 44.60
-   6. Ratise (ISO) - pagerintas 4 — 41.40
+   5. Ratise (ISO) - ergonomiškas 2 — 44.74
+   6. Ratise (ISO) - ergonomiškas — 44.60
+   7. Ratise (ISO) - pagerintas 4 — 41.40
 
 
 __Pastaba.__ Lengviausia išmokti spausdinti yra įprastuoju būdu. O našesnis (ir sudėtingesnis) spausdinimo būdas būtų įprastojo ir trečiojo pagerinto derinimas tarpusavyje: priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu. Pavyzdžiui: po ```d```, ```t```, ```k``` spaudimo didžiuoju pirštu — ```;``` renkamas bevardžiu, o po ```š```, ```s```, ```g``` spaudimo bevardžiu pirštu — ```;``` renkamas jau didžiuoju pirštu.
-Ketvirtam pagerintam spausdinimo būdui nuoroda į patikrą nepateikiama (nesudėtinga pasikeisti kokį jau tenais esamą ir pasitikrinti).
+Ketvirtam pagerintam bei antram ergonomiškam spausdinimo būdam nuoroda į patikrą nepateikiama (nesudėtinga pasikeisti kokį jau tenais esamą ir pasitikrinti).
 
 -----------------------------------------
 
