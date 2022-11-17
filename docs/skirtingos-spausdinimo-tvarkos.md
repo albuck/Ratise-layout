@@ -49,8 +49,8 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
 + [Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Nt46GlH3):
 
    1. Ratise (ISO) - ergonomiškas — 46.05
-   2. Ratise (ISO) - ergonomiškas 2 — 45.63
-   3. Ratise (ISO) - pagerintas 3 — 45.84
+   2. Ratise (ISO) - pagerintas 3 — 45.84
+   3. Ratise (ISO) - ergonomiškas 2 — 45.63
    4. Ratise (ISO) - pagerintas 2 — 45.54
    5. Ratise (ISO) - pagerintas 4 — 45.52
    6. Ratise (ISO) - pagerintas 1 — 45.38
