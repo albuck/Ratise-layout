@@ -67,7 +67,10 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
    7. Ratise (ISO) - pagerintas 4 — 41.40
 
 
-__Pastaba.__ Lengviausia išmokti spausdinti yra įprastuoju būdu. O našesnis (ir sudėtingesnis) spausdinimo būdas būtų įprastojo ir trečiojo pagerinto derinimas tarpusavyje: priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu. Pavyzdžiui: po ```d```, ```t```, ```k``` spaudimo didžiuoju pirštu — ```;``` renkamas bevardžiu, o po ```š```, ```s```, ```g``` spaudimo bevardžiu pirštu — ```;``` renkamas jau didžiuoju pirštu.
+__Pastabos:__
+
+Lengviausia išmokti spausdinti yra įprastuoju būdu. O našesnis (ir sudėtingesnis) spausdinimo būdas būtų įprastojo ir trečiojo pagerinto derinimas tarpusavyje: priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu. Pavyzdžiui: po ```d```, ```t```, ```k``` spaudimo didžiuoju pirštu — ```;``` renkamas bevardžiu, o po ```š```, ```s```, ```g``` spaudimo bevardžiu pirštu — ```;``` renkamas jau didžiuoju pirštu.
+
 Ketvirtam pagerintam bei antram ergonomiškam spausdinimo būdam nuoroda į patikrą nepateikiama (nesudėtinga pasikeisti kokį jau tenais esamą ir pasitikrinti).
 
 -----------------------------------------
