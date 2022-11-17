@@ -20,6 +20,8 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Pajėgesniems pirštams tenka ir didesnis spausdinimo krūvis._
 + _Abiejoms rankoms ir atitinkamiems jų pirštams tenka panašus spausdinimo krūvis (dešinei rankai — šiek tiek didesnis)._
 + _Beveik pusė visų paspaudimų tenka pagrindinės padėties mygtukams._
++ _Pirštai spausdinant nueis ženkliai mažesnį atstumą._
++ _Dažniausias naudojami ženklai yra pirmame išdėstymo lygyje — rečiau teks naudoti keitimo mygtukus (antro, trečio lygio)._
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
 + _Spausdinant Ratisè paprastai ritmiškai kaitaliojamos rankos ir pirštai, dėl to sumažėja pirštų nuovargis ir yra lengviau spausdinti._
 + _Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės vėl spaudyti mygtukus._
