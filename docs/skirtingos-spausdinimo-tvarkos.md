@@ -17,10 +17,10 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
 + Ketvirtas pagerintas spausdinimo būdas:
 ![Ketvirtas pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p4.svg)
 
-+ „Ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina kiek keisti Ratisės išdėstymą):
++ „Ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina sukeisti kelis mygtukus vietomis):
 ![Ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo.svg)
 
-+ Antras „ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina kiek keisti Ratisės išdėstymą):
++ Antras „ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina sukeisti kelis mygtukus vietomis):
 ![Antras ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo2.svg)
 
 
