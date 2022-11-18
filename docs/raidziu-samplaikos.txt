@@ -80,6 +80,9 @@ st
 ts
 šp
 pš
+zg
+gš
+šg
 
 skl
 lks
@@ -98,6 +101,8 @@ kst
 pst
 lkt
 lst
+gst
+gšt
 
 lkst
 nkst
@@ -110,4 +115,3 @@ rgžd
 rksm
 nkšn
 lkst
-
