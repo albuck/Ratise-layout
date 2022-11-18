@@ -71,6 +71,9 @@ rp
 tr
 rt
 kt
+ng
+gn
+gt
 
 sk
 ks
