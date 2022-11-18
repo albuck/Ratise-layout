@@ -41,6 +41,10 @@ iui
 či
 dž
 dži
+šč
+šči
+sč
+sči
 dz
 ch
 
