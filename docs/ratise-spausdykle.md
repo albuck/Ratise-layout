@@ -10,7 +10,9 @@ Išdėstyme yra du ženklų lygiai. Išdėstyme tenka atsisakyti dviejų lietuvi
 
 Išdėstymas kuo puikiausiai pasirodo lietuviško teksto patikroje: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/v0701qbK)
 
-Tikrinamajame tekste ilgieji brūkšniai versti į du brūkšnelius, lietuviškos kabutės į paprastas. Tiesa, nepridėjau brūkšnelių, žodžių nukėlimui.
+Tikrinamajame tekste (_Lietuviškos pasakos_) ilgieji brūkšniai versti į du brūkšnelius, lietuviškos kabutės į paprastas. Tiesa, nepridėjau brūkšnelių, žodžių nukėlimui.
+
+Palyginimui: [standartinis lietuviškos rašymo mašinėlės išdėstymas](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-spausdykle.svg)
 
 -------------------------
 [Į pradžią](../README.md)
