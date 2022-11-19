@@ -51,10 +51,10 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS](docs/lt-isdestymu-palyginimas.md)
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
+- [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 
 ### Papildomi kitų kalbų Ratisės išdėstymai:
-- [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 - [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise-latvian.md)
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
