@@ -54,8 +54,8 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 -------------------------
 
-[Lietuviškų klaviatūros išdėstymų našumo palyginimas](lt-isdestymu-palyginimas.md)
+[Ratisės našumo palyginimas su kitais išdėstymais](lt-isdestymu-palyginimas.md)
 
-[Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-statistines-lenteles.html)
+[Lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-statistines-lenteles.html)
 
 [Į pradžią](../README.md)
