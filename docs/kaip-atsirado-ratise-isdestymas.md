@@ -17,23 +17,23 @@ Tobulinant toliau Remigijaus išdėstymą užgimė [Tikrinė](images/sena_tikrin
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
-![Lietuviškas klaviatūros išdėstymas Ratisė](images/kb-lt-ratise-iso.svg)
+![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](images/kb-lt-ratise-iso.svg)
 
 Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
-+ Lyginant su [QWERTY Baltic/Numeric](https://albuck.github.io/lithuanian-keyboard-layouts/images/qwerty-baltic-numeric-iso.svg), _spausdinant Ratise_:
++ Lyginant su _QWERTY Baltic/Numeric_ spausdinant _Ratise_:
    - __4,7__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __2__ kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - __1,5__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
    - __1,5__ karto pirštai eis mažesnį atstumą.
 
-+ Lyginant su [Lithuanian Standard](https://albuck.github.io/lithuanian-keyboard-layouts/images/azerty-lt-standard-iso.svg), _spausdinant Ratise_:
++ Lyginant su _ĄŽERTY Lithuanian Standard_ spausdinant _Ratise_:
    - __3,6__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __2__ kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - __1,3__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
    - __1,4__ karto pirštai eis mažesnį atstumą.
 
-+ Lyginant su [LEKP](https://albuck.github.io/lithuanian-keyboard-layouts/images/qgrldc-lekp-iso.svg), _spausdinant Ratise_:
++ Lyginant su _QGRLDČ LEKP_ spausdinant _Ratise_:
    - __1,8__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __1,9__ karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - __1,3__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
