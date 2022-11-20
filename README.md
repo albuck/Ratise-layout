@@ -65,7 +65,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
-- [Lithuanian Keyboard Layouts (senas registrų centro puslapis iš web.archive.org)](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)
 
 ### Spausdinimo klaviatūra pratybos:
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
