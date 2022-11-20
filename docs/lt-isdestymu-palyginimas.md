@@ -1,7 +1,7 @@
 
-# LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PALYGINIMAS
+# RATISĖS NAŠUMO PALYGINIMAS SU KITAIS IŠDĖSTYMAIS
 
-Čia pasinaudota puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo gerumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai ir rankos (34%).
+Čia pasinaudota puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur klaviatūros ženklų išdėstymo gerumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai ir rankos (34%).
 
 __Pastabos:__
 + Patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
