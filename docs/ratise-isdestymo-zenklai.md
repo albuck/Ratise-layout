@@ -67,8 +67,8 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 ### Ilgojo brūkšnio mygtukas
 
 1. Ilgasis brūkšnys, M-pločio brūkšnys ```—```
-2. Stačias (vertikalus) brūkšnys, „Lazdelė“ ```|```
-3. Stogelis „Cirkumfleksas“ ```^```
+2. Stačias (vertikalus) brūkšnys, „Lazda“ ```|```
+3. Stogelis, „Cirkumfleksas“ ```^```
 4. Stačias trūkęs brūkšnys ```¦```
 
 ### Lygybės ženklo mygtukas
