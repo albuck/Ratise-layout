@@ -115,6 +115,8 @@ lkt
 lst
 gst
 gšt
+rgt
+rkt
 
 lkst
 nkst
