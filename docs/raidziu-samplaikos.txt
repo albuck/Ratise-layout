@@ -62,6 +62,8 @@ lš
 mš
 šr
 rš
+gr
+rg
 
 kl
 lk
@@ -87,9 +89,12 @@ st
 ts
 šp
 pš
+gz
 zg
 gš
 šg
+gs
+sg
 
 skl
 lks
