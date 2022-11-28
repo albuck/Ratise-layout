@@ -16,15 +16,15 @@ __Ratisės klaviatūros išdėstymas:__
 _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
++ _Balsės ir priebalsės išskirtos skirtingoms rankoms._
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
 + _Pajėgesniems pirštams tenka ir didesnis bendras spausdinimo krūvis._
 + _Abiejoms rankoms ir atitinkamiems jų pirštams tenka panašus spausdinimo krūvis (dešinei rankai — šiek tiek didesnis)._
 + _Beveik pusė visų paspaudimų tenka pagrindinės padėties eilės mygtukams._
-+ _Pirštai spausdinant nueis ženkliai mažesnį atstumą._
-+ _Balsės ir priebalsės išskirtos skirtingoms rankoms._
-+ _Spausdinant Ratisè paprastai ritmiškai kaitaliojamos rankos ir pirštai, taip sumažėja pirštų nuovargis ir yra lengviau spausdinti._
-+ _Tam pačiam pirštui išdėstyme teks daug rečiau iš eilės vėl spaudyti mygtukus._
-+ _Tai pačiai rankai teks rečiau iš eilės vėl spaudyti mygtukus._
++ _Tam pačiam pirštui iš eilės rečiau tenka vėl spausti kitą mygtuką._
++ _Tai pačiai rankai iš eilės rečiau tenka vėl spausti kitą mygtuką._
++ _Spausdinant Ratise paprastai ritmiškai kaitaliojamos rankos ir pirštai, taip sumažėja pirštų nuovargis ir yra lengviau spausdinti._
++ _Pirštai spausdinant Ratise eina ženkliai mažesnį atstumą._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės)._
