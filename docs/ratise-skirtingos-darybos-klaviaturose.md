@@ -20,7 +20,7 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     
 4. __105 mygtukų klaviatūra, europietiškas ISO:__
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
-    - Daugiau paveikslėlių, spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-iso.pdf), [spalvotas svg](images/ratise-spausdinimo-tvarka.svg), [spalvotas pdf](images/ratise-spausdinimo-tvarka.pdf), [juodbaltis png](images/lek_ratise_layout.png), [su visais ženklais svg](images/kb-lt-ratise-visi-zenklai.svg).
+    - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-iso.pdf).
     
 5. __105 mygtukų klaviatūra „ISOANSI“ (ANSI su 105-tu mygtuku, „ISO+ANSI“):__
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
