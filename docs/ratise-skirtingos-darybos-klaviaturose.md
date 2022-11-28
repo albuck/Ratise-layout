@@ -25,6 +25,16 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 5. __105 mygtukų klaviatūra „ISOANSI“ (ANSI su 105-tu mygtuku, „ISO+ANSI“):__
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
     - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-isoansi.pdf).
+    
+6. __104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_ ir nukeltu apačion _Z_):__
+![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter ir nukeltu apačion Z)](images/kb-lt-ratise-l2.svg)
+    - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-l2.pdf).
+    
+7. __105 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, nukeltu apačion _Z_, papildomu brūkšnelio mygtuku):__
+![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, nukeltu apačion Z, papildomu brūkšnelio mygtuku)](images/kb-lt-ratise-l3.svg)
+    - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-l3.pdf).
+    
+__Pastaba:__ paskutiniųjų trijų išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą).
 
 --------------------------------------------------------------------
 
