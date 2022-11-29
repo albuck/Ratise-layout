@@ -40,7 +40,7 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 __Pastabos:__
 + Paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą).
 + Pats paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios ```Z``` mygtuko vietos.
-+ Pasitaiko klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais ženklais (pradedančio anglų kalbos vartotojo požiūriu) būna sumažinto dydžio, ar nukelti į pačią apatinę (tarpo) eilę, ar netgi išvis jų nėra ir jųjų ženklai prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```).
++ Pasitaiko klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais ženklais (pradedančio anglų kalbos vartotojo požiūriu) būna sumažinto dydžio, ar nukelti į pačią apatinę (tarpo) eilę, ar netgi išvis jų nėra ir jųjų ženklai prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```), pastarieji būtų patys nepatogiausi.
 
 --------------------------------------------------------------------
 
