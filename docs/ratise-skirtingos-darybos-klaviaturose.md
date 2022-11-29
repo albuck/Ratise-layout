@@ -18,7 +18,7 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 ![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter)](images/kb-lt-ratise-l.svg)
     - Spausdinimui: [Ratisė ‘L Enter’ juodbaltis pdf](images/kb-lt-ratise-l.pdf).
     
-4. __105 mygtukų klaviatūra, europietiškas ISO:__
+4. __105 mygtukų klaviatūra, ISO (europietiškas):__
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
     - Spausdinimui: [Ratisė ISO juodbaltis pdf](images/kb-lt-ratise-iso.pdf).
     
