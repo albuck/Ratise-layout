@@ -34,7 +34,10 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 ![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, nukeltu apačion Z, papildomu brūkšnelio mygtuku)](images/kb-lt-ratise-l3.svg)
     - Spausdinimui: [juodbaltis pdf](images/kb-lt-ratise-l3.pdf).
     
-__Pastaba:__ paskutiniųjų trijų išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą).
+8. __104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, nukeltu apačion ir už _Shift’o_ _Z_):__
+![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, nukeltu apačion ir už Shift’o Z)](images/kb-lt-ratise-l4.svg)
+    
+__Pastaba:__ paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą). Paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios ```Z``` mygtuko vietos.
 
 --------------------------------------------------------------------
 
