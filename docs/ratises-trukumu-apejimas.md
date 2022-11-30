@@ -1,6 +1,8 @@
 
 # RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI
 
+![Ratisės ŪĖYOQJ išdėstymo klaviatūra su QWERTY spaudais viduryje](images/kb-lt-ratise.svg)
+
 1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas ```⇮ AltGr```__.
  + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant ```⎇ Alt + ⎈ Ctrl``` (```⎇ Alt + ⎈ Vald```), ketvirtasis lygis paiekiamas atitinkamai per ```Alt+Ctrl+Shift```. Norint turėti atskirą trečio lygio įjungimo mygtuką kairėje pusėje, galima pasinaudoti papildomomis priemonėmis, tokiomis kaip [KeyTweak](https://keytweak.en.softonic.com/download) ar [SharpKeys](https://github.com/randyrants/sharpkeys), ir ```⇮ AltGr``` veikimą priskirti kairiajam ```⎇ Alt```, o šio ```⎇ Alt``` veikimą priskirti ```⊞ Win``` mygtukui, o ```⊞ Win``` mygtuko veikimą priskirti dešinėje esančiam ```≣ Menu``` mygtukui ar panašiai.
  + _Linux_ aplinkose perpaskirti valdymo mygtukų reikšmę galima klaviatūros išdėstymo nustatymuose (paprastai numatytai ```Alt+Ctrl``` neveikia kaip ```AltGr```).
