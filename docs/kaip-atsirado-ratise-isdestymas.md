@@ -19,7 +19,7 @@ Taigi, kaip paaiškėjo, raidės viršutinėje eilėje nėra patogus dalykas: re
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
-![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](images/kb-lt-ratise-visi-zenklai.svg)
+![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](images/lek_ratise_layout.png)
 
 Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
