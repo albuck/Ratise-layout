@@ -23,13 +23,13 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Beveik pusė visų paspaudimų tenka pagrindinės padėties eilės mygtukams._
 + _Tam pačiam pirštui iš eilės rečiau tenka vėl spausti kitą mygtuką._
 + _Tai pačiai rankai iš eilės rečiau tenka vėl spausti kitą mygtuką._
-+ _Spausdinant Ratise paprastai ritmiškai kaitaliojamos rankos ir pirštai, taip sumažėja pirštų nuovargis ir yra lengviau spausdinti._
-+ _Pirštai spausdinant Ratise eina ženkliai mažesnį atstumą._
++ _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai, taip žymiai sumažėja atskirų pirštų nuovargis ir yra lengviau spausdinti._
++ _Pirštai spausdinant Ratise nueina ženkliai mažesnį atstumą nei įprastuose lietuviškuose išdėstymuose._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės)._
 
-__Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ operacijų sistemoms (skaitmeninėms aplinkoms):
+__Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
 
 [↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
