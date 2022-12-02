@@ -6,6 +6,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>ratise</name>
+            <description>Lithuanian (Ratise, no dead keys)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>ratiselv</name>
             <description>Lithuanian (Ratise, Latvian Phonetic)</description>
           </configItem>
@@ -22,4 +28,3 @@
             <description>Lithuanian (Ratise, Russian Cyrillic Phonetic)</description>
           </configItem>
         </variant>
-
