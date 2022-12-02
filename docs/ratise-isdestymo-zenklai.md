@@ -4,6 +4,7 @@
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
 + Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
++ Papildomos išdėstymo atmainos be tęsties lygių visi keturių lygių ženklai: [Ratisė B](images/kb-lt-ratise-b-visi-zenklai.svg)
 + [Valdymo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
 
 __Spaudų išdėstymo lygiai:__
