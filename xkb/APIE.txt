@@ -4,6 +4,7 @@ Turinys:
 --------
 
 'ratise.txt' — Ratisės išdėstymas (šis jau yra įtrauktas į naująjį Xorg).
+'ratiseb.txt' — Ratisės išdėstymas, be tęsties mygtukų (su uždėtiniais ženkleliais).
 'ratiselv.txt' — Ratisės latviškas garsmeninis (fonetinis) išdėstymas.
 'ratiseru.txt' — Ratisės rusiškas garsmeninis (fonetinis) kirilica išdėstymas.
 'ratiseg.txt' — Ratisės germaniškas garsmeninis (fonetinis) išdėstymas.
