@@ -6,7 +6,7 @@ KEYMAP SPECIFICATIONS
 Lithuanian Ergonomic Computer Keyboard Layout ŪĖYOQJ or "Ratise"
 ================================================================
 
-version 2.4
+version 2.4.1
 
 
 This is four level keyboard layout:
@@ -30,9 +30,10 @@ Symbols from a different levels on the keys are placed in such form:
 ! There are possible two versions of the Ratise layout differing in some characters at the fourth level.
 
 
-Ratise's layout:
+Ratise's layouts
 ----------------
 
+a) with dead keys:
 
    99    00    01    02    03    04    05    06    07    08    09    10    11    12    13   14             
      ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓           
@@ -40,18 +41,40 @@ Ratise's layout:
      │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ … │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
      ┢━━━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫           
   D  ┃         ┃ Ū › │ Ė ° │ Y ^ │ O » │ Q ↑ │ J ¥ │ N ¬ │ K † │ G • │ B ∞ │ C © │ F ™ ┃       ┃ D         
-     ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q ́  │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ⁄ ┃ Enter ┃           
+     ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q  ́ │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ⁄ ┃ Enter ┃           
      ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
   C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ® ┃      ┃ C         
-     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h ̃  │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ° ┃      ┃           
+     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h  ̃ │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ° ┃      ┃           
      ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
   B  ┃       ┃ – ‑ │ Ų ‹ │ Ę ˘ │ Į ˇ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
-     ┃ Shift ┃ - ̇  │ ų ‚ │ ę { │ į } │ ą „ │ x ̀  │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
+     ┃ Shift ┃ -  ̇ │ ų ‚ │ ę { │ į } │ ą „ │ x  ̀ │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
      ┣━━━━━━━┻━┳━━━┷━━━━┳┷━━━━━┷━┱───┴─────┴─────┴─────┴─────┴─────┴┲━━━━┷━━━┳━┻━━━━━┳━━━━━━━━━┫           
   A  ┃         ┃  (Alt) ┃(AltGr) ┃     Space         Nobreakspace   ┃        ┃  (OS) ┃         ┃ A
      ┃  Ctrl   ┃  Meta  ┃  Alt   ┃     Space            Space       ┃  AltGr ┃  Menu ┃   Ctrl  ┃
      ┗━━━━━━━━━┻━━━━━━━━┻━━━━━━━━┹──────────────────────────────────┺━━━━━━━━┻━━━━━━━┻━━━━━━━━━┛           
-              99     00    01   02    03    04    05    06    07    08    09    10    11    12    13    14     
+              99     00    01   02    03    04    05    06    07    08    09    10    11    12    13    14 
+
+
+b) no dead keys (with diacritics instead):
+
+   99    00    01    02    03    04    05    06    07    08    09    10    11    12    13   14             
+     ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓           
+  E  │  §  ´ │ ¤ ¡ │ @ ← │ # → │ $ £ │ % ‰ │ | ¦ │ & ≠ │ < ≤ │ > ≥ │ \ ‖ │ W ß │ ~ ¿ ┃         ┃ E         
+     │  +  ` │ ! ’ │ : ⟨ │ . ⟩ │ * ” │ _ … │ — ^ │ = 7 │ , 8 │ ; 9 │ / ÷ │ w Ω │ ? ≈ ┃Backspace┃           
+     ┢━━━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫           
+  D  ┃         ┃ Ū › │ Ė  ̊ │ Y  ̂ │ O » │ Q ↑ │ J ¥ │ N ¬ │ K † │ G • │ B ∞ │ C © │ F ™ ┃       ┃ D         
+     ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q  ́ │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ⁄ ┃ Enter ┃           
+     ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
+  C  ┃   Caps   ┃ U   │ E  ̧ │ I ı │ A  ̈ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž  ̦ │ Z ® ┃      ┃ C         
+     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h  ̃ │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ° ┃      ┃           
+     ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
+  B  ┃       ┃ – ‑ │ Ų ‹ │ Ę  ̆ │ Į  ̌ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
+     ┃ Shift ┃ -  ̇ │ ų ‚ │ ę { │ į } │ ą „ │ x  ̀ │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
+     ┣━━━━━━━┻━┳━━━┷━━━━┳┷━━━━━┷━┱───┴─────┴─────┴─────┴─────┴─────┴┲━━━━┷━━━┳━┻━━━━━┳━━━━━━━━━┫           
+  A  ┃         ┃  (Alt) ┃(AltGr) ┃     Space         Nobreakspace   ┃        ┃  (OS) ┃         ┃ A
+     ┃  Ctrl   ┃  Meta  ┃  Alt   ┃     Space            Space       ┃  AltGr ┃  Menu ┃   Ctrl  ┃
+     ┗━━━━━━━━━┻━━━━━━━━┻━━━━━━━━┹──────────────────────────────────┺━━━━━━━━┻━━━━━━━┻━━━━━━━━━┛           
+              99     00    01   02    03    04    05    06    07    08    09    10    11    12    13    14 
 
 
 Keys:
@@ -147,13 +170,13 @@ C02:
 L1 — 0065 LATIN SMALL LETTER E
 L2 — 0045 LATIN CAPITAL LETTER E
 L3 — 0028 LEFT PARENTHESIS
-L4 — [free] | Dead Key 'GRAVE ACCENT' (*)
+L4 — 0327 COMBINING CEDILLA | Dead Key 'GRAVE ACCENT' (*)
 
 C03:
 L1 — 0069 LATIN SMALL LETTER I
 L2 — 0049 LATIN CAPITAL LETTER I
 L3 — 0029 RIGHT PARENTHESIS
-L4 — [free] | Dead Key 'ACUTE ACCENT' (*)
+L4 — 0131 LATIN SMALL LETTER DOTLESS I | Dead Key 'ACUTE ACCENT' (*)
 
 C04:
 L1 — 0061 LATIN SMALL LETTER A
