@@ -1,7 +1,7 @@
 Aplanko turinys:
 
 'Lithuanian (Ratise)' — 'Haiku' sistemai skirta lietuviško ergonomiško klaviatūros "Ratisė" išdėstymo valdyklė.
-'Lithuanian (Ratise-b)' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
+'Lithuanian (Ratise B)' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
 'Germanic (Ratise)' — atatinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
 'Latvian (Ratise)' — atatinkama latviška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
 'Russian (Ratise)' — atatinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
