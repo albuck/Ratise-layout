@@ -12,7 +12,7 @@ __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](docs/images/kb-lt-ratise-iso.svg)
 
 + [Valdymo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
-+ Tiems, kurie nemato naršyklėje paveikslėlių: [kitokis paveikslėlis](docs/images/lek_ratise_layout.png)
++ [Kitokis paveikslėlis](docs/images/lek_ratise_layout.png) — tiems, kurie nemato naršyklėje išdėstymo paveikslėlio.
 
 _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
