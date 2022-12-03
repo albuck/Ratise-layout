@@ -4,7 +4,7 @@ Aplanko turinys:
 
 — 'ratise' — Windows 2000/XP/Vista/7/8/10 sistemoms skirta lietuviško ergonomiško klaviatūros išdėstymo „Ratisė“ valdyklių diegyklė.
 
-— 'ratiseb' — Ratisės išdėstymas (be tęsties mygtukų, su uždėtiniais ženkleliais).
+— 'ratiseb' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
 
 — 'ratiseg' — papildoma atitinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
 
