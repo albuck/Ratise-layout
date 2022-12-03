@@ -1,21 +1,22 @@
 Tai yra 'MacOS' sistemai skirtos lietuviško klaviatūros išdėstymo „Ratisė“ valdyklės.
 
 
-Turinys:
+Turinys
+-------
+
+'LithuanianRatise.keylayout' bei 'LithuanianRatise.icns' (jos ženkliukas) — lietuviško klaviatūros išdėstymo „Ratisė“ valdyklė MacOS'ui. Klaviatūros raktuose atitinkamos QWERTY išdėtymo raidės vietoje ten esančių lietuviškų raidžių (ŪĖ ŲĘĮĄ), taigi 'Grąžinti', 'Iškirpti', 'Nurašyti', 'Įrašyti' ir panašiai veikia kaip QWERTY išdėstyme.
+
+'LithuanianRatiseB.keylayout' bei 'LithuanianRatiseB.icns' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
+
+'GermanicRatise.keylayout' bei 'GermanicRatise.icns' — germanų kalbų garsmeninio (fonetinio) ir panašiai, atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
+
+'LatvianRatise.keylayout' bei 'LatvianRatise.icns' — latviško garsmeninio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
+
+'RussianRatise.keylayout' bei 'RussianRatise.icns' — rusiško (kirilica) garsmeninio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
+
+
+Diegimas
 --------
-
-— 'LithuanianRatise.keylayout' bei 'LithuanianRatise.icns' (jos ženkliukas) — lietuviško klaviatūros išdėstymo „Ratisė“ valdyklė MacOS'ui. Klaviatūros raktuose atitinkamos QWERTY išdėtymo raidės vietoje ten esančių lietuviškų raidžių (ŪĖ ŲĘĮĄ), taigi 'Grąžinti', 'Iškirpti', 'Nurašyti', 'Įrašyti' ir panašiai veikia kaip QWERTY išdėstyme.
-
-— 'LithuanianRatiseB.keylayout' bei 'LithuanianRatiseB.icns' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
-
-— 'GermanicRatise.keylayout' bei 'GermanicRatise.icns' — germanų kalbų garsmeninio (fonetinio) ir panašiai, atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
-
-— 'LatvianRatise.keylayout' bei 'LatvianRatise.icns' — latviško garsmeninio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
-
-— 'RussianRatise.keylayout' bei 'RussianRatise.icns' — rusiško (kirilica) garsmeninio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
-
-Diegimas:
----------
 
 Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lietuvių Ratisė' ar kitą (papildomai gali prireikti perkrauti kompiuterį).
 
