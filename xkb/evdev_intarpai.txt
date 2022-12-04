@@ -6,7 +6,7 @@
         </variant>
         <variant>
           <configItem>
-            <name>ratise</name>
+            <name>ratise-b</name>
             <description>Lithuanian (Ratise, no dead keys)</description>
           </configItem>
         </variant>
