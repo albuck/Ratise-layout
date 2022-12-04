@@ -12,7 +12,7 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo 
 - ```◊``` — ◇, ❖, OS, Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo; Vėliava, Vadinis, Vada.
 - ```⎇``` — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS); Kitaip.
 - ```⇮``` — AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3; Lyg3, Trečiasis lygis, Tretinis, Kitas.
-- ```≣``` — Menu, Mn, Application; Meniu, Sąrašas.
+- ```≣``` — ≡, Menu, Mn, Application; Meniu, Sąrašas.
 - ```⏎``` — ↵, ⎆, ↩, Enter, Return; Įvesti, Įvedimas.
 - ```⌫``` — ← Backspace; Trinti, Trynimas.
 
