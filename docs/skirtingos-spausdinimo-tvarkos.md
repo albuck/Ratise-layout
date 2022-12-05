@@ -2,6 +2,8 @@
 
 Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais būdus klaviatūrose su skersuotais mygtukais. Dėl to mygtukų skilčių skersavimo, kartais yra patogiau spausti pirštu viršutinės ar apatinės eilės (aukšto) mygtuką priklausantį kito piršto skilčiai. Šiaip jau, Ratisės išdėstymo bendram patogumui tai turi nedidelį poveikį.
 
+<br>
+
 + Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
 ![Įprastas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-iprasta.svg)
 
@@ -23,6 +25,7 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
 + Antras „ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina sukeisti kelis mygtukus vietomis):
 ![Antras ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo2.svg)
 
+<br>
 
 ## Skirtingų spausdinimo tvarkų našumų patikrų lyginamieji duomenys
 
@@ -66,12 +69,15 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
    6. Ratise (ISO) - ergonomiškas — 44.60
    7. Ratise (ISO) - pagerintas 4 — 41.40
 
+<br>
 
 __Pastabos:__
 
 Lengviausia išmokti spausdinti yra įprastuoju būdu. O našiausias (ir sudėtingiausias) spausdinimo būdas, ko gero, būtų įprastojo ir trečiojo pagerinto derinimas tarpusavyje: priklausomai nuo prieš tai naudoto piršto pasirenkamas tas būdas, kuriame būtų galima spausti mygtuką kitu nenaudotu pirštu. Pavyzdžiui: po ```d```, ```t```, ```k``` spaudimo didžiuoju pirštu — ```;``` renkamas bevardžiu, o po ```š```, ```s```, ```g``` spaudimo bevardžiu pirštu — ```;``` renkamas jau didžiuoju pirštu.
 
 Ketvirtam pagerintam bei antram ergonomiškam spausdinimo būdam nuoroda į patikrą nepateikiama (nesudėtinga pasikeisti kokį jau tenais esamą ir pasitikrinti).
+
+<br>
 
 -----------------------------------------
 
