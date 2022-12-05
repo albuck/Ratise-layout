@@ -13,6 +13,8 @@ Tad, akivaizdu, kad [spausdinant visais pirštais](spausdinimo-visais-pirstais-t
 
 Žemiau pateikiami paveikslėliai su Ratisės išdėstymo klaviatūros mygtukų naudojimo dažnumu spausdinant tam tikrą tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
+<br>
+
 ## Lietuviško teksto skaida
 
 __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
@@ -26,6 +28,8 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
 - Šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/l6LcJ7Rd)
 
+<br>
+
 ## Angliško teksto skaida
 
 __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
@@ -38,6 +42,8 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 |Pirštų nueitas atstumas:|   4,6%   |   0,6%    |    4,1%  |   19,9%  |   8,8% |   18,2%  |   13,9%  |    4,0%   |  25,8%   |
 
 - Šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/6nzdBCjp)
+
+<br>
 
 ## Programavimo kalbų tekstas
 
