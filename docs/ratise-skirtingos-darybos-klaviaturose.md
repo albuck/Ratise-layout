@@ -7,42 +7,42 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 
 <br>
 
-1. __104 mygtukų klaviatūra „ANSISO“ (ISO be 105-to mygtuko, „ISO+ANSI“):__
-![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ISO+ANSI, ANSISO](images/kb-lt-ratise-ansiso.svg)
+1. __101/104 mygtukų klaviatūra „ANSISO“ (ISO be papildomo mygtuko, „ANSI+ISO“):__
+![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
     - Spausdinimui: [Ratisė ANSISO juodbaltis pdf](images/kb-lt-ratise-ansiso.pdf).
 <br>
    
-2. __104 mygtukų klaviatūra, amerikietiškas ANSI:__
+2. __101/104 mygtukų klaviatūra, amerikietiškas ANSI:__
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-ansi.svg)
     - Spausdinimui: [Ratisė ANSI juodbaltis pdf](images/kb-lt-ratise-ansi.pdf).
 <br>
 
-3. __104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, kartais dar vadinamas „azijietišku“):__
+3. __101/104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, kartais dar vadinamas „azijietišku“):__
 ![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter)](images/kb-lt-ratise-l.svg)
     - Spausdinimui: [Ratisė ‘L Enter’ juodbaltis pdf](images/kb-lt-ratise-l.pdf).
 <br>
     
-4. __105 mygtukų klaviatūra, ISO (europietiškas):__
+4. __102/105 mygtukų klaviatūra, ISO („europietiškas“):__
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
     - Spausdinimui: [Ratisė ISO juodbaltis pdf](images/kb-lt-ratise-iso.pdf).
 <br>
     
-5. __105 mygtukų klaviatūra „ISOANSI“ (ANSI su 105-tu mygtuku, „ISO+ANSI“):__
+5. __102/105 mygtukų klaviatūra „ISOANSI“ (ANSI su papildomu mygtuku, „ISO+ANSI“):__
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
     - Spausdinimui: [Ratisė ISOANSI juodbaltis pdf](images/kb-lt-ratise-isoansi.pdf).
 <br>
    
-6. __104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_ ir nukeltu apačion _Z_):__
+6. __101/104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_ ir nukeltu apačion _Z_):__
 ![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter ir nukeltu apačion Z)](images/kb-lt-ratise-l2.svg)
     - Spausdinimui: [Ratisė ‘L Enter 2’ juodbaltis pdf](images/kb-lt-ratise-l2.pdf).
 <br>
     
-7. __105 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, nukeltu apačion _Z_, papildomu brūkšnelio mygtuku):__
-![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, nukeltu apačion Z, papildomu brūkšnelio mygtuku)](images/kb-lt-ratise-l3.svg)
+7. __102/105 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, su papildomu mygtuku, su nukeltu apačion _Z_, papildomu brūkšnelio mygtuku):__
+![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, su papildomu mygtuku, su nukeltu apačion Z, papildomu brūkšnelio mygtuku)](images/kb-lt-ratise-l3.svg)
     - Spausdinimui: [Ratisė ‘L Enter 3’ juodbaltis pdf](images/kb-lt-ratise-l3.pdf).
 <br>
     
-8. __104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, nukeltu apačion ir už _Shift’o_ _Z_):__
+8. __101/104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, nukeltu apačion ir už _Shift’o_ _Z_):__
 ![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, nukeltu apačion ir už Shift’o Z)](images/kb-lt-ratise-l4.svg)
  
  <br>
