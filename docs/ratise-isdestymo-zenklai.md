@@ -1,6 +1,8 @@
 
 # Ratisės išdėstymo ženklai
 
+<br>
+
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
 + Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
@@ -20,6 +22,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 Žemiau yra aprašomi mygtukai eilėmis nuo viršaus į apačią, iš kairės į dešinę. Po ženklo pavadinimo duodamas pats ženklas (jei reikia).
 
+<br>
 
 ## Pirmoji mygtukų eilė
 
@@ -114,6 +117,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 3. Ženklas „Apytiksliai lygu“ ```≈```
 4. Apverstas klaustukas ```¿```
 
+<br>
 
 ## Antroji mygtukų eilė
 
@@ -201,6 +205,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 3. Tupmeninis žambas ```⁄```
 4. Prekinio vardo ženklas ```™```
 
+<br>
 
 ## Trečioji mygtukų eilė (pagrindinės pirštų padėties eilė)
 
@@ -288,6 +293,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 3. Laipsnio ženklas ```°```
 4. Registravimo ženklas ```®```
 
+<br>
 
 ## Ketvirtoji mygtukų eilė
 
@@ -368,6 +374,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 3. Pridėties ženklas „Plius“ ```+```
 4. Pridėties-atimties ženklas „Plius-Minus“ ```±```
 
+<br>
 
 ## Penktoji mygtukų eilė
 
@@ -378,6 +385,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 3. Tarpas ``` ```
 4. Nepertraukiamasis tarpas ``` ```
 
+<br>
 
 -------------------------
 
