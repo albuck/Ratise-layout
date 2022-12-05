@@ -107,6 +107,7 @@ __Išsamiau:__
  - [Ratise (ANSI), Colemak, Programmer Colemak, Programmer Dvorak, QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/s28h740l)
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Colemak Cub, Ergodox Workman Cub, Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/rlcPHQmv)
 
+<br>
 
 ### Bendrai ‘Bash, C, CPP, HTML, JavaScript, Python’:
 
