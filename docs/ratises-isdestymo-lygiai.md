@@ -1,7 +1,7 @@
 
 # RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI
-<br>
 
+<br>
 _Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose._
 
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
@@ -21,8 +21,8 @@ __Spaudų išdėstymo mygtuke lygiai:__
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
-<br>
 
+<br>
 ## Ratisės 1-is lygis
 
 Spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
