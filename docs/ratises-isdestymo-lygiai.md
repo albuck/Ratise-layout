@@ -20,7 +20,7 @@ __Spaudų išdėstymo mygtuke lygiai:__
 
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
 
-Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
+Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
 
 
 ## Ratisės 1-is lygis
