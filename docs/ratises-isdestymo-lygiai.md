@@ -72,6 +72,8 @@ Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant 
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
+Čia, priklausomai nuo raidžių su uždėtiniais ženkleliais (diakritikais) įvedimo būdo, yra galimos dvejos Ratisės atmainos:
+
 a) Ratisė su tęsties mygtukais:
 ![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-4-lygis.svg)
 
