@@ -77,7 +77,6 @@ Lengviausia išmokti spausdinti yra įprastuoju būdu. O našiausias (ir sudėti
 
 Ketvirtam pagerintam bei antram ergonomiškam spausdinimo būdam nuoroda į patikrą nepateikiama (nesudėtinga pasikeisti kokį jau tenais esamą ir pasitikrinti).
 
-<br>
 
 -----------------------------------------
 
