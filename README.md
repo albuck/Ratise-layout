@@ -40,6 +40,8 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 --------------------------------------------------------------------
 
+<br>
+
 ## TURINYS
 - [KLAVIATŪROS VALDYMO-KEITIMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
