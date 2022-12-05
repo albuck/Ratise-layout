@@ -384,7 +384,6 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 3. Tarpas ``` ```
 4. Nepertraukiamasis tarpas ``` ```
 
-<br>
 
 -------------------------
 
