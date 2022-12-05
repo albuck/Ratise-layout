@@ -4,6 +4,7 @@
 Lietuviška klaviatūra su Ratisės _ŪĖYOQJ_ išdėstymu, mygtukų vyduryje palyginimui pilkšvi _QWERTY_ išdėstymo spaudai:
 ![Ratisės ŪĖYOQJ išdėstymo klaviatūra su QWERTY spaudais viduryje](images/kb-lt-ratise.svg)
 
+<br>
 
 ## Mygtukų sutapimai su kitais lietuviškais išdėstymais:
 
@@ -18,6 +19,7 @@ Lietuviška klaviatūra su Ratisės _ŪĖYOQJ_ išdėstymu, mygtukų vyduryje pa
 |__QWERTY Lithuanian:__ | ``` % mM ``` | ``` ! @ # $ 7 8 9 ``` |
 |__QGRLDČ LEKP:__ | ``` . @ ``` |``` ` ´ ```|
 
+<br>
 
 ## Mygtukų sutapimai su kitų kalbų žinomesniais/ergonominiais išdėstymais:
 
@@ -32,6 +34,8 @@ Lietuviška klaviatūra su Ratisės _ŪĖYOQJ_ išdėstymu, mygtukų vyduryje pa
 |__Turkų F:__| ``` uU aA + $ % ``` | ``` ! # 7 8 9 ``` |
 |__Prancūzų BEPO:__ | ``` iI oO ^ { } ``` | ``` 7 8 9 ``` |
 |__Vokiečių Neo2:__ | ``` uU mM ``` | ``` 7 8 9 ``` |
+
+<br>
 
 -------------------------
 
