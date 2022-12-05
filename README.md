@@ -44,7 +44,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 [↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
-<br>
 
 --------------------------------------------------------------------
 
