@@ -279,6 +279,6 @@
   <text x="442.5" y="142.5" fill="#ff00ff" style="font-variant-ligatures:none;line-height:1.25"><tspan x="442.5" y="142.5">Ł</tspan></text>
   <text x="666.20599" y="52.494999" style="font-variant-ligatures:none;line-height:1.25"><tspan x="666.20599" y="52.494999">w</tspan></text>
  </g>
- <text x="478.08701" y="259.561" fill="#ff00ff" font-family="'Noto Sans'" font-size="24px" font-weight="600" letter-spacing=".01" style="line-height:1.25"><tspan x="478.08701" y="259.561" font-size="12px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">[<tspan font-family="'Noto Sans'" font-weight="normal">nobreakspace</tspan>]</tspan></text>
+ <text x="478.08701" y="259.561" fill="#ff00ff" font-family="'Noto Sans'" font-size="24px" font-weight="600" letter-spacing=".01" style="line-height:1.25"><tspan x="478.08701" y="259.561" font-family="'Noto Sans'" font-size="12px" font-weight="normal" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">[nobreakspace]</tspan></text>
  <text x="203.55911" y="143.88506" fill="#ff00ff" font-family="'Noto Sans'" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="203.55911" y="143.88506" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̧</tspan></text>
 </svg>
