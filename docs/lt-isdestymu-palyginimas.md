@@ -7,6 +7,7 @@ __Pastabos:__
 + Patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
 + Prie _AŽERTY Lithuanian (Standard 2000)_ prierašas „paslinkta dešinė“ reiškia, kad dešinės rankos pagrindinės pirštų padėtys ir spaudžiamų mygtukų skiltys pastumtos per vieną langelį dešinėn, kaip nevykusiai [yra patariama išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) ar [lietuvai.lt „Aklasis teksto rinkimas“](https://lietuvai.lt/wiki/Aklasis_teksto_rinkimas).
 
+<br>
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai lietuviškuose spaudiniuose
 
@@ -58,6 +59,7 @@ __Išsamiau:__
 
 __Pastabos.__ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaidžių ženklai vietoje esamųjų neuždėtinių jų atitikmenų, kaip paprastai būtų pasielgiama, padarant atskirą išdėstymo variantą kirčiuotam tekstui rinkti. Tekstas kirčiuotas (yra klaidų) šičia: [donelaitis.vdu.lt](http://donelaitis.vdu.lt/main.php?id=4&nr=9_1).
 
+<br>
 
 ## Ratisės ir kitų lietuviškų išdėstymų pasiekimai angliškuose spaudiniuose bei angliškuose programavimo kalbų tekstuose
 
@@ -177,12 +179,14 @@ __Išsamiau:__
  - [QGMLWY (ANSI), Acemak 1 (ANSI), Asset (ANSI), OISEAU (ANSI), ABCDEF (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/LnjglDkK)
  - [Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/fqL3FWw7)
 
+<br>
 
 __Pastabos:__
 + Geriausiai pasirodžiusioje klaviatūroje Kinesis-ErgoDox (jose mygtukai perpaskiriami) našiausias buvo [toks Ratisės kraštinių mygtukų ⟨+w?cfz-⟩ išdėstymas](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg) (nors ne programavimo tekstuose išdėstymas su klaustuko ir brūkšnelio mygtukais sukeistais vietomis pasirodo kiek geriau).
 + Dėl to, kad Ratisės išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas, ko gero, ne visada pasirenka patogiausią skaičiuodamas.
 + Kaip „ISO+ANSI“ čia tikrintas vadinamasis [„ANSISO“](images/kb-lt-ratise-ansiso.svg) klaviatūros mygtukų išdėstymas.
 
+<br>
 
 -------------------------
 
