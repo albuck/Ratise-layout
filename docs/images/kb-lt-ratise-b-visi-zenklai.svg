@@ -43,7 +43,7 @@
    <text x="773.71198" y="144.722" style="line-height:1.25"><tspan x="773.71198" y="144.722">Z</tspan></text>
    <text x="712.98297" y="144.78799" style="line-height:1.25"><tspan x="712.98297" y="144.78799">Ž</tspan></text>
    <text x="653.61401" y="144.49899" style="line-height:1.25"><tspan x="653.61401" y="144.49899">P</tspan></text>
-   <text x="593.729" y="144.96899" style="line-height:1.25"><tspan x="593.729" y="144.96899">S</tspan></text>
+   <text x="594.02661" y="144.22466" style="line-height:1.25"><tspan x="594.02661" y="144.22466">S</tspan></text>
    <text x="533.14502" y="144.408" style="line-height:1.25"><tspan x="533.14502" y="144.408">T</tspan></text>
    <text x="473.09201" y="144.383" style="line-height:1.25"><tspan x="473.09201" y="144.383">R</tspan></text>
    <text x="411.73001" y="144.696" style="line-height:1.25"><tspan x="411.73001" y="144.696">L</tspan></text>
@@ -53,42 +53,42 @@
    <text x="172.67" y="144.804" style="line-height:1.25"><tspan x="172.67" y="144.804">E</tspan></text>
    <text x="110.911" y="144.76601" style="line-height:1.25"><tspan x="110.911" y="144.76601">U</tspan></text>
    <text x="90" y="202.5" style="line-height:1.25"/>
-   <text x="85.963997" y="231.763" style="line-height:1.25"><tspan x="85.963997" y="231.763" font-weight="700">-</tspan></text>
+   <text x="85.963997" y="231.763" style="line-height:1.25"><tspan x="85.963997" y="231.763" font-family="'Noto Sans'" font-weight="normal">-</tspan></text>
    <text x="83.738998" y="202.799" style="line-height:1.25"><tspan x="83.738998" y="202.799">–</tspan></text>
   </g>
   <text x="113.717" y="231.2" fill="#0000ff" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="113.717" y="231.2" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̇</tspan></text>
   <g font-size="24px" font-weight="600">
-   <text x="8.2530003" y="53.424" style="line-height:1.25"><tspan x="8.2530003" y="53.424">+</tspan></text>
+   <text x="8.2530003" y="53.424" style="line-height:1.25"><tspan x="8.2530003" y="53.424" font-family="'Noto Sans'" font-weight="normal">+</tspan></text>
    <text x="9.1829996" y="25.899" style="line-height:1.25"><tspan x="9.1829996" y="25.899">§</tspan></text>
    <text x="42.012001" y="48.692001" fill="#0000ff" style="line-height:1.25"><tspan x="42.012001" y="48.692001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">`</tspan></text>
    <text x="45" y="7.5" style="line-height:1.25"/>
-   <text x="71.713997" y="52.097" style="line-height:1.25"><tspan x="71.713997" y="52.097">!</tspan></text>
+   <text x="71.713997" y="52.097" style="line-height:1.25"><tspan x="71.713997" y="52.097" font-family="'Noto Sans'" font-weight="normal">!</tspan></text>
    <text x="68.160004" y="23.344999" style="line-height:1.25"><tspan x="68.160004" y="23.344999">¤</tspan></text>
-   <text x="131.761" y="52.492001" style="line-height:1.25"><tspan x="131.761" y="52.492001">:</tspan></text>
+   <text x="131.761" y="52.492001" style="line-height:1.25"><tspan x="131.761" y="52.492001" font-family="'Noto Sans'" font-weight="normal">:</tspan></text>
    <text x="126.132" y="25.242001" style="line-height:1.25"><tspan x="126.132" y="25.242001">@</tspan></text>
-   <text x="191.674" y="52.410999" style="line-height:1.25"><tspan x="191.674" y="52.410999">.</tspan></text>
+   <text x="191.674" y="52.410999" style="line-height:1.25"><tspan x="191.674" y="52.410999" font-family="'Noto Sans'" font-weight="normal">.</tspan></text>
    <text x="187.629" y="25.01" style="line-height:1.25"><tspan x="187.629" y="25.01">#</tspan></text>
-   <text x="248.661" y="51.443001" style="line-height:1.25"><tspan x="248.661" y="51.443001">*</tspan></text>
+   <text x="248.661" y="51.443001" style="line-height:1.25"><tspan x="248.661" y="51.443001" font-family="'Noto Sans'" font-weight="normal">*</tspan></text>
    <text x="248.384" y="24.084999" style="line-height:1.25"><tspan x="248.384" y="24.084999">$</tspan></text>
    <text x="309.61899" y="50.344002" style="line-height:1.25"><tspan x="309.61899" y="50.344002">_</tspan></text>
    <text x="305.59201" y="23.677" style="line-height:1.25"><tspan x="305.59201" y="23.677">%</tspan></text>
-   <text x="364.05099" y="51.904999" style="line-height:1.25"><tspan x="364.05099" y="51.904999">—</tspan></text>
+   <text x="364.05099" y="51.904999" style="line-height:1.25"><tspan x="364.05099" y="51.904999" font-family="'Noto Sans'" font-weight="normal">—</tspan></text>
    <text x="368.55099" y="24.839001" style="line-height:1.25"><tspan x="368.55099" y="24.839001">|</tspan></text>
    <text x="399.20099" y="48.146999" fill="#0000ff" style="line-height:1.25"><tspan x="399.20099" y="48.146999" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">^</tspan></text>
-   <text x="428.40601" y="53.324001" style="line-height:1.25"><tspan x="428.40601" y="53.324001">=</tspan></text>
+   <text x="428.40601" y="53.324001" style="line-height:1.25"><tspan x="428.40601" y="53.324001" font-family="'Noto Sans'" font-weight="normal">=</tspan></text>
    <text x="428.01401" y="25.778999" style="line-height:1.25"><tspan x="428.01401" y="25.778999">&amp;</tspan></text>
    <text x="459.715" y="52.534" fill="#0000ff" style="line-height:1.25"><tspan x="459.715" y="52.534" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">7</tspan></text>
    <text x="518.92798" y="52.491001" fill="#0000ff" style="line-height:1.25"><tspan x="518.92798" y="52.491001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">8</tspan></text>
-   <text x="492.13501" y="52.291" style="line-height:1.25"><tspan x="492.13501" y="52.291">,</tspan></text>
+   <text x="492.13501" y="52.291" style="line-height:1.25"><tspan x="492.13501" y="52.291" font-family="'Noto Sans'" font-weight="normal">,</tspan></text>
    <text x="487.853" y="23.632999" style="line-height:1.25"><tspan x="487.853" y="23.632999">&lt;</tspan></text>
-   <text x="551.66901" y="52.75" style="line-height:1.25"><tspan x="551.66901" y="52.75">;</tspan></text>
+   <text x="551.66901" y="52.75" style="line-height:1.25"><tspan x="551.66901" y="52.75" font-family="'Noto Sans'" font-weight="normal">;</tspan></text>
    <text x="548.43799" y="23.454" style="line-height:1.25"><tspan x="548.43799" y="23.454">&gt;</tspan></text>
    <text x="579.62903" y="52.387001" fill="#0000ff" style="line-height:1.25"><tspan x="579.62903" y="52.387001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9</tspan></text>
-   <text x="610.039" y="52.459" style="line-height:1.25"><tspan x="610.039" y="52.459">/</tspan></text>
+   <text x="610.039" y="52.459" style="line-height:1.25"><tspan x="610.039" y="52.459" font-family="'Noto Sans'" font-weight="normal">/</tspan></text>
    <text x="610.38202" y="24.759001" style="line-height:1.25"><tspan x="610.38202" y="24.759001">\</tspan></text>
    <text x="638.94598" y="52.556999" fill="#0000ff" style="line-height:1.25"><tspan x="638.94598" y="52.556999" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">÷</tspan></text>
    <text x="663.474" y="24.625999" style="line-height:1.25"><tspan x="663.474" y="24.625999">W</tspan></text>
-   <text x="730.29102" y="52.382999" style="line-height:1.25"><tspan x="730.29102" y="52.382999">?</tspan></text>
+   <text x="730.29102" y="52.382999" style="line-height:1.25"><tspan x="730.29102" y="52.382999" font-family="'Noto Sans'" font-weight="normal">?</tspan></text>
    <text x="727.93799" y="23.424999" style="line-height:1.25"><tspan x="727.93799" y="23.424999">~</tspan></text>
    <text x="141.17799" y="204.914" style="line-height:1.25"><tspan x="141.17799" y="204.914">Ų</tspan></text>
    <text x="202.939" y="204.77699" style="line-height:1.25"><tspan x="202.939" y="204.77699">Ę</tspan></text>
@@ -183,7 +183,7 @@
     <text x="801.17902" y="142.67101" style="line-height:1.25"><tspan x="801.17902" y="142.67101" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">®</tspan></text>
     <text x="787.38898" y="82.765999" style="line-height:1.25"><tspan x="787.38898" y="82.765999" font-size="21.333px" font-weight="700" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">™</tspan></text>
    </g>
-   <text transform="translate(-4.0684 -1.4767)" x="747.70697" y="145.092" fill="#00ff00" style="inline-size:0;line-height:1.25;white-space:pre"><tspan x="747.70697" y="145.092" fill="#ff00ff" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̦</tspan></text>
+   <text transform="translate(-4.0684,-1.4767)" x="747.70697" y="145.092" fill="#00ff00" style="inline-size:0;line-height:1.25;white-space:pre"><tspan x="747.70697" y="145.092" fill="#ff00ff" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̦</tspan></text>
   </g>
   <g fill="#f0f">
    <text x="726.25403" y="82.935997" font-size="24px" font-weight="600" style="line-height:1.25"><tspan x="726.25403" y="82.935997" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">©</tspan></text>
