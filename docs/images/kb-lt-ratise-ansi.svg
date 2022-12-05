@@ -12,184 +12,172 @@
  <path d="M330 60h60v60h-60zM0 0h60v60H0V0zM60 0h60v60H60V0z" fill="#fff" fill-rule="evenodd" stroke="#000"/>
  <text x="103.034" y="47.534" fill="#00f" font-family="Noto Sans" font-size="24" font-weight="600" style="line-height:1.25"><tspan x="103.034" y="47.534" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">’</tspan></text>
  <g fill-rule="evenodd" stroke="#000">
-  <path d="M120 0h60v60h-60V0zM180 0h60v60h-60V0zM240 0h60v60h-60V0zM300 0h60v60h-60V0zM360 0h60v60h-60V0zM420 0h60v60h-60V0zM480 0h60v60h-60V0zM540 0h60v60h-60V0zM600 0h60v60h-60V0zM660 0h60v60h-60V0zM720 0h60v60h-60V0z" fill="#fff"/>
-  <path d="M780 0h120v60H780V0zM0 60h90v60H0V60z" fill="#ccc"/>
-  <path d="m90 60h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm90-60h60v60h-60zm30 60h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60z" fill="#fff"/>
-  <path d="M0 120h105v60H0v-60z" fill="#ccc"/>
-  <path d="m105 120h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60z" fill="#fff"/>
-  <path d="M0 180h135v60H0z" fill="#ccc" stroke-width="1.342"/>
-  <path d="m135 180h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60zm60 0h60v60h-60v-60z" fill="#fff"/>
-  <path d="m0 240h90v60h-90v-60zm150 0h90v60h-90v-60zm450 0h90v60h-90v-60z" fill="#ccc"/>
-  <path d="M240 240h360v60H240v-60z" fill="#fff"/>
-  <path d="m90 240h60v60h-60v-60zm600 0h60v60h-60v-60z" fill="#e6e6e6"/>
+  <path d="m120 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60z" fill="#fff"/>
+  <path d="m780 0h120v60h-120zm-780 60h90v60h-90z" fill="#ccc"/>
+  <path d="m90 60h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm90-60h60v60h-60zm30 60h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60z" fill="#fff"/>
+  <path d="m0 120h105v60h-105z" fill="#ccc"/>
+  <path d="m105 120h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60z" fill="#fff"/>
+  <path d="m0 180h135v60h-135z" fill="#ccc" stroke-width="1.342"/>
+  <path d="m135 180h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60zm60 0h60v60h-60z" fill="#fff"/>
+  <path d="m0 240h90v60h-90zm150 0h90v60h-90zm450 0h90v60h-90z" fill="#ccc"/>
+  <path d="m240 240h360v60h-360z" fill="#fff"/>
+  <path d="m90 240h60v60h-60zm600 0h60v60h-60z" fill="#e6e6e6"/>
  </g>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="96.321" y="84.733" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="96.321" y="84.733">Ū</tspan></text>
-  <text x="157.554" y="84.755" style="line-height:1.25"><tspan x="157.554" y="84.755">Ė</tspan></text>
-  <text x="217.954" y="84.549" style="line-height:1.25"><tspan x="217.954" y="84.549">Y</tspan></text>
-  <text x="275.553" y="84.873" style="line-height:1.25"><tspan x="275.553" y="84.873">O</tspan></text>
-  <text x="335.411" y="85.065" style="line-height:1.25"><tspan x="335.411" y="85.065">Q</tspan></text>
-  <text x="401.61" y="84.619" style="line-height:1.25"><tspan x="401.61" y="84.619">J</tspan></text>
-  <text x="455.349" y="84.739" style="line-height:1.25"><tspan x="455.349" y="84.739">N</tspan></text>
-  <text x="517.822" y="84.544" style="line-height:1.25"><tspan x="517.822" y="84.544">K</tspan></text>
-  <text x="576.429" y="84.492" style="line-height:1.25"><tspan x="576.429" y="84.492">G</tspan></text>
-  <text x="637.36" y="84.99" style="line-height:1.25"><tspan x="637.36" y="84.99">B</tspan></text>
-  <text x="653.614" y="144.499" style="line-height:1.25"><tspan x="653.614" y="144.499">P</tspan></text>
+ <g font-family="'Noto Sans'" font-weight="600">
+  <g font-size="26.667px">
+   <text x="96.458466" y="87.783104" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="96.458466" y="87.783104" font-size="26.667px">Ū</tspan></text>
+   <text x="157.69147" y="87.805099" style="line-height:1.25"><tspan x="157.69147" y="87.805099" font-size="26.667px">Ė</tspan></text>
+   <text x="218.09146" y="87.599106" style="line-height:1.25"><tspan x="218.09146" y="87.599106" font-size="26.667px">Y</tspan></text>
+   <text x="275.69046" y="87.923103" style="line-height:1.25"><tspan x="275.69046" y="87.923103" font-size="26.667px">O</tspan></text>
+   <text x="335.54846" y="88.115105" style="line-height:1.25"><tspan x="335.54846" y="88.115105" font-size="26.667px">Q</tspan></text>
+   <text x="401.74744" y="87.669106" style="line-height:1.25"><tspan x="401.74744" y="87.669106" font-size="26.667px">J</tspan></text>
+   <text x="455.48645" y="87.789101" style="line-height:1.25"><tspan x="455.48645" y="87.789101" font-size="26.667px">N</tspan></text>
+   <text x="517.95947" y="87.594101" style="line-height:1.25"><tspan x="517.95947" y="87.594101" font-size="26.667px">K</tspan></text>
+   <text x="576.56647" y="87.542099" style="line-height:1.25"><tspan x="576.56647" y="87.542099" font-size="26.667px">G</tspan></text>
+   <text x="637.49744" y="88.0401" style="line-height:1.25"><tspan x="637.49744" y="88.0401" font-size="26.667px">B</tspan></text>
+   <text x="653.75146" y="147.5491" style="line-height:1.25"><tspan x="653.75146" y="147.5491" font-size="26.667px">P</tspan></text>
+   <text x="594.13007" y="147.41934" style="line-height:1.25"><tspan x="594.13007" y="147.41934" font-size="26.667px">S</tspan></text>
+   <text x="533.28247" y="147.45811" style="line-height:1.25"><tspan x="533.28247" y="147.45811" font-size="26.667px">T</tspan></text>
+   <text x="473.22946" y="147.43311" style="line-height:1.25"><tspan x="473.22946" y="147.43311" font-size="26.667px">R</tspan></text>
+   <text x="411.86746" y="147.74611" style="line-height:1.25"><tspan x="411.86746" y="147.74611" font-size="26.667px">L</tspan></text>
+   <text x="351.13446" y="147.69711" style="line-height:1.25"><tspan x="351.13446" y="147.69711" font-size="26.667px">H</tspan></text>
+   <text x="292.26044" y="147.62511" style="line-height:1.25"><tspan x="292.26044" y="147.62511" font-size="26.667px">A</tspan></text>
+   <text x="235.74246" y="147.7841" style="line-height:1.25"><tspan x="235.74246" y="147.7841" font-size="26.667px">I</tspan></text>
+   <text x="172.80746" y="147.85411" style="line-height:1.25"><tspan x="172.80746" y="147.85411" font-size="26.667px">E</tspan></text>
+   <text x="111.04847" y="147.81612" style="line-height:1.25"><tspan x="111.04847" y="147.81612" font-size="26.667px">U</tspan></text>
+  </g>
+  <g font-size="24px">
+   <text x="90" y="202.5" style="line-height:1.25"/>
+   <text x="8.2530003" y="53.424" style="line-height:1.25"><tspan x="8.2530003" y="53.424" font-family="'Noto Sans'" font-weight="normal">+</tspan></text>
+   <text x="9.1829996" y="25.899" style="line-height:1.25"><tspan x="9.1829996" y="25.899">§</tspan></text>
+   <text x="42.012001" y="48.692001" fill="#0000ff" style="line-height:1.25"><tspan x="42.012001" y="48.692001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">`</tspan></text>
+   <text x="45" y="7.5" style="line-height:1.25"/>
+   <text x="71.713997" y="52.097" style="line-height:1.25"><tspan x="71.713997" y="52.097" font-family="'Noto Sans'" font-weight="normal">!</tspan></text>
+   <text x="68.160004" y="23.344999" style="line-height:1.25"><tspan x="68.160004" y="23.344999">¤</tspan></text>
+   <text x="131.761" y="52.492001" style="line-height:1.25"><tspan x="131.761" y="52.492001" font-family="'Noto Sans'" font-weight="normal">:</tspan></text>
+   <text x="126.132" y="25.242001" style="line-height:1.25"><tspan x="126.132" y="25.242001">@</tspan></text>
+   <text x="191.674" y="52.410999" style="line-height:1.25"><tspan x="191.674" y="52.410999" font-family="'Noto Sans'" font-weight="normal">.</tspan></text>
+   <text x="187.629" y="25.01" style="line-height:1.25"><tspan x="187.629" y="25.01">#</tspan></text>
+   <text x="248.661" y="51.443001" style="line-height:1.25"><tspan x="248.661" y="51.443001" font-family="'Noto Sans'" font-weight="normal">*</tspan></text>
+   <text x="248.384" y="24.084999" style="line-height:1.25"><tspan x="248.384" y="24.084999">$</tspan></text>
+   <text x="309.61899" y="50.344002" style="line-height:1.25"><tspan x="309.61899" y="50.344002" font-family="'Noto Sans'" font-weight="normal">_</tspan></text>
+   <text x="305.59201" y="23.677" style="line-height:1.25"><tspan x="305.59201" y="23.677">%</tspan></text>
+   <text x="364.05099" y="51.904999" style="line-height:1.25"><tspan x="364.05099" y="51.904999" font-family="'Noto Sans'" font-weight="normal">—</tspan></text>
+   <text x="368.55099" y="24.839001" style="line-height:1.25"><tspan x="368.55099" y="24.839001">|</tspan></text>
+   <text x="399.20099" y="48.146999" fill="#0000ff" style="line-height:1.25"><tspan x="399.20099" y="48.146999" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">^</tspan></text>
+   <text x="428.40601" y="53.324001" style="line-height:1.25"><tspan x="428.40601" y="53.324001" font-family="'Noto Sans'" font-weight="normal">=</tspan></text>
+   <text x="428.01401" y="25.778999" style="line-height:1.25"><tspan x="428.01401" y="25.778999">&amp;</tspan></text>
+   <text x="459.715" y="52.534" fill="#0000ff" style="line-height:1.25"><tspan x="459.715" y="52.534" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">7</tspan></text>
+   <text x="518.92798" y="52.491001" fill="#0000ff" style="line-height:1.25"><tspan x="518.92798" y="52.491001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">8</tspan></text>
+   <text x="492.13501" y="52.291" style="line-height:1.25"><tspan x="492.13501" y="52.291" font-family="'Noto Sans'" font-weight="normal">,</tspan></text>
+   <text x="487.853" y="23.632999" style="line-height:1.25"><tspan x="487.853" y="23.632999">&lt;</tspan></text>
+   <text x="551.66901" y="52.75" style="line-height:1.25"><tspan x="551.66901" y="52.75" font-family="'Noto Sans'" font-weight="normal">;</tspan></text>
+   <text x="548.43799" y="23.454" style="line-height:1.25"><tspan x="548.43799" y="23.454">&gt;</tspan></text>
+   <text x="579.62903" y="52.387001" fill="#0000ff" style="line-height:1.25"><tspan x="579.62903" y="52.387001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9</tspan></text>
+   <text x="610.039" y="52.459" style="line-height:1.25"><tspan x="610.039" y="52.459" font-family="'Noto Sans'" font-weight="normal">/</tspan></text>
+   <text x="610.38202" y="24.759001" style="line-height:1.25"><tspan x="610.38202" y="24.759001">\</tspan></text>
+   <text x="638.94598" y="52.556999" fill="#0000ff" style="line-height:1.25"><tspan x="638.94598" y="52.556999" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">÷</tspan></text>
+  </g>
+  <text x="663.61145" y="27.676102" font-size="26.667px" style="line-height:1.25"><tspan x="663.61145" y="27.676102" font-size="26.667px">W</tspan></text>
+  <text x="730.29102" y="52.382999" font-size="24px" style="line-height:1.25"><tspan x="730.29102" y="52.382999" font-family="'Noto Sans'" font-weight="normal">?</tspan></text>
+  <text x="727.93799" y="23.424999" font-size="24px" style="line-height:1.25"><tspan x="727.93799" y="23.424999">~</tspan></text>
+  <g font-size="26.667px">
+   <text x="141.31546" y="207.96411" style="line-height:1.25"><tspan x="141.31546" y="207.96411" font-size="26.667px">Ų</tspan></text>
+   <text x="203.07646" y="207.8271" style="line-height:1.25"><tspan x="203.07646" y="207.8271" font-size="26.667px">Ę</tspan></text>
+   <text x="266.00644" y="207.8231" style="line-height:1.25"><tspan x="266.00644" y="207.8231" font-size="26.667px">Į</tspan></text>
+   <text x="322.05746" y="208.04411" style="line-height:1.25"><tspan x="322.05746" y="208.04411" font-size="26.667px">Ą</tspan></text>
+   <text x="382.35245" y="208.03111" style="line-height:1.25"><tspan x="382.35245" y="208.03111" font-size="26.667px">X</tspan></text>
+   <text x="442.64145" y="207.88811" style="line-height:1.25"><tspan x="442.64145" y="207.88811" font-size="26.667px">V</tspan></text>
+   <text x="499.20044" y="207.70311" style="line-height:1.25"><tspan x="499.20044" y="207.70311" font-size="26.667px">M</tspan></text>
+   <text x="563.08844" y="207.89311" style="line-height:1.25"><tspan x="563.08844" y="207.89311" font-size="26.667px">D</tspan></text>
+   <text x="623.28442" y="207.99512" style="line-height:1.25"><tspan x="623.28442" y="207.99512" font-size="26.667px">Š</tspan></text>
+   <text x="682.03345" y="207.96011" style="line-height:1.25"><tspan x="682.03345" y="207.96011" font-size="26.667px">Č</tspan></text>
+  </g>
  </g>
- <text x="593.99261" y="144.36923" font-family="'Noto Sans'" font-size="24px" font-weight="600" style="line-height:1.25"><tspan x="593.99261" y="144.36923">S</tspan></text>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="533.145" y="144.408" style="line-height:1.25"><tspan x="533.145" y="144.408">T</tspan></text>
-  <text x="473.092" y="144.383" style="line-height:1.25"><tspan x="473.092" y="144.383">R</tspan></text>
-  <text x="411.73" y="144.696" style="line-height:1.25"><tspan x="411.73" y="144.696">L</tspan></text>
-  <text x="350.997" y="144.647" style="line-height:1.25"><tspan x="350.997" y="144.647">H</tspan></text>
-  <text x="292.123" y="144.575" style="line-height:1.25"><tspan x="292.123" y="144.575">A</tspan></text>
-  <text x="235.605" y="144.734" style="line-height:1.25"><tspan x="235.605" y="144.734">I</tspan></text>
-  <text x="172.67" y="144.804" style="line-height:1.25"><tspan x="172.67" y="144.804">E</tspan></text>
-  <text x="110.911" y="144.766" style="line-height:1.25"><tspan x="110.911" y="144.766">U</tspan></text>
-  <text x="90" y="202.5" style="line-height:1.25"/>
- </g>
- <text x="8.2530003" y="53.424" font-family="'Noto Sans'" font-size="24px" font-weight="600" style="line-height:1.25"><tspan x="8.2530003" y="53.424" font-family="'Noto Sans'" font-weight="normal">+</tspan></text>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="9.183" y="25.899" style="line-height:1.25"><tspan x="9.183" y="25.899">§</tspan></text>
-  <text x="42.012" y="48.692" fill="#00f" style="line-height:1.25"><tspan x="42.012" y="48.692" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">`</tspan></text>
-  <text x="45" y="7.5" style="line-height:1.25"/>
- </g>
- <g font-weight="600">
-  <text x="71.713997" y="52.097" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="71.713997" y="52.097" font-family="'Noto Sans'" font-weight="normal">!</tspan></text>
-  <text x="68.16" y="23.345" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="68.16" y="23.345">¤</tspan></text>
-  <text x="131.761" y="52.492001" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="131.761" y="52.492001" font-family="'Noto Sans'" font-weight="normal">:</tspan></text>
-  <text x="126.132" y="25.242" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="126.132" y="25.242">@</tspan></text>
-  <text x="191.674" y="52.410999" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="191.674" y="52.410999" font-family="'Noto Sans'" font-weight="normal">.</tspan></text>
-  <text x="187.629" y="25.01" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="187.629" y="25.01">#</tspan></text>
-  <text x="248.661" y="51.443001" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="248.661" y="51.443001" font-family="'Noto Sans'" font-weight="normal">*</tspan></text>
-  <text x="248.384" y="24.085" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="248.384" y="24.085">$</tspan></text>
-  <text x="309.61899" y="50.344002" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="309.61899" y="50.344002" font-family="'Noto Sans'" font-weight="normal">_</tspan></text>
-  <text x="305.592" y="23.677" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="305.592" y="23.677">%</tspan></text>
-  <text x="364.05099" y="51.904999" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="364.05099" y="51.904999" font-family="'Noto Sans'" font-weight="normal">—</tspan></text>
-  <text x="368.551" y="24.839" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="368.551" y="24.839">|</tspan></text>
-  <text x="399.201" y="48.147" fill="#00f" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="399.201" y="48.147" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">^</tspan></text>
-  <text x="428.40601" y="53.324001" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="428.40601" y="53.324001" font-family="'Noto Sans'" font-weight="normal">=</tspan></text>
- </g>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="428.014" y="25.779" style="line-height:1.25"><tspan x="428.014" y="25.779">&amp;</tspan></text>
-  <text x="459.715" y="52.534" fill="#00f" style="line-height:1.25"><tspan x="459.715" y="52.534" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">7</tspan></text>
-  <text x="518.928" y="52.491" fill="#00f" style="line-height:1.25"><tspan x="518.928" y="52.491" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">8</tspan></text>
- </g>
- <g font-weight="600">
-  <text x="492.13501" y="52.291" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="492.13501" y="52.291" font-family="'Noto Sans'" font-weight="normal">,</tspan></text>
-  <text x="487.853" y="23.633" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="487.853" y="23.633">&lt;</tspan></text>
-  <text x="551.66901" y="52.75" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="551.66901" y="52.75" font-family="'Noto Sans'" font-weight="normal">;</tspan></text>
-  <text x="548.438" y="23.454" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="548.438" y="23.454">&gt;</tspan></text>
-  <text x="579.629" y="52.387" fill="#00f" font-family="Noto Sans" font-size="24" style="line-height:1.25"><tspan x="579.629" y="52.387" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9</tspan></text>
-  <text x="610.039" y="52.459" font-family="'Noto Sans'" font-size="24px" style="line-height:1.25"><tspan x="610.039" y="52.459" font-family="'Noto Sans'" font-weight="normal">/</tspan></text>
- </g>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="610.382" y="24.759" style="line-height:1.25"><tspan x="610.382" y="24.759">\</tspan></text>
-  <text x="638.946" y="52.557" fill="#00f" style="line-height:1.25"><tspan x="638.946" y="52.557" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">÷</tspan></text>
-  <text x="663.474" y="24.626" style="line-height:1.25"><tspan x="663.474" y="24.626">W</tspan></text>
- </g>
- <text x="730.29102" y="52.382999" font-family="'Noto Sans'" font-size="24px" font-weight="600" style="line-height:1.25"><tspan x="730.29102" y="52.382999" font-family="'Noto Sans'" font-weight="normal">?</tspan></text>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="727.938" y="23.425" style="line-height:1.25"><tspan x="727.938" y="23.425">~</tspan></text>
-  <text x="141.178" y="204.914" style="line-height:1.25"><tspan x="141.178" y="204.914">Ų</tspan></text>
-  <text x="202.939" y="204.777" style="line-height:1.25"><tspan x="202.939" y="204.777">Ę</tspan></text>
-  <text x="265.869" y="204.773" style="line-height:1.25"><tspan x="265.869" y="204.773">Į</tspan></text>
-  <text x="321.92" y="204.994" style="line-height:1.25"><tspan x="321.92" y="204.994">Ą</tspan></text>
-  <text x="382.215" y="204.981" style="line-height:1.25"><tspan x="382.215" y="204.981">X</tspan></text>
-  <text x="442.504" y="204.838" style="line-height:1.25"><tspan x="442.504" y="204.838">V</tspan></text>
-  <text x="499.063" y="204.653" style="line-height:1.25"><tspan x="499.063" y="204.653">M</tspan></text>
-  <text x="562.951" y="204.843" style="line-height:1.25"><tspan x="562.951" y="204.843">D</tspan></text>
-  <text x="623.147" y="204.945" style="line-height:1.25"><tspan x="623.147" y="204.945">Š</tspan></text>
-  <text x="681.896" y="204.91" style="line-height:1.25"><tspan x="681.896" y="204.91">Č</tspan></text>
- </g>
- <g fill="#00f" font-family="Noto Sans">
-  <text x="413.688" y="231.315" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="413.688" y="231.315" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̀</tspan></text>
-  <text x="383.724" y="171.176" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="383.724" y="171.176" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̃</tspan></text>
-  <text x="368.65" y="111.271" font-size="24" font-weight="600" style="line-height:1.25"><tspan x="368.65" y="111.271" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">́</tspan></text>
-  <g font-size="21.333" font-weight="400">
-   <text x="147.835" y="166.394" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="147.835" y="166.394" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">'</tspan></text>
+ <g fill="#0000ff" font-family="'Noto Sans'">
+  <text x="413.68799" y="231.315" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="413.68799" y="231.315" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̀</tspan></text>
+  <text x="383.724" y="171.17599" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="383.724" y="171.17599" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">̃</tspan></text>
+  <text x="368.64999" y="111.271" font-size="24px" font-weight="600" style="line-height:1.25"><tspan x="368.64999" y="111.271" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">́</tspan></text>
+  <g font-size="21.333px" font-weight="400">
+   <text x="147.83501" y="166.394" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="147.83501" y="166.394" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">'</tspan></text>
    <text x="204.94" y="170.89" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="204.94" y="170.89" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">(</tspan></text>
-   <text x="268.696" y="170.745" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="268.696" y="170.745" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">)</tspan></text>
-   <text x="325.671" y="166.354" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="325.671" y="166.354" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">"</tspan></text>
+   <text x="268.69601" y="170.745" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="268.69601" y="170.745" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">)</tspan></text>
+   <text x="325.67099" y="166.354" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="325.67099" y="166.354" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">"</tspan></text>
    <text x="177.855" y="232.13" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="177.855" y="232.13" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">‚</tspan></text>
-   <text x="233.169" y="230.933" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="233.169" y="230.933" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">{</tspan></text>
-   <text x="298.813" y="230.823" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="298.813" y="230.823" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">}</tspan></text>
-   <text x="355.845" y="232.54" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="355.845" y="232.54" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">„</tspan></text>
+   <text x="233.16901" y="230.933" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="233.16901" y="230.933" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">{</tspan></text>
+   <text x="298.81299" y="230.823" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="298.81299" y="230.823" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">}</tspan></text>
+   <text x="355.845" y="232.53999" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="355.845" y="232.53999" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">„</tspan></text>
   </g>
-  <g font-size="24" font-weight="600">
-   <text x="132.92" y="106.346" style="line-height:1.25"><tspan x="132.92" y="106.346" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">‘</tspan></text>
-   <text x="189.366" y="110.991" style="line-height:1.25"><tspan x="189.366" y="110.991" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">[</tspan></text>
-   <text x="253.649" y="110.978" style="line-height:1.25"><tspan x="253.649" y="110.978" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">]</tspan></text>
-   <text x="311.211" y="106.666" style="line-height:1.25"><tspan x="311.211" y="106.666" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">“</tspan></text>
-   <text x="428.733" y="112.567" style="line-height:1.25"><tspan x="428.733" y="112.567" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">€</tspan></text>
-   <text x="486.915" y="112.789" style="line-height:1.25"><tspan x="486.915" y="112.789" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">4</tspan></text>
-   <text x="549.395" y="112.373" style="line-height:1.25"><tspan x="549.395" y="112.373" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">5</tspan></text>
-   <text x="608.719" y="112.715" style="line-height:1.25"><tspan x="608.719" y="112.715" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">6</tspan></text>
-   <text x="668.963" y="112.602" style="line-height:1.25"><tspan x="668.963" y="112.602" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">×</tspan></text>
+  <g font-size="24px" font-weight="600">
+   <text x="132.92" y="106.346" style="line-height:1.25"><tspan x="132.92" y="106.346" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">‘</tspan></text>
+   <text x="189.366" y="110.991" style="line-height:1.25"><tspan x="189.366" y="110.991" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">[</tspan></text>
+   <text x="253.649" y="110.978" style="line-height:1.25"><tspan x="253.649" y="110.978" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">]</tspan></text>
+   <text x="311.211" y="106.666" style="line-height:1.25"><tspan x="311.211" y="106.666" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">“</tspan></text>
+   <text x="428.733" y="112.567" style="line-height:1.25"><tspan x="428.733" y="112.567" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">€</tspan></text>
+   <text x="486.91501" y="112.789" style="line-height:1.25"><tspan x="486.91501" y="112.789" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">4</tspan></text>
+   <text x="549.39502" y="112.373" style="line-height:1.25"><tspan x="549.39502" y="112.373" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">5</tspan></text>
+   <text x="608.71899" y="112.715" style="line-height:1.25"><tspan x="608.71899" y="112.715" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">6</tspan></text>
+   <text x="668.96301" y="112.602" style="line-height:1.25"><tspan x="668.96301" y="112.602" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">×</tspan></text>
   </g>
-  <g font-size="21.333" font-weight="400">
-   <text x="447.577" y="172.805" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="447.577" y="172.805" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">ł</tspan></text>
-   <text x="503.544" y="172.531" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="503.544" y="172.531" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">1</tspan></text>
+  <g font-size="21.333px" font-weight="400">
+   <text x="447.577" y="172.80499" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="447.577" y="172.80499" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">ł</tspan></text>
+   <text x="503.54401" y="172.53101" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="503.54401" y="172.53101" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">1</tspan></text>
    <text x="564.138" y="172.739" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="564.138" y="172.739" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">2</tspan></text>
-   <text x="624.524" y="172.565" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="624.524" y="172.565" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">3</tspan></text>
-   <text x="680.825" y="171.551" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="680.825" y="171.551" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">−</tspan></text>
+   <text x="624.52399" y="172.565" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="624.52399" y="172.565" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">3</tspan></text>
+   <text x="680.82501" y="171.55099" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="680.82501" y="171.55099" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">−</tspan></text>
    <text x="474.065" y="231.952" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="474.065" y="231.952" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">√</tspan></text>
-   <text x="533.726" y="232.427" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="533.726" y="232.427" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">0</tspan></text>
-   <text x="597.085" y="232.207" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="597.085" y="232.207" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">.</tspan></text>
-   <text x="657.308" y="232.53" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;white-space:pre"><tspan x="657.308" y="232.53" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">,</tspan></text>
+   <text x="533.72601" y="232.427" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="533.72601" y="232.427" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">0</tspan></text>
+   <text x="597.08502" y="232.207" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="597.08502" y="232.207" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">.</tspan></text>
+   <text x="657.30798" y="232.53" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;white-space:pre"><tspan x="657.30798" y="232.53" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">,</tspan></text>
   </g>
  </g>
- <g fill="#fff" font-family="Noto Sans" font-weight="600" stroke-width="1.162">
-  <text x="178.91" y="278.923" font-size="26.667" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="178.91" y="278.923" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⎇</tspan></text>
-  <text x="633.838" y="277.435" font-size="27.887" style="line-height:1.25"><tspan x="633.838" y="277.435" font-size="26.667" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇮</tspan></text>
-  <text x="37.251" y="277.48" font-size="26.667" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="37.251" y="277.48" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⎈</tspan></text>
-  <text x="113.35" y="277.417" font-size="27.887" style="line-height:1.25"><tspan x="113.35" y="277.417" font-size="26.667" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">◊</tspan></text>
-  <g font-size="26.667">
-   <text x="34.096" y="98.7" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="34.096" y="98.7" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">↹</tspan></text>
-   <text x="41.446" y="159.65" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="41.446" y="159.65" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇪</tspan></text>
-   <text x="817.679" y="40.185" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="817.679" y="40.185" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⌫</tspan></text>
-   <text x="56.274" y="220.148" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="56.274" y="220.148" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇧</tspan></text>
+ <g fill="#ffffff" font-family="'Noto Sans'" font-weight="600" stroke-width="1.162">
+  <text x="178.91" y="278.923" font-size="26.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="178.91" y="278.923" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⎇</tspan></text>
+  <text x="633.83801" y="277.435" font-size="27.887px" style="line-height:1.25"><tspan x="633.83801" y="277.435" font-size="26.667px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇮</tspan></text>
+  <text x="37.250999" y="277.48001" font-size="26.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="37.250999" y="277.48001" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⎈</tspan></text>
+  <text x="113.35" y="277.41699" font-size="27.887px" style="line-height:1.25"><tspan x="113.35" y="277.41699" font-size="26.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">◊</tspan></text>
+  <g font-size="26.667px">
+   <text x="34.096001" y="98.699997" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="34.096001" y="98.699997" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">↹</tspan></text>
+   <text x="41.445999" y="159.64999" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="41.445999" y="159.64999" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇪</tspan></text>
+   <text x="817.67902" y="40.185001" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="817.67902" y="40.185001" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⌫</tspan></text>
+   <text x="56.273998" y="220.14799" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="56.273998" y="220.14799" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇧</tspan></text>
   </g>
  </g>
- <g fill="#00f" font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="336.704" y="51.987" style="line-height:1.25"><tspan x="336.704" y="51.987" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">…</tspan></text>
-  <text x="281.254" y="49.948" style="line-height:1.25"><tspan x="281.254" y="49.948" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">”</tspan></text>
-  <text x="158.628" y="51.866" style="line-height:1.25"><tspan x="158.628" y="51.866" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⟨</tspan></text>
-  <text x="223.196" y="51.771" style="line-height:1.25"><tspan x="223.196" y="51.771" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⟩</tspan></text>
-  <text x="696.691" y="52.527" style="line-height:1.25"><tspan x="696.691" y="52.527" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Ω</tspan></text>
-  <text x="755.47" y="51.641" style="line-height:1.25"><tspan x="755.47" y="51.641" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">≈</tspan></text>
+ <g fill="#0000ff" font-family="'Noto Sans'" font-size="24px" font-weight="600">
+  <text x="336.70401" y="51.987" style="line-height:1.25"><tspan x="336.70401" y="51.987" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">…</tspan></text>
+  <text x="281.254" y="49.948002" style="line-height:1.25"><tspan x="281.254" y="49.948002" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">”</tspan></text>
+  <text x="158.62801" y="51.866001" style="line-height:1.25"><tspan x="158.62801" y="51.866001" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⟨</tspan></text>
+  <text x="223.196" y="51.771" style="line-height:1.25"><tspan x="223.196" y="51.771" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⟩</tspan></text>
+  <text x="696.69098" y="52.527" style="line-height:1.25"><tspan x="696.69098" y="52.527" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Ω</tspan></text>
+  <text x="755.46997" y="51.640999" style="line-height:1.25"><tspan x="755.46997" y="51.640999" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">≈</tspan></text>
  </g>
  <g fill-rule="evenodd" stroke="#000">
-  <path d="m750 60h60v60h-60v-60zm-45 60h60v60h-60v-60z" fill="#fff"/>
-  <path d="m735 180h165v60h-165v-60zm75 60h90v60h-90v-60z" fill="#ccc"/>
-  <path d="m750 240h60v60h-60v-60z" fill="#e6e6e6"/>
+  <path d="m750 60h60v60h-60zm-45 60h60v60h-60z" fill="#fff"/>
+  <path d="m735 180h165v60h-165zm75 60h90v60h-90z" fill="#ccc"/>
+  <path d="m750 240h60v60h-60z" fill="#e6e6e6"/>
  </g>
- <g font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="696.617" y="85.023" style="line-height:1.25"><tspan x="696.617" y="85.023">C</tspan></text>
-  <text x="757.832" y="84.757" style="line-height:1.25"><tspan x="757.832" y="84.757">F</tspan></text>
-  <text x="712.983" y="144.788" style="line-height:1.25"><tspan x="712.983" y="144.788">Ž</tspan></text>
+ <g font-family="'Noto Sans'" font-size="26.667px" font-weight="600">
+  <text x="696.75446" y="88.073105" style="line-height:1.25"><tspan x="696.75446" y="88.073105" font-size="26.667px">C</tspan></text>
+  <text x="757.96942" y="87.807106" style="line-height:1.25"><tspan x="757.96942" y="87.807106" font-size="26.667px">F</tspan></text>
+  <text x="713.12042" y="147.8381" style="line-height:1.25"><tspan x="713.12042" y="147.8381" font-size="26.667px">Ž</tspan></text>
  </g>
- <g fill="#00f" font-family="Noto Sans" font-size="24" font-weight="600">
-  <text x="746.689" y="170.667" style="line-height:1.25"><tspan x="746.689" y="170.667" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">-</tspan></text>
-  <text x="793.646" y="112.575" style="line-height:1.25"><tspan x="793.646" y="112.575" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⁄</tspan></text>
-  <text x="728.204" y="112.595" style="line-height:1.25"><tspan x="728.204" y="112.595" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">¢</tspan></text>
-  <text x="713.174" y="232.84" style="line-height:1.25"><tspan x="713.174" y="232.84" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">+</tspan></text>
+ <g fill="#0000ff" font-family="'Noto Sans'" font-size="24px" font-weight="600">
+  <text x="746.68903" y="170.66701" style="line-height:1.25"><tspan x="746.68903" y="170.66701" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">-</tspan></text>
+  <text x="793.646" y="112.575" style="line-height:1.25"><tspan x="793.646" y="112.575" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⁄</tspan></text>
+  <text x="728.20398" y="112.595" style="line-height:1.25"><tspan x="728.20398" y="112.595" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">¢</tspan></text>
+  <text x="713.17401" y="232.84" style="line-height:1.25"><tspan x="713.17401" y="232.84" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">+</tspan></text>
  </g>
- <g fill="#fff">
-  <g font-family="Noto Sans" font-weight="600" stroke-width="1.162">
-   <g font-size="26.667">
-    <text x="806.464" y="220.396" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="806.464" y="220.396" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇧</tspan></text>
-    <text x="768.761" y="278.296" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="768.761" y="278.296" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">≣</tspan></text>
-    <text x="847.004" y="277.524" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="847.004" y="277.524" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⎈</tspan></text>
-   </g>
-   <text x="713.577" y="277.875" font-size="27.887" style="line-height:1.25"><tspan x="713.577" y="277.875" font-size="26.667" font-weight="700" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">◊</tspan></text>
-  </g>
-  <path d="m810 60h90v60h-90z" fill-rule="evenodd" stroke="#000" stroke-width="1.225"/>
+ <g fill="#fff" font-family="'Noto Sans'" font-size="26.667px" font-weight="600" stroke-width="1.162">
+  <text x="806.46399" y="220.396" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="806.46399" y="220.396" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⇧</tspan></text>
+  <text x="768.76099" y="278.29599" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="768.76099" y="278.29599" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">≣</tspan></text>
+  <text x="847.00403" y="277.52399" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25"><tspan x="847.00403" y="277.52399" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⎈</tspan></text>
  </g>
+ <text x="713.57703" y="277.875" fill="#ffffff" font-family="'Noto Sans'" font-size="27.887px" font-weight="600" stroke-width="1.162" style="line-height:1.25"><tspan x="713.57703" y="277.875" font-size="26.667px" font-weight="700" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">◊</tspan></text>
+ <path d="m810 60h90v60h-90z" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-width="1.225"/>
  <path d="M765 120h135v60H765z" fill="#ccc" fill-rule="evenodd" stroke="#000" stroke-width=".905"/>
- <g font-family="Noto Sans" font-weight="600">
-  <text x="820.982" y="84.675" font-size="24" style="line-height:1.25"><tspan x="820.982" y="84.675">Z</tspan></text>
-  <text x="858.18" y="109.358" fill="#00f" font-size="24" style="line-height:1.25"><tspan x="858.18" y="109.358" font-size="21.333" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">°</tspan></text>
-  <text x="825.718" y="158.575" fill="#fff" font-size="27.887" stroke-width="1.162" style="line-height:1.25"><tspan x="825.718" y="158.575" font-size="26.667" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⏎</tspan></text>
+ <g font-family="'Noto Sans'" font-weight="600">
+  <text x="821.11945" y="87.725105" font-size="26.667px" style="line-height:1.25"><tspan x="821.11945" y="87.725105" font-size="26.667px">Z</tspan></text>
+  <text x="858.17999" y="109.358" fill="#0000ff" font-size="24px" style="line-height:1.25"><tspan x="858.17999" y="109.358" font-size="21.333px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">°</tspan></text>
+  <text x="825.71802" y="158.575" fill="#ffffff" font-size="27.887px" stroke-width="1.162" style="line-height:1.25"><tspan x="825.71802" y="158.575" font-size="26.667px" font-weight="400" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">⏎</tspan></text>
  </g>
 </svg>
