@@ -82,7 +82,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 a) Ratisė su tęsties mygtukais:
 ![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-4-lygis.svg)
 
-b) Papildoma Ratisės atmaina be tęsties mygtukų (su uždėtiniais ženkleliais vietoje jų):
+b) Ratisės atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkleliais vietoje jų):
 ![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-b-4-lygis.svg)
 
 + Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
