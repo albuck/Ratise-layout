@@ -13,10 +13,11 @@
  <text transform="translate(-449.52 -119.48)" x="45" y="7.5" font-family="Noto Sans" font-size="24" font-weight="600" style="line-height:1.25"/>
  <text transform="translate(-449.52 -119.48)" x="105" y="105" font-family="Sans" font-size="21.333" style="font-variant-ligatures:none;line-height:1.25"/>
  <path transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" d="m705-90h60v60h-60z" fill="#fff" fill-rule="evenodd" stroke="#000"/>
- <g font-family="Sans">
-  <text transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" x="742.735" y="-67.241" fill="#ff00ff" font-size="21.333" style="font-variant-ligatures:none;line-height:1.25"><tspan x="742.735" y="-67.241" fill="#ff00ff">4</tspan></text>
-  <text transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" x="743.899" y="-37.851" fill="#0000ff" font-size="21.333" style="font-variant-ligatures:none;line-height:1.25"><tspan x="743.899" y="-37.851" fill="#0000ff">3</tspan></text>
-  <text transform="scale(.99928 1.0007)" x="8.9844971" y="23.378174" font-size="21.333px" stroke-width=".99998" word-spacing="0px" style="font-variant-ligatures:none;line-height:1.25"><tspan x="8.9844971" y="23.378174" font-family="Sans" font-weight="bold" stroke-width=".99998">2</tspan></text>
-  <text transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" x="713.119" y="-37.645" font-size="21.333" style="font-variant-ligatures:none;line-height:1.25"><tspan x="713.119" y="-37.645">1</tspan></text>
+ <g font-family="Sans" font-size="21.333px">
+  <text transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" x="742.73499" y="-67.240997" fill="#ff00ff" style="font-variant-ligatures:none;line-height:1.25"><tspan x="742.73499" y="-67.240997" fill="#ff00ff" font-family="'DejaVu Sans Mono'">4</tspan></text>
+  <text transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" x="743.89899" y="-37.851002" fill="#0000ff" style="font-variant-ligatures:none;line-height:1.25"><tspan x="743.89899" y="-37.851002" fill="#0000ff" font-family="'DejaVu Sans Mono'">3</tspan></text>
+  <text transform="scale(.99928 1.0007)" x="8.9844971" y="23.378174" stroke-width=".99998" word-spacing="0px" style="font-variant-ligatures:none;line-height:1.25"><tspan x="8.9844971" y="23.378174" font-family="'DejaVu Sans Mono'" font-weight="bold" stroke-width=".99998">2</tspan></text>
+  <text transform="matrix(.99926 0 0 1.0007 -703.98 90.564)" x="713.11902" y="-37.645" style="font-variant-ligatures:none;line-height:1.25"><tspan x="713.11902" y="-37.645" font-family="'DejaVu Sans Mono'">1</tspan></text>
  </g>
+ <text font-family="'DejaVu Sans Mono'" font-size="32px" letter-spacing=".01px" word-spacing="0px" style="line-height:1.1;shape-inside:url(#rect38);white-space:pre" xml:space="preserve"/>
 </svg>
