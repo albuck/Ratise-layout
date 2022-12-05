@@ -35,7 +35,6 @@ Lietuviška klaviatūra su Ratisės _ŪĖYOQJ_ išdėstymu, mygtukų vyduryje pa
 |__Prancūzų BEPO:__ | ``` iI oO ^ { } ``` | ``` 7 8 9 ``` |
 |__Vokiečių Neo2:__ | ``` uU mM ``` | ``` 7 8 9 ``` |
 
-<br>
 
 -------------------------
 
