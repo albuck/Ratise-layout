@@ -12,7 +12,6 @@ Laida 2.4
 
 Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Ratìsė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus.
 
-<br>
 
 __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](docs/images/kb-lt-ratise-iso.svg)
@@ -22,7 +21,6 @@ __Ratisės klaviatūros išdėstymas:__
 
 _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
-<br>
 
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
@@ -38,7 +36,6 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės)._
 
-<br>
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
 
@@ -47,7 +44,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 --------------------------------------------------------------------
 
-<br>
 
 ## TURINYS
 - [KLAVIATŪROS VALDYMO-KEITIMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
@@ -68,14 +64,12 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 
-<br>
 
 ### Papildomi kitų kalbų Ratisės išdėstymai:
 - [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise-latvian.md)
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
 
-<br>
 
 ### Lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
@@ -84,7 +78,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
 
-<br>
 
 ### Spausdinimo klaviatūra pratybos:
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
@@ -92,7 +85,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [TypingGames](https://www.typinggames.zone/)
 - [Typing Games - Learn...](https://www.typing.com/student/games)
 
-<br>
 
 ### Kiti naudingi ištekliai:
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
@@ -102,5 +94,3 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
 - [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
 - [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis)
-
-<br>
