@@ -1,7 +1,6 @@
 
 # Ratisės išdėstymo ženklai
 
-<br>
 
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
