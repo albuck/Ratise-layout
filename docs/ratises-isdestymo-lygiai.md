@@ -4,6 +4,22 @@
 
 _Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose._
 
+![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
+
++ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
++ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
+
+__Spaudų išdėstymo mygtuke lygiai:__
+
+![Ženklų išdėstymo mygtuke lygiai](images/zenklu-lygiai.svg)
+
++ 1 — Pagrindinis, pirmasis lygis;
++ 2 — ```⇧``` antrasis, ‘Shift’ lygis;
++ 3 — ```⇮``` trečiasis, ‘AltGr’ lygis;
++ 4 — ```⇧```+```⇮``` ketvirtasis, ‘AltGr+Shift’ lygis.
+
+__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
+
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) keturiuose lygiuose, žiūrėkite paveikslėliuose žemiau.
 
 
