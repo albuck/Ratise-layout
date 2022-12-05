@@ -20,6 +20,7 @@ __Pastabos__:
 
 Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (```renkamas ženklas``` → ```gaunamas ženklas```; ```␣``` — tarpo žymė):
 
+<br>
 
 ## Žiedelis viršuje ```˚```:
 ```
@@ -89,6 +90,7 @@ z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 Ž → Ψ (GRAIKŲ DIDŽIOJI RAIDĖ PSI)
 ž → ψ (GRAIKŲ MAŽOJI RAIDĖ PSI)
 ```
+<br>
 
 ## Stogelis viršuje ```ˆ```:
 ```
@@ -166,6 +168,7 @@ v → ◁ (BALTASIS KAIRĖNKRYPTIS TRIKAMPIS)
 W → Ŵ (LOTYNŲ DIDŽIOJI RAIDĖ W SU STOGELIU)
 w → ŵ (LOTYNŲ MAŽOJI RAIDĖ W SU STOGELIU)
 ```
+<br>
 
 ## Brūkšnys (viršuje) ```¯```:
 ```
@@ -233,6 +236,7 @@ x → ⊻ (XOR)
 Z → Ƶ (LOTYNŲ DIDŽIOJI RAIDĖ Z SU PERBRAUKIMU)
 z → ƶ (LOTYNŲ MAŽOJI RAIDĖ Z SU PERBRAUKIMU)
 ```
+<br>
 
 ## Kairinis kirčio ženklas ``` ` ```:
 ```
@@ -274,6 +278,7 @@ w → ẁ (LOTYNŲ MAŽOJI RAIDĖ W SU KAIRINIU KIRČIU)
 … → ⋱ (DEŠINĖJE NULEISTAS SKERSASIS TRITAŠKIS)
 ' → ʼ (KEITIKLINĖ RAIDĖ "APOSTROPHE")
 ```
+<br>
 
 ## Dešininis kirčio žeklas ```´```:
 ```
@@ -344,6 +349,7 @@ w → ẃ (LOTYNŲ MAŽOJI RAIDĖ W SU DEŠININIU KIRČIU)
 Z → Ź (LOTYNŲ DIDŽIOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 z → ź (LOTYNŲ MAŽOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 ```
+<br>
 
 ## Dutaškis (viršuje) ```¨```:
 ```	
@@ -402,6 +408,7 @@ w → ẅ (LOTYNŲ MAŽOJI RAIDĖ W SU DUTAŠKIU)
 X → Ẍ (LOTYNŲ DIDŽIOJI RAIDĖ X SU DUTAŠKIU)
 x → ẍ (LOTYNŲ MAŽOJI RAIDĖ X SU DUTAŠKIU)
 ```
+<br>
 
 ## Riestinis kirčio ženklas (bangelė) ```˜```:
 ```
@@ -461,6 +468,7 @@ V → Ṽ (LOTYNŲ DIDŽIOJI RAIDĖ V SU BANGELE)
 v → ṽ (LOTYNŲ MAŽOJI RAIDĖ V SU BANGELE)
 | → ⸾ (VINGIUOTOJI STAČIOJI LINIJA, VINGALAS)
 ```
+<br>
 
 ## Kablelis apačioje ```¸```:
 ```
@@ -511,6 +519,7 @@ z → ⚡ (AUKŠTOS ĮTAMPOS ŽENKLAS)
 Ž → Ż (LOTYNŲ DIDŽIOJI RAIDĖ Z SU TAŠKU VIRŠUJE)
 ž → ż (LOTYNŲ MAŽOJI RAIDĖ Z SU TAŠKU VIRŠUJE)
 ```
+<br>
 
 ## Lankelis viršuje ```˘```:
 ```
@@ -587,6 +596,7 @@ v → ʋ (LOTYNŲ MAŽOJI RAIDĖ V SU KABE)
 z → ʑ (LOTYNŲ MAŽOJI RAIDĖ Z SU KILPA)
 ž → ʓ (LOTYNŲ MAŽOJI RAIDĖ EZH SU KILPA)
 ```
+<br>
 
 ## Varnelė (viršuje) ```ˇ```:
 ```
@@ -657,6 +667,7 @@ z → ǯ (LOTYNŲ MAŽOJI RAIDĖ EZH SU VARNELE)
 Ž → Ʒ (LOTYNŲ DIDŽIOJI RAIDĖ EZH)
 ž → ʒ (LOTYNŲ MAŽOJI RAIDĖ EZH)
 ```
+<br>
 
 -------------------------
 
