@@ -53,7 +53,6 @@ __Pastabos:__
 + Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su labai retai naudojamais neraidiniais ženklais (pradedančiojo anglų kalbos vartotojo požiūriu) būna sumažinto dydžio, ar nukelti į pačią apatinę (tarpo) eilę, ar netgi išvis jų nėra ir jųjų ženklai prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```), pastarieji būtų patys nepatogiausi Ratisės naudotojui.
 + Būna klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai visokiausios ergonomiškos arba senos klaviatūros).
 
-<br>
 
 --------------------------------------------------------------------
 
