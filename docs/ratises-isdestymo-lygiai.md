@@ -3,7 +3,7 @@
 
 <br>
 
-_Ratisės išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose._
+_Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose lygiuose._
 
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
