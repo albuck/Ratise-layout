@@ -6,6 +6,8 @@
 
 Laida 2.4
 
+<br>
+
 Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Ratìsė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus.
 
 __Ratisės klaviatūros išdėstymas:__
@@ -34,6 +36,8 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 [↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
+<br>
+
 --------------------------------------------------------------------
 
 ## TURINYS
@@ -55,10 +59,14 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 
+<br>
+
 ### Papildomi kitų kalbų Ratisės išdėstymai:
 - [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise-latvian.md)
 - [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
 - [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
+
+<br>
 
 ### Lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
@@ -67,11 +75,15 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
 
+<br>
+
 ### Spausdinimo klaviatūra pratybos:
 - [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
 - [Touch Typing Practice](https://www.typingstudy.com/)
 - [TypingGames](https://www.typinggames.zone/)
 - [Typing Games - Learn...](https://www.typing.com/student/games)
+
+<br>
 
 ### Kiti naudingi ištekliai:
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
@@ -81,3 +93,5 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
 - [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
 - [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis)
+
+<br>
