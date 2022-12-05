@@ -15,6 +15,7 @@ __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](docs/images/kb-lt-ratise-iso.svg)
 
 + Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką ```⇮ AltGr```.
++ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
 + [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
 + [Kitokis paveikslėlis](docs/images/lek_ratise_layout.png) — tiems, kurie nemato naršyklėje išdėstymo paveikslėlio.
 
