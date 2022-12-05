@@ -2,7 +2,6 @@
 
 Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais būdus klaviatūrose su skersuotais mygtukais. Dėl to mygtukų skilčių skersavimo, kartais yra patogiau spausti pirštu viršutinės ar apatinės eilės (aukšto) mygtuką priklausantį kito piršto skilčiai. Šiaip jau, Ratisės išdėstymo bendram patogumui tai turi nedidelį poveikį.
 
-<br>
 
 + Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
 ![Įprastas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-iprasta.svg)
