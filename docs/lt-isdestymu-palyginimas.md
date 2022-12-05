@@ -187,7 +187,6 @@ __Pastabos:__
 + Dėl to, kad Ratisės išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas, ko gero, ne visada pasirenka patogiausią skaičiuodamas.
 + Kaip „ISO+ANSI“ čia tikrintas vadinamasis [„ANSISO“](images/kb-lt-ratise-ansiso.svg) klaviatūros mygtukų išdėstymas.
 
-<br>
 
 -------------------------
 
