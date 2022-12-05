@@ -34,6 +34,13 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 + Tarp mygtukų  ```pabraukimas``` ir ```lygu``` yra mygtukas su ilguoju brūkšniu, vadinamuoju _m_ ilgio brūkšniu (tai yra _m_ raidės pločio brūkšniu). Kai kuriuose spaudmenyse (šriftuose) klaidingai atvaizduojamas trumpesnis nei turėtų būti.
 
 
+### Ratisės Didžiųjų raidžių įjungimas
+
+Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ```⇪ CapsLock``` paspaudimo (įjungimo).
+
+![Ratisės Didžiųjų raidžių įjungimas](images/kb-lt-ratise-didzios.svg)
+
+
 ## Ratisės 2-is lygis
 
 Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ```⇧ Shift```.
@@ -75,13 +82,6 @@ b) Papildoma Ratisės atmaina be tęsties mygtukų (su uždėtiniais ženkleliai
 + Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
 + Gelzganai žymėtieji yra tęsties mygtukai (angliškai „Dead Keys“), apie juos skaitykite:
 [Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
-
-
-## Ratisės Didžiųjų raidžių įjungimas
-
-Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ```⇪ CapsLock``` paspaudimo (įjungimo).
-
-![Ratisės Didžiųjų raidžių įjungimas](images/kb-lt-ratise-didzios.svg)
 
 
 -------------------------
