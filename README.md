@@ -10,6 +10,8 @@ Laida 2.4
 
 Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Ratìsė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, taip vadinamu „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus.
 
+<br>
+
 __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](docs/images/kb-lt-ratise-iso.svg)
 
@@ -17,6 +19,8 @@ __Ratisės klaviatūros išdėstymas:__
 + [Kitokis paveikslėlis](docs/images/lek_ratise_layout.png) — tiems, kurie nemato naršyklėje išdėstymo paveikslėlio.
 
 _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
+
+<br>
 
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
@@ -31,6 +35,8 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės)._
+
+<br>
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
 
