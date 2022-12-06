@@ -42,8 +42,8 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     - Spausdinimui: [Ratisė ‘L Enter 3’ juodbaltis pdf](images/kb-lt-ratise-l3.pdf).
 <br>
     
-8. __101/104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, nukeltu apačion ir už _Shift’o_ _Z_):__
-![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter, nukeltu apačion ir už Shift’o Z)](images/kb-lt-ratise-l4.svg)
+8. __101/104 mygtukų klaviatūra „Focus“:__
+![104 mygtukų klaviatūra „Focus“](images/kb-lt-ratise-focus.svg)
  
  <br>
    
