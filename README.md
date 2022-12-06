@@ -34,7 +34,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Pirštai spausdinant Ratise nueina ženkliai mažesnį atstumą nei „standartiniuose“ lietuviškuose išdėstymuose._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogus ir lengviau įsimenamas._
-+ _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės)._
++ _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:_ uei**a**··**r**tsp _(čia paryškintos tenkančios rankų smiliams raidės)._
 
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
