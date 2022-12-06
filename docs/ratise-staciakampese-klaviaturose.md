@@ -19,7 +19,7 @@ Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėst
 
 <br>
 
-## „Key Matrix“:
+## „Matrix“:
 ![Matrix (svg)](images/kb-lt-ratise-matrix.svg)
 
 <br>
