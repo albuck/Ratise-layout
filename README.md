@@ -27,7 +27,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
 + _Pajėgesniems pirštams tenka ir didesnis bendras spausdinimo krūvis._
 + _Abiejoms rankoms ir atitinkamiems jų pirštams tenka panašus spausdinimo krūvis (dešinei rankai — šiek tiek didesnis)._
-+ _Beveik pusė visų paspaudimų tenka pagrindinės padėties eilės mygtukams._
++ _Pusė visų paspaudimų tenka pagrindinės padėties eilės mygtukams._
 + _Tam pačiam pirštui iš eilės rečiau tenka vėl spausti kitą mygtuką._
 + _Tai pačiai rankai iš eilės rečiau tenka vėl spausti kitą mygtuką._
 + _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai — taip yra išvengiama atskirų pirštų persidirbimo ir yra žymiai lengviau spausdinti._
