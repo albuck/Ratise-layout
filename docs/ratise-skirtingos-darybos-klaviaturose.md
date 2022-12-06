@@ -9,37 +9,37 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 
 1. __101/104 mygtukų klaviatūra „ANSISO“ (ISO be papildomo mygtuko, „ANSI+ISO“):__
 ![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
-    - Spausdinimui: [Ratisė ANSISO juodbaltis pdf](images/kb-lt-ratise-ansiso.pdf).
+
 <br>
    
 2. __101/104 mygtukų ANSI klaviatūra (dar vadinama „amerikietiška“):__
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-ansi.svg)
-    - Spausdinimui: [Ratisė ANSI juodbaltis pdf](images/kb-lt-ratise-ansi.pdf).
+
 <br>
 
 3. __101/104 mygtukų PC/AT klaviatūra (su labai dideliu _Enter_, kartais dar vadinama „azijietiška“):__
 ![104 mygtukų klaviatūra PC-AT su labai dideliu _Enter_](images/kb-lt-ratise-pc-at.svg)
-    - Spausdinimui: [Ratisė ‘PC/AT’ juodbaltis pdf](images/kb-lt-ratise-pc-at.pdf).
+
 <br>
     
 4. __102/105 mygtukų ISO klaviatūra (dar vadinama „europietiška“):__
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
-    - Spausdinimui: [Ratisė ISO juodbaltis pdf](images/kb-lt-ratise-iso.pdf).
+
 <br>
     
 5. __102/105 mygtukų klaviatūra „ISOANSI“ (ANSI su papildomu mygtuku, „ISO+ANSI“):__
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
-    - Spausdinimui: [Ratisė ISOANSI juodbaltis pdf](images/kb-lt-ratise-isoansi.pdf).
+
 <br>
    
 6. __101/104 mygtukų PC/AT klaviatūros atmaina (su labai dideliu _Enter_, nukeltu apačion _Z_, padidintu _Backspace_):__
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, padidintu Backspace](images/kb-lt-ratise-pc-at-2.svg)
-    - Spausdinimui: [Ratisė ‘L Enter 2’ juodbaltis pdf](images/kb-lt-ratise-pc-at-2.pdf).
+
 <br>
     
 7. __102/105 mygtukų PC/AT klaviatūros atmaina (su labai dideliu _Enter_, nukeltu apačion _Z_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):__
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, papildomu brūkšnelio mygtuku, padidintu Backspace](images/kb-lt-ratise-pc-at-3.svg)
-    - Spausdinimui: [Ratisė ‘L Enter 3’ juodbaltis pdf](images/kb-lt-ratise-pc-at-3.pdf).
+
 <br>
     
 8. __101/104 mygtukų PC/AT klaviatūros atmaina (su labai dideliu _Enter_, nukeltu apačion už _Shift‘o_ _Z_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):__
