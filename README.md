@@ -30,7 +30,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + _Beveik pusė visų paspaudimų tenka pagrindinės padėties eilės mygtukams._
 + _Tam pačiam pirštui iš eilės rečiau tenka vėl spausti kitą mygtuką._
 + _Tai pačiai rankai iš eilės rečiau tenka vėl spausti kitą mygtuką._
-+ _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai — taip yra išvengiama atskirų pirštų persidirbimo ir yra ženkliai lengviau spausdinti._
++ _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai — taip yra išvengiama atskirų pirštų persidirbimo ir yra žymiai lengviau spausdinti._
 + _Pirštai spausdinant Ratise nueina ženkliai mažesnį atstumą nei „standartiniuose“ lietuviškuose išdėstymuose._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogus ir lengviau įsimenamas._
