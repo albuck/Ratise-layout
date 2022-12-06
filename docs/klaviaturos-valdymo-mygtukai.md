@@ -19,7 +19,7 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo 
 __Pastabos:__ 
 + Lyginant su įprastomis klaviatūromis [Apple klaviatūroje](https://upload.wikimedia.org/wikipedia/commons/e/ea/Apple_iMac_Keyboard_A1243.png) mygtukai ```⌥ Option (⎇ Alt)``` ir ```⌘ Command (⊞ Win)``` savo padėtimi yra sukeisti vietomis.
 + Šviesiai pilkų mygtukų ar mygtuko gali nebūti klaviatūroje.
-+ Tarp kairiųjų ```Ctrl``` ir ```OS``` mygtukų kai kuriose klaviatūrose įsiterpia ```Fn``` mygtukas: su juo kartu spaudžiant kitą kokį klaviatūros mygtuką gali būti keičiamas pastarojo veikmuo (funkcija), t. y. tasis gali laikinai pavirsti į kitą mygtuką, kurio, pavyzdžiui, trūksta klaviatūroje.
++ Tarp kairiųjų ```Ctrl``` ir ```OS``` mygtukų kai kuriose klaviatūrose įsiterpia ```Fn``` mygtukas: su juo kartu spaudžiant kitą kokį klaviatūros mygtuką gali būti keičiamas pastarojo veikmuo (funkcija), t. y. tasis gali laikinai pavirsti į kitą mygtuką, kurio, pavyzdžiui, nėra/trūksta klaviatūroje.
  
 -----------------------------------------
 
