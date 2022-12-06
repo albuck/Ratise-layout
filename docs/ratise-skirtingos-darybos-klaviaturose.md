@@ -50,7 +50,7 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 __Pastabos:__
 + Paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą).
 + Pats paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios ```Z``` mygtuko vietos.
-+ Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su labai retai naudojamais neraidiniais ženklais (pradedančiojo anglų kalbos vartotojo požiūriu) ar net ```Enter```!, būna sumažinto dydžio, ar nukelti į pačią apatinę (tarpo) eilę, ar netgi išvis jų nėra ir jųjų ženklai prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```), pastarieji būtų patys nepatogiausi Ratisės naudotojui.
++ Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su labai retai naudojamais neraidiniais ženklais (pradedančiojo anglų kalbos vartotojo požiūriu) ar net ```Enter```, būna sumažinto dydžio, ar nukelti į pačią apatinę (tarpo) eilę, ar netgi išvis jų nėra ir jųjų ženklai prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```), pastarieji būtų patys nepatogiausi Ratisės naudotojui.
 + Būna klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai visokiausios ergonomiškos arba senos klaviatūros).
 
 
