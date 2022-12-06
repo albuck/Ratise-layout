@@ -17,9 +17,9 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     - Spausdinimui: [Ratisė ANSI juodbaltis pdf](images/kb-lt-ratise-ansi.pdf).
 <br>
 
-3. __101/104 mygtukų klaviatūra (su apverstu dideliu _L_ pavidalo _Enter_, kartais dar vadinamas „azijietišku“):__
-![104 mygtukų klaviatūra (su apverstu dideliu L pavidalo Enter)](images/kb-lt-ratise-l.svg)
-    - Spausdinimui: [Ratisė ‘L Enter’ juodbaltis pdf](images/kb-lt-ratise-l.pdf).
+3. __101/104 mygtukų PC/AT klaviatūra (kartais dar vadinama „azijietiška“):__
+![104 mygtukų klaviatūra PC-AT](images/kb-lt-ratise-pc-at.svg)
+    - Spausdinimui: [Ratisė ‘PC/AT’ juodbaltis pdf](images/kb-lt-ratise-pc-at.pdf).
 <br>
     
 4. __102/105 mygtukų klaviatūra, ISO („europietiškas“):__
