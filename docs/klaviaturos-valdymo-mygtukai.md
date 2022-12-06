@@ -6,7 +6,7 @@
 Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo mygtukai gali būti pažymėti ir pavadinti skirtingai:
 
 - ```↹``` — ⭾, ⇥, Tab, Tabular, Tabulator; Atitraukimas, Įtraukimas.
-- ```⇪``` — ⮸, ⇬, 🄰, 🅰, Caps, Caps Lock; Didž, Didžiosios, Didžios.
+- ```⇪``` — ⮸, ⇬, ⇩, 🄰, 🅰, Caps, Caps Lock; Didž, Didžiosios, Didžios.
 - ```⇧``` — ⬆, ⭡, ↑, Shift, Level 2; Lyg2, Aukšt, Aukštinis, Aukštesnysis, Antrasis lygis, Antrinis.
 - ```⎈``` — ✲, Ctrl, Control; Vald, Valdymas, Valdinis.
 - ```◊``` — ◇, ❖, OS, Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, ◆ Meta, Logo; Vėliava, Vadinis, Vada.
