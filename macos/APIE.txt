@@ -18,6 +18,6 @@ Turinys
 Diegimas
 --------
 
-Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lietuvių Ratisė' ar kitą (papildomai gali prireikti perkrauti kompiuterį).
+Reikiamą turinį patalpinti į MacOS 'Library' aplanko poaplankį 'Keyboard Layouts', iš naujo persijungti prie savosios paskyros (arba perkrauti kompiuterį), toliau pasirinkti  'Keyboard' arba 'Language & Text' § 'Input Sources' nustatymuose naujai įdiegtą išdėstymą 'Lietuvių Ratisė' ar kitą.
 
 Išdėstymai padaryti su 'Ukelele' programa: <https://www.macupdate.com/app/mac/14495/ukelele>.
