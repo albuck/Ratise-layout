@@ -131,14 +131,14 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 1. Mažoji ```ė```
 2. Didžioji ```Ė```
 3. Kairysis laužtinis skliaustas ```[```
-4. Tęsties mygtukų ženklas „Žiedelis viršuje“ ```˚```; o Ratisėje (be tęsties mygtukų) — uždėtinis „Žiedelis viršuje“
+4. Tęsties mygtukų ženklas „Žiedelis viršuje“ ```˚```; (Ratisėje (be tęsties mygtukų) — uždėtinis „Žiedelis viršuje“)
 
 ### Y mygtukas
 
 1. Mažoji ```y```
 2. Didžioji ```Y```
 3. Dešinysis laužtinis skliaustas ```]```
-4. Tęsties mygtukų ženklas „Stogelis“ (Circumflex) ```ˆ```; o Ratisėje (be tęsties mygtukų) — uždėtinis „Stogelis“ (Circumflex)
+4. Tęsties mygtukų ženklas „Stogelis“ (Circumflex) ```ˆ```; (Ratisėje (be tęsties mygtukų) — uždėtinis „Stogelis“ (Circumflex))
 
 ### O mygtukas
 
@@ -212,35 +212,35 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 1. Mažoji ```u```
 2. Didžioji ```U```
 3. Paprastoji vienguba kabutė, paprastasis Apostrofas ```'```
-4. Tęsties mygtukų ženklas „Antdėtinis brūkšnys“ ```ˉ```; o Ratisėje be tęsties mygtukų — uždėtinis ženklas „Antdėtinis brūkšnys“
+4. Tęsties mygtukų ženklas „Antdėtinis brūkšnys“ ```ˉ```; (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Antdėtinis brūkšnys“)
 
 ### E mygtukas
 
 1. Mažoji ```e```
 2. Didžioji ```E```
 3. Kairysis skliaustas ```(```
-4. Tęsties mygtukų ženklas „Kairinis kirtis“ ``` ˋ ```; o Ratisėje be tęsties mygtukų — uždėtinis ženklas „Sedilė“ (Cedilla)
+4. Tęsties mygtukų ženklas „Kairinis kirtis“ ``` ˋ ```; (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Sedilė“ (Cedilla))
 
 ### I mygtukas
 
 1. Mažoji ```i```
 2. Didžioji ```I```
 3. Dešinysis skliaustas ```)```
-4. Tęsties mygtukų ženklas „Dešininis kirtis“ ```ˊ```; o Ratisėje be tęsties mygtukų — mažoji raidė „i“ be taško
+4. Tęsties mygtukų ženklas „Dešininis kirtis“ ```ˊ```; (Ratisėje be tęsties mygtukų — mažoji raidė „i“ be taško)
 
 ### A mygtukas
 
 1. Mažoji ```a```
 2. Didžioji ```A```
 3. Paprastoji dviguba kabutė ```"```
-4. Tęsties mygtukų ženklas „Dutaškis“ (Diaeresis) ```¨```; o Ratisėje be tęsties mygtukų — uždėtinis ženklas „Dutaškis“ (Diaeresis)
+4. Tęsties mygtukų ženklas „Dutaškis“ (Diaeresis) ```¨```; (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Dutaškis“ (Diaeresis))
 
 ### H mygtukas
 
 1. Mažoji ```h```
 2. Didžioji ```H```
 3. Uždėtinis riestinis kirtis ```̃```
-4. Tęsties mygtukų ženklas „Riestinis kirtis“ (mažoji tildė) ```˜```; o Ratisėje be tęsties mygtukų — ženklas „Mažoji tildė“
+4. Tęsties mygtukų ženklas „Riestinis kirtis“ (mažoji tildė) ```˜```; (Ratisėje be tęsties mygtukų — ženklas „Mažoji tildė“)
 
 ### L mygtukas
 
@@ -282,7 +282,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 1. Mažoji ```ž```
 2. Didžioji ```Ž```
 3. Brūkšnelio-minuso ženklas ```-```
-4. Tęsties mygtukų ženklas „Sedilė“ (Cedilla) ```¸```; o Ratisėje be tęsties mygtukų — uždėtinis ženklas „Kablelis apačioje“
+4. Tęsties mygtukų ženklas „Sedilė“ (Cedilla) ```¸```; (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Kablelis apačioje“)
 
 ### Z mygtukas
 
@@ -314,14 +314,14 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 1. Mažoji ```ę``` nosinė
 2. Didžioji ```Ę``` nosinė
 3. Kairysis riestinis skliaustas ```{```
-4. Tęsties mygtukų ženklas „Lankelis“ ```˘```; o Ratisėje be tęsties mygtukų — uždėtinis ženklas „Lankelis“
+4. Tęsties mygtukų ženklas „Lankelis“ ```˘```; (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Lankelis“)
 
 ### Į mygtukas
 
 1. Mažoji ```į``` nosinė
 2. Didžioji ```Į``` nosinė
 3. Dešinysis riestinis skliaustas ```}```
-4. Tęsties mygtukų ženklas „Varnelė“ ```ˇ```; o Ratisėje be tęsties mygtukų — uždėtinis ženklas „Varnelė“
+4. Tęsties mygtukų ženklas „Varnelė“ ```ˇ```; (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Varnelė“)
 
 ### Ą mygtukas
 
