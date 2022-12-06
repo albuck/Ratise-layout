@@ -18,7 +18,7 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
 <br>
 
 3. __101/104 mygtukų PC/AT klaviatūra (su labai dideliu _Enter_, kartais dar vadinama „azijietiška“):__
-![104 mygtukų klaviatūra PC-AT](images/kb-lt-ratise-pc-at.svg)
+![104 mygtukų klaviatūra PC-AT su labai dideliu _Enter_](images/kb-lt-ratise-pc-at.svg)
     - Spausdinimui: [Ratisė ‘PC/AT’ juodbaltis pdf](images/kb-lt-ratise-pc-at.pdf).
 <br>
     
@@ -32,18 +32,18 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
     - Spausdinimui: [Ratisė ISOANSI juodbaltis pdf](images/kb-lt-ratise-isoansi.pdf).
 <br>
    
-6. __101/104 mygtukų PC/AT klaviatūros atmaina (su nukeltu apačion _Z_ ir padidintu _Backspace_):__
-![104 mygtukų klaviatūra su nukeltu apačion Z ir padidintu Backspace](images/kb-lt-ratise-pc-at-2.svg)
+6. __101/104 mygtukų PC/AT klaviatūros atmaina (su labai dideliu _Enter_, nukeltu apačion _Z_, padidintu _Backspace_):__
+![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, padidintu Backspace](images/kb-lt-ratise-pc-at-2.svg)
     - Spausdinimui: [Ratisė ‘L Enter 2’ juodbaltis pdf](images/kb-lt-ratise-pc-at-2.pdf).
 <br>
     
-7. __102/105 mygtukų PC/AT klaviatūros atmaina (su nukeltu apačion _Z_, papildomu brūkšnelio mygtuku ir padidintu _Backspace_):__
-![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, papildomu brūkšnelio mygtuku ir padidintu Backspace](images/kb-lt-ratise-pc-at-3.svg)
+7. __102/105 mygtukų PC/AT klaviatūros atmaina (su labai dideliu _Enter_, nukeltu apačion _Z_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):__
+![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, papildomu brūkšnelio mygtuku, padidintu Backspace](images/kb-lt-ratise-pc-at-3.svg)
     - Spausdinimui: [Ratisė ‘L Enter 3’ juodbaltis pdf](images/kb-lt-ratise-pc-at-3.pdf).
 <br>
     
-8. __101/104 mygtukų PC/AT klaviatūros atmaina (su nukeltu apačion už _Shift‘o_ _Z_, papildomu brūkšnelio mygtuku ir padidintu _Backspace_):__
-![104 mygtukų PC/AT klaviatūros atmaina su nukeltu apačion už Shift‘o Z, papildomu brūkšnelio mygtuku ir padidintu Backspace](images/kb-lt-ratise-pc-at-4.svg)
+8. __101/104 mygtukų PC/AT klaviatūros atmaina (su labai dideliu _Enter_, nukeltu apačion už _Shift‘o_ _Z_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):__
+![104 mygtukų PC/AT klaviatūra su nukeltu apačion už Shift‘o Z, papildomu brūkšnelio mygtuku, padidintu Backspace](images/kb-lt-ratise-pc-at-4.svg)
  
  <br>
    
