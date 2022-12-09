@@ -22,6 +22,8 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 ![Ratisės W išdėstymo klaviatūros ženklai](images/kb-lt-ratise-w-visi-zenklai.svg)
 
+   + Brūkšnelio mygtuko trečiajame lygyje yra „Nepertraukiamasis brūkšnelis“.
+
 <br>
 
 3. __Ratisės B__ išdėstymas be tęsties mygtukų (su atitinkamais uždėtiniais ženkleliais vietoje jų):
@@ -34,6 +36,6 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 -------------------------
 
-[Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
+[Ratisės išdėstymo ženklai](ratises-isdestymo-zenklai.md)
 
 [Į pradžią](../README.md)
