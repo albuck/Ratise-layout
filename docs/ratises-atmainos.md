@@ -3,7 +3,7 @@
 
 <br>
 
-1. __Ratisės__ išdėstymas:
+1. Įprastas __Ratisės__ išdėstymas:
 
 ![Ratisės išdėstymo klaviatūros ženklai](images/kb-lt-ratise-visi-zenklai.svg)
 
