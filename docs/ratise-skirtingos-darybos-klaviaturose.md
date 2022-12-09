@@ -51,7 +51,7 @@ __Pastabos:__
 + Paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą).
 + Pats paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios ```Z``` mygtuko vietos.
 + Klaviatūrose gali nebūti ne tik Ratisės ```-``` mygtuko (apačioje kairėje), bet ir Ratisės ```+``` mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) standarte nėra privalomi.
-+ Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su labai retai naudojamais neraidiniais ženklais ar net ```Enter```, būna sumažinto dydžio, ar nukelti į pačią apatinę (tarpo) eilę, arba netgi išvis jų nėra ir jųjų ženklai būna prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```).
++ Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais neraidiniais ženklais ar net ```Enter```, būna sumažinto dydžio, arba nukelti į pačią apatinę (tarpo) eilę, arba netgi išvis jų nėra ir jųjų ženklai būna prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```).
 + Pasitaiko klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai visokiausios ergonomiškos arba jau senokos klaviatūros).
 
 
