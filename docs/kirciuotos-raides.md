@@ -6,7 +6,7 @@ _Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skir
 + __Lietuviškos kirčiuotos raidės:__
 
     ![Lietuviškos kirčiuotos raidės](images/kirciuotos-lt-raides.svg)
-    
+
 <br>
 
 ## 1. Kirčiuotų raidžių įvedimas tęsties mygtukais
