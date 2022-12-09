@@ -18,7 +18,7 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 <br>
 
-2. __Ratisės W__ išdėstymas, su sukeistais vietomis ```-``` ir ```W``` ženklais, tinka tik ISO klaviatūroms (toms, kurios prie kairiojo ```Shift``` turi papildomą mygtuką):
+2. __Ratisės W__ išdėstymas, su sukeistais vietomis ```-``` ir ```W``` ženklais, tinka tik [ISO klaviatūroms](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png) (toms, kurios prie kairiojo ```Shift``` turi papildomą mygtuką):
 
 ![Ratisės W išdėstymo klaviatūros ženklai](images/kb-lt-ratise-w-visi-zenklai.svg)
 
