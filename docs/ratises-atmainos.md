@@ -34,4 +34,6 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 -------------------------
 
+[Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
+
 [Į pradžią](../README.md)
