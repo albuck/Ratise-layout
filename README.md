@@ -49,7 +49,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 ## TURINYS
 - [KLAVIATŪROS VALDYMO-KEITIMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
-- [RATISĖS IŠDĖSTYMO ŽENKLAI](docs/ratise-isdestymo-zenklai.md)
+- [RATISĖS IŠDĖSTYMO ŽENKLAI](docs/ratises-isdestymo-zenklai.md)
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spausdinimo-visais-pirstais-tvarka.md)
 - [RATISĖS TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/ratises-testies-mygtukai.md)
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos-raides.md)
