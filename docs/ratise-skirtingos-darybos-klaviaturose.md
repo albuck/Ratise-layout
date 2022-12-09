@@ -52,7 +52,7 @@ __Pastabos:__
 + Pats paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios ```Z``` mygtuko vietos.
 + Klaviatūrose gali nebūti ne tik Ratisės ```-``` mygtuko (apačioje kairėje), bet ir Ratisės ```+``` mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) standarte nėra privalomi.
 + Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (glaustų, kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais neraidiniais ženklais ar net ```Enter```, būna sumažinto dydžio, arba nukelti į pačią apatinę (tarpo) eilę, arba netgi išvis jų nėra ir jųjų ženklai būna prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```).
-+ Pasitaiko klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai būtų visokiausios ergonomiškos arba pasenusios klaviatūros).
++ Pasitaiko klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai būtų visokiausios ergonomiškos arba jau pasenusios klaviatūros).
 
 
 --------------------------------------------------------------------
