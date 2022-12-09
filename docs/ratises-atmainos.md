@@ -31,6 +31,7 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 ![Ratisės B išdėstymo klaviatūros ženklai](images/kb-lt-ratise-b-visi-zenklai.svg)
 
   + ```ı``` ketvirtame ```I``` mygtuko lygyje yra betaškė mažoji „i“.
+  + Šios atmainos Ratisės išdėstyme nėra tęsties mygtukų lỹgių ženklų.
 
 <br>
 
