@@ -94,6 +94,6 @@ b) Ratisės atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkleliai
 
 -------------------------
 
-[Ratisės išdėstymo ženklai](ratise-isdestymo-zenklai.md)
+[Ratisės išdėstymo ženklai](ratises-isdestymo-zenklai.md)
 
 [Į pradžią](../README.md)
