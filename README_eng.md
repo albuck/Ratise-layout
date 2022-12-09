@@ -1,4 +1,4 @@
-[Skaityti lietuviškai](README.md)
+[🇱🇹 Skaityti lietuviškai](README.md)
 
 ------------------------------------
 
