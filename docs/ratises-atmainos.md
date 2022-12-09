@@ -9,13 +9,13 @@
 
 <br>
 
-2. __Ratisės W__ išdėstymas ISO klaviatūroms (toms, kurios turi papildomą mygtuką):
+2. __Ratisės W__ išdėstymas, tinka tik ISO klaviatūroms (toms, kurios turi papildomą mygtuką):
 
 ![Ratisės W išdėstymo klaviatūros ženklai](images/kb-lt-ratise-w-visi-zenklai.svg)
 
 <br>
 
-3. __Ratisės B__ išdėstymas, išdėstymo atmaina be tęsties mygtukų (su atitinkamais uždėtiniais ženkleliais vietoje jų):
+3. __Ratisės B__ išdėstymas be tęsties mygtukų (su atitinkamais uždėtiniais ženkleliais vietoje jų):
 
 ![Ratisės B išdėstymo klaviatūros ženklai](images/kb-lt-ratise-b-visi-zenklai.svg)
 
