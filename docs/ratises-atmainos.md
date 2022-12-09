@@ -12,13 +12,13 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 <br>
 
-1. Įprastas __Ratisės__ išdėstymas:
+Įprastas __Ratisės__ išdėstymas:
 
 ![Ratisės išdėstymo klaviatūros ženklai](images/kb-lt-ratise-visi-zenklai.svg)
 
 <br>
 
-2. __Ratisės W__ išdėstymas, su sukeistais vietomis ```-``` ir ```W``` ženklais, tinka tik [ISO klaviatūroms](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png) (toms, kurios prie kairiojo ```Shift``` turi papildomą mygtuką):
+__Ratisės W__ išdėstymas, su sukeistais vietomis ```-``` ir ```W``` ženklais, tinka tik [ISO klaviatūroms](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png) (toms, kurios prie kairiojo ```Shift``` turi papildomą mygtuką):
 
 ![Ratisės W išdėstymo klaviatūros ženklai](images/kb-lt-ratise-w-visi-zenklai.svg)
 
@@ -26,7 +26,7 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 <br>
 
-3. __Ratisės B__ išdėstymas be tęsties mygtukų (su atitinkamais uždėtiniais ženkleliais vietoje jų):
+__Ratisės B__ išdėstymas be tęsties mygtukų (su atitinkamais uždėtiniais ženkleliais vietoje jų):
 
 ![Ratisės B išdėstymo klaviatūros ženklai](images/kb-lt-ratise-b-visi-zenklai.svg)
 
