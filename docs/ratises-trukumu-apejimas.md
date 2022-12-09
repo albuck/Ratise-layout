@@ -24,7 +24,7 @@
 
 6. __Išdėstymas yra pritaikytas dešiniarankiams.__ Kairiarankiams patogesnis išdėstymas turėtų būti apverstas kairės—dešinės atžvilgiu (priebalsių pusė turėtų tekti pajėgesnei rankai), deja tokios klaviatūros nėra gaminamos. Visgi, išeitis labai norintiems turėti tokią klaviatūrą yra: pasidaryti, užsisakyti/nusipirkti perprogramuojamą simetrišką klaviatūrą (pvz.: Kinesis Advantage2, Ergodox ir kitos) ir perprogramuoti ją, arba pasidaryti Ratisės išdėstymo veidrodiškai apverstą atmainą.
 
-7. __Programavimo kalbose padidėja mažųjų pirštų užimtumas.__ Taip atsitinka dėl to, kad programavimo kalbose daug dažniau yra naudojami ```Shift```, ```Tab``` ir ```Enter``` mygtukai. Tai galima būtų išspresti įsigyjant (ar pasigaminant) ergonomišką programuojamą klaviatūrą, kurioje pastarieji mygtukai būtų perpaskirti pajėgesniems pirštams.
+7. __Programavimo kalbose padidėja mažųjų pirštų užimtumas.__ Taip atsitinka dėl to, kad programavimo kalbose daug dažniau yra naudojami ```Shift```, ```Tab``` ir ```Enter``` mygtukai. Tai galima būtų išspręsti įsigyjant (ar pasigaminant) ergonomišką programuojamą klaviatūrą, kurioje pastarieji mygtukai būtų perpaskirti pajėgesniems pirštams.
 
 8. __Saviški trūkumai__ atsiras karts nuo karto kokiam vartotojui, kad koks dažniau jam reikalingas ženklas nėra „po ranka“, taigi, čia ir sprendimas būtų saviškas: pasikeisti pačiam kokį jam nereikalingą ženklą trečiame lygyje į jam reikalingą, sakykim, kai kam, kas nerašo tarmiškai, senlietuviškai ar lenkiškai, o programuoja — bus patogiau rinkti nuošimčius, jei jis vietoje ```ł``` įsidės ```%``` ir panašiai.
 
