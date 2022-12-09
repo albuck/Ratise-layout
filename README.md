@@ -89,7 +89,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 
 ### Kiti naudingi ištekliai:
-- [Tarptautinis klaviatūrų standartas ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995)
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
 - [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html)
@@ -97,3 +96,5 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
 - [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
 - [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis)
+- [Keyboard layouts standard ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995)
+
