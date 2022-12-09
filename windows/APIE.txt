@@ -6,6 +6,8 @@ Aplanko turinys:
 
 — 'ratiseb' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
 
+— 'ratisew.txt' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
+
 — 'ratiseg' — papildoma atitinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
 
 — 'ratiselv' — papildoma atitinkama latviška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
