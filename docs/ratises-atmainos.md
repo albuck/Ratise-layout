@@ -1,5 +1,5 @@
 
-# Ratisės atmainos
+# Ratisės išdėstymo atmainos
 
 Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
