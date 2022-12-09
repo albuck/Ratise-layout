@@ -1,6 +1,15 @@
 
 # Ratisės atmainos
 
+Išdėstymai atvaizduoti su visais keturių lygių ženklais:
+
+![Išdėstymo lygiai](images/zenklu-lygiai.svg)
+
++ 1 — Pagrindinis, pirmasis lygis;
++ 2 — ```⇧``` antrasis, ‘Shift’ lygis;
++ 3 — ```⇮``` trečiasis, ‘AltGr’ lygis;
++ 4 — ```⇧```+```⇮``` ketvirtasis, ‘AltGr+Shift’ lygis.
+
 <br>
 
 1. Įprastas __Ratisės__ išdėstymas:
