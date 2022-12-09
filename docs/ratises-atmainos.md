@@ -9,7 +9,7 @@
 
 <br>
 
-2. __Ratisės W__ išdėstymas, tinka tik ISO klaviatūroms (toms, kurios turi papildomą mygtuką):
+2. __Ratisės W__ išdėstymas, su sukeistais vietomis ```-``` ir ```W``` ženklais, tinka tik ISO klaviatūroms (toms, kurios turi papildomą mygtuką):
 
 ![Ratisės W išdėstymo klaviatūros ženklai](images/kb-lt-ratise-w-visi-zenklai.svg)
 
