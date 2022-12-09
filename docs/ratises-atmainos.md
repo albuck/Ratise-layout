@@ -36,6 +36,8 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 -------------------------
 
+[Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md)
+
 [Ratisės išdėstymo ženklai](ratises-isdestymo-zenklai.md)
 
 [Į pradžią](../README.md)
