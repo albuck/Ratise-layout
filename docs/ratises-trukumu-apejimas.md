@@ -18,7 +18,7 @@
 
 3. __Mygtukai ```X```, ```H``` ir ```Q``` nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti ```A```, ```O```__, paprastai tai pastebima tik spausdinant angliškai, kur _h_ yra dažna raidė. Čia galėtų pagelbėti ypatingas tokių raidžių derinių rinkimo būdas: jei kairiosios rankos smilius renka ```H``` ar ```X```, tai ```O```, ```A``` renka pasislinkęs dešiniau kairiosios rankos didysis pirštas. Bet tokios gudrybės reikia papildomai mokytis.
 
-4. __Mygtukas ```W``` nėra labai patogioje vietoje.__ Todėl yra teikiama papildoma Ratisės išdėstymo atmaina su sukeistu 'W' ir brūkšnelio mygtuku (papildomu mygtuku ISO klaviatūrose): [Ratisė W](images/lt-ratise-w.svg).
+4. __Mygtukas ```W``` nėra labai patogioje vietoje.__ Todėl yra teikiama papildoma Ratisės išdėstymo atmaina su sukeistais 'W' ir brūkšnelio ženklais vietomis: [Ratisė W](images/lt-ratise-w.svg).
 
 5. __Kai kuriose klaviatūrose trūksta brūkšnelio mygtuko.__ Nors Ratisės išdėstyme ir yra papildomas brūkšnelis kitoje vietoje, visgi, patogiau naudotis brūkšneliu pirmame mygtuko lygyje (ir pačio ženklo įvedimui, ir vaizdinės sąsajos valdymui). Čia, jau aukščiau minėtais būdais, galima brūkšnelio mygtuko veikimą priskirti Didžiųjų raidžių įjungimo mygtukui, o pastarojo — kokiam dar kitam. Kiekvienoje skaitmeninėje aplinkoje tai yra daroma kiek skirtingais būdais, taigi, reikėtų atskirai tuo pasidomėti.
 
