@@ -1,7 +1,7 @@
 
 # RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE
 
-Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti kiek kitoje vietoje.
+Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti kiek kitoje vietoje.
 
 Čia, žemiau, klaviatūrų mygtukų išdėstymai rikiuojami pagal patogumą, nuo geresnio prie prastesnio (nors tas skirtumas ir nedidelis).
 
