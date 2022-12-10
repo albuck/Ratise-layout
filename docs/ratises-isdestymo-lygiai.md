@@ -33,7 +33,7 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 
 ![Ratisės išdėstymo pirmojo lygio ženklai](images/kb-lt-ratise-1-lygis.svg)
 
-+ Tarp mygtukų  <kbd>_</kbd> (```pabraukimas```) ir <kbd>=</kbd> (```lygu```) yra mygtukas su ilguoju brūkšniu <kbd>—</kbd>, vadinamuoju _m_ ilgio brūkšniu (tai yra _m_ raidės pločio brūkšniu). Kai kuriuose spaudmenyse (šriftuose) klaidingai atvaizduojamas trumpesnis (ar ilgesnis) nei turėtų būti.
++ Tarp mygtukų ```pabraukimas``` <kbd>_</kbd> ir ```lygu``` <kbd>=</kbd> yra mygtukas su ilguoju brūkšniu <kbd>—</kbd>, vadinamuoju _m_ ilgio brūkšniu (tai yra _m_ raidės pločio brūkšniu). Kai kuriuose spaudmenyse (šriftuose) klaidingai atvaizduojamas trumpesnis (ar ilgesnis) nei turėtų būti.
 
 
 ### Ratisės Didžiųjų raidžių įjungimas
