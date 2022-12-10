@@ -24,19 +24,19 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 + Lyginant su _QWERTY Baltic/Numeric_ spausdinant _Ratise_:
    - __4,7__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __2__ kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - __1,5__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
+   - __1,5__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
    - __1,5__ karto pirštai eis mažesnį atstumą.
 
 + Lyginant su _ĄŽERTY Lithuanian Standard_ spausdinant _Ratise_:
    - __3,6__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __2__ kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - __1,3__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
+   - __1,3__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
    - __1,4__ karto pirštai eis mažesnį atstumą.
 
 + Lyginant su _QGRLDČ LEKP_ spausdinant _Ratise_:
    - __1,8__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __1,9__ karto rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
-   - __1,3__ karto rečiau teks spausti keitimo mygtukus (```Shift```, ```AltGr```, ```Shift+AltGr```);
+   - __1,3__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
    - pirštai eis panašų atstumą (priklausomai nuo teksto, kai kur Ratisė mažesnį, kai kur LEKP).
 
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF). Kitokiuose tekstuose šie skaičiai gali kažkiek skirtis.
