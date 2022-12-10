@@ -16,7 +16,7 @@
  + _Haiku_ aplinkoje galima naudoti papildomą klaviatūros raktų pakaitos išdėstymą (yra pridėtas) ar kitą kokį, įsidiegus papildomą priemonę _Keymap Switcher_.
    + __Pastaba:__ su kai kuria skaitmenine įranga šitokie raktų pakeitimai gali nesuveikti (pastebėta tokių dalykų Windows ir Linux aplinkose).
 
-3. __Mygtukai <kbd>X</kbd>, <kbd>H</kbd> ir <kbd>Q</kbd> nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti ```A```, ```O```__, paprastai tai pastebima tik spausdinant angliškai, kur _h_ yra dažna raidė. Čia galėtų pagelbėti ypatingas tokių raidžių derinių rinkimo būdas: jei kairiosios rankos smilius renka ```h``` ar ```x```, tai ```o```, ```a``` renka pasislinkęs dešiniau kairiosios rankos didysis pirštas. Bet tokios gudrybės reikia papildomai mokytis.
+3. __Mygtukai <kbd>X</kbd>, <kbd>H</kbd> ir <kbd>Q</kbd> nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti ```a```, ```o```__, paprastai tai pastebima tik spausdinant angliškai, kur _h_ yra dažna raidė. Čia galėtų pagelbėti ypatingas tokių raidžių derinių rinkimo būdas: jei kairiosios rankos smilius renka ```h``` ar ```x```, tai ```o```, ```a``` renka pasislinkęs dešiniau kairiosios rankos didysis pirštas. Bet tokios gudrybės reikia papildomai mokytis.
 
 4. __Mygtukas <kbd>W</kbd> nėra labai patogioje vietoje.__ Todėl yra teikiama papildoma Ratisės išdėstymo atmaina tik [ISO klaviatūroms](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png) (kurios yra su papildomu mygtuku) su sukeistais 'W' ir brūkšnelio ženklais vietomis: [Ratisė W](images/lt-ratise-w.svg).
 
