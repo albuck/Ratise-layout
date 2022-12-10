@@ -3,7 +3,7 @@
 
 _Pasinaudojus tęsties mygtukais (angl. Dead Keys) galima įvesti daugiau papildomų ženklų, kurie nėra prieinami įprastuose išdėstymo lygiuose. Kiekvienas tęsties mygtukas turi lyg ir papildomą išdėstymo tęsties lygį._
 
-Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su ```AltGr+Shift```). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant ```AltGr+Shift```).
+Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su <kbd>AltGr</kbd>+<kbd>Shift</kbd>). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant <kbd>AltGr</kbd>+<kbd>Shift</kbd>).
 
 ![Ratisės išdėstymo ketvirtojo lygio ženklai, išskirti spalva tęsties mygtukai](images/kb-lt-ratise-4-lygis.svg)
 
