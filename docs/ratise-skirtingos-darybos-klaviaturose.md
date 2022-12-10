@@ -48,10 +48,10 @@ Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, daž
  <br>
 
 __Pastabos:__
-+ Paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad ```Shift``` priėjimo sunkinimas prastina patogumą).
-+ Pats paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios ```Z``` mygtuko vietos.
-+ Klaviatūrose gali nebūti ne tik Ratisės ```-``` mygtuko (apačioje kairėje), bet ir Ratisės ```+``` mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) klaviatūrų standarte nėra privalomi.
-+ Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (glaustų, kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais neraidiniais ženklais ar net ```Enter```, būna sumažinto dydžio, arba nukelti į pačią apatinę (tarpo) eilę, arba netgi išvis jų nėra ir jųjų ženklai būna prieinami tik kituose mygtukuose per papildomą priėjimo lygį (```Fn```).
++ Paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad <kbd>Shift</kbd> priėjimo sunkinimas prastina patogumą).
++ Pats paskutinysis išdėstymas savo vietoje dėl atskirtos ir nepatogios <kbd>Z</kbd> mygtuko vietos.
++ Klaviatūrose gali nebūti ne tik Ratisės <kbd>-</kbd> mygtuko (apačioje kairėje), bet ir Ratisės <kbd>+</kbd> mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) klaviatūrų standarte nėra privalomi.
++ Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (glaustų, kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais neraidiniais ženklais ar net <kbd>Enter</kbd>, būna sumažinto dydžio, arba nukelti į pačią apatinę (tarpo) eilę, arba netgi išvis jų nėra ir jųjų ženklai būna prieinami tik kituose mygtukuose per papildomą priėjimo lygį (<kbd>Fn</kbd>).
 + Pasitaiko klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai būtų visokiausios ergonomiškos arba jau pasenusios klaviatūros).
 
 
