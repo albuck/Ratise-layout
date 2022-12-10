@@ -15,11 +15,11 @@ __Spaudų išdėstymo mygtuke lygiai:__
 ![Ženklų išdėstymo mygtuke lygiai](images/zenklu-lygiai.svg)
 
 + 1 — Pagrindinis, pirmasis lygis;
-+ 2 — ```⇧``` antrasis, ‘Shift’ lygis;
-+ 3 — ```⇮``` trečiasis, ‘AltGr’ lygis;
-+ 4 — ```⇧```+```⇮``` ketvirtasis, ‘AltGr+Shift’ lygis.
++ 2 — <kbd>⇧</kbd> antrasis, ‘Shift’ lygis;
++ 3 — <kbd>⇮</kbd> trečiasis, ‘AltGr’ lygis;
++ 4 — <kbd>⇧</kbd>+<kbd>⇮</kbd> ketvirtasis, ‘AltGr+Shift’ lygis.
 
-__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir ```Z``` mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
+__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti brūkšnelio mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
 
@@ -38,7 +38,7 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 
 ### Ratisės Didžiųjų raidžių įjungimas
 
-Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko ```⇪ CapsLock``` paspaudimo (įjungimo).
+Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko <kbd>⇪ CapsLock</kbd> paspaudimo (įjungimo).
 
 ![Ratisės Didžiųjų raidžių įjungimas](images/kb-lt-ratise-didzios.svg)
 
@@ -46,7 +46,7 @@ Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo 
 
 ## Ratisės 2-is lygis
 
-Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką ```⇧ Shift```.
+Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Antrojo lygio_ mygtuką <kbd>⇧ Shift</kbd>.
 
 _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
@@ -58,7 +58,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ## Ratisės 3-is lygis
 
-Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką ```⇮ AltGr```.
+Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką <kbd>⇮ AltGr</kbd>.
 
 _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ```ł```. Dažniausiai reikalingi iš papildomų ženklų sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme atitinka [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png), be to turi papildomą tašką._
 
@@ -73,7 +73,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 
 ## Ratisės 4-is lygis
 
-Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką ```⇮``` kartu su _Antrojo lygio_ mygtuku ```⇧``` (```AltGr+Shift```).
+Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką <kbd>⇮</kbd> kartu su _Antrojo lygio_ mygtuku <kbd>⇧</kbd> (<kbd>AltGr</kbd>+<kbd>Shift</kbd>).
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
