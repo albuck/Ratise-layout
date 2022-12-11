@@ -50,6 +50,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [KLAVIATŪROS VALDYMO-KEITIMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
 - [RATISĖS IŠDĖSTYMO ŽENKLAI](docs/ratises-isdestymo-zenklai.md)
+- [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spausdinimo-visais-pirstais-tvarka.md)
 - [RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE](docs/ratise-skirtingos-darybos-klaviaturose.md)
 - [RATISĖ STAČIAKAMPIO MYGTUKŲ IŠDĖSTYMO KLAVIATŪROSE](docs/ratise-staciakampese-klaviaturose.md)
@@ -57,14 +58,13 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS TĘSTIES MYGTUKAI IR JAIS ĮVEDAMI ŽENKLAI](docs/ratises-testies-mygtukai.md)
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos-raides.md)
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
+- [RATISĖS IŠDĖSTYMO ATMAINOS](docs/ratises-atmainos.md)
 - [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/ratises-trukumu-apejimas.md)
 - [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/mygtuku-spaudeliojimo-daznumai.md)
 - [RATISĖS NAŠUMO PALYGINIMAS SU KITAIS IŠDĖSTYMAIS](docs/lt-isdestymu-palyginimas.md)
-- [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
-- [RATISĖS IŠDĖSTYMO ATMAINOS](docs/ratises-atmainos.md)
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
-- [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
+- [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 
 
 ### Papildomi kitų kalbų Ratisės išdėstymai:
