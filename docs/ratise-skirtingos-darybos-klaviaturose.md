@@ -17,7 +17,7 @@ __101/104 mygtukų ANSI klaviatūra__ (dar vadinama „amerikietiška“):
 
 <br>
 
-__101/104 mygtukų PC/AT klaviatūra__ (su labai dideliu _Enter_, kartais dar vadinama „azijietiška“):
+__101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „azijietiška“):
 ![104 mygtukų klaviatūra PC-AT su labai dideliu _Enter_](images/kb-lt-ratise-pc-at.svg)
 
 <br>
@@ -32,17 +32,17 @@ __102/105 mygtukų klaviatūra „ISOANSI“__ (ANSI su papildomu mygtuku, „IS
 
 <br>
 
-__101/104 mygtukų PC/AT klaviatūros atmaina „2“__ (su labai dideliu _Enter_, nukeltu apačion _Z‘u_, padidintu _Backspace_):
+__101/104 mygtukų PC/AT klaviatūros atmaina „2“__ (su nukeltu apačion _Z‘u_, padidintu _Backspace_):
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, padidintu Backspace](images/kb-lt-ratise-pc-at-2.svg)
 
 <br>
 
-__102/105 mygtukų PC/AT klaviatūros atmaina „3“__ (su labai dideliu _Enter_, nukeltu apačion _Z‘u_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):
+__102/105 mygtukų PC/AT klaviatūros atmaina „3“__ (su nukeltu apačion _Z‘u_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, papildomu brūkšnelio mygtuku, padidintu Backspace](images/kb-lt-ratise-pc-at-3.svg)
 
 <br>
 
-__101/104 mygtukų PC/AT klaviatūros atmaina „4“__ (su labai dideliu _Enter_, nukeltu apačion už _Shift‘o_ _Z‘u_, padidintu _Backspace_):
+__101/104 mygtukų PC/AT klaviatūros atmaina „4“__ (su nukeltu apačion už _Shift‘o_ _Z‘u_, padidintu _Backspace_):
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion už Shift‘o Z, padidintu Backspace](images/kb-lt-ratise-pc-at-4.svg)
  
 <br>
