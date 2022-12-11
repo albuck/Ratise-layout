@@ -79,10 +79,10 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 Čia, priklausomai nuo raidžių su uždėtiniais ženkleliais (diakritikais) įvedimo būdo, yra galimos dvejos Ratisės atmainos:
 
-a) Ratisė su tęsties mygtukais:
+__a)__ Ratisė su tęsties mygtukais:
 ![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-4-lygis.svg)
 
-b) Ratisės atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkleliais vietoje jų):
+__b)__ Ratisės atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkleliais vietoje jų):
 ![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-b-4-lygis.svg)
 
 + Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
