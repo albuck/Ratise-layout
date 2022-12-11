@@ -3,49 +3,49 @@
 
 Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti kiek kitoje vietoje.
 
-Čia, žemiau, klaviatūrų mygtukų išdėstymai rikiuojami pagal patogumą, nuo geresnio prie prastesnio (nors tas skirtumas ir nedidelis).
+Čia, žemiau, klaviatūrų mygtukų išdėstymai rikiuojami pagal patogumą, nuo geresnio prie prastesnio (nors tas skirtumas ir labai nedidelis).
 
 <br>
 
-1. __101/104 mygtukų klaviatūra „ANSISO“ (ISO be papildomo mygtuko, „ANSI+ISO“):__
+__101/104 mygtukų klaviatūra „ANSISO“ (ISO be papildomo mygtuko, „ANSI+ISO“):__
 ![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
 
 <br>
 
-2. __101/104 mygtukų ANSI klaviatūra (dar vadinama „amerikietiška“):__
+__101/104 mygtukų ANSI klaviatūra (dar vadinama „amerikietiška“):__
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-ansi.svg)
 
 <br>
 
-3. __101/104 mygtukų PC/AT klaviatūra (su labai dideliu _Enter_, kartais dar vadinama „azijietiška“):__
+__101/104 mygtukų PC/AT klaviatūra (su labai dideliu _Enter_, kartais dar vadinama „azijietiška“):__
 ![104 mygtukų klaviatūra PC-AT su labai dideliu _Enter_](images/kb-lt-ratise-pc-at.svg)
 
 <br>
 
-4. __102/105 mygtukų ISO klaviatūra (dar vadinama „europietiška“):__
+__102/105 mygtukų ISO klaviatūra (dar vadinama „europietiška“):__
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
 
 <br>
 
-5. __102/105 mygtukų klaviatūra „ISOANSI“ (ANSI su papildomu mygtuku, „ISO+ANSI“):__
+__102/105 mygtukų klaviatūra „ISOANSI“ (ANSI su papildomu mygtuku, „ISO+ANSI“):__
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
 
 <br>
 
-6. __101/104 mygtukų PC/AT klaviatūros atmaina „2“ (su labai dideliu _Enter_, nukeltu apačion _Z‘u_, padidintu _Backspace_):__
+__101/104 mygtukų PC/AT klaviatūros atmaina „2“ (su labai dideliu _Enter_, nukeltu apačion _Z‘u_, padidintu _Backspace_):__
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, padidintu Backspace](images/kb-lt-ratise-pc-at-2.svg)
 
 <br>
 
-7. __102/105 mygtukų PC/AT klaviatūros atmaina „3“ (su labai dideliu _Enter_, nukeltu apačion _Z‘u_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):__
+__102/105 mygtukų PC/AT klaviatūros atmaina „3“ (su labai dideliu _Enter_, nukeltu apačion _Z‘u_, papildomu brūkšnelio mygtuku, padidintu _Backspace_):__
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, papildomu brūkšnelio mygtuku, padidintu Backspace](images/kb-lt-ratise-pc-at-3.svg)
 
 <br>
 
-8. __101/104 mygtukų PC/AT klaviatūros atmaina „4“ (su labai dideliu _Enter_, nukeltu apačion už _Shift‘o_ _Z‘u_, padidintu _Backspace_):__
+__101/104 mygtukų PC/AT klaviatūros atmaina „4“ (su labai dideliu _Enter_, nukeltu apačion už _Shift‘o_ _Z‘u_, padidintu _Backspace_):__
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion už Shift‘o Z, padidintu Backspace](images/kb-lt-ratise-pc-at-4.svg)
  
- <br>
+<br>
 
 __Pastabos:__
 + Paskutiniųjų keturių išdėstymų vietos parinktos be patikros, tik atsižvelgiant į kitų išdėstymų patikrų duomenis (prielaida, kad <kbd>Shift</kbd> priėjimo sunkinimas prastina patogumą).
