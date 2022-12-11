@@ -73,7 +73,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 
 ## Ratisės 4-is lygis
 
-Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką <kbd>⇮</kbd> kartu su _Antrojo lygio_ mygtuku <kbd>⇧</kbd> (<kbd>AltGr</kbd>+<kbd>Shift</kbd>).
+Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant _Trečiojo lygio_ mygtuką <kbd>⇮ AltGr</kbd> kartu su _Antrojo lygio_ mygtuku <kbd>⇧ Shift</kbd>.
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
