@@ -59,7 +59,7 @@ __Pastabos:__
 __Žodynėlis:__
 
 + _101/104_ ir _102/105_ — mygtukų skaičius pilnoje klaviatūroje, mažesnis skaičius — mygtukus skaičiuojant be papildomų trijų valdymo-keitimo mygtukų (<kbd>Fn</kbd>, <kbd>≣ Menu</kbd> ir kairiojo <kbd>◊ OS</kbd>).
-+ _ANSI_ — sutrumpinimas _American National Standard Institute_ — Jungtinių Amerikos Valstijų valstybinis standartų institutas.
++ _ANSI_ — sutrumpinimas _American National Standard Institute_ — Amerikos (Jungtinių Amerikos Valstijų) valstybinis standartų institutas.
 + _ISO_ — _International Standards Organization_ — Tarptautinė standartų organizacija.
 + _PC/AT_ (_IBM PC AT_) — _Personal Computer Advance Technology_ — „Pažangios gamybos asmeninis skaitytuvas”.
 + _IBM_ — _International Business Machines_ — „Tarptautinė verslo įranga (įtaisai, mašinos)“
