@@ -54,6 +54,8 @@ __Pastabos:__
 + Pasitaiko nepatogių klaviatūrų, ypatingai sumažinto dydžio (glaustų, kompaktiškų), kuriose kraštiniai mygtukai, su rečiau naudojamais neraidiniais ženklais ar net <kbd>Enter</kbd>, būna sumažinto dydžio, arba nukelti į pačią apatinę (tarpo) eilę, arba netgi išvis jų nėra ir jųjų ženklai būna prieinami tik kituose mygtukuose per papildomą priėjimo lygį (<kbd>Fn</kbd>).
 + Pasitaiko klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai būtų visokiausios ergonomiškos arba jau pasenusios klaviatūros).
 
+<br>
+
 __Žodynėlis:__
 + _ANSI_ — sutrumpinimas _American National Standard Institute_ — Jungtinių Amerikos Valstijų valstybinis standartų institutas.
 + _ISO_ — _International Standards Organization_ — Tarptautinė standartų organizacija.
