@@ -15,4 +15,5 @@ Patikroje išdėstymai kiek pataisyti — pritaikyti spausdinimo mašinėlei. Ti
 Palyginimui: [standartinis lietuviškos rašymo mašinėlės išdėstymas](https://albuck.github.io/lithuanian-keyboard-layouts/images/lt-spausdykle.svg)
 
 -------------------------
+
 [Į pradžią](../README.md)
