@@ -53,13 +53,13 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
 
 - Šios 35 (iš 68) kirčiuotos lietuviškos raidės, deja, dar nėra įtrauktos į Unikodą.
 
-- Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant ```H``` mygtuką vietoje ```I```  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
+- Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant <kbd>H</kbd> mygtuką vietoje <kbd>I</kbd>  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
 
 <br>
 
 ## 2. Kirčiuotų raidžių gavimas uždėtiniais priegaidžių ženkleliais
 
-Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų ```X```, ```H```, ```Q``` trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės (kartais pasitaiko skaitmeninė įranga kurioje, kaip rašymo mašinėlėje, uždėtinio kirčio mygtuką reikia spausti pirma raidės). Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
+Lietuviškų priegaidžių uždėtiniai ženkleliai yra mygtukų <kbd>X</kbd>, <kbd>H</kbd>, <kbd>Q</kbd> trečiajame lygyje, ir yra uždedami ant prieš tai įvestos raidės (kartais pasitaiko skaitmeninė įranga kurioje, kaip rašymo mašinėlėje, uždėtinio kirčio mygtuką reikia spausti pirma raidės). Tokius uždėtinius ženklelius turi daugumas šiuolaikinių spaudmenų.
 
 Uždėtinių ženklelių atvaizdavimo kokybė įvairuoja nuo skirtingų spaudmenų ir skirtingos skaitmeninės įrangos: kartais ji puiki, o kartais uždėtinis ženklelis gali būti paslinktas į šoną, ar uždėtas per aukštai, ar per žemai ir ant jau esančio kito uždėtinio ir priklausančio tai raidei ženklelio (taško, brūkšnio), kartais net, uždėtinis ženklelis gali būti klaidingai nukeltas ant kito šalia esančio rašmens.
 
