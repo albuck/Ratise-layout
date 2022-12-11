@@ -6,9 +6,9 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 ![Išdėstymo lygiai](images/zenklu-lygiai.svg)
 
 + 1 — Pagrindinis, pirmasis lygis;
-+ 2 — <kbd>⇧</kbd> antrasis, ‘Shift’ lygis;
-+ 3 — <kbd>⇮</kbd> trečiasis, ‘AltGr’ lygis;
-+ 4 — <kbd>⇧</kbd>+<kbd>⇮</kbd> ketvirtasis, ‘AltGr+Shift’ lygis.
++ 2 — <kbd>⇧ Shift</kbd>, antrasis lygis;
++ 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
++ 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
 
 <br>
 
