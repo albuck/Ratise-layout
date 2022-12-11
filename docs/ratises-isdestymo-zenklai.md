@@ -12,9 +12,9 @@ __Spaudų išdėstymo lygiai:__
 ![Išdėstymo lygiai](images/zenklu-lygiai.svg)
 
 + 1 — Pagrindinis, pirmasis lygis;
-+ 2 — <kbd>⇧</kbd> antrasis, ‘Shift’ lygis;
-+ 3 — <kbd>⇮</kbd> trečiasis, ‘AltGr’ lygis;
-+ 4 — <kbd>⇧</kbd>+<kbd>⇮</kbd> ketvirtasis, ‘AltGr+Shift’ lygis.
++ 2 — <kbd>⇧ Shift</kbd>, antrasis lygis;
++ 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
++ 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
 
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą, būna klaviatūrų ir su dar kitaip išdėstytais kraštiniais mygtukais.
 
