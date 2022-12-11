@@ -55,10 +55,10 @@ __Pastabos:__
 + Pasitaiko klaviatūrų su dar kiek kitokiu mygtukų išdėstymu (tai būtų visokiausios ergonomiškos arba jau pasenusios klaviatūros).
 
 __Žodynėlis:__
-+ _ANSI_ — sutrumpinimas _American National Standard Institute_ JAV valstybinis standartų institutas.
-+ _ISO_ — _International Standards Organization_ Tarptautinė standartų organizacija.
-+ _PC/AT_ (_IBM PC AT_) — _Personal Computer Advance Technology_ „Pažangios gamybos asmeninis skaitytuvas”.
-+ _IBM_ — _International Business Machines_ „Tarptautinė verslo įranga (įtaisai, mašinos)“
++ _ANSI_ — sutrumpinimas _American National Standard Institute_ Jungtinių Amerikos Valstijų valstybinis standartų institutas.
++ _ISO_ — _International Standards Organization_ — Tarptautinė standartų organizacija.
++ _PC/AT_ (_IBM PC AT_) — _Personal Computer Advance Technology_ — „Pažangios gamybos asmeninis skaitytuvas”.
++ _IBM_ — _International Business Machines_ — „Tarptautinė verslo įranga (įtaisai, mašinos)“
 
 
 --------------------------------------------------------------------
