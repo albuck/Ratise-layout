@@ -90,6 +90,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 
 ### Kiti naudingi ištekliai:
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
+- [Deskthority wiki](https://deskthority.net/wiki/Main_Page)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
 - [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html)
 - [Keyboard layouts](https://deskthority.net/wiki/Keyboard_layouts)
