@@ -192,6 +192,8 @@ __Pastabos:__
 
 -------------------------
 
+[Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
+
 [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md)
 
 [Galimos skirtingos spausdinimo visais pirštais tvarkos](skirtingos-spausdinimo-tvarkos.md)
