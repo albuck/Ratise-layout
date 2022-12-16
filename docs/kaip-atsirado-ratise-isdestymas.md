@@ -43,9 +43,9 @@ __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanav
 
 __Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros (testo), spausdinant minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks daugiau pastangų (nuošimčiais):
 
-+ _QGRLDČ LEKP_ — __+37%__
-+ _ĄŽERTY Lithuanian Standard_ — __+79%__ 
-+ _QWERTY Baltic/Numeric_ — __+91%__
++ _QGRLDČ LEKP (ISO)_ — __+37%__
++ _ĄŽERTY Lithuanian Standard (ISO)_ — __+79%__ 
++ _QWERTY Baltic/Numeric (ISO)_ — __+91%__
 
 
 -------------------------
