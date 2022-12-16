@@ -41,7 +41,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF). Kitokiuose tekstuose tie skaičiai kiek skirsis.
 
-Kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros (testo), spausdinant minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks daugiau pastangų (nuošimčiais):
+__Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros (testo), spausdinant minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks daugiau pastangų (nuošimčiais):
 
 + _QGRLDČ LEKP_ — __+37%__
 + _ĄŽERTY Lithuanian Standard_ — __+79%__ 
