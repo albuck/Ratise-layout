@@ -186,6 +186,9 @@ __Pastabos:__
 + Dėl to, kad Ratisės išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas, ko gero, ne visada pasirenka patogiausią skaičiuodamas.
 + Kaip „ISO+ANSI“ čia tikrintas vadinamasis [„ANSISO“](images/kb-lt-ratise-ansiso.svg) klaviatūros mygtukų išdėstymas.
 + Ratisė (L) yra [PC/AT klaviatūros išdėstymas su dideliu apverstos „L“ pavidalo įvedimo mygtuku](images/kb-lt-ratise-pc-at.svg).
++ Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
+   - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main)
+   - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main)
 
 -------------------------
 
