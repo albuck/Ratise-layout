@@ -3,7 +3,7 @@
 
 _Pasinaudojus tęsties, kitaip dar vadinamais mirusiais, mygtukais (angl. Dead Keys) galima įvesti daugiau papildomų ženklų, kurie nėra prieinami įprastuose išdėstymo lygiuose. Kiekvienas tęsties mygtukas turi lyg ir papildomą išdėstymo tęsties lygį._
 
-Šių mygtukų pavadinimas yra toks dėl to, kad senose rašymo mašinėlėse (spausdyklėse) kirčiuotos raidės buvo įvedamos naudojant ypatingus „nejudrius, mirusius“ mygtukus su atskiru kirčio ženklu, paspaudus tokį mygtuką, ženklas atsimušdavo ant popieriaus, bet pats popieriaus lapas po ženklo įvedimo nepasislinkdavo kairėn, todėl į tą pačią vietą įrašo eilutėję galima buvo _tęsti_ rašyti ir po tuo kirčio ženklu atspausti kokią raidę — taip buvo gaunama kirčiuota raidė.
+Šių mygtukų pavadinimas yra toks dėl to, kad senose rašymo mašinėlėse (spausdyklėse) kirčiuotos raidės buvo įvedamos naudojant ypatingus „nejudrius, mirusius“ mygtukus su atskiru kirčio ženklu, paspaudus tokį mygtuką, ženklas atsimušdavo ant popieriaus, bet pats popieriaus lapas po ženklo įvedimo nepasislinkdavo kairėn, todėl į tą pačią vietą įrašo eilutėję galima buvo _tęsti_ rašyti ir po tuo kirčio ženklu atspausti kokią raidę — taip buvo gaunama raidė su kirčio (ar kitokiu) ženklu.
 
 Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidus atitinkamą tęsties mygtuką esantį ketvirtame lygyje (su <kbd>AltGr</kbd>+<kbd>Shift</kbd>). Po tęsties lygio spaudo įvedimo, tęsties mygtuko veikimo galiojimas baigiasi, ir norint įvesti kitą tęsties lygio spaudą, reikia vėl spausti norimą tęsties mygtuką (iš anksto spaudžiant <kbd>AltGr</kbd>+<kbd>Shift</kbd>).
 
