@@ -39,7 +39,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
    - __1,3__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
    - pirštai eis panašų atstumą (priklausomai nuo teksto, kai kur Ratisė mažesnį, kai kur LEKP).
 
-__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF). Kitokiuose tekstuose tie skaičiai kiek skirsis.
+__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF).
 
 __Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros ([Lietuviškos pasakos](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)), renkant visais pirštais minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks pastebimai daugiau pastangų (išreikštos nuošimčiais, lyginant su Ratise (ISO) — 0%):
 
