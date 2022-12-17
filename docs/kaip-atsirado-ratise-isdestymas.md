@@ -50,6 +50,8 @@ __Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https:/
 
 -------------------------
 
+[Ratisės našumo palyginimas su kitais išdėstymais](lt-isdestymu-palyginimas.md)
+
 [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
 
 [Į pradžią](../README.md)
