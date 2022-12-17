@@ -41,7 +41,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF).
 
-__Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros ([Lietuviškos pasakos](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)), [renkant visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md) minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks pastebimai daugiau pastangų (išreikštos nuošimčiais, lyginant su Ratise (ISO) — 0%):
+__Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros ([Lietuviškos pasakos](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)), [renkant visais pirštais](spausdinimo-visais-pirstais-tvarka.md) minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks pastebimai daugiau pastangų (išreikštos nuošimčiais, lyginant su Ratise (ISO) — 0%):
 
 + _LEKP (ISO)_ — __+37%__
 + _Lithuanian Standard (ISO)_ — __+79%__ 
