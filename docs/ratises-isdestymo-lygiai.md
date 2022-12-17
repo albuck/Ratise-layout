@@ -87,7 +87,7 @@ __b)__ Ratisės atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkle
 
 + Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
 + Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
-+ Gelzganai žymėtieji yra tęsties mygtukai (angliškai „Dead Keys“), apie juos skaitykite:
++ Gelzganai žymėtieji yra tęsties, kitaip mirę, mygtukai (angliškai „Dead Keys“), apie juos skaitykite:
 [Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
 
 <br>
