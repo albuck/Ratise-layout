@@ -21,7 +21,7 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
-+ Lyginant su _QWERTY Baltic/Numeric_ spausdinant _Ratise_:
++ Lyginant su _QWERTY Baltic-Numeric_ spausdinant _Ratise_:
    - __4,7__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
    - __2__ kart rečiau teks tos pačios rankos pirštams vėl iškart spausti mygtuką;
    - __1,5__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
@@ -45,7 +45,7 @@ __Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https:/
 
 + _LEKP (ISO)_ — __+37%__
 + _Lithuanian Standard (ISO)_ — __+79%__ 
-+ _Baltic/Numeric (ISO)_ — __+91%__
++ _Baltic-Numeric (ISO)_ — __+91%__
 
 
 -------------------------
