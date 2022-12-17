@@ -81,7 +81,5 @@ Ketvirtam pagerintam bei antram ergonomiškam spausdinimo būdam nuoroda į pati
 
 [Ratisė stačiakampio mygtukų išdėstymo klaviatūrose](ratise-staciakampese-klaviaturose.md)
 
-[Lietuviškų klaviatūros išdėstymų našumo palyginimas](lt-isdestymu-palyginimas.md)
-
 [Į pradžią](../README.md)
 
