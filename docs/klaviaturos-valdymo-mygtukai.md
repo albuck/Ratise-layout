@@ -11,7 +11,7 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo 
 - <kbd>⎈</kbd> — ✲, ^, Ctrl, Control; Vald, Valdymas, Valdinis.
 - <kbd>◊</kbd> — ◇, ◆, ❖, OS (Operating System), Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, Meta, Logo; Vėliava, Vadinis, Vada.
 - <kbd>⎇</kbd> — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS); Kitaip.
-- <kbd>⇮</kbd> — AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3; Lyg3, Trečiasis lygis, Tretinis, Kitas, Kitkis.
+- <kbd>⇮</kbd> — ⤨, AltGr, Alternate Graphic, Opt, ⌥ Option (MacOS), Level 3; Lyg3, Trečiasis lygis, Tretinis, Kitas, Kitkis.
 - <kbd>≣</kbd> — ≡, ▤, Menu, Mn, Application; Meniu, Sąrašas.
 - <kbd>⏎</kbd> — ↵, ⎆, ↩, Enter, Return; Įvesti, Įvedimas.
 - <kbd>⌫</kbd> — ←, ⟵, Backspace; Trinti, Trynimas.
