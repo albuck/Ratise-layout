@@ -6,6 +6,7 @@ Tai šimtą metų pavėlavęs išdėstymas, arba geriausias lietuviškas išdės
 __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 
 <kbd>
+
 <code style="font-size: 50%">
 
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦══════════╗
@@ -26,6 +27,7 @@ __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
   
 </code>
+
 </kbd>
 
 <br>
