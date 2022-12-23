@@ -5,7 +5,8 @@ Tai šimtą metų pavėlavęs išdėstymas, arba geriausias lietuviškas išdės
 
 __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 
-<code style="font-size: 50%">                       
+<code style="font-size: 50%">
+
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦══════════╗
 ║ ˜   ║ 1   ║ 2   ║ 3   ║ 4   ║ 5   ║ 6   ║ 7   ║ 8   ║ 9   ║ 0   ║ %   ║ +   ║     ←    ║
 ║ ` ´ ║ !   ║ :   ║ .   ║ *   ║ "   ║ (   ║ )   ║ ,   ║ ;   ║ /   ║ ?   ║ =   ║          ║
@@ -22,6 +23,7 @@ __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 ║                                                                                        ║
 ║                                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
+
 </code>
 
 Išdėstyme yra du ženklų lygiai. Išdėstyme tenka atsisakyti dviejų lietuvių kalboje nevartojamų raidžių _W_ ir _Q_, kad būtų vietos naudingesniems ženklams. Na, visgi, _W_ galima keisti į _VV_, o _Q_... palieku jūsų vaizduotei... Pridėtas papildomas mygtukas, priegaidėms įvesti (``` ` ```, ``` ˜ ``` ir ``` ´ ```), jis yra trijų lygių, todėl reikalautų kažkokios mechaninės gudrybės trečiojo lygio ženklo įvedimui. Deja, skyriaus ženklas _§_ nebetilpo išdėstyman (nors ir būtų galima jį įdėti vietoje _0_).
