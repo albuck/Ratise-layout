@@ -9,10 +9,10 @@ __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 
 ```
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦══════════╗
-║ ⇥   ║ 1   ║ 2   ║ 3   ║ 4   ║ 5   ║ 6   ║ 7   ║ 8   ║ 9   ║ 0   ║ %   ║ +   ║     ←    ║
-║     ║ !   ║ :   ║ .   ║ *   ║ "   ║ (   ║ )   ║ ,   ║ ;   ║ /   ║ ?   ║ =   ║          ║
+║ ˜   ║ 1   ║ 2   ║ 3   ║ 4   ║ 5   ║ 6   ║ 7   ║ 8   ║ 9   ║ 0   ║ %   ║ +   ║     ←    ║
+║ ` ´ ║ !   ║ :   ║ .   ║ *   ║ "   ║ (   ║ )   ║ ,   ║ ;   ║ /   ║ ?   ║ =   ║          ║
 ╠═════╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦═══════╣
-║        ║ Ū   ║ Ė   ║ Y   ║ O   ║ _   ║ J   ║ N   ║ K   ║ G   ║ B   ║ C   ║ F   ║       ║
+║ ⇥      ║ Ū   ║ Ė   ║ Y   ║ O   ║ _   ║ J   ║ N   ║ K   ║ G   ║ B   ║ C   ║ F   ║       ║
 ║        ║     ║     ║     ║     ║ -   ║     ║     ║     ║     ║     ║     ║     ║       ║
 ╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗     ║
 ║ ⇬        ║ U   ║ E   ║ I   ║ A   ║ H   ║ L   ║ R   ║ T   ║ S   ║ P   ║ Ž   ║ Z   ║  ↵  ║
@@ -27,7 +27,7 @@ __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 ```
 </kbd>
  
-Išdėstyme yra du ženklų lygiai. Išdėstyme tenka atsisakyti dviejų lietuvių kalboje nevartojamų raidžių _W_ ir _Q_, kad būtų vietos naudingesniems ženklams. Na, visgi, _W_ galima keisti į _VV_, o _Q_... hmm... palieku jūsų vaizduotei... <!-- galima būtų lipdyti kablelį ant O --> Ir dar, deja, priegaidžių bei skyriaus ženklas _§_ nebetilpo išdėstyman (manau, kad _X_, _*_, _1_ ir _0_ būtų reikalingesni, nors vietoje pastarojo galima būtų ir įdėti _§_).
+Išdėstyme yra du ženklų lygiai. Išdėstyme tenka atsisakyti dviejų lietuvių kalboje nevartojamų raidžių _W_ ir _Q_, kad būtų vietos naudingesniems ženklams. Na, visgi, _W_ galima keisti į _VV_, o _Q_... hmm... palieku jūsų vaizduotei... Pridėtas papildomas mygtukas, priegaidėms įvesti (``` ` ```, ``` ˜ ``` ir ``` ´ ```), jis yra trijų lygių, todėl reikalautų kažkokios mechaninės gudrybės trečiojo lygio ženklo įvedimui. Deja, skyriaus ženklas _§_ nebetilpo išdėstyman (nors ir būtų galima jį įdėti vietoje _0_).
 
 Išdėstymas kuo puikiausiai pasirodo lietuviško teksto patikroje: [Keyboard Layout Analyzer (_Lietuviškos pasakos_)](http://patorjk.com/keyboard-layout-analyzer/#/load/tSCG2h26)
 
