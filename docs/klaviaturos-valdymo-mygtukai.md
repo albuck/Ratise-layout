@@ -5,10 +5,10 @@
 
 Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo mygtukai gali būti pažymėti ir pavadinti skirtingai:
 
-- <kbd>↹</kbd> — ⭾, ⇥, Tab, Tabular, Tabulator; Atitraukimas, Įtraukimas.
+- <kbd>↹</kbd> — ⭾, ⇥, Tab, Tabular, Tabulator; Atitraukimas, Įtraukimas, Atas.
 - <kbd>⇪</kbd> — ⮸, ⇬, ⇩, 🄰, 🅰, Caps, Caps Lock; Didž, Didžiosios, Didžios.
 - <kbd>⇧</kbd> — ⬆, ⭡, ↑, Shift, Level 2; Lyg2, Aukšt, Aukštinis, Aukštesnysis, Antrasis lygis, Antrinis.
-- <kbd>⎈</kbd> — ✲, ^, Ctrl, Control; Vald, Valdymas, Valdinis.
+- <kbd>⎈</kbd> — ✲, ^, ⌃, Ctrl, Control; Vald, Valdymas, Valdinis.
 - <kbd>◊</kbd> — ◇, ◆, ❖, OS (Operating System), Super, System, Cmd, Command, ⌘ Command (MacOS), ⊞ Win,  Windows, Meta, Logo; Vėliava, Vadinis, Vada.
 - <kbd>⎇</kbd> — Alt, Alternate, Alternatyve, Opt, ⌥ Option (MacOS); Kitaip.
 - <kbd>⇮</kbd> — ⬂, ⤨, AltGr, Alt Graph, Alternate Graphic, Alt Car, Opt, ⌥ Option (MacOS), Level 3; Lyg3, Trečiasis lygis, Tretinis, Kitas, Kitava.
