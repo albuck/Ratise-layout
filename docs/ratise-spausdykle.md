@@ -22,7 +22,7 @@ __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 ║                                                                                        ║
 ║                                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
-<tt></kbd>
+</tt></kbd>
  
 Išdėstyme yra du ženklų lygiai. Išdėstyme tenka atsisakyti dviejų lietuvių kalboje nevartojamų raidžių _W_ ir _Q_, kad būtų vietos naudingesniems ženklams. Na, visgi, _W_ galima keisti į _VV_, o _Q_... hmm... palieku jūsų vaizduotei... <!-- galima būtų lipdyti kablelį ant O --> Ir dar, deja, priegaidžių bei skyriaus ženklas _§_ nebetilpo išdėstyman (manau, kad _X_, _*_, _1_ ir _0_ būtų reikalingesni, nors vietoje pastarojo galima būtų ir įdėti _§_).
 
