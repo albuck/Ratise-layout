@@ -11,7 +11,7 @@ Paveikslėlyje skirtingam pirštui tenkantys spausti mygtukai žymėti skirtinga
 
 Mygtukų paspaudimo pirštais būdas yra toks: pirštai kiek sulenkiami ir spusteli mygtuką iš viršaus statmenai į jį. Spausdinant, ranka per riešą laikoma tiesiai.
 
-Pradedant mokytis spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį, atsispausdintą ar ant ekrano, pradėkite nuo paprasčiausio, pvz.: [Ratisės pagrindiniai ženklai](images/lt-ratise-isdestymas.svg), [Ratisės pirmojo lygio ženklai](images/kb-lt-ratise-1-lygis.svg), toliau jau pereidami prie kitų [Ratisės lygių ženklų](ratises-isdestymo-lygiai.md). Arba pasirinkite paveikslėlį su daugiau ženklų pagal savo turimą klaviatūrą: [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md).
+Pradedant mokytis spausdinimo visais pirštais, reikėtų prieš akis turėti Ratisės klaviatūros ženklų išdėstymo paveikslėlį, atsispausdintą ar ant ekrano, pradėkite nuo paprasčiausio, pvz.: [Ratisės pirmojo lygio ženklai](images/kb-lt-ratise-1-lygis.svg), toliau jau pereidami prie kitų [Ratisės lygių ženklų](ratises-isdestymo-lygiai.md). Arba pasirinkite paveikslėlį su daugiau ženklų pagal savo turimą klaviatūrą: [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md).
 
 Pačią klaviatūrą gerai apžiūrėkite ir apčiupinėkite. Pasidėkite klaviatūrą taip, kad būtų patogu spausdinti ja. Apčiuopomis pajuskite mygtukus, paspaudinėkite juos, smiliais raskite esančius ant <kbd>A</kbd> ir <kbd>R</kbd> mygtukų kauburiukus — jūsų rankų pirštų pagrindinės padėties gaires.
 
