@@ -5,7 +5,7 @@ Tai šimtą metų pavėlavęs išdėstymas, arba geriausias lietuviškas išdės
 
 __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
 
-<pre style="font-size: 60%">
+<pre style="font-size: 50%">
 
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦══════════╗
 ║ ˜   ║ 1   ║ 2   ║ 3   ║ 4   ║ 5   ║ 6   ║ 7   ║ 8   ║ 9   ║ 0   ║ %   ║ +   ║     ←    ║
