@@ -4,6 +4,7 @@
 Tai šimtą metų pavėlavęs išdėstymas, arba geriausias lietuviškas išdėstymas spausdinimo arba rašymo mašinėlei (spausdyklei), kurio niekad nebuvo...
 
 __Lietuviškas rašymo mašinėlės išdėstymas „Ratisė“:__
+
  <kbd><br>
  <tt>
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦══════════╗<br>
