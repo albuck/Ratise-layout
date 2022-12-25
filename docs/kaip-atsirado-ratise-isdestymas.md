@@ -41,7 +41,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 
 <details>
 <summary>Lietuviškų klaviatūros išdėstymų tekstinės diagramos</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 70%">
 
 
  ŪĖYOQJ Ratisė ISO:
