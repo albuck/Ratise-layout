@@ -12,7 +12,8 @@ Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba
 
 
 __Ratisės klaviatūros išdėstymas:__
-![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO <pre style="font-size: 60%">
+![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO 
+<pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ § ´ ║ ¤ ¡ ║ @ ← ║ # → ║ $ £ ║ % ‰ ║ | ¦ ║ & ≠ ║ < ≤ ║ > ≥ ║ \ ‖ ║ W ß ║ ~ ¿ ║ Backspace ║
 ║ + ` ║ ! ’ ║ : ⟨ ║ . ⟩ ║ * ” ║ _ … ║ — ^ ║ = 7 ║ , 8 ║ ; 9 ║ / ÷ ║ w Ω ║ ? ≈ ║     ⌫     ║
