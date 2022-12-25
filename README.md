@@ -53,6 +53,7 @@ __Ratisės klaviatūros išdėstymas:__
 • 4 — ⇮ AltGr + ⇧ Shift — ketvirtasis lygis.
 </pre>
 </details>
+<br>
 
 _Ratìsė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
