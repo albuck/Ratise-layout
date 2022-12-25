@@ -66,7 +66,7 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 ![Ratisės išdėstymo pirmojo lygio ženklai](images/kb-lt-ratise-1-lygis.svg)
   
 <details>
-<summary>Ratisės išdėstymas pirmojo lygio tekstinė digrama</summary>
+<summary>Ratisės išdėstymo pirmojo lygio tekstinė digrama</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║ Backspace ║
@@ -97,7 +97,7 @@ Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo 
 ![Ratisės Didžiųjų raidžių įjungimas](images/kb-lt-ratise-didzios.svg)
   
 <details>
-<summary>Ratisės išdėstymas didžiųjų raidžių tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo didžiųjų raidžių tekstinė diagrama</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║ W   ║     ║ Backspace ║
