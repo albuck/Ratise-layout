@@ -93,11 +93,11 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 
 <br>
 
-### Ratisės Didžiųjų raidžių įjungimas
+### Ratisės Didžiųjų raidžių rakinimas
 
-Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko <kbd>⇪ CapsLock</kbd> paspaudimo (įjungimo).
+Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių rakinimo mygtuko <kbd>⇪ CapsLock</kbd> paspaudimo (įjungimo, užrakinimo).
 
-![Ratisės Didžiųjų raidžių įjungimas](images/kb-lt-ratise-didzios.svg)
+![Ratisės Didžiųjų raidžių rakinimas](images/kb-lt-ratise-didzios.svg)
   
 <details>
 <summary>Ratisės išdėstymo didžiųjų raidžių tekstinė diagrama</summary>
