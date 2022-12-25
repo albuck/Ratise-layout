@@ -36,7 +36,7 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 
 __Spaudų išdėstymo mygtuke lygiai:__
 
-![Ženklų išdėstymo mygtuke lygiai](images/zenklu-lygiai.svg)
+![Spausdinamųjų ženklų išdėstymo lygiai mygtuke](images/zenklu-lygiai.svg)
 
 + 1 — Pagrindinis, pirmasis lygis;
 + 2 — <kbd>⇧ Shift</kbd>, antrasis lygis;
