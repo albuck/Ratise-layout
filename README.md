@@ -46,7 +46,6 @@ __Ratisės klaviatūros išdėstymas:__
 • 2 — ⇧ Shift — antrasis lygis;
 • 3 — ⇮ AltGr — trečiasis lygis;
 • 4 — ⇮ AltGr + ⇧ Shift — ketvirtasis lygis.
-
 </pre>
 </details>
 
