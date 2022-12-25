@@ -91,6 +91,8 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 </pre>
 </details>
 
+<br>
+
 ### Ratisės Didžiųjų raidžių įjungimas
 
 Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių įvedimo mygtuko <kbd>⇪ CapsLock</kbd> paspaudimo (įjungimo).
@@ -219,6 +221,8 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
+
+<br>
 
 Čia, priklausomai nuo raidžių su uždėtiniais ženkleliais (diakritikais) įvedimo būdo, yra galimos dvejos Ratisės atmainos:
 
