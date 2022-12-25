@@ -14,28 +14,6 @@ Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba
 __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
 
-<details>
-<summary>Ratisės išdėstymas (tekstas)</summary>
-<pre style="font-size: 60%">
-╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
-║ § ´ ║ ¤ ¡ ║ @ ← ║ # → ║ $ £ ║ % ‰ ║ | ¦ ║ & ≠ ║ < ≤ ║ > ≥ ║ \ ‖ ║ W ß ║ ~ ¿ ║ Backspace ║
-║ + ` ║ ! ’ ║ : ⟨ ║ . ⟩ ║ * ” ║ _ … ║ — ^ ║ = 7 ║ , 8 ║ ; 9 ║ / ÷ ║ w Ω ║ ? ≈ ║     ⌫     ║
-╠═════╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦════════╣
-║ Tab    ║ Ū › ║ Ė ° ║ Y ^ ║ O » ║ Q ↑ ║ J ¥ ║ N ¬ ║ K † ║ G • ║ B ∞ ║ C © ║ F ™ ║  Enter ║
-║  ↹     ║ ū ‘ ║ ė [ ║ y ] ║ o “ ║ q ́  ║ j € ║ n 4 ║ k 5 ║ g 6 ║ b × ║ c ¢ ║ f / ║        ║
-╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗      ║
-║ CapsLock ║ U ¯ ║ E ` ║ I ´ ║ A ¨ ║ H ˜ ║ L Ł ║ R ¹ ║ T ² ║ S ³ ║ P ¶ ║ Ž ¸ ║ Z ® ║  ↵   ║
-║    ⇬     ║ u ' ║ e ( ║ i ) ║ a " ║ h ̃  ║ l ł ║ r 1 ║ t 2 ║ s 3 ║ p − ║ ž - ║ z ° ║      ║
-╠═══════╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════╩══════╣
-║ Shift ║ – ‑ ║ Ų ‹ ║ Ę ˘ ║ Į ˇ ║ Ą « ║ X ↓ ║ V ◊ ║ M µ ║ D ‡ ║ Š · ║ Č ± ║         Shift ║
-║   ⇧   ║ - ̇  ║ ų ‚ ║ ę { ║ į } ║ ą „ ║ x ̀  ║ v √ ║ m 0 ║ d . ║ š , ║ č + ║           ⇧   ║
-╠═══════╩═╦═══╩═╦═══╩═╦═══╩═══╦═╩═════╩═════╩═════╩═════╩════╦╩═════╩╦════╩╦═════╦════════╣
-║ Ctrl    ║ Fn  ║ OS  ║  Alt  ║                              ║ AltGr ║ OS  ║ Mn  ║   Ctrl ║
-║   ⎈     ║     ║  ◇  ║   ⎇   ║                              ║   ⇮   ║  ◇  ║  ≣  ║    ⎈   ║
-╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
-</pre>
-</details>
-
 + Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką <kbd>⇮ AltGr</kbd>.
 + [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
