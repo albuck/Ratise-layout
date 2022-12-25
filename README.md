@@ -14,6 +14,42 @@ Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba
 __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
 
+<details>
+<summary>Ratisės tekstinė diagrama</summary>
+<pre style="font-size: 60%">
+╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
+║ §   ║ ¤   ║ @   ║ #   ║ $   ║ %   ║ |   ║ &   ║ <   ║ >   ║ \   ║ W   ║ ~   ║ Backspace ║
+║ + ` ║ ! ’ ║ : ⟨ ║ . ⟩ ║ * ” ║ _ … ║ — ^ ║ = 7 ║ , 8 ║ ; 9 ║ / ÷ ║   Ω ║ ? ≈ ║     ⌫     ║
+╠═════╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦════════╣
+║ Tab    ║ Ū   ║ Ė   ║ Y   ║ O   ║ Q   ║ J   ║ N   ║ K   ║ G   ║ B   ║ C   ║ F   ║  Enter ║
+║  ↹     ║   ‘ ║   [ ║   ] ║   “ ║   ́  ║   € ║   4 ║   5 ║   6 ║   × ║   ¢ ║   / ║        ║
+╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗      ║
+║ CapsLock ║ U   ║ E   ║ I   ║ A   ║ H   ║ L   ║ R   ║ T   ║ S   ║ P   ║ Ž   ║ Z   ║  ↵   ║
+║    ⇬     ║   ' ║   ( ║   ) ║   " ║   ̃  ║   ł ║   1 ║   2 ║   3 ║   − ║   - ║   ° ║      ║
+╠═══════╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════╩══════╣
+║ Shift ║ –   ║ Ų   ║ Ę   ║ Į   ║ Ą   ║ X   ║ V   ║ M   ║ D   ║ Š   ║ Č   ║         Shift ║
+║   ⇧   ║ - ̇  ║   ‚ ║   { ║   } ║   „ ║   ̀  ║   √ ║   0 ║   . ║   , ║   + ║           ⇧   ║
+╠═══════╩═╦═══╩═╦═══╩═╦═══╩═══╦═╩═════╩═════╩═════╩═════╩════╦╩═════╩╦════╩╦═════╦════════╣
+║ Ctrl    ║ Fn  ║ OS  ║  Alt  ║                              ║ AltGr ║ OS  ║ Mn  ║   Ctrl ║
+║   ⎈     ║     ║  ◇  ║   ⎇   ║                              ║   ⇮   ║  ◇  ║  ≣  ║    ⎈   ║
+╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
+
+
+* Mygtuko ženklų lygių tekstinė diagrama:
+
+╔═════╗
+║ 2 4 ║
+║ 1 3 ║
+╚═════╝
+
+• 1 — Pagrindinis, pirmasis lygis;
+• 2 — ⇧ Shift — antrasis lygis;
+• 3 — ⇮ AltGr — trečiasis lygis;
+• 4 — ⇮ AltGr + ⇧ Shift — ketvirtasis lygis.
+
+</pre>
+</details>
+
 + Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką <kbd>⇮ AltGr</kbd>.
 + [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
