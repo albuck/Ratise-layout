@@ -15,7 +15,7 @@ __Ratisės klaviatūros išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
 
 <details>
-<summary>Ratisės tekstinė diagrama</summary>
+<summary>Ratisės lietuviško klaviatūros išdėstymo tekstinė diagrama</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ §   ║ ¤   ║ @   ║ #   ║ $   ║ %   ║ |   ║ &   ║ <   ║ >   ║ \   ║ W   ║ ~   ║ Backspace ║
