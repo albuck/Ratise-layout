@@ -51,7 +51,6 @@ __101/104 mygtukų PC/AT klaviatūros atmaina „4“__ (su nukeltu apačion už
 <pre>
 
 Ratisės vaizdas skirtingose standartinėse (https://en.wikipedia.org/wiki/ISO/IEC_9995) klaviatūrose:
-----------------------------------------------------------------------------------------------------
 
 
  Ratisė ISO:
@@ -167,7 +166,6 @@ Ratisės vaizdas skirtingose standartinėse (https://en.wikipedia.org/wiki/ISO/I
 
 
 Mygtukų ženklinimų reikšmės:
-----------------------------
 
 ⌫ — Backspace key — Trynimo mygtukas.
 ⏎ — Enter key — Įvedimo mygtukas.
