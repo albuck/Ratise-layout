@@ -39,6 +39,86 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
    - __1,3__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
    - pirštai eis panašų atstumą (priklausomai nuo teksto, kai kur Ratisė mažesnį, kai kur LEKP).
 
+<details>
+<summary>Lietuviškų klaviatūros išdėstymų tekstinės diagramos</summary>
+<pre style="font-size: 60%">
+
+
+ ŪĖYOQJ Ratisė ISO:
+┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
+┃ + │ ! │ : │ . │ * │ _ │ — │ = │ , │ ; │ / │ W │ ? ┃     ⌫ ┃
+┣━━━┷━┱─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┺━┳━━━━━┫
+┃ ↹   ┃ Ū │ Ė │ Y │ O │ Q │ J │ N │ K │ G │ B │ C │ F ┃     ┃
+┣━━━━━┻┱──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┺┓  ⏎ ┃
+┃ ⇬    ┃ U │ E │ I │ A │ H │ L │ R │ T │ S │ P │ Ž │ Z ┃    ┃
+┣━━━━┳━┹─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┲━┷━━━┻━━━━┫
+┃ ⇧  ┃ - │ Ų │ Ę │ Į │ Ą │ X │ V │ M │ D │ Š │ Č ┃        ⇧ ┃
+┣━━━━┻━┳━┷━┳━┷━┳━┷━┱─┴───┴───┴───┴───┴─┲━┷━┳━┷━┳━┻━┳━━━┳━━━━┫
+┃ ⎈    ┃ ƒ ┃ ◇ ┃ ⎇ ┃                   ┃ ⇮ ┃ ⇨ ┃ ◇ ┃ ≣ ┃  ⎈ ┃
+┗━━━━━━┻━━━┻━━━┻━━━┻━━━━━━━━━━━━━━━━━━━┻━━━┻━━━┻━━━┻━━━┻━━━━┛
+
+
+ QGRLDČ LEKP ISO:
+┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
+┃ ` │ / │ \ │ . │ , │ F │ ! │ W │ Ų │ Į │ ( │ ) │ : ┃     ⌫ ┃
+┣━━━┷━┱─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┺━┳━━━━━┫
+┃ ↹   ┃ Q │ G │ R │ L │ D │ Č │ J │ U │ Ė │ Ę │ ? │ = ┃     ┃
+┣━━━━━┻┱──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┺┓  ⏎ ┃
+┃ ⇬    ┃ A │ K │ S │ T │ M │ P │ N │ E │ I │ O │ Y │ ' ┃    ┃
+┣━━━━┳━┹─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┲━┷━━━┻━━━━┫
+┃ ⇧  ┃ ; │ Z │ X │ C │ V │ Ž │ Š │ B │ Ū │ Ą │ H ┃        ⇧ ┃
+┣━━━━┻━┳━┷━┳━┷━┳━┷━┱─┴───┴───┴───┴───┴─┲━┷━┳━┷━┳━┻━┳━━━┳━━━━┫
+┃ ⎈    ┃ ƒ ┃ ◇ ┃ ⎇ ┃                   ┃ ⇮ ┃ ⇨ ┃ ◇ ┃ ≣ ┃  ⎈ ┃
+┗━━━━━━┻━━━┻━━━┻━━━┻━━━━━━━━━━━━━━━━━━━┻━━━┻━━━┻━━━┻━━━┻━━━━┛
+
+
+ ĄŽERTY Lithuanian Standard ISO:
+┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
+┃ ` │ ! │ - │ / │ ; │ : │ , │ . │ = │ ( │ ) │ ? │ X ┃     ⌫ ┃
+┣━━━┷━┱─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┺━┳━━━━━┫
+┃ ↹   ┃ Ą │ Ž │ E │ R │ T │ Y │ U │ I │ O │ P │ Į │ W ┃     ┃
+┣━━━━━┻┱──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┺┓  ⏎ ┃
+┃ ⇬    ┃ A │ S │ D │ Š │ G │ H │ J │ K │ L │ Ų │ Ė │ Q ┃    ┃
+┣━━━━┳━┹─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┲━┷━━━┻━━━━┫
+┃ ⇧  ┃ < │ Z │ Ū │ C │ V │ B │ N │ M │ Č │ F │ Ę ┃        ⇧ ┃
+┣━━━━┻━┳━┷━┳━┷━┳━┷━┱─┴───┴───┴───┴───┴─┲━┷━┳━┷━┳━┻━┳━━━┳━━━━┫
+┃ ⎈    ┃ ƒ ┃ ◇ ┃ ⎇ ┃                   ┃ ⇮ ┃ ⇨ ┃ ◇ ┃ ≣ ┃  ⎈ ┃
+┗━━━━━━┻━━━┻━━━┻━━━┻━━━━━━━━━━━━━━━━━━━┻━━━┻━━━┻━━━┻━━━┻━━━━┛
+
+
+ QWERTY Baltic-Numeric+ ISO:
+┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
+┃ ` │ Ą │ Č │ Ę │ Ė │ Į │ Š │ Ų │ Ū │ „ │ “ │ - │ Ž ┃     ⌫ ┃
+┣━━━┷━┱─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┺━┳━━━━━┫
+┃ ↹   ┃ Q │ W │ E │ R │ T │ Y │ U │ I │ O │ P │ [ │ ] ┃     ┃
+┣━━━━━┻┱──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┺┓  ⏎ ┃
+┃ ⇬    ┃ A │ S │ D │ Š │ G │ H │ J │ K │ L │ ; │ ' │ \ ┃    ┃
+┣━━━━┳━┹─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┲━┷━━━┻━━━━┫
+┃ ⇧  ┃ — │ Z │ X │ C │ V │ B │ N │ M │ , │ . │ / ┃        ⇧ ┃
+┣━━━━┻━┳━┷━┳━┷━┳━┷━┱─┴───┴───┴───┴───┴─┲━┷━┳━┷━┳━┻━┳━━━┳━━━━┫
+┃ ⎈    ┃ ƒ ┃ ◇ ┃ ⎇ ┃                   ┃ ⇮ ┃ ⇨ ┃ ◇ ┃ ≣ ┃  ⎈ ┃
+┗━━━━━━┻━━━┻━━━┻━━━┻━━━━━━━━━━━━━━━━━━━┻━━━┻━━━┻━━━┻━━━┻━━━━┛
+
+
+Mygtukų ženklinimų reikšmės:
+
+⌫ — Backspace key — Trynimo mygtukas.
+⏎ — Enter key — Įvedimo mygtukas.
+↹ — Tab key — Atitraukimo mygtukas.
+⇬ — Caps Lock key — Didžiųjų raidžių rakinimo mygtukas.
+⇧ — Shift key — Didžiųjų raidžių (antrojo lygio) įjungimo mygtukas.
+⇮ — AltGr key — Kitokio ženklo (grafikos) įvedimo mygtukas.
+⎇ — Alt key — Kitokio įvedimo būdo pasirinkimo mygtukas.
+⎈ — Ctrl key — Valdymo mygtukas.
+≣ — Menu key (optional) — Sąrašo (Meniu) mygtukas (neprivalomas).
+◇ — System key (optional) — Vėliavos (Sistemos) mygtukas (neprivalomas).
+ƒ — Fn, Function key (optional) — Veikmens (Funkcijos) mygtukas (neprivalomas).
+⇨ — Group selection key (optional) — Kito raidyno pasirinkimo mygtukas (neprivalomas).
+
+</pre>
+</details>
+<br>
+
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF).
 
 __Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio patikros ([Lietuviškos pasakos](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)), [renkant visais pirštais](spausdinimo-visais-pirstais-tvarka.md) minimą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks pastebimai daugiau pastangų (išreikštos nuošimčiais, lyginant su Ratise (ISO) — 0%):
