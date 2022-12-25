@@ -7,6 +7,9 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
++ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
++ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
+
 <details>
 <summary>Ratisės išdėstymo tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -28,9 +31,6 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
-+ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
-+ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
 
 __Spaudų išdėstymo mygtuke lygiai:__
 
@@ -64,7 +64,9 @@ Spausdinamasis ženklas įvedamas tiesiog paspaudus ant reikiamo mygtuko.
 _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikalingiausi teksto rinkimui ženklai._
 
 ![Ratisės išdėstymo pirmojo lygio ženklai](images/kb-lt-ratise-1-lygis.svg)
-  
+
++ Tarp mygtukų ```pabraukimas``` <kbd>_</kbd> ir ```lygu``` <kbd>=</kbd> yra mygtukas su ilguoju brūkšniu <kbd>—</kbd>, vadinamuoju _m_ ilgio brūkšniu (tai yra _m_ raidės pločio brūkšniu). Kai kuriuose spaudmenyse (šriftuose) klaidingai atvaizduojamas trumpesnis (ar ilgesnis) nei turėtų būti.
+    
 <details>
 <summary>Ratisės išdėstymo pirmojo lygio tekstinė digrama</summary>
 <pre style="font-size: 60%">
@@ -86,9 +88,6 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
-+ Tarp mygtukų ```pabraukimas``` <kbd>_</kbd> ir ```lygu``` <kbd>=</kbd> yra mygtukas su ilguoju brūkšniu <kbd>—</kbd>, vadinamuoju _m_ ilgio brūkšniu (tai yra _m_ raidės pločio brūkšniu). Kai kuriuose spaudmenyse (šriftuose) klaidingai atvaizduojamas trumpesnis (ar ilgesnis) nei turėtų būti.
-
 
 ### Ratisės Didžiųjų raidžių įjungimas
 
@@ -128,6 +127,8 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ![Ratisės išdėstymo antrojo lygio ženklai](images/kb-lt-ratise-2-lygis.svg)
 
++ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo, ar dėl spaudmenų darytojo netikusio pasirinkimo, gali kelti painiavos, palyginkite: [5-7, 5−7, 5–7, 5—7](https://fonts.google.com/?preview.text=5-7,%205%E2%88%927,%205%E2%80%937,%205%E2%80%947&preview.text_type=custom) (kas gi čia parašyta? — kai kuriuose spaudmenyse kurie nors brūkšniai gali mažne nesiskirti.).
+
 <details>
 <summary>Ratisės išdėstymo antrojo lygio tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -150,8 +151,6 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 </pre>
 </details>  
 
-+ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo, ar dėl spaudmenų darytojo netikusio pasirinkimo, gali kelti painiavos, palyginkite: [5-7, 5−7, 5–7, 5—7](https://fonts.google.com/?preview.text=5-7,%205%E2%88%927,%205%E2%80%937,%205%E2%80%947&preview.text_type=custom) (kas gi čia parašyta? — kai kuriuose spaudmenyse kurie nors brūkšniai gali mažne nesiskirti.).
-
 <br>
 
 ## Ratisės 3-is lygis
@@ -161,6 +160,11 @@ Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaud�
 _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ```ł```. Dažniausiai reikalingi, iš papildomų ženklų, sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme daryta pagal [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png), be to turi papildomą tašką._
 
 ![Ratisės išdėstymo trečiojo lygio ženklai](images/kb-lt-ratise-3-lygis.svg)
+
++ Paveikslėlyje brūkšnelio, <kbd>Q</kbd>, <kbd>H</kbd>, <kbd>X</kbd> mygtukų vietose esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai („diakritikai“), tai — _lietùviškų príegaidžių uždėtìniai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
++ Trečiajame <kbd>P</kbd> mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame <kbd>Ž</kbd> mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas). Kai kurioje skaitmeninėje įrangoje, pavyzdžiui senoje skaičiuotuvo programoje, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ```×``` bei ```÷``` ženklus, kurių neatpažinimo atveju atitinkamai naudokite <kbd>*</kbd> bei <kbd>/</kbd> mygtukus.
++ Trečiajame <kbd>F</kbd> mygtuko lygyje esantis ```⁄``` yra trupmeninis žambas, skirtas trupmenoms sudaryti, pvz.: 1⁄2 (pastaba: ne visa skaitmeninė įranga taisyklingai atvaizduoja taip sudarytas trupmenas; šiaip jau, ši turėtų atrodyti taip: ½).
++ [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](ratises-trukumu-apejimas.md)
 
 <details>
 <summary>Ratisės išdėstymo trečiojo lygio tekstinė diagrama</summary>
@@ -183,11 +187,6 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
-+ Paveikslėlyje brūkšnelio, <kbd>Q</kbd>, <kbd>H</kbd>, <kbd>X</kbd> mygtukų vietose esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai („diakritikai“), tai — _lietùviškų príegaidžių uždėtìniai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
-+ Trečiajame <kbd>P</kbd> mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame <kbd>Ž</kbd> mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas). Kai kurioje skaitmeninėje įrangoje, pavyzdžiui senoje skaičiuotuvo programoje, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ```×``` bei ```÷``` ženklus, kurių neatpažinimo atveju atitinkamai naudokite <kbd>*</kbd> bei <kbd>/</kbd> mygtukus.
-+ Trečiajame <kbd>F</kbd> mygtuko lygyje esantis ```⁄``` yra trupmeninis žambas, skirtas trupmenoms sudaryti, pvz.: 1⁄2 (pastaba: ne visa skaitmeninė įranga taisyklingai atvaizduoja taip sudarytas trupmenas; šiaip jau, ši turėtų atrodyti taip: ½).
-+ [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](ratises-trukumu-apejimas.md)
 
 <br>
 
