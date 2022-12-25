@@ -8,7 +8,7 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
 <details>
-<summary>Ratisės tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo tekstinė diagrama</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ § ´ ║ ¤ ¡ ║ @ ← ║ # → ║ $ £ ║ % ‰ ║ | ¦ ║ & ≠ ║ < ≤ ║ > ≥ ║ \ ‖ ║ W ß ║ ~ ¿ ║ Backspace ║
