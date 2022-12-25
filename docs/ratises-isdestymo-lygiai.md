@@ -8,7 +8,7 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
 <details>
-<summary>Tekstas</summary>
+<summary>Ratisės tekstinė diagrama</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ § ´ ║ ¤ ¡ ║ @ ← ║ # → ║ $ £ ║ % ‰ ║ | ¦ ║ & ≠ ║ < ≤ ║ > ≥ ║ \ ‖ ║ W ß ║ ~ ¿ ║ Backspace ║
@@ -37,7 +37,7 @@ __Spaudų išdėstymo mygtuke lygiai:__
 ![Ženklų išdėstymo mygtuke lygiai](images/zenklu-lygiai.svg)
 
 <details>
-<summary>Tekstas</summary>
+<summary>Mygtuko lygių tekstinė diagrama</summary>
 <pre>
 ╔═════╗
 ║ 2 4 ║
