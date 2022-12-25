@@ -163,7 +163,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 ![Ratisės išdėstymo trečiojo lygio ženklai](images/kb-lt-ratise-3-lygis.svg)
 
 <details>
-<summary>Ratisės išdėstymo trečiojo lygio teksto diagrama</summary>
+<summary>Ratisės išdėstymo trečiojo lygio tekstinė diagrama</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║ Backspace ║
