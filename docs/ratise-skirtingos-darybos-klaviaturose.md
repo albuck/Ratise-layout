@@ -51,7 +51,7 @@ __101/104 mygtukų PC/AT klaviatūros nestandartinė atmaina „4“__ (su nukel
 <pre style="font-size: 60%">
 
 
-Ratisės vaizdas skirtingose standartinėse (https://en.wikipedia.org/wiki/ISO/IEC_9995) klaviatūrose:
+Ratisės vaizdas skirtingose standartinėse klaviatūrose:
 
 
  Ratisė ISO:
