@@ -10,6 +10,7 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 + Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
 + [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
 
+<br>
 <details>
 <summary>Ratisės išdėstymo tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -42,6 +43,7 @@ __Spaudų išdėstymo mygtuke lygiai:__
 + 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
 + 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
 
+<br>
 <details>
 <summary>Mygtuko lygių tekstinė diagrama</summary>
 <pre>
@@ -68,7 +70,8 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 ![Ratisės išdėstymo pirmojo lygio ženklai](images/kb-lt-ratise-1-lygis.svg)
 
 + Tarp mygtukų ```pabraukimas``` <kbd>_</kbd> ir ```lygu``` <kbd>=</kbd> yra mygtukas su ilguoju brūkšniu <kbd>—</kbd>, vadinamuoju _m_ ilgio brūkšniu (tai yra _m_ raidės pločio brūkšniu). Kai kuriuose spaudmenyse (šriftuose) klaidingai atvaizduojamas trumpesnis (ar ilgesnis) nei turėtų būti.
-    
+
+<br>
 <details>
 <summary>Ratisės išdėstymo pirmojo lygio tekstinė digrama</summary>
 <pre style="font-size: 60%">
@@ -90,7 +93,6 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
 <br>
 
 ### Ratisės Didžiųjų raidžių rakinimas
@@ -98,7 +100,8 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių rakinimo mygtuko <kbd>⇪ CapsLock</kbd> paspaudimo (įjungimo, užrakinimo).
 
 ![Ratisės Didžiųjų raidžių rakinimas](images/kb-lt-ratise-didzios.svg)
-  
+
+<br>  
 <details>
 <summary>Ratisės išdėstymo didžiųjų raidžių tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -120,7 +123,6 @@ Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių rakinimo 
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
 <br>
 
 ## Ratisės 2-is lygis
@@ -133,6 +135,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 + Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo, ar dėl spaudmenų darytojo netikusio pasirinkimo, gali kelti painiavos, palyginkite: [5-7, 5−7, 5–7, 5—7](https://fonts.google.com/?preview.text=5-7,%205%E2%88%927,%205%E2%80%937,%205%E2%80%947&preview.text_type=custom) (kas gi čia parašyta? — kai kuriuose spaudmenyse kurie nors brūkšniai gali mažne nesiskirti.).
 
+<br>
 <details>
 <summary>Ratisės išdėstymo antrojo lygio tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -154,7 +157,6 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>  
-
 <br>
 
 ## Ratisės 3-is lygis
@@ -170,6 +172,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 + Trečiajame <kbd>F</kbd> mygtuko lygyje esantis ```⁄``` yra trupmeninis žambas, skirtas trupmenoms sudaryti, pvz.: 1⁄2 (pastaba: ne visa skaitmeninė įranga taisyklingai atvaizduoja taip sudarytas trupmenas; šiaip jau, ši turėtų atrodyti taip: ½).
 + [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](ratises-trukumu-apejimas.md)
 
+<br>
 <details>
 <summary>Ratisės išdėstymo trečiojo lygio tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -191,7 +194,6 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
 <br>
 
 ## Ratisės 4-is lygis
@@ -200,6 +202,7 @@ Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant 
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
+<br>
 <details>
 <summary>Ratisės išdėstymo ketvirtojo lygio tekstinė diagrama</summary>
 <pre style="font-size: 60%">
@@ -221,7 +224,6 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-
 <br>
 
 Čia, priklausomai nuo raidžių su uždėtiniais ženkleliais (diakritikais) įvedimo būdo, yra galimos dvejos Ratisės atmainos:
