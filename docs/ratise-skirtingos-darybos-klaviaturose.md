@@ -50,6 +50,7 @@ __101/104 mygtukų PC/AT klaviatūros atmaina „4“__ (su nukeltu apačion už
 <summary>Ratisės išdėstymo skirtingos darybos klaviatūrose tekstinės diagramos</summary>
 <pre>
 
+
 Ratisės vaizdas skirtingose standartinėse (https://en.wikipedia.org/wiki/ISO/IEC_9995) klaviatūrose:
 
 
@@ -163,6 +164,7 @@ Ratisės vaizdas skirtingose standartinėse (https://en.wikipedia.org/wiki/ISO/I
 ┣━━━━━━┳━┻━┳━┷━┳━┷━┱─┴───┴───┴───┴───┴─┲━┷━┳━┷━┳━┻━┳━━━┳┻━━━┫
 ┃ ⎈    ┃ ƒ ┃ ◇ ┃ ⎇ ┃                   ┃ ⇮ ┃ ⇨ ┃ ◇ ┃ ≣ ┃  ⎈ ┃
 ┗━━━━━━┻━━━┻━━━┻━━━┻━━━━━━━━━━━━━━━━━━━┻━━━┻━━━┻━━━┻━━━┻━━━━┛
+
 
 
 Mygtukų ženklinimų reikšmės:
