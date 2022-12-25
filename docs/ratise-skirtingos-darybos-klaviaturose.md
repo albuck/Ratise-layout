@@ -17,7 +17,7 @@ __101/104 mygtukų ANSI klaviatūra__ (dar vadinama „amerikietiška“):
 
 <br>
 
-__101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „azijietiška“ arba kuri su dideliu _L_ Enter):
+__101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „azijietiška“ arba kuri su dideliu apverstos _L_ Enter):
 ![104 mygtukų klaviatūra PC-AT su labai dideliu L Enter](images/kb-lt-ratise-pc-at.svg)
 
 <br>
