@@ -31,10 +31,16 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
+<br>
 
 __Spaudų išdėstymo mygtuke lygiai:__
 
 ![Ženklų išdėstymo mygtuke lygiai](images/zenklu-lygiai.svg)
+
++ 1 — Pagrindinis, pirmasis lygis;
++ 2 — <kbd>⇧ Shift</kbd>, antrasis lygis;
++ 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
++ 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
 
 <details>
 <summary>Mygtuko lygių tekstinė diagrama</summary>
@@ -45,12 +51,8 @@ __Spaudų išdėstymo mygtuke lygiai:__
 ╚═════╝
 </pre>
 </details>
-
-+ 1 — Pagrindinis, pirmasis lygis;
-+ 2 — <kbd>⇧ Shift</kbd>, antrasis lygis;
-+ 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
-+ 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
-
+<br>
+    
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti minuso-brūkšnelio <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
 
 Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
