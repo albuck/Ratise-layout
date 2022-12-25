@@ -19,6 +19,7 @@ __Ratisės klaviatūros išdėstymas:__
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
 + [Ratisė skirtingos darybos klaviatūrose](docs/ratise-skirtingos-darybos-klaviaturose.md)
 
+<br>
 <details>
 <summary>Ratisės lietuviško klaviatūros išdėstymo tekstinė diagrama</summary>
 <pre style="font-size: 60%">
