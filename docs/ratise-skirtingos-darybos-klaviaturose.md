@@ -42,7 +42,7 @@ __102/105 mygtukų PC/AT klaviatūros atmaina „3“__ (su nukeltu apačion _Z�
 
 <br>
 
-__101/104 mygtukų PC/AT klaviatūros atmaina „4“__ (su nukeltu apačion už _Shift‘o_ _Z‘u_, padidintu _Backspace_):
+__101/104 mygtukų PC/AT klaviatūros nestandartinė atmaina „4“__ (su nukeltu apačion už _Shift‘o_ _Z‘u_, padidintu _Backspace_):
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion už Shift‘o Z, padidintu Backspace](images/kb-lt-ratise-pc-at-4.svg)
  
 <br>
