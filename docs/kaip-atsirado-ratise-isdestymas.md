@@ -39,6 +39,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
    - __1,3__ karto rečiau teks spausti keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>Shift</kbd>+<kbd>AltGr</kbd>);
    - pirštai eis panašų atstumą (priklausomai nuo teksto, kai kur Ratisė mažesnį, kai kur LEKP).
 
+<br>
 <details>
 <summary>Lietuviškų klaviatūros išdėstymų tekstinės diagramos</summary>
 <pre style="font-size: 70%">
