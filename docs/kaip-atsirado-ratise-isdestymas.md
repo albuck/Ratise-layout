@@ -100,7 +100,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 ┗━━━━━━┻━━━┻━━━┻━━━┻━━━━━━━━━━━━━━━━━━━┻━━━┻━━━┻━━━┻━━━┻━━━━┛
 
 
-Mygtukų ženklinimų reikšmės:
+Keitimo-valdymo mygtukų ženklinimų reikšmės:
 
 ⌫ — Backspace key — Trynimo mygtukas.
 ⏎ — Enter key — Įvedimo mygtukas.
