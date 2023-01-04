@@ -179,7 +179,7 @@ Mygtukų ženklinimų reikšmės:
 ⎈ — Ctrl key — Valdymo mygtukas.
 ≣ — Menu key (optional) — Sąrašo (Meniu) mygtukas (neprivalomas).
 ◇ — System key (optional) — Vėliavos (Sistemos) mygtukas (neprivalomas).
-ƒ — Fn, Function key (optional) — Veikmens (Funkcijos) mygtukas (neprivalomas).
+ƒ — Fn, fn, Function key (optional) — Veikmens (Funkcijos) mygtukas (neprivalomas).
 ⇨ — Group selection key (optional) — Kito raidyno pasirinkimo mygtukas (neprivalomas).
 
 </pre>
