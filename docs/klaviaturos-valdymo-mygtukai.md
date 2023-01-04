@@ -15,6 +15,8 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo 
 - <kbd>≣</kbd> — ≡, ▤, Menu, Mn, Application; Meniu, Sąrašas.
 - <kbd>⏎</kbd> — ↵, ⎆, ↩, ⌤, Enter, Return; Įvesti, Įvedimas.
 - <kbd>⌫</kbd> — ←, ⟵, Backspace; Trinti, Trynimas.
+- <kbd>␣</kbd> — Space; Tarpas (dažniausiai tarpo mygtukas jokiu ženklu yra nežymimas).
+
 
 __Pastabos:__ 
 + Lyginant su įprastomis klaviatūromis [Apple klaviatūroje](https://upload.wikimedia.org/wikipedia/commons/e/ea/Apple_iMac_Keyboard_A1243.png) mygtukai <kbd>⌥ Option (⎇ Alt)</kbd> ir <kbd>⌘ Command (⊞ Win)</kbd> savo padėtimi yra sukeisti vietomis.
