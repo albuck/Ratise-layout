@@ -14,7 +14,7 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo 
 - <kbd>⇮</kbd> — ⬂, ⤨, AltGr, Alt Graph, Alternate Graphic, Alt Car, Opt, ⌥ Option (MacOS), Level 3; Lyg3, Trečiasis lygis, Tretinis, Kitas, Kitava.
 - <kbd>≣</kbd> — ≡, ▤, Menu, Mn, Application; Meniu, Sąrašas.
 - <kbd>⏎</kbd> — ↵, ⎆, ↩, ⌤, Enter, Return; Įvesti, Įvedimas.
-- <kbd>⌫</kbd> — ←, ⟵, Backspace; Trinti, Trynimas.
+- <kbd>⌫</kbd> — ←, ⟵, Backspace, Delete (MacOS); Trinti, Trynimas.
 - <kbd>␣</kbd> — Space; Tarpas (dažniausiai tarpo mygtukas jokiu ženklu yra nežymimas).
 
 
