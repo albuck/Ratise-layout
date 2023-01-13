@@ -24,7 +24,7 @@ Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėst
 
 <br>
 
-## „TypeMatrix“:
+## TypeMatrix:
 ![TypeMatrix (svg)](images/kb-lt-ratise-typematrix.svg)
 
 <br>
