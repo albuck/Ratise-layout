@@ -24,6 +24,11 @@ Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėst
 
 <br>
 
+## „TypeMatrix“:
+![TypeMatrix (svg)](images/kb-lt-ratise-typematrix.svg)
+
+<br>
+
 __Pastaba.__ Būna klaviatūrų dar ir kiek su kitokiu mygtukų išdėstymu. Paprastai tai būna, kad koks nors kraštinis mygtukas nukeltas kiton klaviatūros pusėn ir panašiai. Kaip taisyklė, tokiose klaviatūrose yra galimybė programiškai sukeitinėti mygtukus (pačioje klaviatūros programinėje įrangoje). Taigi, sekant pavyzdžiais aukščiau, derėtų prisitaikyti tokią klaviatūrą prie patogesnio Ratisės išdėstymo. Kitaip, galima mygtukus susikeisti programiškai ir pačioje skaitmeninėje aplinkoje (OS). Dar kitaip, galima taisyti prie tam tikros klaviatūros patį Ratisės išdėstymą (išdėstymo valdyklę).
 
 
