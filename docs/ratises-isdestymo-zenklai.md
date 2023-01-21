@@ -27,7 +27,7 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 ### Pliuso mygtukas
 
 1. Pridėties ženklas „Plius“ ```+```
-2. Skyriaus ženklas ```§```
+2. Skirsnio ženklas ```§```
 3. Paprastoji kairinė kabutė, „Gravis“ ``` ` ```
 4. Paprastoji dešininė kabutė, „Akūtas“ ```´```
 
