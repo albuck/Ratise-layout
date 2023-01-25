@@ -9,12 +9,12 @@
  + _MacOS_ aplinkoje <kbd>⌥ Option</kbd> (_Opt, Alt_) abiejose pusėse veikia kaip trečio lygio įjungimo mygtukas, visgi gali būti patogiau jį sukeitus su <kbd>⌘</kbd> (_Command, Cmd_) vietomis (tai galima padaryti nustatymuose).
  + _Haiku_ aplinkoje <kbd>⎇ Alt</kbd> ir <kbd>⇮ AltGr</kbd> veikia kaip trečio lygio mygtukas <kbd>⌥ Option</kbd> (nustatymuose keičiama).
 
-2. __Mygtukai <kbd>Z</kbd>, <kbd>X</kbd>, <kbd>C</kbd>, <kbd>V</kbd> bei ir kiti yra kitoje vietoje, kas kartais nepatogu naudoti juos įprastiems _QWERTY_ išdėstymui klaviatūros raktams__.
+2. __Mygtukai <kbd>Z</kbd>, <kbd>X</kbd>, <kbd>C</kbd>, <kbd>V</kbd> bei ir kiti yra kitoje vietoje, kas kartais nepatogu naudoti juos įprastiems _QWERTY_ išdėstymui klaviatūros raktams („spartiesiems klavišams“)__.
  + _Windows_ aplinkoje visi klaviatūros raktai veiks taip kaip ir _QWERTY_ išdėstyme.
  + _MacOS_ aplinkoje klaviatūros raktai veiks kaip jie yra Ratisės išdėstyme, išskyrus lietuviškų raidžių mygtukus <kbd>Ū</kbd> <kbd>Ė</kbd> <kbd>Ų</kbd> <kbd>Ę</kbd> <kbd>Į</kbd> <kbd>Ą</kbd> <kbd>Š</kbd>, kurie veiks atitinkamai kaip <kbd>Q</kbd> <kbd>W</kbd> <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>F</kbd>.
  + _Linux_ aplinkoje visi klaviatūros raktai veikia kaip jie yra išdėstyme. Linux'e taip pat (be įprastų <kbd>Ctrl</kbd>+<kbd>X</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd> ar <kbd>Ctrl</kbd>+<kbd>V</kbd> naujose vietose) galima naudoti iškirpimui <kbd>Shift</kbd>+<kbd>Del</kbd>, nurašymui <kbd>Ctrl</kbd>+<kbd>Ins</kbd> ir įrašymui <kbd>Shift</kbd>+<kbd>Ins</kbd>. Taip pat naudojant papildomą priemonę [Autokey](https://github.com/autokey/autokey/wiki/About), galima _Cut_, _Copy_ ir _Paste_ veikimą priskirti dar ir kitiems mygtukams ar jų deriniams (pvz.: _Cut_ — <kbd>Ctrl</kbd>+<kbd>Ę</kbd>, _Copy_ — <kbd>Ctrl</kbd>+<kbd>Į</kbd>, _Paste_ — <kbd>Ctrl</kbd>+<kbd>Ą</kbd>).
  + _Haiku_ aplinkoje galima naudoti papildomą klaviatūros raktų pakaitos išdėstymą (yra pridėtas) ar kitą kokį, įsidiegus papildomą priemonę _Keymap Switcher_.
-   + __Pastaba:__ su kai kuria skaitmenine įranga šitokie raktų pakeitimai gali nesuveikti (pastebėta tokių dalykų Windows ir Linux aplinkose).
+   + __Pastaba:__ su kai kuria skaitmenine įranga šitokie raktų pakeitimai gali nesuveikti (pastebėta tokių dalykų Windows ir Linux aplinkose), visgi, kai kada, tokį klaviatūros raktų nesuveikimą galima taisyti tų programų nustatymuose.
 
 3. __Mygtukai <kbd>X</kbd>, <kbd>H</kbd> ir <kbd>Q</kbd> nėra labai patogioje vietoje, nes kairiosios rankos smiliui tenka kartu su jais iškart spaudelioti ```a```, ```o```__, paprastai tai pastebima tik spausdinant angliškai, kur _h_ yra dažna raidė. Čia galėtų pagelbėti ypatingas tokių raidžių derinių rinkimo būdas: jei kairiosios rankos smilius renka ```h``` ar ```x```, tai ```o```, ```a``` renka pasislinkęs dešiniau kairiosios rankos didysis pirštas. Bet tokios gudrybės reikia papildomai mokytis.
 
