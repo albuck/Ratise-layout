@@ -12,19 +12,7 @@
         </variant>
         <variant>
           <configItem>
-            <name>ratiselv</name>
-            <description>Lithuanian (Ratise, Latvian Phonetic)</description>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
-            <name>ratiseg</name>
-            <description>Lithuanian (Ratise, Germanic Phonetic)</description>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
-            <name>ratiseru</name>
-            <description>Lithuanian (Ratise, Russian Cyrillic Phonetic)</description>
+            <name>ratise-w</name>
+            <description>Lithuanian (Ratise-W)</description>
           </configItem>
         </variant>
