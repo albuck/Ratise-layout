@@ -28,10 +28,6 @@ __Lithuanian Ratise Keyboard Layout drivers__ are available for _Windows, MacOS,
 
 ------------------------------------------------------------------------------------
 
-- [ADDITIONAL LAYOUTS (GERMANIC, LATVIAN, CYRILLIC)](docs/ratise-additional-layouts.md)
-
-------------------------------------------------------------------------------------
-
 ## Ergonomic Keyboards:
 
 - [Standard ergonomic layout computer keyboard (draft)](https://albuck.github.io/SEL-keyboard/)
