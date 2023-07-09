@@ -10,12 +10,6 @@ Turinys
 
 'LithuanianRatiseW.keylayout' bei 'LithuanianRatiseW.icns' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
 
-'GermanicRatise.keylayout' bei 'GermanicRatise.icns' — germanų kalbų garsmeninio (fonetinio) ir panašiai, atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
-
-'LatvianRatise.keylayout' bei 'LatvianRatise.icns' — latviško garsmeninio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
-
-'RussianRatise.keylayout' bei 'RussianRatise.icns' — rusiško (kirilica) garsmeninio (fonetinio), atitinkančio 'LithuanianRatise' klaviatūros išdėstymą, valdyklė. Išdėstymo klaviatūros raktai veikia taip pat kaip ir 'LithuanianRatise' išdėstyme.
-
 
 Diegimas
 --------
