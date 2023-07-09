@@ -8,12 +8,6 @@ Aplanko turinys:
 
 — 'ratisew' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
 
-— 'ratiseg' — papildoma atitinkama germanų kalbų garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
-
-— 'ratiselv' — papildoma atitinkama latviška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
-
-— 'ratiseru' — papildoma atitinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklės diegyklė.
-
 
 — 'src' — aplanke yra „Ratisė“ išdėstymo išeitinės bylos 'MSKLC' programai <https://www.microsoft.com/en-us/download/details.aspx?id=102134> su kuria ir padarytos minėtos išdėstymo diegyklės.
 
@@ -25,7 +19,6 @@ Aplanko turinys:
 Iš naujesniems Windows'ams skirtų diegimo aplanko 'i386' paimkite jums reikiamo išdėstymo '*.dll' bylą ir, pervadinę ją į 'kbdlt.dll', įrašykite ją į Windows NT4 'System32' aplanką.
 Jeigu sistemoje yra įdiegtas LitWinNT paketas, tai minėtą bylą pervadinkite į 'kbdlta.dll'.
 Tiesa, komandinės eilutės aplinkoje galėsite naudotis šiuo klaviatūros išdėstymu tik įdiegę LitWinNT paketą.
-...'kbdru.dll' – būtų atitinkama rusiška garsmeninė (fonetinė) šio išdėstymo klaviatūros valdyklė.
 
 
 ! Klaviatūros raktai šiose valdyklėse kaip ir QWERTY išdėstyme.
