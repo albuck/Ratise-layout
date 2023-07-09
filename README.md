@@ -104,12 +104,6 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 
 
-### Papildomi kitų kalbų Ratisės išdėstymai:
-- [RATISĖS LATVIŠKAS IŠDĖSTYMAS](docs/ratise-latvian.md)
-- [RATISĖS GERMANIŠKAS IŠDĖSTYMAS](docs/ratise-germanic.md)
-- [RATISĖS KIRILICA IŠDĖSTYMAS](docs/ratise-kirilica.md)
-
-
 ### Lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
