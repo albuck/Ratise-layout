@@ -104,7 +104,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 
 
-### Lietuviški klaviatūrų išdėstymai:
+### Kiti lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
