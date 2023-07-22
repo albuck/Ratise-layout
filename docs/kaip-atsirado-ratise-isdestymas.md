@@ -5,7 +5,7 @@ Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalau
 
 + [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
 
-Laimei, tuose pokalbiuose atradau Remigijų, jo protingus patarimus bei jo sukurtą išdėstymą:
+Laimei, tuose pokalbiuose atradau Remigijų, jo naudingus patarimus bei jo sukurtą išdėstymą:
 
 + [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
