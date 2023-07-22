@@ -26,13 +26,14 @@ Lietuviška klaviatūra su Ratisės _ŪĖYOQJ_ išdėstymu, mygtukų vyduryje pa
 | Išdėstymas | Sutampantys spaudai | Spaudas kitame mygtuko lygyje |
 | --- | --- | --- |
 |__Latvių ŪGJRMV:__| ``` @ # $ % & ūŪ nN tT īĪ(įĮ) ``` | ``` ` ´ ^ 7 8 9 ``` |
-|__Anglų Dvorak:__| ``` tT xX mM @ # $ % & ``` | ``` ` ! ^ 7 8 9 - ``` |
-|__Anglų Colemak:__| ``` jJ mM @ # $ % & ``` | ``` ` ! ^ 7 8 9 ``` |
-|__Anglų Maltron:__| ``` iI yY @ # $ % & ``` | ``` ! ^ 7 8 9 ``` |
-|__Anglų Workman:__ |``` jJ @ # $ % & ``` | ``` ` ! ^ 7 8 9 ``` |
-|__Anglų QWERTY:__| ``` @ # $ % & mM ``` | ``` ` ^ 7 8 9 ``` |
-|__Turkų F:__| ``` uU aA + $ % ``` | ``` ! # 7 8 9 ``` |
-|__Prancūzų BEPO:__ | ``` iI oO ^ { } ``` | ``` 7 8 9 ``` |
+|__Anglų Dvorak:__| ``` @ # $ % & tT xX mM ``` | ``` ` ! ^ 7 8 9 - ``` |
+|__Anglų MTGAP:__| ``` @ # $ % & aA tT sS ``` | ``` ` ! ^ 7 8 9 ``` |
+|__Anglų Colemak:__| ```@ # $ % & jJ mM ``` | ``` ` ! ^ 7 8 9 ``` |
+|__Anglų Maltron:__| ```@ # $ % & iI yY  ``` | ``` ! ^ 7 8 9 ``` |
+|__Anglų Workman:__ |```@ # $ % & jJ  ``` | ``` ` ! ^ 7 8 9 ``` |
+|__Anglų QWERTY:__| ``` @ # $ % & mM ``` | ``` ` ! ^ 7 8 9 ``` |
+|__Turkų F:__| ``` + $ % uU aA ``` | ``` ! # 7 8 9 ``` |
+|__Prancūzų BEPO:__ | ```^ { } iI oO  ``` | ``` 7 8 9 ``` |
 |__Vokiečių Neo2:__ | ``` uU mM ``` | ``` 7 8 9 ``` |
 
 
