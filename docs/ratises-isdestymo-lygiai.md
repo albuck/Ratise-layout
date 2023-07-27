@@ -12,7 +12,7 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 
 <br>
 <details>
-<summary>Ratisės išdėstymo tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ § ´ ║ ¤ ¡ ║ @ ← ║ # → ║ $ £ ║ % ‰ ║ | ¦ ║ & ≠ ║ < ≤ ║ > ≥ ║ \ ‖ ║ W ß ║ ~ ¿ ║ Backspace ║
@@ -45,7 +45,7 @@ __Spaudų išdėstymo mygtuke lygiai:__
 
 <br>
 <details>
-<summary>Mygtuko lygių tekstinė diagrama</summary>
+<summary>Mygtuko lygių tekstinis braižinys</summary>
 <pre>
 ╔═════╗
 ║ 2 4 ║
@@ -73,7 +73,7 @@ _Tai yra pagrindinių rašto ženklų išdėstymo lygis. Šičia sudėti reikali
 
 <br>
 <details>
-<summary>Ratisės išdėstymo pirmojo lygio tekstinė digrama</summary>
+<summary>Ratisės išdėstymo pirmojo lygio tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║ Backspace ║
@@ -103,7 +103,7 @@ Spausdinamasis ženklas įvedimui pasiekiamas po Didžiųjų raidžių rakinimo 
 
 <br>  
 <details>
-<summary>Ratisės išdėstymo didžiųjų raidžių tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo didžiųjų raidžių tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║ W   ║     ║ Backspace ║
@@ -137,7 +137,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 <br>
 <details>
-<summary>Ratisės išdėstymo antrojo lygio tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo antrojo lygio tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ §   ║ ¤   ║ @   ║ #   ║ $   ║ %   ║ |   ║ &   ║ <   ║ >   ║ \   ║ W   ║ ~   ║ Backspace ║
@@ -174,7 +174,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 
 <br>
 <details>
-<summary>Ratisės išdėstymo trečiojo lygio tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo trečiojo lygio tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║ Backspace ║
@@ -204,7 +204,7 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 
 <br>
 <details>
-<summary>Ratisės išdėstymo ketvirtojo lygio tekstinė diagrama</summary>
+<summary>Ratisės išdėstymo ketvirtojo lygio tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║   ´ ║   ¡ ║   ← ║   → ║   £ ║   ‰ ║   ¦ ║   ≠ ║   ≤ ║   ≥ ║   ‖ ║   ß ║   ¿ ║ Backspace ║
