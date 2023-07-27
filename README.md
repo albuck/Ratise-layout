@@ -41,7 +41,7 @@ __Ratisės išdėstymas:__
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 
 
-* Mygtuko ženklų lygių tekstinė diagrama:
+* Mygtuko ženklų lygių tekstinis braižinys:
 
 ╔═════╗
 ║ 2 4 ║
