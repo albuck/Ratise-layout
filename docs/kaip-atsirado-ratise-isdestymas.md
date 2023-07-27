@@ -41,7 +41,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 
 <br>
 <details>
-<summary>Lietuviškų klaviatūros išdėstymų tekstinės diagramos</summary>
+<summary>Lietuviškų klaviatūros išdėstymų tekstiniai braižiniai</summary>
 <pre style="font-size: 70%">
 
 
