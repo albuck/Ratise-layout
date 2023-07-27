@@ -21,7 +21,7 @@ __Ratisės išdėstymas:__
 
 <br>
 <details>
-<summary>Ratisės lietuviško klaviatūros išdėstymo tekstinė diagrama</summary>
+<summary>Ratisės lietuviško klaviatūros išdėstymo tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ §   ║ ¤   ║ @   ║ #   ║ $   ║ %   ║ |   ║ &   ║ <   ║ >   ║ \   ║ W   ║ ~   ║ Backspace ║
