@@ -21,10 +21,9 @@ __Pastabos__:
 + Dar skaitykite: [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md).
 
 <br>
+Ratisės išdėstymas su visais spaudais keturiuose pagrindiniuose klaviatūros lygiuose:
 
 ![Ratisės išdėstymo ketvirtojo lygio ženklai, išskirti spalva tęsties mygtukai](images/kb-lt-ratise-b-visi-zenklai.svg)
-
-Ratisės išdėstymas su visais spaudais keturiuose pagrindiniuose klaviatūros lygiuose.
 
 <br>
 
