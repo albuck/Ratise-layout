@@ -22,7 +22,6 @@ __Pastabos__:
 
 <details>
 <summary>Ratisės išdėstymo pagrindinių lygių tekstiniai braižiniai</summary>
-<pre style="font-size: 60%">
 
 Pastaba: „░░“ rodo įjungtą mygtuką.
  
@@ -91,7 +90,6 @@ Pastaba: „░░“ rodo įjungtą mygtuką.
 ┃ ⎈   ┃    ┃ ⎇  ┃                       ┃░░⇮░┃    ┃       ⎈ ┃
 ┗━━━━━┻━━━━┻━━━━┻━━━━━━━━━━━━━━━━━━━━━━━┻━━━━┻━━━━┻━━━━━━━━━┛
 
-</pre>
 </details>
 <br>
 
