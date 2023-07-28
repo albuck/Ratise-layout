@@ -6,7 +6,7 @@ Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalau
 + [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
 
 Laimei, tuose pokalbiuose atradau Remigijų, jo naudingus patarimus bei jo sukurtą išdėstymą:
-<p>
+
 <table style="margin-left: 1.6em" border="1px">
 <tr>
 <td>1 &amp;</td><td>2 &lt;</td><td>3 &gt;</td> <td>4 =</td><td>5 %</td><td>6</td><td>7</td><td>8 ^</td><td>9 —</td><td>0</td>
@@ -30,7 +30,7 @@ Laimei, tuose pokalbiuose atradau Remigijų, jo naudingus patarimus bei jo sukur
 <td style="width: 16em;"> </td><td style="width: 2.8em;">3 Lyg</td><td>Alt</td>
 </tr>
 </table>
-</p>
+
 + [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
 Šis Remigijaus lietuviškas klaviatūros išdėstymas ir tapo Ratisės išeities tašku.
