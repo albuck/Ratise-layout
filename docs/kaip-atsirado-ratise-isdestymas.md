@@ -7,6 +7,30 @@ Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalau
 
 Laimei, tuose pokalbiuose atradau Remigijų, jo naudingus patarimus bei jo sukurtą išdėstymą:
 
+<table style="margin-left: 1.6em" border="1px">
+<tr>
+<td>1 &amp;</td><td>2 &lt;</td><td>3 &gt;</td> <td>4 =</td><td>5 %</td><td>6</td><td>7</td><td>8 ^</td><td>9 —</td><td>0</td>
+</tr>   
+</table>
+<table style="margin-left: 2.8em" border="1px">
+<tr>
+<td>Ė “</td><td>O {</td><td>Ū }</td> <td>Y "</td><td>H |</td><td>J !</td><td>N :</td><td>K ;</td><td>G –</td><td>Č Q</td><td> Z $</td></tr>   
+</table>
+<table style="margin-left: 4.0em;" border="1px">
+<tr>
+<td>E „</td><td>A (</td><td>U )</td><td>I +</td><td>C *</td><td>L ?</td><td>R .</td><td>T ,</td><td>S -</td><td>D /</td><td>Ž X</td></tr>   
+</table>
+<table style="margin-left: 5.2em;" border="1px">
+<tr>
+<td>Ę #</td><td>Ą [</td><td>Ų ]</td><td>Į @</td><td>F \</td><td>V ~</td><td>M '</td><td>P `</td><td>B _</td><td>Š W</td></tr>   
+</table>
+<table style="margin-left: 3.8em;" border="1px">
+<tr>
+<td>Alt</td><td style="width: 2.8em;">3 Lyg</td>
+<td style="width: 16em;"> </td><td style="width: 2.8em;">3 Lyg</td><td>Alt</td>
+</tr>
+</table>
+
 + [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
 
 Šis Remigijaus lietuviškas klaviatūros išdėstymas ir tapo Ratisės išeities tašku.
