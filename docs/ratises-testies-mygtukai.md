@@ -22,6 +22,12 @@ __Pastabos__:
 
 <br>
 
+![Ratisės išdėstymo ketvirtojo lygio ženklai, išskirti spalva tęsties mygtukai](images/kb-lt-ratise-b-visi-zenklai.svg)
+Ratisės išdėstymas su visais spaudais keturiuose pagrindiniuose klaviatūros lygiuose.
+
+<br>
+
+
 Žemiau pateikiamas atskirais tęsties mygtukais gaunamų ženklų sąrašas (```renkamas ženklas``` → ```gaunamas ženklas```; ```␣``` — tarpo žymė):
 
 <br>
