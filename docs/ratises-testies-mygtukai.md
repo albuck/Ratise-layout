@@ -35,7 +35,7 @@ Ratisės išdėstymas su visais spaudais keturiuose pagrindiniuose klaviatūros 
 ## Žiedelis viršuje ```˚```:
 <details>
 <summary>Uždėtinio žiedelio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 Pastaba: „░░“ rodo įjungtą mygtuką.
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
@@ -162,7 +162,7 @@ z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 ## Stogelis viršuje ```ˆ```:
 <details>
 <summary>Uždėtinio stogelio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
 ┃ ⁺ │   │  ̂ │  ̭ │ ⁂│ ∴ │ ↔ │ ⁼ │   │   │   │ ŵ │   ┃     ⌫ ┃
@@ -298,7 +298,7 @@ w → ŵ (LOTYNŲ MAŽOJI RAIDĖ W SU STOGELIU)
 
 <details>
 <summary>Uždėtinio brūkšnio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
 ┃   │ ꜝ │  ̄ │  ̱ │   │ ‾ │ ― │ ≡ │  ̲ │  ̅ │   │ ʷ │   ┃     ⌫ ┃
@@ -423,7 +423,7 @@ z → ƶ (LOTYNŲ MAŽOJI RAIDĖ Z SU PERBRAUKIMU)
 
 <details>
 <summary>Uždėtinio kairinio kirčio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 Pastaba: kai kurias lietuviškas kirčiuotas raides matysite tik su tam skirtais spaudmenimis.
 
@@ -525,7 +525,7 @@ w → ẁ (LOTYNŲ MAŽOJI RAIDĖ W SU KAIRINIU KIRČIU)
 
 <details>
 <summary>Uždėtinio dešininio kirčio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 Pastaba: kai kurias lietuviškas kirčiuotas raides matysite tik su tam skirtais spaudmenimis.
 
@@ -656,7 +656,7 @@ z → ź (LOTYNŲ MAŽOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 
 <details>
 <summary>Uždėtinio dutaškio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
 ┃   │ ‼ │  ̈ │  ̤ │ ⁑ │ ‗ │   │ ≔ │   │   │   │ ẅ │ ⁇┃     ⌫ ┃
@@ -772,7 +772,7 @@ x → ẍ (LOTYNŲ MAŽOJI RAIDĖ X SU DUTAŠKIU)
 
 <details>
 <summary>Uždėtinio riestinio kirčio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 Pastaba: kai kurias lietuviškas kirčiuotas raides matysite tik su tam skirtais spaudmenimis.
 
@@ -892,7 +892,7 @@ v → ṽ (LOTYNŲ MAŽOJI RAIDĖ V SU BANGELE)
 
 <details>
 <summary>Uždėtinio kablelio (cedilla) apačioje tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
 ┃   │   │   │  ̧ │   │   │   │  ̳ │  ̦ │  ̨ │   │ ☢ │   ┃     ⌫ ┃
@@ -1001,7 +1001,7 @@ z → ⚡ (AUKŠTOS ĮTAMPOS ŽENKLAS)
 
 <details>
 <summary>Uždėtinio lankelio tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
 ┃   │ ∫ │  ̑ │  ‍̆ │ ⚹ │  ͜ │ ⌠ │ ≅ │  ̮ │  ̯ │   │   │   ┃     ⌫ ┃
@@ -1136,7 +1136,7 @@ z → ʑ (LOTYNŲ MAŽOJI RAIDĖ Z SU KILPA)
 
 <details>
 <summary>Uždėtinės varnelės tęstinių lygių tekstinis braižinys</summary>
-<pre style="font-size: 60%">
+<pre style="font-size: 80%">
 
 ┏━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━┳━━━━━━━┓
 ┃   │   │  ̌ │  ̬ │ ⁎ │ ∵ │   │ ₌ │   │   │   │   │   ┃     ⌫ ┃
