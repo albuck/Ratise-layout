@@ -1,7 +1,7 @@
 
 # KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS
 
-Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais (lietuvišku _ĄŽERTY Standartiniu_ išdėstymu, jis ne ką geresnis už _QWERTY Baltic-Numeric_), nežiūrint į klaviatūrą, susidūriau su nepatogumais ir pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po klaviatūrą, ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi — persidirba. Toks išdėstymas neturi jokios logikos ir yra sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į [VLKK](http://www.vlkk.lt/) diskusijas (panaikintos). Kur ir užsimezgė būsimoji Ratisė:
+Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais (lietuvišku _ĄŽERTY Standartiniu_ išdėstymu, jis ne ką geresnis už _QWERTY Baltic-Numeric_), nežiūrint į klaviatūrą, susidūriau su nepatogumais ir pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po klaviatūrą ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi — persidirba. Toks išdėstymas neturi jokios logikos ir yra sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į [VLKK](http://www.vlkk.lt/) diskusijas (panaikintos). Kur ir užsimezgė būsimoji Ratisė:
 
 + [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
 
@@ -19,7 +19,7 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](images/lek_ratise_layout.png)
 
-Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto, galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
+Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
 + Lyginant su _QWERTY Baltic-Numeric_ spausdinant _Ratise_:
    - __4,7__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
