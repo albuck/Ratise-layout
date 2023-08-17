@@ -53,7 +53,7 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
 
 - Šios 35 (iš 68) kirčiuotos lietuviškos raidės, deja, dar nėra įtrauktos į Unikodą.
 
-- Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant <kbd>H</kbd> mygtuką vietoje <kbd>I</kbd>  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
+- Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant <kbd>H</kbd> mygtuką vietoje <kbd>I</kbd>  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms: _i̇̀, i̇́, i̇̃_.
 
 <br>
 
