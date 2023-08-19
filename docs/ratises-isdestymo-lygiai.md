@@ -54,7 +54,7 @@ __Spaudų išdėstymo mygtuke lygiai:__
 
 <br>
     
-__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti minuso-brūkšnelio <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
+__Pastaba:__ [Ratisės išdėstyme skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali trūkti minuso-brūkšnelio <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
 
 <br>
 
