@@ -34,6 +34,8 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 </details>
 <br>
 
+Kaip išdėstyti spausdinamieji ženklai (spaudai̇̃) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
+
 __Spaudų išdėstymo mygtuke lygiai:__
 
 ![Spausdinamųjų ženklų išdėstymo lygiai mygtuke](images/zenklu-lygiai.svg)
@@ -56,8 +58,6 @@ __Spaudų išdėstymo mygtuke lygiai:__
 <br>
     
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti minuso-brūkšnelio <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
-
-Kaip išdėstyti spausdinamieji ženklai (spaudaĩ) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
 
 <br>
 
