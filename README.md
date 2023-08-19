@@ -15,13 +15,7 @@ __Ratisės išdėstymas:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
 
 Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką <kbd>⇮ AltGr</kbd>.
- 
-+ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
-+ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
-+ [Ratisės išdėstymo ženklai](docs/ratises-isdestymo-zenklai.md)
-+ [Ratisė skirtingos darybos klaviatūrose](docs/ratise-skirtingos-darybos-klaviaturose.md)
 
-<br>
 <details>
 <summary>Ratisės lietuviško klaviatūros išdėstymo tekstinis braižinys</summary>
 <pre style="font-size: 60%">
@@ -56,6 +50,14 @@ Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio 
 • 4 — ⇮ AltGr + ⇧ Shift — ketvirtasis lygis.
 </pre>
 </details>
+<br>
+
+ 
++ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
++ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
++ [Ratisės išdėstymo ženklai](docs/ratises-isdestymo-zenklai.md)
++ [Ratisė skirtingos darybos klaviatūrose](docs/ratise-skirtingos-darybos-klaviaturose.md)
+
 <br>
 
 _Rati̇̀sė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
