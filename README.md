@@ -57,7 +57,7 @@ __Ratisės išdėstymas:__
  
 + [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
-+ [Spausdinamieji ženklai ratisės išdėstyme](docs/ratises-isdestymo-zenklai.md)
++ [Spausdinamieji ženklai Ratisės išdėstyme](docs/ratises-isdestymo-zenklai.md)
 + [Ratisė išdėstymas skirtingos darybos klaviatūrose](docs/ratise-skirtingos-darybos-klaviaturose.md)
 
 <br>
