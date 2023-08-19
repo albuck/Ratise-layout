@@ -18,13 +18,6 @@ Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 <br>
 
-__Ratisės W__ išdėstymas, su sukeistais vietomis ```-``` ir ```W``` ženklais, tinka tik [ISO klaviatūroms](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png) (toms, kurios prie kairiojo <kbd>Shift</kbd> turi papildomą mygtuką):
-
-![Ratisės W išdėstymo klaviatūros ženklai](images/kb-lt-ratise-w-visi-zenklai.svg)
-
-   + Brūkšnelio mygtuko trečiajame lygyje yra „Nepertraukiamasis brūkšnelis“.
-
-<br>
 
 __Ratisės B__ išdėstymas be tęsties mygtukų (su atitinkamais uždėtiniais ženkleliais vietoje jų):
 
