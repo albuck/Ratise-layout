@@ -6,11 +6,7 @@ Aplanko turinys:
 
 — 'ratiseb' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
 
-— 'ratisew' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
-
-
 — 'src' — aplanke yra „Ratisė“ išdėstymo išeitinės bylos 'MSKLC' programai <https://www.microsoft.com/en-us/download/details.aspx?id=102134> su kuria ir padarytos minėtos išdėstymo diegyklės.
-
 
 — 'Win9x' — šiame aplanke valdyklės senesniems Windows 95, 98 (ant ME nebandyta).
 
