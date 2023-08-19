@@ -119,12 +119,6 @@ Keitimo-valdymo mygtukų ženklinimų reikšmės:
 
 __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF).
 
-__Arba__, kitaip sakant, anot [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio [patikros](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png), [rinkti visais pirštais](spausdinimo-visais-pirstais-tvarka.md) minėtą lietuvišką tekstą kitais išdėstymais nei _Ratisė_, jums prireiks pastebimai daugiau pastangų (kurios čia, žemiau, išreikštos nuošimčiais, lyginant su Ratise):
-
-+ _LEKP_ — __+37%__
-+ _Lithuanian Standard_ — __+79%__ 
-+ _Baltic-Numeric_ — __+91%__
-
 
 -------------------------
 
