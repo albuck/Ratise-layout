@@ -5,7 +5,6 @@ Turinys:
 
 'ratise.txt' — Ratisės išdėstymas (šis jau yra įtrauktas į naująjį Xorg).
 'ratiseb.txt' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
-'ratisew.txt' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
 
 'evdev_intarpai.txt' — bylos turinys yra intarpas į '/usr/share/X11/xkb/rules/evdev.xml' bylą, reikalingas, kad išdėstymus šiuos galima būtų pasirinkti iš klaviatūros nustatymų.
 'XCompose' — Papildomi spaudai Ratisės tęstinių mygtukų lygiams (veiks tik išdėstymams su tęsties mygtukais).
