@@ -10,6 +10,8 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 <details>
 <summary>Ratisės išdėstymo tekstinis braižinys</summary>
 <pre style="font-size: 60%">
+
+Ratisės išdėstymas:
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ § ´ ║ ¤ ¡ ║ @ ← ║ # → ║ $ £ ║ % ‰ ║ | ¦ ║ & ≠ ║ < ≤ ║ > ≥ ║ \ ‖ ║ W ß ║ ~ ¿ ║ Backspace ║
 ║ + ` ║ ! ’ ║ : ⟨ ║ . ⟩ ║ * ” ║ _ … ║ — ^ ║ = 7 ║ , 8 ║ ; 9 ║ / ÷ ║ w Ω ║ ? ≈ ║           ║
