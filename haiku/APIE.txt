@@ -2,8 +2,7 @@ Aplanko turinys:
 
 'Lithuanian (Ratise)' — 'Haiku' sistemai skirta lietuviško ergonomiško klaviatūros "Ratisė" išdėstymo valdyklė.
 'Lithuanian (Ratise B)' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
-'Lithuanian (Ratise W)' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
-'Ratise (Shortcuts) / Ratise W (Shortcuts)' — papildomi išdėstymai klaviatūros raktų suderinamumui (kad tai veiktų dar reikalinga papildomai įdiegti "Keymap Switcher" ir jos nustatymuose pasirinkti norimą klaviatūros raktų pakaitos išdėstymą).
+'Ratise (Shortcuts)' — papildomi išdėstymai klaviatūros raktų suderinamumui (kad tai veiktų dar reikalinga papildomai įdiegti "Keymap Switcher" ir jos nustatymuose pasirinkti norimą klaviatūros raktų pakaitos išdėstymą).
 
 Diegimas:
 
