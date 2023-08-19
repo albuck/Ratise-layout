@@ -10,9 +10,3 @@
             <description>Lithuanian (Ratise, no dead keys)</description>
           </configItem>
         </variant>
-        <variant>
-          <configItem>
-            <name>ratise-w</name>
-            <description>Lithuanian (Ratise-W)</description>
-          </configItem>
-        </variant>
