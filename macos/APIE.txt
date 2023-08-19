@@ -8,8 +8,6 @@ Turinys
 
 'LithuanianRatiseB.keylayout' bei 'LithuanianRatiseB.icns' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
 
-'LithuanianRatiseW.keylayout' bei 'LithuanianRatiseW.icns' — Ratisės išdėstymo atmaina su sukeistais vietomis brūkšnelio papildomu mygtuku ir 'W'.
-
 
 Diegimas
 --------
