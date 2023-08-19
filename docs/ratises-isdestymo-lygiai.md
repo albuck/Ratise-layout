@@ -43,7 +43,7 @@ Spausdinamųjų ženklų lygiai mygtuke:
 
 + [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
 + Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
-+ Kaip išdėstyti spausdinamieji ženklai (_spaudai̇̃_) kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
++ Kaip išdėstyti spausdinamieji ženklai _spaudai̇̃_ kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
 
 <br>
 
