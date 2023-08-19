@@ -50,8 +50,10 @@ __Ratisės išdėstymas:__
 • 4 — ⇮ AltGr + ⇧ Shift — ketvirtasis lygis.
 </pre>
 </details>
-<br>
 
+_Rati̇̀sė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
+
+<br>
  
 + [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
@@ -59,9 +61,6 @@ __Ratisės išdėstymas:__
 + [Ratisė išdėstymas skirtingos darybos klaviatūrose](docs/ratise-skirtingos-darybos-klaviaturose.md)
 
 <br>
-
-_Rati̇̀sė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
-
 
 ___Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:___
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
