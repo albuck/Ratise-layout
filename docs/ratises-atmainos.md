@@ -24,7 +24,8 @@ __Ratisės B__ išdėstymas be tęsties mygtukų (su atitinkamais uždėtiniais 
 ![Ratisės B išdėstymo klaviatūros ženklai](images/kb-lt-ratise-b-visi-zenklai.svg)
 
   + ```ı``` ketvirtame <kbd>I</kbd> mygtuko lygyje yra betaškė mažoji „i“.
-  + Šios atmainos Ratisės išdėstymas neturi tęsties mygtukų lỹgių ženklų.
+  + Šios atmainos Ratisės išdėstymas neturi [tęsties mygtukų lỹgių ženklų](docs/ratises-testies-mygtukai.md)
+.
 
 <br>
 
