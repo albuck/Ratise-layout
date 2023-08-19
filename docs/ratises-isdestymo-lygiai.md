@@ -26,6 +26,13 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 ║ Ctrl    ║ Fn  ║ OS  ║  Alt  ║                              ║ AltGr ║ OS  ║ Mn  ║   Ctrl ║
 ║         ║     ║     ║       ║                              ║       ║     ║     ║        ║
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
+
+Spausdinamųjų ženklų lygiai mygtuke:
+╔═════╗
+║ 2 4 ║
+║ 1 3 ║
+╚═════╝
+    
 </pre>
 </details>
 <br>
@@ -45,16 +52,6 @@ __Spaudų išdėstymo mygtuke lygiai:__
 + 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
 + 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
 
-<br>
-<details>
-<summary>Mygtuko lygių tekstinis braižinys</summary>
-<pre>
-╔═════╗
-║ 2 4 ║
-║ 1 3 ║
-╚═════╝
-</pre>
-</details>
 <br>
     
 __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti minuso-brūkšnelio <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
