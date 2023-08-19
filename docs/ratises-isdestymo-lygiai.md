@@ -27,6 +27,7 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 ║         ║     ║     ║       ║                              ║       ║     ║     ║        ║
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 
+
 Spausdinamųjų ženklų lygiai mygtuke:
 ╔═════╗
 ║ 2 4 ║
