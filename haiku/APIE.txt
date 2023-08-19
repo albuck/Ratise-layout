@@ -4,11 +4,14 @@ Aplanko turinys:
 'Lithuanian (Ratise B)' — Ratisės išdėstymo atmaina be tęsties mygtukų (su uždėtiniais ženkleliais).
 'Ratise (Shortcuts)' — papildomi išdėstymai klaviatūros raktų suderinamumui (kad tai veiktų dar reikalinga papildomai įdiegti "Keymap Switcher" ir jos nustatymuose pasirinkti norimą klaviatūros raktų pakaitos išdėstymą).
 
+
 Diegimas:
 
 Reikiamą bylą/as įrašykite </home/config/settings/Keymap/> aplankan, ir rinkitės naująjį išdėstymą 'Keymap' klaviatūros nustatymuose.
 
+
 Pastabos:
+
 'Haiku' palaiko mažiau tęsties mygtukų, todėl trūkstami pakeisti atitinkamais uždėtiniais (diakritiniais) ženkleliais.
  Taip pat ir tęsties mygtukų turinys šičia skurdesnis nei numatyta „RATISĖ“ išdėstymo specifikacijoje. Taip pat, dėl to, kad Haiku klaviatūros tęstiniai mygtukai palaiko tik 15 ženklų, kai neužtenka vietos visiems įtrauktos tik mažosios kirčiuotos raidės, o kai kurios raidės nukeltos kitam tęstiniam mygtukui.
  Latviškoje ratisėje tęsties kablelio (cedilos) vaidmenį vietoje savojo atlieka dešininis kirtis (akūtas).
