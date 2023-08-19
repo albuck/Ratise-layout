@@ -77,6 +77,7 @@ ___Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:_ uei**a**··**r**tsp _(čia paryškintos tenkančios rankų smiliams raidės)._
 
 Tai reiškia, kad renkant tekstą Ratisės išdėstymu jums prireiks žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:
+
 [Lietuviškų išdėtymų palyginamoji patikra](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png), paveikslėlis paimtas iš [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapio.
 
 __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
