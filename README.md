@@ -67,8 +67,9 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 
 + Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimtį.
 + Brūkšninės linijos rodo atskiriems pirštams spausti priklausančias klaviatūros mygtukų skiltis.
++ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:_ uei**a**··**r**tsp _(čia paryškintos tenkančios rankų smiliams raidės).
 
-__Pagrindinės Ratisės išdėstymo ypatybės ir privalumai:__
+__Pagrindiniai Ratisės išdėstymo privalumai:__
 
 + _Balsės ir priebalsės išskirtos skirtingom rankom._
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
@@ -81,7 +82,6 @@ __Pagrindinės Ratisės išdėstymo ypatybės ir privalumai:__
 + _Pirštai spausdinant Ratise nueina ženkliai mažesnį atstumą nei senesniuose lietuviškuose išdėstymuose._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogus ir lengvai įsimenamas._
-+ _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:_ uei**a**··**r**tsp _(čia paryškintos tenkančios rankų smiliams raidės)._
 
 __Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
