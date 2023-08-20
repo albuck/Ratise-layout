@@ -63,6 +63,8 @@ __Ratisės išdėstymas:__
 <br>
 
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
+![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO raidžių išdėstymas](docs/images/kb-lt-ratises-spaudrika.svg)
+
 + _Balsės ir priebalsės išskirtos skirtingom rankom._
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
 + _Pajėgesniems pirštams tenka ir didesnis bendras spausdinimo krūvis._
