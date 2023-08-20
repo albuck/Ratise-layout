@@ -63,6 +63,7 @@ __Ratisės išdėstymas:__
 <br>
 
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
+
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO raidžių išdėstymas](docs/images/kb-lt-ratises-spaudrika.svg)
 
 + Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimtį.
