@@ -65,7 +65,11 @@ __Ratisės išdėstymas:__
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO raidžių išdėstymas](docs/images/kb-lt-ratises-spaudrika.svg)
 
-+ _Paveikslėlyje aukščiau raidžių spalvos ir atspalviai rodo jų žymimų garsų prigimties artimumą. Brūkšninės linijos rodo atskiriums pirštams spausti priklausančias klaviatūros mygtukų skiltis_
++ Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimties artimumą.
++ Brūkšninės linijos rodo atskiriums pirštams spausti priklausančias klaviatūros mygtukų skiltis.
+
+__Pagrinidės Ratisės išdėstymo ypatybės:__
+
 + _Balsės ir priebalsės išskirtos skirtingom rankom._
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
 + _Pajėgesniems pirštams tenka ir didesnis bendras spausdinimo krūvis._
