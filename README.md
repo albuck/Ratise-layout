@@ -68,7 +68,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimties artimumą.
 + Brūkšninės linijos rodo atskiriums pirštams spausti priklausančias klaviatūros mygtukų skiltis.
 
-__Pagrinidės Ratisės išdėstymo ypatybės:__
+__Pagrindinės Ratisės išdėstymo ypatybės ir privalumai:__
 
 + _Balsės ir priebalsės išskirtos skirtingom rankom._
 + _Dažnesniau naudojamos raidės ir ženklai užima patogesnes vietas išdėstyme, bei tenka pajėgesniems pirštams._
@@ -83,7 +83,7 @@ __Pagrinidės Ratisės išdėstymo ypatybės:__
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogus ir lengvai įsimenamas._
 + _Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:_ uei**a**··**r**tsp _(čia paryškintos tenkančios rankų smiliams raidės)._
 
-__Tai reiškia, kad renkant tekstą Ratisės išdėstymu jums prireiks žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
+__Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
 - [Lietuviškų klaviatūros išdėtymų palyginamoji patikra](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png), nuotrauka paimta iš [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapyje daryto testo.
 
