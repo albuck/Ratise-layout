@@ -68,7 +68,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 
 + Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimtį.
 + Brūkšninės linijos rodo atskiriems pirštams spausti priklausančias klaviatūros mygtukų skiltis.
-+ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra:_ uei**a**··**r**tsp _(čia paryškintos tenkančios rankų smiliams raidės).
++ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės).
 
 __Pagrindiniai Ratisės išdėstymo privalumai:__
 
