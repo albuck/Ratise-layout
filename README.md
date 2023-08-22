@@ -8,7 +8,7 @@
 Laida 2.4
 
 
-Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Rati̇̀sė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, vadinamuoju „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md), apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ar kitokius, rečiau reikalingus ženklus.
+Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Rati̇̀sė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, vadinamuoju „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md), apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu yra rinkti tekstus anglų kalba, programavimo kalbomis, bei įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ar kitokius, rečiau reikalingus ženklus.
 
 _Rati̇̀sė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spaudžiant paeiliui pakaitomis skirtingų rankų pirštais pagrindinių padėčių mygtukus, pradedant dešiniuoju smiliumi.
 
