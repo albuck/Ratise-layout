@@ -5,7 +5,7 @@
 
 __Pastabos:__
 + Patikrai lietuviškuose tekstuose ir išdėstymuose suvienodinti ilgieji brūkšniai; taip pat į senesnius lietuviškus išdėstymus pridėti trūkstami ženklai (ilgasis brūkšnys ir lietuviškos kabutės).
-+ Prie _AŽERTY Lithuanian (Standard 2000)_ prierašas „paslinkta dešinė“ reiškia, kad dešinės rankos pagrindinės pirštų padėtys ir spaudžiamų mygtukų skiltys pastumtos per vieną langelį dešinėn, kaip nevykusiai [yra patariama išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) ar [lietuvai.lt „Aklasis teksto rinkimas“](https://lietuvai.lt/wiki/Aklasis_teksto_rinkimas).
++ Prie _AŽERTY Lithuanian (Standard 2000)_ prierašas „paslinkta dešinė“ reiškia, kad dešinės rankos pagrindinės pirštų padėtys ir spaudžiamų mygtukų skiltys pastumtos per vieną langelį dešinėn, kaip nevykusiai [yra patariama išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html).
 
 <br>
 
