@@ -85,7 +85,7 @@ __Esminiai Ratisės išdėstymo privalumai:__
 + _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai — taip yra išvengiama atskirų pirštų pervargimo, pagreitėja teksto rinkimas._
 + _Pirštai spausdinant Ratise nueina ženkliai mažesnį atstumą nei senesniuose lietuviškuose išdėstymuose._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
-+ _Kuo lengvesnis tekstas, tuo lengviau yra jį rinkti Ratisės išdėstymu._
++ _Kuo paprastesnis tekstas, tuo lengviau yra jį rinkti Ratisės išdėstymu._
 + _Kuo ergonomiškesnė fizinė klaviatūra, tuo našesnis Ratisės išdėstymas._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogus ir lengvai įsimenamas._
 
