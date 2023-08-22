@@ -66,7 +66,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO raidžių išdėstymas](docs/images/kb-lt-ratises-spaudrika.svg)
 
-+ Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimtį.
++ Paveikslėlyje aukščiau raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimties artumą.
 + Brūkšninės linijos rodo atskiriems pirštams spausti priklausančias klaviatūros mygtukų skiltis.
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės).
 
