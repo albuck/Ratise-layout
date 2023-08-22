@@ -13,7 +13,7 @@ _Ratisės išdėstymas leidžia įvesti kirčiuotas raides keliais būdais. Skir
 
 Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
 
-Šiuo būdu gaunamos raidės su visais taisyklingai atvaizduojamais kirčiais. Deja, dėl to, kad ypatingosios lietuviškos kirčiuotos raidės vis dar nėra įtrauktos į Unikodo standartą, jos gali būti matomos tik naudojant tam skirtus spaudmenis („šriftus“), pavyzdžiui: [_Vytis_](https://lt.wikipedia.org/wiki/Vytis_(%C5%A1riftas)), [_Palemonas_](https://www.vlkk.lt/palemonas).
+Šiuo būdu gaunamos raidės su visais taisyklingai atvaizduojamais kirčiais. Deja, dėl to, kad ypatingosios lietuviškos kirčiuotos raidės vis dar nėra įtrauktos į Unikodo standartą, jos gali būti matomos tik naudojant tam skirtus spaudmenis („šriftus“), pavyzdžiui: [_Aistika_](https://lt.wikipedia.org/wiki/Aistika_(%C5%A1riftas), ), [_Palemonas_](https://www.vlkk.lt/palemonas), [_Vytis_](https://lt.wikipedia.org/wiki/Vytis_(%C5%A1riftas)).
 
 ```
 Àà Áá Ãã
