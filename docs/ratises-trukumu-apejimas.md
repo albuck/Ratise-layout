@@ -3,13 +3,13 @@
 
 ![Ratisės ŪĖYOQJ išdėstymo klaviatūra su QWERTY spaudais viduryje](images/kb-lt-ratise.svg)
 
-1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas__ <kbd>⇮ AltGr</kbd>.
+1. __Įprastinėje Windows'ams pritaikytoje klaviatūroje tėra tik vienas trečiojo lygio įjungimo mygtukas__ <kbd>⇮ AltGr</kbd>:
  + _Windows_ aplinkoje trečiasis lygis kaire ranka pasiekiamas spaudžiant <kbd>⎇ Alt</kbd> + <kbd>⎈ Ctrl</kbd> (<kbd>⎇ Alt</kbd> + <kbd>⎈ Vald</kbd>), ketvirtasis lygis paiekiamas atitinkamai per <kbd>Alt</kbd>+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>. Norint turėti atskirą trečio lygio įjungimo mygtuką kairėje pusėje, galima pasinaudoti papildomomis priemonėmis, tokiomis kaip [KeyTweak](https://keytweak.en.softonic.com/download) ar [SharpKeys](https://github.com/randyrants/sharpkeys), ir <kbd>⇮ AltGr</kbd> veikimą priskirti kairiajam <kbd>⎇ Alt</kbd>, o šio <kbd>⎇ Alt</kbd> veikimą priskirti <kbd>⊞ Win</kbd> mygtukui, o <kbd>⊞ Win</kbd> mygtuko veikimą priskirti dešinėje esančiam <kbd>≣ Menu</kbd> mygtukui ar panašiai.
  + _Linux_ aplinkose perpaskirti valdymo mygtukų reikšmę galima klaviatūros išdėstymo nustatymuose (paprastai numatytai <kbd>Alt</kbd>+<kbd>Ctrl</kbd> neveikia kaip <kbd>AltGr</kbd>).
  + _MacOS_ aplinkoje <kbd>⌥ Option</kbd> (_Opt, Alt_) abiejose pusėse veikia kaip trečio lygio įjungimo mygtukas, visgi gali būti patogiau jį sukeitus su <kbd>⌘</kbd> (_Command, Cmd_) vietomis (tai galima padaryti nustatymuose).
  + _Haiku_ aplinkoje <kbd>⎇ Alt</kbd> ir <kbd>⇮ AltGr</kbd> veikia kaip trečio lygio mygtukas <kbd>⌥ Option</kbd> (nustatymuose keičiama).
 
-2. __Mygtukai <kbd>Z</kbd>, <kbd>X</kbd>, <kbd>C</kbd>, <kbd>V</kbd> bei ir kiti yra kitoje vietoje, kas kartais nepatogu naudoti juos įprastiems _QWERTY_ išdėstymui klaviatūros raktams („spartiesiems klavišams“)__.
+2. __Mygtukai <kbd>Z</kbd>, <kbd>X</kbd>, <kbd>C</kbd>, <kbd>V</kbd> bei ir kiti yra kitoje vietoje, kas kartais nepatogu naudoti juos įprastiems _QWERTY_ išdėstymui klaviatūros raktams („spartiesiems klavišams“)__:
  + _Windows_ aplinkoje visi klaviatūros raktai veiks taip kaip ir _QWERTY_ išdėstyme.
  + _MacOS_ aplinkoje klaviatūros raktai veiks kaip jie yra Ratisės išdėstyme, išskyrus lietuviškų raidžių mygtukus <kbd>Ū</kbd> <kbd>Ė</kbd> <kbd>Ų</kbd> <kbd>Ę</kbd> <kbd>Į</kbd> <kbd>Ą</kbd> <kbd>Š</kbd>, kurie veiks atitinkamai kaip <kbd>Q</kbd> <kbd>W</kbd> <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>F</kbd>.
  + _Linux_ aplinkoje visi klaviatūros raktai veikia kaip jie yra išdėstyme. Linux'e taip pat (be įprastų <kbd>Ctrl</kbd>+<kbd>X</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd> ar <kbd>Ctrl</kbd>+<kbd>V</kbd> naujose vietose) galima naudoti iškirpimui <kbd>Shift</kbd>+<kbd>Del</kbd>, nurašymui <kbd>Ctrl</kbd>+<kbd>Ins</kbd> ir įrašymui <kbd>Shift</kbd>+<kbd>Ins</kbd>. Taip pat naudojant papildomą priemonę [Autokey](https://github.com/autokey/autokey/wiki/About), galima _Cut_, _Copy_ ir _Paste_ veikimą priskirti dar ir kitiems mygtukams ar jų deriniams (pvz.: _Cut_ — <kbd>Ctrl</kbd>+<kbd>Ę</kbd>, _Copy_ — <kbd>Ctrl</kbd>+<kbd>Į</kbd>, _Paste_ — <kbd>Ctrl</kbd>+<kbd>Ą</kbd>).
