@@ -72,7 +72,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 
 __Esminiai Ratisės išdėstymo privalumai:__
 
-+ _Ratisės išdėstyman įtraukti visi reikalingi spaudos ženklai lietuvių, anglų ir kitoms Europos kalboms._
++ _Ratisės išdėstyman yra įtraukti visi reikalingi spaudos ženklai lietuvių, anglų ir kitoms Europos kalboms._
 + _Ratisės išdėstyme rasite ir ženklus reikalingus programavimui, mokslui, technikai._
 + _Ratisės išdėstymu galima įvesti lietuviškas priegaides dviem būdais (atskirais uždėtiniais ženkleliais ir per tęsties mygtukus)._
 + _Balsės ir priebalsės išskirtos skirtingoms rankoms._
