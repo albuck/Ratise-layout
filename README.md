@@ -70,7 +70,7 @@ __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnum�
 + Brūkšninės linijos rodo atskiriems pirštams spausti priklausančias klaviatūros mygtukų skiltis.
 + Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: uei**a**··**r**tsp (čia paryškintos tenkančios rankų smiliams raidės).
 
-__Pagrindiniai Ratisės išdėstymo privalumai:__
+__Esminiai Ratisės išdėstymo privalumai:__
 
 + _Ratisės išdėstyman įtraukti visi reikalingi spaudos ženklai lietuvių, anglų ir kitoms Europos kalboms._
 + _Ratisės išdėstyme rasite ir ženklus reikalingus programavimui, mokslui, technikai._
