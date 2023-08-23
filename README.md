@@ -95,7 +95,8 @@ __Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau 
 
 - [Lietuviškų klaviatūros išdėtymų palyginamoji patikra](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png), nuotrauka paimta iš [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapyje daryto testo.
 
-
+<br>
+ 
 ## Ratisės klaviatūros valdyklės
 
 Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
