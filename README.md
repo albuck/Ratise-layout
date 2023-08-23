@@ -110,7 +110,7 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 
 ## TURINYS
 
-### Išsamiau apie Ratisės klaviatūros išdėstymą
+### Išsamiau apie Ratisės klaviatūros išdėstymą:
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 - [KLAVIATŪROS VALDYMO-KEITIMO MYGTUKŲ ŽENKLIUKAI IR PAVADINIMAI](docs/klaviaturos-valdymo-mygtukai.md)
 - [RATISĖS ŽENKLŲ IŠDĖSTYMO LYGIAI](docs/ratises-isdestymo-lygiai.md)
@@ -121,16 +121,16 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [RATISĖS IŠDĖSTYMO ATMAINOS](docs/ratises-atmainos.md)
 - [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/ratises-trukumu-apejimas.md)
 
-### Teksto rinkimas klaviatūra visais pirštais nežiūrint
+### Teksto rinkimas klaviatūra visais pirštais nežiūrint:
 - [SPAUSDINIMO VISAIS PIRŠTAIS TVARKA](docs/spausdinimo-visais-pirstais-tvarka.md)
 - [GALIMOS SKIRTINGOS SPAUSDINIMO VISAIS PIRŠTAIS TVARKOS](docs/skirtingos-spausdinimo-tvarkos.md)
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 
-### Ypatingi spausdinamųjų ženklų įvedimo atvejai
+### Ypatingi spausdinamųjų ženklų įvedimo atvejai:
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos-raides.md)
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
 
-### Ratisės išdėstymo palyginimai su kitais klaviatūrų išdėstymais
+### Ratisės išdėstymo palyginimai su kitais klaviatūrų išdėstymais:
 - [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/mygtuku-spaudeliojimo-daznumai.md)
 - [RATISĖS NAŠUMO PALYGINIMAS SU KITAIS IŠDĖSTYMAIS](docs/lt-isdestymu-palyginimas.md)
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
