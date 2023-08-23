@@ -133,7 +133,7 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 
 <br>
  
-## Papildomos naudingos nuorodos
+## Kitos naudingos nuorodos
 
 ### Lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
@@ -150,7 +150,7 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [Typing Games - Learn...](https://www.typing.com/student/games)
 
 
-### Kiti ištekliai:
+### Papildomi ištekliai:
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 - [Deskthority wiki](https://deskthority.net/wiki/Main_Page)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
