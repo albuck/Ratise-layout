@@ -62,6 +62,8 @@ __Ratisės išdėstymas:__
 
 <br>
 
+## Ratisė yra lietuviška tikrinė klaviatūra
+
 __Kuriant Ratisės išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 
 ![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO raidžių išdėstymas](docs/images/kb-lt-ratises-spaudrika.svg)
@@ -93,7 +95,10 @@ __Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau 
 
 - [Lietuviškų klaviatūros išdėtymų palyginamoji patikra](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png), nuotrauka paimta iš [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/about) puslapyje daryto testo.
 
-__Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
+
+## Ratisės klaviatūros valdyklės
+
+Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
 
 [↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
 
@@ -125,7 +130,10 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](https://github.com/albuck/ratise_kitakalbe)
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 
-### Kiti lietuviški klaviatūrų išdėstymai:
+
+## Papildomos naudingos nuorodos
+
+### Lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
 - [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
@@ -140,7 +148,7 @@ __Ratisės išdėstymo valdyklės__ yra teikiamos _Windows, MacOS, Linux/Unix (x
 - [Typing Games - Learn...](https://www.typing.com/student/games)
 
 
-### Kiti naudingi ištekliai:
+### Kiti ištekliai:
 - [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
 - [Deskthority wiki](https://deskthority.net/wiki/Main_Page)
 - [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
