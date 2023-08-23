@@ -28,8 +28,8 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Pridėties ženklas „Plius“ ```+```
 2. Skirsnio ženklas ```§```
-3. Paprastoji kairinė kabutė, „Gravis“ ``` ` ```
-4. Paprastoji dešininė kabutė, „Akūtas“ ```´```
+3. Paprastoji kairinė kabutė, Atskiras kairinis kirčio ženklas, „Gravis“ ``` ` ```
+4. Paprastoji dešininė kabutė, Atskiras dešininis kirčio ženklas, „Akūtas“ ```´```
 
 ### Šauktuko mygtukas
 
