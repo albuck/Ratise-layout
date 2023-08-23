@@ -130,7 +130,8 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](https://github.com/albuck/ratise_kitakalbe)
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 
-
+<br>
+ 
 ## Papildomos naudingos nuorodos
 
 ### Lietuviški klaviatūrų išdėstymai:
