@@ -14,7 +14,7 @@ _Rati̇̀sė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spa
 
 
 __Ratisės išdėstymas:__
-![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
+![Lietuviškas tikrinės klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
 
 - Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką <kbd>⇮ AltGr</kbd>.
 
@@ -66,7 +66,7 @@ __Ratisės išdėstymas:__
 
 __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 
-![Lietuviškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO raidžių išdėstymas](docs/images/kb-lt-ratises-spaudrika.svg)
+![Lietuviška tikrinė klaviatūra ŪĖYOQJ Ratisė (ISO), raidžių išdėstymas pagal jų pobūdį ir dažnumą](docs/images/kb-lt-ratises-spaudrika.svg)
 
 + Paveikslėlyje aukščiau lietuviškų raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimties artumą.
 + Brūkšninės linijos rodo atskiriems pirštams spausti priklausančias klaviatūros mygtukų skiltis.
