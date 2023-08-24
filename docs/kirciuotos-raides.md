@@ -17,7 +17,6 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
 
 <p style="font-family: Palemonas">
 
-```
 Àà Áá Ãã
 
   (†)
@@ -45,7 +44,7 @@ Apie raidžių įvedimą tęsties mygtukais skaitykite: [Tęsties mygtukai ir ja
   (†)
 
   (†)
-```
+
 </p>
 † __Pastabos:__
 
