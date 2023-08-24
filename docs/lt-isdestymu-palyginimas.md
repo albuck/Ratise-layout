@@ -189,7 +189,7 @@ __Pastabos:__
 + Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
    - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main)
    - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main)
-
++ Grynai techniškai imant tai Ratisės išdėstyme sukeitus __A__ ir __I__ skiltis (stulpelius) vietomis, __*__ su __—__ ir dar pakaitaliojus skliaustus vietomis, toks išdėstymas darytose patikrose (lietuvių, anglų ir programavimo kalboms) pasirodytų kiek geriau. Tik tokiu atveju kairiojo smiliaus aprkrova taptų mažesnė nei kairiojo didžiojo piršto. Ar tai vertėtų daryti — neaišku.
 -------------------------
 
 [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
