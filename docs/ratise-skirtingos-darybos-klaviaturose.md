@@ -3,12 +3,10 @@
 
 Ratisės išdėstymas skirtingos darybos klaviatūrose atrodys kiek kitaip, dažniausiai gali pritrūkti <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti kiek kitoje vietoje.
 
-Čia, žemiau, klaviatūrų mygtukų išdėstymai rikiuojami pagal patogumą, nuo geresnio prie prastesnio (nors tas skirtumas ir labai nedidelis).
-
 <br>
 
-__101/104 mygtukų klaviatūra „ANSISO“__ (ISO be papildomo mygtuko, „ANSI+ISO“):
-![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
+__102/105 mygtukų ISO klaviatūra__ (dar vadinama „europietiška“):
+![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
 
 <br>
 
@@ -22,8 +20,8 @@ __101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „azijietiška“ 
 
 <br>
 
-__102/105 mygtukų ISO klaviatūra__ (dar vadinama „europietiška“):
-![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
+__101/104 mygtukų klaviatūra „ANSISO“__ (ISO be papildomo mygtuko, „ANSI+ISO“):
+![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
 
 <br>
 
