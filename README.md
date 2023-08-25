@@ -16,7 +16,9 @@ _Rati̇̀sė_ (antroji kirčiuotė) pavadinimas kyla iš pačio išdėstymo: spa
 __Ratisės išdėstymas:__
 ![Lietuviškas tikrinės klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](docs/images/kb-lt-ratise-iso.svg)
 
-- Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką <kbd>⇮ AltGr</kbd>.
++ Mėlyni ženklai išdėstyme įvedami spaudžiant klaviatūroje trečiojo lygio mygtuką <kbd>⇮ AltGr</kbd>.
++ [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
++ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
 
 <details>
 <summary>Ratisės lietuviško klaviatūros išdėstymo tekstinis braižinys</summary>
@@ -37,10 +39,6 @@ __Ratisės išdėstymas:__
 ║ Ctrl    ║ Fn  ║ OS  ║  Alt  ║                              ║ AltGr ║ OS  ║ Mn  ║   Ctrl ║
 ║         ║     ║     ║       ║                              ║       ║     ║     ║        ║
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
- 
-+ [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
-+ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
-
 
 * Mygtuko ženklų lygių tekstinis braižinys:
 
