@@ -120,9 +120,9 @@ _(čia papildomai palyginimui įtraukta ir žinomesnių ar įdomesnių nelietuvi
 6. __Ratise (ANSI) — 46.23__
 7. __Ratise (L) — 46.23__
 8. _Colemak (ANSI) — 46.10_
-9. _Colemak (Kinesis Advantage) — 45.74_
+9. __Ratise (ISO) — 45.88__
 10. _QGMLWY (ANSI) — 45.60_
-11. __Ratise (ISO) — 45.38__
+11. _Colemak (Kinesis Advantage) — 45.74_
 12. _Acemak 1 (ANSI) — 45.07_
 13. _Dvorak (Kinesis Advantage) — 44.98_
 14. _Capewell (ANSI) — 44.46_
@@ -169,7 +169,7 @@ __Išsamiau:__
  - [Ratise (ANSI), LEKPa (ANSI), QWERTY Baltic (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI), AŽERTY Lithuanian (Standard 2000) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/K7n8KGNX)
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), Lithuanian Ergonomic 1989 (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/sw76pKkC)
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/dX3p9914)
- - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/kf6G05h8)
+ - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/NH1TxnK8)
  - [AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage), ĄŽERTY Lithuanian (Standard 2000) (ANSI), AŽERTY Lithuanian (Standard 2000) (ISO), AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė, AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė](http://patorjk.com/keyboard-layout-analyzer/#/load/23HbwB1x)
  - [Kinesis Advantage Colemak, Programmer Colemak, Ratise (ANSI), Colemak, Programmer Dvorak](http://patorjk.com/keyboard-layout-analyzer/#/load/m7PVGf2x)
  - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/BBC9qJLQ)
@@ -177,7 +177,7 @@ __Išsamiau:__
  - [QWERTZ (Typografie Mk2) (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/9rNNMW7N)
  - [MTGAP (ANSI), Capewell (ANSI), Norman (ANSI), QWERFJ (ANSI), TNWMLC (Worst CarpalX layout) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/PzRkvPG6)
  - [QGMLWY (ANSI), Acemak 1 (ANSI), Asset (ANSI), OISEAU (ANSI), ABCDEF (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/LnjglDkK)
- - [Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/fqL3FWw7)
+ - [Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/hH6n83T1)
 
 <br>
 
