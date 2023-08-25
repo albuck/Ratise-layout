@@ -202,7 +202,21 @@ Spausdinamasis ženklas įvedimui pasiekiamas papildomai iš anksto spaudžiant 
 
 _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų išdėstymo lygis._
 
+Čia, priklausomai nuo raidžių su uždėtiniais ženkleliais (diakritikais) įvedimo būdo, yra galimos dvejos Ratisės atmainos:
+
+__A)__ Ratisė su tęsties mygtukais:
+![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-4-lygis.svg)
+
+__B)__ Ratisės papildoma atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkleliais vietoje jų):
+![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-b-4-lygis.svg)
+
++ Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
++ Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
++ Gelzganai žymėtieji yra tęsties, kitaip mirę, mygtukai (angliškai „Dead Keys“), apie juos skaitykite:
+[Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
+  
 <br>
+
 <details>
 <summary>Ratisės išdėstymo ketvirtojo lygio tekstinis braižinys</summary>
 <pre style="font-size: 60%">
@@ -224,22 +238,6 @@ _Įvairių papildomų retais ar ypatingais atvejais reikalingų rašto ženklų 
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
 </pre>
 </details>
-<br>
-
-Čia, priklausomai nuo raidžių su uždėtiniais ženkleliais (diakritikais) įvedimo būdo, yra galimos dvejos Ratisės atmainos:
-
-__A)__ Ratisė su tęsties mygtukais:
-![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-4-lygis.svg)
-
-__B)__ Ratisės papildoma atmaina be tęsties mygtukų (su atskirais uždėtiniais ženkleliais vietoje jų):
-![Ratisės išdėstymo ketvirtojo lygio ženklai](images/kb-lt-ratise-b-4-lygis.svg)
-
-+ Ketvirtajame lygyje tarpo mygtukas yra _nepertraukiamasis tarpas_ (rašyklės ties juo neturėtų laužyti žodžių keliant juos į kitą eilutę).
-+ Brūkšnelis ketvirtajame lygyje yra _nepertraukiamasis brūkšnelis_.
-+ Gelzganai žymėtieji yra tęsties, kitaip mirę, mygtukai (angliškai „Dead Keys“), apie juos skaitykite:
-[Ratisės tęsties mygtukai ir jais įvedami ženklai](ratises-testies-mygtukai.md).
-  
-<br>
 
 -------------------------
 
