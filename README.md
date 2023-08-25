@@ -37,6 +37,9 @@ __Ratisės išdėstymas:__
 ║ Ctrl    ║ Fn  ║ OS  ║  Alt  ║                              ║ AltGr ║ OS  ║ Mn  ║   Ctrl ║
 ║         ║     ║     ║       ║                              ║       ║     ║     ║        ║
 ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
+ 
++ [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
++ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
 
 
 * Mygtuko ženklų lygių tekstinis braižinys:
@@ -55,11 +58,6 @@ __Ratisės išdėstymas:__
 
 <br>
  
-+ [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](docs/klaviaturos-valdymo-mygtukai.md)
-+ [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
-
-<br>
-
 ## Ratisė yra lietuviška tikrinė klaviatūra
 
 __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
