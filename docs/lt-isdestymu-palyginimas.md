@@ -104,7 +104,7 @@ __Išsamiau:__
  - [Programmer Colemak, Programmer Dvorak, Colemak, Ratise (ANSI), QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/SwHL37Dp)
  - [Ergodox Colemak Cub, Ergodox Workman Cub, Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/JLlTTWZ7)
  - [Ratise (ANSI), Colemak, Programmer Colemak, Programmer Dvorak, QWERTY](http://patorjk.com/keyboard-layout-analyzer/#/load/s28h740l)
- - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Colemak Cub, Ergodox Workman Cub, Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/rlcPHQmv)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Colemak Cub, Ergodox Workman Cub, Kinesis Advantage Qwerty](http://patorjk.com/keyboard-layout-analyzer/#/load/wcv2hDs0)
 
 <br>
 
