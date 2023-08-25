@@ -64,7 +64,7 @@ __Pastabos.__ Į kitus lietuviškus išdėstymus pridėti uždėtiniai priegaid�
 
 ### Angliškas gožinis tekstas (Alisa stebuklų šalyje, pirmasis skyrius):
 
-1. __Ratise (Kinesis Advantage) — 64.97__
+1. __Ratise (Kinesis Advantage) — 64.87__
 2. __Ratise (ISO+ANSI) — 62.64__
 3. __Ratise (ANSI) — 62.47__
 4. __Ratise (L) — 62.46__
@@ -93,7 +93,7 @@ __Išsamiau:__
 
  - [Ratise (ANSI), LEKPa (ANSI), QWERTY Baltic (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI), AŽERTY Lithuanian (Standard 2000) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/WkGMfhdM)
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), Lithuanian Ergonomic 1989 (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/85lhVhxm)
- - [Ratise (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/hHX7Hw9m)
+ - [Ratise (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/FwCV5lWJ)
  - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/6nzdBCjp)
  - [AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage), ĄŽERTY Lithuanian (Standard 2000) (ANSI), AŽERTY Lithuanian (Standard 2000) (ISO), AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė, AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė](http://patorjk.com/keyboard-layout-analyzer/#/load/bP4tZ59f)
   - [Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/wQ3cNn9V)
