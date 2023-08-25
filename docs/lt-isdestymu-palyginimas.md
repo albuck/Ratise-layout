@@ -112,7 +112,7 @@ __Išsamiau:__
 
 _(čia papildomai palyginimui įtraukta ir žinomesnių ar įdomesnių nelietuviškų išdėstymų, juose pirštų spaudžiamų mygtukų skiltys patikroje nekeistos)_
 
-1. __Ratise (Kinesis Advantage) — 54.76__
+1. __Ratise (Kinesis Advantage) — 55.74__
 2. LEKP (Kinesis Advantage) — 52.85
 3. _MTGAP (ANSI) — 47.22_
 4. __Ratise (ISO+ANSI) — 46.55__
@@ -168,11 +168,11 @@ __Išsamiau:__
 
  - [Ratise (ANSI), LEKPa (ANSI), QWERTY Baltic (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI), AŽERTY Lithuanian (Standard 2000) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/K7n8KGNX)
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), Lithuanian Ergonomic 1989 (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/sw76pKkC)
- - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/P7sh95Jc)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/dX3p9914)
  - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/kf6G05h8)
  - [AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage), ĄŽERTY Lithuanian (Standard 2000) (ANSI), AŽERTY Lithuanian (Standard 2000) (ISO), AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė, AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė](http://patorjk.com/keyboard-layout-analyzer/#/load/23HbwB1x)
  - [Kinesis Advantage Colemak, Programmer Colemak, Ratise (ANSI), Colemak, Programmer Dvorak](http://patorjk.com/keyboard-layout-analyzer/#/load/m7PVGf2x)
- - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/bjTBd8MN)
+ - [Ratise (Kinesis Advantage), LEKP (Kinesis Advantage), Ergodox Workman Cub, Colemak, Workman for Programmers](http://patorjk.com/keyboard-layout-analyzer/#/load/BBC9qJLQ)
  - [Kinesis Advantage Dvorak, Simplified Dvorak, Workman, QWERTY, QWERTY-Programmer](http://patorjk.com/keyboard-layout-analyzer/#/load/L1QKztGk)
  - [QWERTZ (Typografie Mk2) (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/9rNNMW7N)
  - [MTGAP (ANSI), Capewell (ANSI), Norman (ANSI), QWERFJ (ANSI), TNWMLC (Worst CarpalX layout) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/PzRkvPG6)
@@ -182,7 +182,7 @@ __Išsamiau:__
 <br>
 
 __Pastabos:__
-+ Dėl to, kad Ratisės (ISO) išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas, ne visada pasirenka patogiausią skaičiuodamas.
++ Dėl to, kad Ratisės (ISO) išdėstyme brūkšnelis-minusas ir pliusas yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas.
 + Kaip „ISO+ANSI“ čia tikrintas vadinamasis [„ANSISO“](images/kb-lt-ratise-ansiso.svg) klaviatūros mygtukų išdėstymas.
 + Ratisė (L) yra [PC/AT klaviatūros išdėstymas su dideliu apverstos „L“ pavidalo įvedimo mygtuku](images/kb-lt-ratise-pc-at.svg).
 + Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
