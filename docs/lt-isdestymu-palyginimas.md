@@ -47,7 +47,7 @@ __Išsamiau:__
 
  - [Ratise (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), ĄŽERTY Lithuanian IBM (Standard 1992) (ANSI), QWERTY Baltic (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/B0dlW15Z)
  - [Ratise (ANSI), Tikrinė 0.8a (ANSI), LEKPa (ANSI), ĄŽERTY Lithuanian (Standard 2000) (ANSI), Lithuanian Ergonomic 1989 (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/L0z41KdL)
- - [Ratise (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/pZhNf7gl)
+ - [Ratise (Kinesis Advantage), QWERTY Baltic/Numeric (Kinesis Advantage), LEKP (Kinesis Advantage), LEKP (ISO), QWERTY Baltic (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/G2DLzTkF)
  - [Ratise (ISO), Remigijaus ĖOŪYHJ (ANSI), QWERTY Lithuanian (ISO), QWERTY Lithuanian (Programmers) (ANSI), QWERTY LEKP Baltic+ (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/l6LcJ7Rd)
  - [AŽERTY Lithuanian (Standard 2000) (Kinesis Advantage), ĄŽERTY Lithuanian (Standard 2000) (ANSI), AŽERTY Lithuanian (Standard 2000) (ISO), AŽERTY Lithuanian (Standard 2000) (ANSI) paslinkta dešinė, AŽERTY Lithuanian (Standard 2000) (ISO) paslinkta dešinė](http://patorjk.com/keyboard-layout-analyzer/#/load/9R8Pq5KW)
  - [Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/gpx7Lz7j)
