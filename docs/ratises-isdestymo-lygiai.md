@@ -7,6 +7,10 @@ _Ratisės klaviatūros išdėstyme raidės ir kiti ženklai ẽsti keturiuose ly
 
 ![Ratisės išdėstymas su visais ženklais](images/kb-lt-ratise-visi-zenklai.svg)
 
++ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
++ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
++ Kaip išdėstyti spausdinamieji ženklai, _spaudai̇̃_, kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
+
 <details>
 <summary>Ratisės išdėstymo tekstinis braižinys</summary>
 <pre style="font-size: 60%">
@@ -39,11 +43,6 @@ Spausdinamųjų ženklų lygiai mygtuke:
     
 </pre>
 </details>
-<br>
-
-+ [Valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
-+ Paveikslėlyje yra matomi Ratisės išdėstymo visi keturių lygių ženklai.
-+ Kaip išdėstyti spausdinamieji ženklai, _spaudai̇̃_, kiekviename išdėstymo lygyje, žiūrėkite paveikslėliuose žemiau.
 
 <br>
 
