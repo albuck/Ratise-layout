@@ -68,7 +68,7 @@ __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raid�
 
 + Paveikslėlyje aukščiau lietuviškų raidžių spalvos ir atspalviai sąlygiškai rodo jų žymimų garsų prigimties artumą.
 + Brūkšninės linijos rodo atskiriems pirštams spausti priklausančias klaviatūros mygtukų skiltis.
-+ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: <kbd>u</kbd><kbd>e</kbd><kbd>i</kbd><kbd>a</kbd>…<kbd>r</kbd><kbd>t</kbd><kbd>s</kbd><kbd>p</kbd>.
++ Kairės ir dešinės rankos pirštų pagrindinės padėtys atitinkamai yra: <kbd>u</kbd><kbd>e</kbd><kbd>i</kbd><kbd>a</kbd> ir <kbd>r</kbd><kbd>t</kbd><kbd>s</kbd><kbd>p</kbd>.
 
 ### Esminiai Ratisės išdėstymo privalumai:
 
