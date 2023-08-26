@@ -34,7 +34,7 @@ Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi my
 
 ## Skirtingų spausdinimo tvarkų našumų patikrų lyginamieji duomenys
 
-+ Keyboard Layout Analyzer — Lietuviškos pasakos (iš Basanavičiaus rinkinio) — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/G1jJSlSm), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/BhPmMVrc):
++ Keyboard Layout Analyzer ‘Lietuviškos pasakos (iš Basanavičiaus rinkinio)’ — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/G1jJSlSm), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/BhPmMVrc):
 
    1. Ratise (ISO) - pagerintas 3 — 67.44
    2. Ratise (ISO) - pagerintas 1 — 67.42
@@ -44,7 +44,7 @@ Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi my
    6. Ratise (ISO) - ergonomiškas — 66.98
    7. Ratise (ISO) - pagerintas 4 — 66.94
 
-+ Keyboard Layout Analyzer — Alice in Wonderland, Chapter 1 — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/ZZh9pGGh), [1](http://patorjk.com/keyboard-layout-analyzer/#/load/l3k5cnVp):
++ Keyboard Layout Analyzer ‘Alice in Wonderland, Chapter 1’ — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/ZZh9pGGh), [1](http://patorjk.com/keyboard-layout-analyzer/#/load/l3k5cnVp):
 
    1. Ratise (ISO) - pagerintas 3 — 62.55
    2. Ratise (ISO) - pagerintas 1 — 62.49
@@ -54,7 +54,7 @@ Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi my
    6. Ratise (ISO) - ergonomiškas 2 — 62.28
    7. Ratise (ISO) - pagerintas 4 — 62.15
 
-+ Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’ — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/9sJMzGJX), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/5FJd6V6x):
++ Keyboard Layout Analyzer ‘Bash, C, CPP, HTML, JavaScript, Python’ — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/9sJMzGJX), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/5FJd6V6x):
 
    1. Ratise (ISO) - pagerintas 3 — 46.27
    2. Ratise (ISO) - ergonomiškas — 46.05 
@@ -64,7 +64,7 @@ Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi my
    6. Ratise (ISO) - įprastas — 45.71
    7. Ratise (ISO) - ergonomiškas 2 — 45.63
 
-+ Keyboard Layout Analyzer — ‘Programming Punctuation Torture Test’ — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/1hHNb7kL), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/q84SL6ln):
++ Keyboard Layout Analyzer ‘Programming Punctuation Torture Test’ — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/1hHNb7kL), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/q84SL6ln):
 
    1. Ratise (ISO) - pagerintas 3 — 47.80
    2. Ratise (ISO) - pagerintas 2 — 47.32
