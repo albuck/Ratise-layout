@@ -67,7 +67,7 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 -------------------------
 
-[Ratisės našumo palyginimas su kitais išdėstymais](lt-isdestymu-palyginimas.md)
+[Lietuviškų klaviatūros išdėstymų našumo patikros](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html)
 
 [Lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-statistines-lenteles.html)
 
