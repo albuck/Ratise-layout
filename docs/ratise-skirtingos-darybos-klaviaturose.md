@@ -188,6 +188,7 @@ __Labiau paplitusių klaviatūros darybos variantų našumo patikros:__
 - [Lietuviškas tekstas](http://patorjk.com/keyboard-layout-analyzer/#/load/bsBMfsNb)
 - [Programavimo tekstas](http://patorjk.com/keyboard-layout-analyzer/#/load/sqT0WNJV)
 
+<br>
 
 __Pastabos:__
 
