@@ -7,7 +7,6 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
 
 Nors ir Ratisės išdėstymo bendram patogumui skirtingi mygtukų skilčių spaudeliojimo pasirinkimai turi nedidelį poveikį.
 
-
 + Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
 ![Įprastas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-iprasta.svg)
 
