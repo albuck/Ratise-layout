@@ -126,7 +126,7 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
 
 ### Ratisės išdėstymo palyginimai su kitais klaviatūrų išdėstymais:
-- [RATISĖS NAŠUMO PALYGINIMAS SU KITAIS IŠDĖSTYMAIS](docs/lt-isdestymu-palyginimas.md)
+- [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PATIKROS](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html)
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
 ### Ratisės papildymai:
