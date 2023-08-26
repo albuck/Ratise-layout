@@ -5,7 +5,7 @@ Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais bū
 + Paveikslėlyje sąlygiškai skaičiais įvertintos pastangos spaudžiant mygtuką klaviatūroje su skersuotais mygtukais:
 ![Mygtukų spaudimo skersuotų mygtukų klaviatūroje](images/skersuotu-iso-ansi-mygtuku-pastangos.svg)
 
-Šiaip jau, Ratisės išdėstymo bendram patogumui tai turi nedidelį poveikį.
+Nors ir Ratisės išdėstymo bendram patogumui skirtingi mygtukų skilčių spaudeliojimo pasirinkimai turi nedidelį poveikį.
 
 
 + Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
