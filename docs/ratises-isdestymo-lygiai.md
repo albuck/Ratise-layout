@@ -25,7 +25,7 @@ Ratisės išdėstymas:
 ║        ║ ū ‘ ║ ė [ ║ y ] ║ o “ ║ q ́  ║ j € ║ n 4 ║ k 5 ║ g 6 ║ b × ║ c ¢ ║ f / ║        ║
 ╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗      ║
 ║ CapsLock ║ U ¯ ║ E ` ║ I ´ ║ A ¨ ║ H ˜ ║ L Ł ║ R ¹ ║ T ² ║ S ³ ║ P ¶ ║ Ž ¸ ║ Z ® ║      ║
-║          ║ u ' ║ e ( ║ i ) ║ a " ║ h ̃  ║ l ł ║ r 1 ║ t 2 ║ s 3 ║ p − ║ ž - ║ z ° ║      ║
+║          ║ u ' ║ e ( ║ i ) ║ a " ║ h ̃  ║ l ł ║ r 1 ║ t 2 ║ s 3 ║ p - ║ ž − ║ z ° ║      ║
 ╠═══════╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════╩══════╣
 ║ Shift ║ – ‑ ║ Ų ‹ ║ Ę ˘ ║ Į ˇ ║ Ą « ║ X ↓ ║ V ◊ ║ M µ ║ D ‡ ║ Š · ║ Č ± ║         Shift ║
 ║       ║ - ̇  ║ ų ‚ ║ ę { ║ į } ║ ą „ ║ x ̀  ║ v √ ║ m 0 ║ d . ║ š , ║ č + ║               ║
@@ -168,7 +168,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 ![Ratisės išdėstymo trečiojo lygio ženklai](images/kb-lt-ratise-3-lygis.svg)
 
 + Paveikslėlyje brūkšnelio, <kbd>Q</kbd>, <kbd>H</kbd>, <kbd>X</kbd> mygtukų vietose esantys ženkliukai yra ant raidžių dedami uždėtiniai ženkleliai („diakritikai“), tai — _lietùviškų pri̇́egaidžių uždėti̇̀niai ženklẽliai_. Uždėtiniai ženkleliai įvedami papildomai iškart ant prieš tai įvestos ir norimos sukirčiuoti raidės.
-+ Trečiajame <kbd>P</kbd> mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame <kbd>Ž</kbd> mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas). Kai kurioje skaitmeninėje įrangoje, pavyzdžiui senoje skaičiuotuvo programoje, tikrasis minuso ženklas gali būti neatpažintas, tada skaičiuodami naudokite senąjį brūkšnelį‑minusą vietoje jo; tas pats yra pasakytina ir apie ```×``` bei ```÷``` ženklus, kurių neatpažinimo atveju atitinkamai naudokite <kbd>*</kbd> bei <kbd>/</kbd> mygtukus.
++ Trečiajame <kbd>Ž</kbd> mygtuko lygyje yra tikrasis minuso ženklas, o trečiajame <kbd>P</kbd> mygtuko lygyje — brūkšnelio‑minuso ženklas (tas pats ženklas kaip ir ne visose klaviatūrose būnančio brūkšnelio mygtuko pirmajame lygyje ženklas).
 + Trečiajame <kbd>F</kbd> mygtuko lygyje esantis ```⁄``` yra trupmeninis žambas, skirtas trupmenoms sudaryti, pvz.: 1⁄2 (pastaba: ne visa skaitmeninė įranga taisyklingai atvaizduoja taip sudarytas trupmenas; šiaip jau, ši turėtų atrodyti taip: ½).
 + [Ką daryti jei klaviatūroje yra tik vienas trečio lygio įjungimo mygtukas?!](ratises-trukumu-apejimas.md)
 
@@ -184,7 +184,7 @@ _Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabu
 ║        ║   ‘ ║   [ ║   ] ║   “ ║   ́  ║   € ║   4 ║   5 ║   6 ║   × ║   ¢ ║   / ║        ║
 ╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗      ║
 ║ CapsLock ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║      ║
-║          ║   ' ║   ( ║   ) ║   " ║   ̃  ║   ł ║   1 ║   2 ║   3 ║   − ║   - ║   ° ║      ║
+║          ║   ' ║   ( ║   ) ║   " ║   ̃  ║   ł ║   1 ║   2 ║   3 ║   - ║   − ║   ° ║      ║
 ╠═══════╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════╩══════╣
 ║ Shift ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║     ║         Shift ║
 ║       ║   ̇  ║   ‚ ║   { ║   } ║   „ ║   ̀  ║   √ ║   0 ║   . ║   , ║   + ║               ║
