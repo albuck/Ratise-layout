@@ -30,7 +30,7 @@ __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių 
  - _įtrauktinų į išdėstymą ženklų aibės parinkimas, ženklų paskirstymas ir išdėstymas pagal jų vartojimo platumą ir vartojimo sritį;_
  - _ženklų pagal vartojimo platumą paskirstymas lygiuose, pirmame lygyje dažniau ir plačiau vartojami ženklai, ketvirtame rečiau reikalingi ženklai, tęstiniuose lygiuose rečiausiai ir siauriausiai naudojami ženklai;_
  - _ženklų išdėstymo įsimenamumas, ženklų dėstymo tvarkingumas ir sąsajumas per kelis lygius (netgi kai tai galimai ar nevienareikšmiškai šiek tiek (nežymiai) atskirais atvejais menkina išdėstymo patogumą);_
- - _pageidautina, kad ženklai viename mygtukai būtų pakankamai skirtingi savo išvaizda;_
+ - _pageidautina, kad ženklai viename mygtuke būtų pakankamai skirtingi savo išvaizda;_
  - _kai ženklo vieta nėra apspręsta išdėstymo patogumo arba tas patogumas nėra vienareikšmis — prisilaikyti kokio nors žinomesnio kitokio išdėstymo ar kokio esamo standarto, ar ženklų tame mygtuke kokio nors vidinio ar išorinio sąsajumo;_
  - _neturėtų būti mygtuko su visuose lygiuose labai retai naudojamais ženklais;_
  - _atsižvelgti į skyrybos ženklų rinkimo patogumą;_
