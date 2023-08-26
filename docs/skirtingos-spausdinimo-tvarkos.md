@@ -7,7 +7,7 @@ Galima būtų išskirti keli̇̀s kiek skirtingus spausdinimo visais pirštais b
 
    + Vertinimo skaičiai imti iš [Colemak Mod-DH - Typing Effort Grid](https://colemakmods.github.io/mod-dh/model.html).
 
-Nors Ratisės išdėstymo bendram patogumui skirtingi mygtukų skilčių spaudeliojimo pasirinkimai turi ir nedidelį poveikį.
+Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi mygtukų skilčių spaudeliojimo pasirinkimai turi nedidelį poveikį.
 
 + Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
 ![Įprastas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-iprasta.svg)
