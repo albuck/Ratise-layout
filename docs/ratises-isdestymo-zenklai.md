@@ -281,14 +281,14 @@ __Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybo
 
 1. Mažoji ```p```
 2. Didžioji ```P```
-3. Atimties ženklas „Minus“ ```−```
+3. Brūkšnelio-minuso ženklas ```-```
 4. Pastraipos ženklas ```¶```
 
 ### Ž mygtukas
 
 1. Mažoji ```ž```
 2. Didžioji ```Ž```
-3. Brūkšnelio-minuso ženklas ```-```
+3. Atimties ženklas „Minus“ ```−```
 4. Tęsties mygtukų ženklas „Sedilė“ (Cedilla) ```¸```
    + (Ratisėje be tęsties mygtukų — uždėtinis ženklas „Kablelis apačioje“)
 
