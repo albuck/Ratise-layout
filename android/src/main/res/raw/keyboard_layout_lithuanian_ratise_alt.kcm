@@ -354,7 +354,7 @@ key SEMICOLON {
     base:     'p'
     shift, capslock:     'P'
     shift+capslock:     'p'
-    ralt:     '\u2212'
+    ralt:     '-'
     shift+ralt:          '\u00b6'
 }
 
@@ -364,7 +364,7 @@ key APOSTROPHE {
     base:     '\u017e'
     shift, capslock:     '\u017d'
     shift+capslock:     '\u017e'
-    ralt:     '-'
+    ralt:     '\u2212'
     shift+ralt:          '\u0327'
 }
 
