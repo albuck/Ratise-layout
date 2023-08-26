@@ -1,5 +1,5 @@
 // Lithuanian Ratise keymap by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2020/12/24
+// last changes 2023/08/26
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratise" {
@@ -44,8 +44,8 @@ xkb_symbols "ratise" {
     key <AC07> { [          r,           R,                    1,        onesuperior ] };
     key <AC08> { [          t,           T,                    2,        twosuperior ] };
     key <AC09> { [          s,           S,                    3,      threesuperior ] };
-    key <AC10> { [          p,           P,            0x1002212,          paragraph ] }; // MINUS SIGN
-    key <AC11> { [     zcaron,      Zcaron,                minus,       dead_cedilla ] };
+    key <AC10> { [          p,           P,                minus,          paragraph ] };
+    key <AC11> { [     zcaron,      Zcaron,            0x1002212,       dead_cedilla ] }; // MINUS SIGN
 
     key <AB01> { [    uogonek,     Uogonek,   singlelowquotemark,          0x1002039 ] }; // SINGLE LEFT-POINTING ANGLE QUOTATION MARK
     key <AB02> { [    eogonek,     Eogonek,            braceleft,         dead_breve ] };
