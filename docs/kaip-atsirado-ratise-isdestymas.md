@@ -21,6 +21,7 @@ Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių st
  - darbo krūvio paskirstymas pagal pirštų pajėgumą;
  - spausdinimo sklandumas, rankų ir pirštų kaitaliojimas spausdinant, sutinkant su kalbos ritmu;
  - kuo mažiau vieno piršto mygtukų paspaudimų iš eilės;
+ - kuo mažiau vienos rankos pirštų paspaudimų iš eilės;
  - dažnesnių raidžių samplaikų rinkimo vienos rankos pirštais patogumas;
  - vienos rankos pirštų (ypatingai nejudresnių) nepatogių žirkliavimų vengimas (tai kai vienas pirštas žemyn ir gretimas iškart aukštyn);
  - vengti raidžių viršutinėje skaičių eilėje;
