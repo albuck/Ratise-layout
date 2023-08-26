@@ -33,9 +33,8 @@ __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių 
  - _pageidautina, kad ženklai viename mygtukai būtų pakankamai skirtingi savo išvaizda;_
  - _kai ženklo vieta nėra apspręsta išdėstymo patogumo arba tas patogumas nėra vienareikšmis — prisilaikyti kokio nors žinomesnio kitokio išdėstymo ar kokio esamo standarto, ar ženklų tame mygtuke kokio nors vidinio ar išorinio sąsajumo;_
  - _neturėtų būti mygtuko su visuose lygiuose labai retai naudojamais ženklais;_
- - _pirmenybę teikti paprasto lietuviško teksto rinkimo patogumui;_
  - _atsižvelgti į programavimo kalbų teksto rinkimo patogumą;_
- - _atsižvelgti į skaitmenų rinkimo patogumą;_
+ - _atsižvelgti į skaičiuotuvo naudojimo ir skaitmenų rinkimo patogumą;_
  - _atsižvelgti į anglų kalbos teksto rinkimo patogumą;_
  - _atsižvelgti į raidžių su uždėtiniais ženkleliais rinkimo patogumą;_
  - _jeigu ženklo vieta labai nežymiai veikia lietuvių kalbos teksto rinkimo patogumą ir ženkliai programavimo kalbų teksto rinkimą, teikti pirmenybę programavimo kalbų teksto rinkimui;_
