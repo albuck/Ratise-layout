@@ -2,7 +2,7 @@
 
 Galima būtų išskirti kelìs kiek skirtingus spausdinimo visais pirštais būdus klaviatūrose su skersuotais mygtukais. Dėl to mygtukų skilčių skersavimo, kartais yra patogiau spausti pirštu viršutinės ar apatinės eilės (aukšto) mygtuką priklausantį kito piršto skilčiai.
 
-Paveikslėlyje sąlygiškai skaičiais įvertintos pastangos spaudžiant mygtuką klaviatūroje su skersuotais mygtukais:
++ Paveikslėlyje sąlygiškai skaičiais įvertintos pastangos spaudžiant mygtuką klaviatūroje su skersuotais mygtukais:
 ![Mygtukų spaudimo skersuotų mygtukų klaviatūroje](images/skersuotu-iso-ansi-mygtuku-pastangos.svg)
 
 Šiaip jau, Ratisės išdėstymo bendram patogumui tai turi nedidelį poveikį.
