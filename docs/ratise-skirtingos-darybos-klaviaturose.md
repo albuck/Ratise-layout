@@ -206,6 +206,4 @@ __Žodynėlis:__
 
 [Ratisė stačiakampio mygtukų išdėstymo klaviatūrose](ratise-staciakampese-klaviaturose.md)
 
-[Ratisės našumo palyginimas su kitais išdėstymais](lt-isdestymu-palyginimas.md)
-
 [Į pradžią](../README.md)
