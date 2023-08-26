@@ -6,7 +6,10 @@ KEYMAP SPECIFICATIONS
 Lithuanian Ergonomic Computer Keyboard Layout ŪĖYOQJ or "Ratise"
 ================================================================
 
-version 2.4.1
+version 2.4.2
+
+
+Last changes 2023/08/26
 
 
 This is four level keyboard layout:
@@ -44,7 +47,7 @@ a) with dead keys:
      ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q  ́ │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ⁄ ┃ Enter ┃           
      ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
   C  ┃   Caps   ┃ U ¯ │ E ` │ I ´ │ A ¨ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž ¸ │ Z ® ┃      ┃ C         
-     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h  ̃ │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ° ┃      ┃           
+     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h  ̃ │ l ł │ r 1 │ t 2 │ s 3 │ p - │ ž − │ z ° ┃      ┃           
      ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
   B  ┃       ┃ – ‑ │ Ų ‹ │ Ę ˘ │ Į ˇ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
      ┃ Shift ┃ -  ̇ │ ų ‚ │ ę { │ į } │ ą „ │ x  ̀ │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
@@ -66,7 +69,7 @@ b) no dead keys (with diacritics instead):
      ┃   Tab   ┃ ū ‘ │ ė [ │ y ] │ o “ │ q  ́ │ j € │ n 4 │ k 5 │ g 6 │ b × │ c ¢ │ f ⁄ ┃ Enter ┃           
      ┣━━━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃           
   C  ┃   Caps   ┃ U  ̄ │ E  ̧ │ I ı │ A  ̈ │ H ˜ │ L Ł │ R ¹ │ T ² │ S ³ │ P ¶ │ Ž  ̦ │ Z ® ┃      ┃ C         
-     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h  ̃ │ l ł │ r 1 │ t 2 │ s 3 │ p − │ ž - │ z ° ┃      ┃           
+     ┃   Lock   ┃ u ' │ e ( │ i ) │ a " │ h  ̃ │ l ł │ r 1 │ t 2 │ s 3 │ p - │ ž − │ z ° ┃      ┃           
      ┣━━━━━━━┳━━┹──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┲━━┷━━━━━┻━━━━━━┫           
   B  ┃       ┃ – ‑ │ Ų ‹ │ Ę  ̆ │ Į  ̌ │ Ą « │ X ↓ │ V ◊ │ M µ │ D ‡ │ Š · │ Č ± ┃               ┃ B         
      ┃ Shift ┃ -  ̇ │ ų ‚ │ ę { │ į } │ ą „ │ x  ̀ │ v √ │ m 0 │ d . │ š , │ č + ┃     Shift     ┃           
@@ -217,13 +220,13 @@ L4 — 00B3 SUPERSCRIPT THREE
 C10:
 L1 — 0070 LATIN SMALL LETTER P
 L2 — 0050 LATIN CAPITAL LETTER P
-L3 — 2212 MINUS SIGN
+L3 — 002D HYPHEN-MINUS
 L4 — 00B6 PILCROW SIGN
 
 C11:
 L1 — 017E LATIN SMALL LETTER Z WITH CARON
 L2 — 017D LATIN CAPITAL LETTER Z WITH CARON
-L3 — 002D HYPHEN-MINUS
+L3 — 2212 MINUS SIGN
 L4 — 0326 COMBINING COMMA BELOW | Dead Key 'CEDILLA' (*)
 
 C12:
@@ -1037,5 +1040,9 @@ DEADKEY	02c7 CARON
 0020	02c7	//   -> ˇ (CARON)
 
 ---------------------------------------------------------------------
-2019—2022 Algirdas Buckus <algirdasbuckus@gmail.com>
+
+Changes in 2.4.2 version: exchanged positions of "2212 MINUS SIGN" and 002D HYPHEN-MINUS in the third level of the layout.
+
+---------------------------------------------------------------------
+2019—2023 Algirdas Buckus <algirdasbuckus@gmail.com>
 
