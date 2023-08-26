@@ -40,7 +40,7 @@ __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių 
  - _atsižvelgti į skaičiuotuvo naudojimo ir skaitmenų rinkimo patogumą;_
  - _atsižvelgti į anglų kalbos teksto rinkimo patogumą;_
  - _atsižvelgti į klaviatūros naudojimo patogumą programinės įrangos valdymui klaviatūros raktais („greitaisiais klavišais“);_
- - _atsižvelgti į raidžių su uždėtiniais ženkleliais rinkimo patogumą;_
+ - _atsižvelgti į raidžių su atskirai dedamais uždėtiniais ženkleliais rinkimo patogumą;_
  - _jeigu ženklo vieta labai nežymiai veikia lietuvių kalbos teksto rinkimo patogumą ir ženkliai programavimo kalbų teksto rinkimą, teikti pirmenybę programavimo kalbų teksto rinkimui;_
  - _kuo paprastesnis tekstas, tuo lengviau jį turėtų būti rinkti._
 
