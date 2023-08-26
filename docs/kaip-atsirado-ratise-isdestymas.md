@@ -25,7 +25,7 @@ __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių 
  - _dažnesnių raidžių samplaikų rinkimo vienos rankos pirštais patogumas;_
  - _vienos rankos pirštų (ypatingai nejudresnių) nepatogių žirkliavimų vengimas (tai kai vienas pirštas žemyn ir gretimas iškart aukštyn);_
  - _vengti raidžių viršutinėje skaičių eilėje;_
- - _išdėstymo nepriklausomumas nuo kokio vieno klaviatūros darybos pavidalo (ar teksto rinkimo stiliaus), esant pasirinkimui — pirmenybė ergonomiškam išdėstymui;_
+ - _išdėstymo nepriklausomumas nuo kokio vieno klaviatūros darybos pavidalo (ar teksto rinkimo stiliaus), esant pasirinkimui — pirmenybė ergonomiškai klaviatūrai;_
  - _visų išdėstymo galimų keturių lygių išnaudojimas;_
  - _įtraukti visus spaudos ženklus reikalingus lietuvių ir anglų kalbai (kitoms kaimyninėms kalboms), programavimui, mokslui, technikai;_
  - _įtrauktinų į išdėstymą ženklų aibės parinkimas, ženklų paskirstymas ir išdėstymas pagal jų vartojimo platumą ir vartojimo sritį;_
