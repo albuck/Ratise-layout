@@ -17,7 +17,7 @@ Taip tobulinant Remigijaus išdėstymą ir užgimė [Tikrinė](images/sena_tikri
 
 Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių stengtasi laikytis):
 
- _- dažnesnės raidės ir ženklai patogiausiose vietose;
+ - _dažnesnės raidės ir ženklai patogiausiose vietose;
  - darbo krūvio paskirstymas pagal pirštų pajėgumą;
  - spausdinimo sklandumas, rankų ir pirštų kaitaliojimas spausdinant, sutinkant su kalbos ritmu;
  - kuo mažiau vieno piršto mygtukų paspaudimų iš eilės;
