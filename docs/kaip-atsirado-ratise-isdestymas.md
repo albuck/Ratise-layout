@@ -17,7 +17,7 @@ Taip tobulinant Remigijaus išdėstymą ir užgimė [Tikrinė](images/sena_tikri
 
 Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių stengtasi laikytis):
 
- - dažnesnės raidės ir ženklai patogiausiose vietose;
+ _- dažnesnės raidės ir ženklai patogiausiose vietose;
  - darbo krūvio paskirstymas pagal pirštų pajėgumą;
  - spausdinimo sklandumas, rankų ir pirštų kaitaliojimas spausdinant, sutinkant su kalbos ritmu;
  - kuo mažiau vieno piršto mygtukų paspaudimų iš eilės;
@@ -39,7 +39,7 @@ Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių st
  - atsižvelgti į anglų kalbos teksto rinkimo patogumą;
  - atsižvelgti į raidžių su uždėtiniais ženkleliais rinkimo patogumą;
  - jeigu ženklo vieta labai nežymiai veikia lietuvių kalbos teksto rinkimo patogumą ir ženkliai programavimo kalbų teksto rinkimą, teikti pirmenybę programavimo kalbų teksto rinkimui;
- - kuo paprastesnis tekstas, tuo lengviau jį turėtų būti rinkti.
+ - kuo paprastesnis tekstas, tuo lengviau jį turėtų būti rinkti._
 
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
