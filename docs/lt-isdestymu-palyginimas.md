@@ -179,7 +179,7 @@ __Išsamiau:__
  - [QWERTZ (Typografie Mk2) (ISO), Neo 2 (ANSI), BÉPO (ISO), Latvių ŪGJRMV (ISO), AZERTY (ISO)](http://patorjk.com/keyboard-layout-analyzer/#/load/9rNNMW7N)
  - [MTGAP (ANSI), Capewell (ANSI), Norman (ANSI), QWERFJ (ANSI), TNWMLC (Worst CarpalX layout) (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/PzRkvPG6)
  - [QGMLWY (ANSI), Acemak 1 (ANSI), Asset (ANSI), OISEAU (ANSI), ABCDEF (ANSI)](http://patorjk.com/keyboard-layout-analyzer/#/load/LnjglDkK)
- - Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI), Ratise (ANSI) (su papildomu brūkšneliu), Ratise (ISO+ANSI) (su papildomu brūkšneliu) — [1](http://patorjk.com/keyboard-layout-analyzer/#/load/4xbdPkNb), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/VWwzGC1n)
+ - Ratise (ANSI), Ratise (ISO), Ratise (L), Ratise (ISO+ANSI), Ratise (ANSI) (su papildomu brūkšneliu), Ratise (ISO+ANSI) (su papildomu brūkšneliu) — [patikra-1](http://patorjk.com/keyboard-layout-analyzer/#/load/4xbdPkNb), [patikra-2](http://patorjk.com/keyboard-layout-analyzer/#/load/VWwzGC1n)
 
 <br>
 
