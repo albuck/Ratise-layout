@@ -17,29 +17,29 @@ Taip tobulinant Remigijaus išdėstymą ir užgimė [Tikrinė](images/sena_tikri
 
 Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių stengtasi laikytis):
 
- - _dažnesnės raidės ir ženklai patogiausiose vietose;
- - darbo krūvio paskirstymas pagal pirštų pajėgumą;
- - spausdinimo sklandumas, rankų ir pirštų kaitaliojimas spausdinant, sutinkant su kalbos ritmu;
- - kuo mažiau vieno piršto mygtukų paspaudimų iš eilės;
- - kuo mažiau vienos rankos pirštų paspaudimų iš eilės;
- - dažnesnių raidžių samplaikų rinkimo vienos rankos pirštais patogumas;
- - vienos rankos pirštų (ypatingai nejudresnių) nepatogių žirkliavimų vengimas (tai kai vienas pirštas žemyn ir gretimas iškart aukštyn);
- - vengti raidžių viršutinėje skaičių eilėje;
- - išdėstymo nepriklausomumas nuo kokio vieno klaviatūros darybos pavidalo (ar teksto rinkimo stiliaus), esant pasirinkimui — pirmenybė ergonomiškam išdėstymui;
- - visų išdėstymo galimų keturių lygių išnaudojimas;
- - įtrauktinų į išdėstymą ženklų aibės parinkimas, ženklų paskirstymas ir išdėstymas pagal jų vartojimo platumą ir vartojimo sritį;
- - ženklų pagal vartojimo platumą paskirstymas lygiuose, pirmame lygyje dažniau ir plačiau vartojami ženklai, ketvirtame rečiau reikalingi ženklai, tęstiniuose lygiuose rečiausiai ir siauriausiai naudojami ženklai;
- - ženklų išdėstymo įsimenamumas, ženklų dėstymo tvarkingumas ir sąsajumas per kelis lygius (netgi kai tai galimai ar nevienareikšmiškai šiek tiek (nežymiai) atskirais atvejais menkina išdėstymo patogumą);
- - pageidautina, kad ženklai viename mygtukai būtų pakankamai skirtingi savo išvaizda;
- - kai ženklo vieta nėra apspręsta išdėstymo patogumo arba tas patogumas nėra vienareikšmis — prisilaikyti kokio nors žinomesnio kitokio išdėstymo ar kokio esamo standarto, ar ženklų tame mygtuke kokio nors vidinio ar išorinio sąsajumo;
- - neturėtų būti mygtuko su visuose lygiuose labai retai naudojamais ženklais;
- - pirmenybę teikti paprasto lietuviško teksto rinkimo patogumui;
- - atsižvelgti į programavimo kalbų teksto rinkimo patogumą;
- - atsižvelgti į skaitmenų rinkimo patogumą;
- - atsižvelgti į anglų kalbos teksto rinkimo patogumą;
- - atsižvelgti į raidžių su uždėtiniais ženkleliais rinkimo patogumą;
- - jeigu ženklo vieta labai nežymiai veikia lietuvių kalbos teksto rinkimo patogumą ir ženkliai programavimo kalbų teksto rinkimą, teikti pirmenybę programavimo kalbų teksto rinkimui;
- - kuo paprastesnis tekstas, tuo lengviau jį turėtų būti rinkti._
+ - _dažnesnės raidės ir ženklai patogiausiose vietose;_
+ - _darbo krūvio paskirstymas pagal pirštų pajėgumą;_
+ - _spausdinimo sklandumas, rankų ir pirštų kaitaliojimas spausdinant, sutinkant su kalbos ritmu;_
+ - _kuo mažiau vieno piršto mygtukų paspaudimų iš eilės;_
+ - _kuo mažiau vienos rankos pirštų paspaudimų iš eilės;_
+ - _dažnesnių raidžių samplaikų rinkimo vienos rankos pirštais patogumas;_
+ - _vienos rankos pirštų (ypatingai nejudresnių) nepatogių žirkliavimų vengimas (tai kai vienas pirštas žemyn ir gretimas iškart aukštyn);_
+ - _vengti raidžių viršutinėje skaičių eilėje;_
+ - _išdėstymo nepriklausomumas nuo kokio vieno klaviatūros darybos pavidalo (ar teksto rinkimo stiliaus), esant pasirinkimui — pirmenybė ergonomiškam išdėstymui;_
+ - _visų išdėstymo galimų keturių lygių išnaudojimas;_
+ - _įtrauktinų į išdėstymą ženklų aibės parinkimas, ženklų paskirstymas ir išdėstymas pagal jų vartojimo platumą ir vartojimo sritį;_
+ - _ženklų pagal vartojimo platumą paskirstymas lygiuose, pirmame lygyje dažniau ir plačiau vartojami ženklai, ketvirtame rečiau reikalingi ženklai, tęstiniuose lygiuose rečiausiai ir siauriausiai naudojami ženklai;_
+ - _ženklų išdėstymo įsimenamumas, ženklų dėstymo tvarkingumas ir sąsajumas per kelis lygius (netgi kai tai galimai ar nevienareikšmiškai šiek tiek (nežymiai) atskirais atvejais menkina išdėstymo patogumą);_
+ - _pageidautina, kad ženklai viename mygtukai būtų pakankamai skirtingi savo išvaizda;_
+ - _kai ženklo vieta nėra apspręsta išdėstymo patogumo arba tas patogumas nėra vienareikšmis — prisilaikyti kokio nors žinomesnio kitokio išdėstymo ar kokio esamo standarto, ar ženklų tame mygtuke kokio nors vidinio ar išorinio sąsajumo;_
+ - _neturėtų būti mygtuko su visuose lygiuose labai retai naudojamais ženklais;_
+ - _pirmenybę teikti paprasto lietuviško teksto rinkimo patogumui;_
+ - _atsižvelgti į programavimo kalbų teksto rinkimo patogumą;_
+ - _atsižvelgti į skaitmenų rinkimo patogumą;_
+ - _atsižvelgti į anglų kalbos teksto rinkimo patogumą;_
+ - _atsižvelgti į raidžių su uždėtiniais ženkleliais rinkimo patogumą;_
+ - _jeigu ženklo vieta labai nežymiai veikia lietuvių kalbos teksto rinkimo patogumą ir ženkliai programavimo kalbų teksto rinkimą, teikti pirmenybę programavimo kalbų teksto rinkimui;_
+ - _kuo paprastesnis tekstas, tuo lengviau jį turėtų būti rinkti._
 
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
