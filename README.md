@@ -113,7 +113,7 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [RATISĖS IŠDĖSTYMO TRŪKUMAI IR JŲ APĖJIMO BŪDAI](docs/ratises-trukumu-apejimas.md)
 - [RATISĖ SKIRTINGOS DARYBOS KLAVIATŪROSE](docs/ratise-skirtingos-darybos-klaviaturose.md)
 - [RATISĖ STAČIAKAMPIO MYGTUKŲ IŠDĖSTYMO KLAVIATŪROSE](docs/ratise-staciakampese-klaviaturose.md)
-- [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI](docs/mygtuku-spaudeliojimo-daznumai.md)
+- [RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI IR IŠDĖSTYMO NAŠUMAS](docs/mygtuku-spaudeliojimo-daznumai.md)
 - [KAIP IR KODĖL ATSIRADO RATISĖS IŠDĖSTYMAS](docs/kaip-atsirado-ratise-isdestymas.md)
 
 ### Teksto rinkimas klaviatūra visais pirštais nežiūrint:
