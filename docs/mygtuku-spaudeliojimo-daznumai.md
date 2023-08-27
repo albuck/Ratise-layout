@@ -34,7 +34,7 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
 <br>
 
-### Ratisės našumo testas lietuviškam tekstui:
+### Ratisės našumo patikra lietuviškam tekstui:
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.42__
    2. QGRLDČ LEKP (ISO) — 57.94
@@ -61,7 +61,7 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
 <br>
 
-### Ratisės našumo testas angliškam tekstui:
+### Ratisės našumo patikra angliškam tekstui:
 
    1. __Ratise (ISO) — 62.43__
    2. QGRLDČ LEKP (ISO) — 61.04
@@ -88,7 +88,7 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 <br>
 
-### Ratisės našumo testas programavimo tekstui:
+### Ratisės našumo patikra programavimo tekstui:
 
    1. __ŪĖYOQJ Ratise (ISO) — 45.97__
    2. QGRLDČ LEKP (ISO) — 40.92
