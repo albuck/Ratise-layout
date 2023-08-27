@@ -42,6 +42,8 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
    4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
    5. QWERTY Baltic-Numeric (ISO) — 46.40
 
+<br>
+
 __Šaltinis:__ [Keyboard Layout Analyzer _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB)
 
 <br>
@@ -67,6 +69,8 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
    4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
    5. ĄŽERTY LT Standard 2000 (ISO) — 47.12
 
+<br>
+
 __Šaltinis:__ [Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm)
 
 <br>
@@ -91,6 +95,8 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
    3. QWERTY Baltic-Numeric (ISO) — 34.18
    4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
    5. ĄŽERTY LT Standard 2000 (ISO) — 33.54
+
+<br>
 
 __Šaltinis:__ [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
 
