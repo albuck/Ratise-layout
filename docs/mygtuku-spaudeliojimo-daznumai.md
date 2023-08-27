@@ -1,5 +1,5 @@
 
-# RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI
+# RATISĖS MYGTUKŲ SPAUDELIOJIMO DAŽNUMAI IR IŠDĖSTYMO NAŠUMAS
 
 Mygtukų paspaudimo dažnumas yra iš anksto apspręstas raidžių dažnumo lietuviškame rašte ([iasteourknlpmdvjėgšbžyųąįūčęczhf](lt-raidziu-daznumas.txt)):
 
@@ -32,7 +32,16 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 |    Pirštų užimtumas:   |   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   |
 |Pirštų nueitas atstumas:|   7,5%   |   7,0%    |    7,7%  |   12,3%  |   0,2% |   26,5%  |   20,9%  |    5,9%   |  12,0%   |
 
-- Šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB)
+
+### Ratisės našumo testas lietuviškam tekstui:
+
+   1. __ŪĖYOQJ Ratise (ISO) — 67.42__
+   2. QGRLDČ LEKP (ISO) — 57.94
+   3. ĄŽERTY LT Standard 2000 (ISO) — 47.29
+   4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
+   5. QWERTY Baltic-Numeric (ISO) — 46.40
+
+- Šaltinis: [Keyboard Layout Analyzer _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB)
 
 <br>
 
@@ -47,7 +56,16 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 |    Pirštų užimtumas:   |   4,3%   |   9,5%    |    6,7%  |   17,0%  |  19,5% |   14,1%  |   13,1%  |    6,3%   |   9,4%   |
 |Pirštų nueitas atstumas:|   4,6%   |   0,6%    |    4,1%  |   19,9%  |   8,8% |   18,2%  |   13,9%  |    4,0%   |  25,8%   |
 
-- Šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm)
+
+### Ratisės našumo testas angliškam tekstui:
+
+   1. __Ratise (ISO) — 62.43__
+   2. QGRLDČ LEKP (ISO) — 61.04
+   3. QWERTY Baltic-Numeric (ISO) — 52.89
+   4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
+   5. ĄŽERTY LT Standard 2000 (ISO) — 47.12
+
+- Šaltinis: [Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm)
 
 <br>
 
@@ -61,6 +79,15 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 |------------------------|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |    Pirštų užimtumas:   |   8,0%   |   7,4%    |   6,8%   |   13,4%  |  15,6% |   15,3%  |   9,9%   |    9,8%   |   13,9%  |
 |Pirštų nueitas atstumas:|  11,5%   |   1,1%    |   2,4%   |    8,3%  |  25,8% |   14,0%  |   6,8%   |    9,1%   |   20,9%  |
+
+
+### Ratisės našumo testas programavimo tekstui:
+
+   1. __ŪĖYOQJ Ratise (ISO) — 45.97__
+   2. QGRLDČ LEKP (ISO) — 40.92
+   3. QWERTY Baltic-Numeric (ISO) — 34.18
+   4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
+   5. ĄŽERTY LT Standard 2000 (ISO) — 33.54
 
 - Šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
 
