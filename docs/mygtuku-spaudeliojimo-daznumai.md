@@ -38,7 +38,7 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.42__
    2. QGRLDČ LEKP (ISO) — 57.94
-   3. ĄŽERTY LT Standard 2000 (ISO) — 47.29
+   3. ĄŽERTY LT Standard 2000 (ISO) — 47.29*
    4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
    5. QWERTY Baltic-Numeric (ISO) — 46.40
 
@@ -67,7 +67,7 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
    2. QGRLDČ LEKP (ISO) — 61.04
    3. QWERTY Baltic-Numeric (ISO) — 52.89
    4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
-   5. ĄŽERTY LT Standard 2000 (ISO) — 47.12
+   5. ĄŽERTY LT Standard 2000 (ISO) — 47.12*
 
 <br>
 
@@ -94,7 +94,7 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
    2. QGRLDČ LEKP (ISO) — 40.92
    3. QWERTY Baltic-Numeric (ISO) — 34.18
    4. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
-   5. ĄŽERTY LT Standard 2000 (ISO) — 33.54
+   5. ĄŽERTY LT Standard 2000 (ISO) — 33.54*
 
 <br>
 
@@ -102,7 +102,9 @@ __Šaltinis:__ [Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python
 
 <br>
 
-__Pastaba.__ Kai išdėstyme kokie nors spaudos ženklai yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas.
+__Pastabos:__
+- kai išdėstyme kokie nors spaudos ženklai yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas;
+- _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) — siūlomoji tvarka pasirodo prasčiau.
 
 -------------------------
 
