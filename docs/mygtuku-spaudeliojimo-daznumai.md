@@ -102,6 +102,8 @@ __Šaltinis:__ [Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python
 
 <br>
 
+__Pastaba.__ Kai išdėstyme kokie nors spaudos ženklai yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas.
+
 -------------------------
 
 [Lietuviškų klaviatūros išdėstymų našumo patikros](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html)
