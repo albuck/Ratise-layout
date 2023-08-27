@@ -98,7 +98,7 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 <br>
 
-__Šaltinis:__ [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
+__Šaltinis:__ [Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
 
 <br>
 
