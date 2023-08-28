@@ -31,7 +31,7 @@ __Šaltinis:__ [Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_](http:
    1. ŪĖYOQJ Ratise (Ergodox) — numatytasis — 56.35
    2. ŪĖYOQJ Ratise (Ergodox) — patvarkytas — 55.76
 
-__Šaltinis:__ [Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_](http://patorjk.com/keyboard-layout-analyzer/#/load/XxKw0851)
+     __Šaltinis:__ [Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_](http://patorjk.com/keyboard-layout-analyzer/#/load/XxKw0851)
 
 <br>
 
