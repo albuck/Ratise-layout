@@ -9,8 +9,8 @@ Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėst
 
 <br>
 
-## Ergodox / Kinesis Advantage (pertvarkytas-pagerintas):
-![Ergodox/Kinesis patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
+## Ergodox / Kinesis Advantage (patvarkytas):
+![Ergodox/Kinesis patvarkytas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
 
 <br>
 
