@@ -36,20 +36,25 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
 ### Ratisės našumo patikra lietuviškam tekstui:
 
-   1. __ŪĖYOQJ Ratise (ANSI) — 67.64__
-   2. __ŪĖYOQJ Ratise (ISO) — 67.42__
-   3. QGRLDČ LEKPa (ANSI) — 58.07
-   4. QGRLDČ LEKP (ISO) — 57.94
-   5. ĄŽERTY LT Standard 2000 (ANSI) — 47.74*
-   6. ĄŽERTY LT Standard 2000 (ISO) — 47.29*
-   7. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 46.95
-   8. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
-   9. QWERTY Baltic-Numeric (ISO) — 46.40
-   10. QWERTY Baltic-Numeric (ANSI) — 46.10
+   1. __ŪĖYOQJ Ratise (Ergodox) — 68.61__
+   2. __ŪĖYOQJ Ratise (ANSI) — 67.64__
+   3. __ŪĖYOQJ Ratise (ISO) — 67.42__
+   4. QGRLDČ LEKP (Ergodox) — 60.81
+   5. QGRLDČ LEKPa (ANSI) — 58.07
+   6. QGRLDČ LEKP (ISO) — 57.94
+   7. ĄŽERTY LT Standard 2000 (Ergodox) — 48.54
+   8. ĄŽERTY IBM, LT Standard 1992 (Ergodox) — 48.01
+   9. ĄŽERTY LT Standard 2000 (ANSI) — 47.74*
+   10. ĄŽERTY LT Standard 2000 (ISO) — 47.29*
+   11. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 46.95
+   12. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
+   13. QWERTY Baltic-Numeric (Ergodox) — 46.51
+   14. QWERTY Baltic-Numeric (ISO) — 46.40
+   15. QWERTY Baltic-Numeric (ANSI) — 46.10
 
 <br>
 
-__Šaltiniai__ — Keyboard Layout Analyzer _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81), []()
+__Šaltiniai__ — Keyboard Layout Analyzer _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81), [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/j3vlH9WZ)
 
 <br>
 
@@ -68,20 +73,25 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
 ### Ratisės našumo patikra angliškam tekstui:
 
-   1. __ŪĖYOQJ Ratise (ANSI) — 62.52__
-   2. __ŪĖYOQJ Ratise (ISO) — 62.43__
-   3. QGRLDČ LEKP (ISO) — 61.04
-   4. QGRLDČ LEKPa (ANSI) — 60.63
-   5. QWERTY Baltic-Numeric (ANSI) — 53.04
-   6. QWERTY Baltic-Numeric (ISO) — 52.89
-   7. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 48.97
-   8. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
-   9. ĄŽERTY LT Standard 2000 (ANSI) — 47.22*
-   10. ĄŽERTY LT Standard 2000 (ISO) — 47.12*
+   1. __ŪĖYOQJ Ratise (Ergodox) — 64.87__
+   2. __ŪĖYOQJ Ratise (ANSI) — 62.52__
+   3. __ŪĖYOQJ Ratise (ISO) — 62.43__
+   4. QGRLDČ LEKP (Ergodox) — 61.86
+   5. QGRLDČ LEKP (ISO) — 61.04
+   6. QGRLDČ LEKPa (ANSI) — 60.63
+   7. QWERTY Baltic-Numeric (Ergodox) — 54.33
+   8. ĄŽERTY IBM, LT Standard 1992 (Ergodox) —53.70
+   9. QWERTY Baltic-Numeric (ANSI) — 53.04
+   10. QWERTY Baltic-Numeric (ISO) — 52.89
+   11. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 48.97
+   12. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
+   13. ĄŽERTY LT Standard 2000 (Ergodox) — 48.21
+   14. ĄŽERTY LT Standard 2000 (ANSI) — 47.22*
+   15. ĄŽERTY LT Standard 2000 (ISO) — 47.12*
 
 <br>
 
-__Šaltiniai__ — Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/88skV92F), []()
+__Šaltiniai__ — Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/88skV92F), [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/z12tW3Lb)
 
 <br>
 
@@ -100,20 +110,25 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 ### Ratisės našumo patikra programavimo tekstui:
 
-   1. __ŪĖYOQJ Ratise (ANSI) — 46.82__
-   2. __ŪĖYOQJ Ratise (ISO) — 45.97__
-   3. QGRLDČ LEKP (ISO) — 40.92
-   4. QGRLDČ LEKPa (ANSI) — 40.32
-   5. ĄŽERTY LT Standard 2000 (ANSI) — 36.59
-   6. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 35.86
-   7. QWERTY Baltic-Numeric (ANSI) — 34.72
-   8. QWERTY Baltic-Numeric (ISO) — 34.18
-   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
-   10. ĄŽERTY LT Standard 2000 (ISO) — 33.54*
+   1. __ŪĖYOQJ Ratise (Ergodox) — 55.76__
+   2. QGRLDČ LEKP (Ergodox) — 52.90
+   3. __ŪĖYOQJ Ratise (ANSI) — 46.82__
+   4. __ŪĖYOQJ Ratise (ISO) — 45.97__
+   5. QGRLDČ LEKP (ISO) — 40.92
+   6. QGRLDČ LEKPa (ANSI) — 40.32
+   7. QWERTY Baltic-Numeric (Ergodox) — 39.83
+   8. ĄŽERTY IBM, LT Standard 1992 (Ergodox) — 39.61
+   9. ĄŽERTY LT Standard 2000 (Ergodox) — 39.31
+   10. ĄŽERTY LT Standard 2000 (ANSI) — 36.59
+   11. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 35.86
+   12. QWERTY Baltic-Numeric (ANSI) — 34.72
+   13. QWERTY Baltic-Numeric (ISO) — 34.18
+   14. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
+   15. ĄŽERTY LT Standard 2000 (ISO) — 33.54*
 
 <br>
 
-__Šaltiniiai__ — Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/5KK2VlQ1), []()
+__Šaltiniiai__ — Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/5KK2VlQ1), [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/sBxvL6Kx)
 
 <br>
 
