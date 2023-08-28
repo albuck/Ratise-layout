@@ -4,13 +4,13 @@ Ratisės išdėstymas klaviatūrose su stačiakampiškai (neskersuotai) išdėst
 
 <br>
 
-## Kinesis/Ergodox (numatytasis):
-![Kinesis/Ergodox numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg)
+## Ergodox / Kinesis Advantage (numatytasis):
+![Ergodox/Kinesis numatytasis (svg)](images/kb-lt-ratise-kinesis-ergodox.svg)
 
 <br>
 
-## Kinesis/Ergodox (pertvarkytas-pagerintas):
-![Kinesis/Ergodox patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
+## Ergodox / Kinesis Advantage (pertvarkytas-pagerintas):
+![Ergodox/Kinesis patvarkytas-pagerintas (svg)](images/kb-lt-ratise-kinesis-ergodox-patvarkytas.svg)
 
 <br>
 
