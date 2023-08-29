@@ -10,8 +10,8 @@ _Sudurtinio įvedimo mygtuku_ <kbd>⎄</kbd> (angliškai vadinamas _Multi key_ a
 
 Plačiau apie sudurtinį įvedimą (angliškai):
 
-- [Compose key (Wikipedia)](https://en.wikipedia.org/wiki/Compose_key)
-- [ComposeKey (help.ubuntu.com)](https://help.ubuntu.com/community/ComposeKey)
+- [Compose key (Wikipedia)](https://en.wikipedia.org/wiki/Compose_key){:target="_blank"}
+- [ComposeKey (help.ubuntu.com)](https://help.ubuntu.com/community/ComposeKey){:target="_blank"}
 
 
 -----------------------------------------
