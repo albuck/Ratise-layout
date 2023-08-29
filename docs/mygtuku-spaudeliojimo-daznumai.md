@@ -54,7 +54,7 @@ __Lietuviškos pasakos iš Basanavičiaus rinkinio:__
 
 <br>
 
-__Šaltiniai__ — Keyboard Layout Analyzer _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81), [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/j3vlH9WZ)
+__Šaltiniai__ — Keyboard Layout Analyzer _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB){:target="_blank"}, [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81){:target="_blank"}, [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/j3vlH9WZ){:target="_blank"}
 
 <br>
 
@@ -91,7 +91,7 @@ __Angliškas grožinis tekstas (Alice in Wonderland, Chapter 1):__
 
 <br>
 
-__Šaltiniai__ — Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/88skV92F), [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/z12tW3Lb)
+__Šaltiniai__ — Keyboard Layout Analyzer _Alice in Wonderland, Chapter 1_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm){:target="_blank"}, [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/88skV92F){:target="_blank"}, [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/z12tW3Lb){:target="_blank"}
 
 <br>
 
@@ -128,7 +128,7 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
 
 <br>
 
-__Šaltiniiai__ — Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn), [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/5KK2VlQ1), [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/sBxvL6Kx)
+__Šaltiniiai__ — Keyboard Layout Analyzer _Bash, C, CPP, HTML, JavaScript, Python_: [ISO](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn){:target="_blank"}, [ANSI](http://patorjk.com/keyboard-layout-analyzer/#/load/5KK2VlQ1){:target="_blank"}, [Ergodox](http://patorjk.com/keyboard-layout-analyzer/#/load/sBxvL6Kx){:target="_blank"}
 
 <br>
 
@@ -136,12 +136,12 @@ __Pastabos:__
 
 - _Ergodox_ (arba ir _Kinesis Advantage_) kraštiniai mygtukai kiek patvarkyti visuose išdėstymuose.
 - kai išdėstyme kokie nors spaudos ženklai yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas;
-- _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) — siūlomoji tvarka pasirodo prasčiau.
+- _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html){:target="_blank"} — siūlomoji tvarka pasirodo prasčiau.
 
 -------------------------
 
-[Lietuviškų klaviatūros išdėstymų našumo patikros](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html)
+[Lietuviškų klaviatūros išdėstymų našumo patikros](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html){:target="_blank"}
 
-[Lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-statistines-lenteles.html)
+[Lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-statistines-lenteles.html){:target="_blank"}
 
 [Į pradžią](../README.md)
