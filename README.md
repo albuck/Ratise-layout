@@ -84,13 +84,13 @@ __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raid�
 + _Kuo paprastesnis tekstas, tuo lengviau yra jį rinkti Ratisės išdėstymu._
 + _Kuo ergonomiškesnė fizinė klaviatūra, tuo našesnis Ratisės išdėstymas._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogus ir lengvai įsimenamas._
-+ _Ratisės išdėstymas suderinamas su [ISO, ANSI](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png) bei dar kitokios darybos klaviatūromis._
++ _Ratisės išdėstymas suderinamas su [ISO, ANSI](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png){:target="_blank"} bei dar kitokios darybos klaviatūromis._
 
 __Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
-- [Keyboard Layout Analyzer (KLAnext)](https://klanext.keyboard-design.com/#/main) — [Paprasti rašiniai (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)
-- [Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Paprasti rašiniai (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png)
-- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS),  [‘Lietuviškos pasakos’](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81), [‘Lietuvos Respublikos Konstitucija’](http://patorjk.com/keyboard-layout-analyzer/#/load/FKxkC94M), [Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/FtrXp5xW), [‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
+- [Keyboard Layout Analyzer (KLAnext)](https://klanext.keyboard-design.com/#/main){:target="_blank"} — [Paprasti rašiniai (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png){:target="_blank"}
+- [Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main){:target="_blank"} — [Paprasti rašiniai (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png){:target="_blank"}
+- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about){:target="_blank"} — [Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS){:target="_blank"},  [‘Lietuviškos pasakos’](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81){:target="_blank"}, [‘Lietuvos Respublikos Konstitucija’](http://patorjk.com/keyboard-layout-analyzer/#/load/FKxkC94M){:target="_blank"}, [Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/FtrXp5xW){:target="_blank"}, [‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn){:target="_blank"}
 
 <br>
  
@@ -129,11 +129,11 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
 
 ### Ratisės išdėstymo palyginimai su kitais klaviatūrų išdėstymais:
-- [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PATIKROS](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html)
+- [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PATIKROS](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html){:target="_blank"}
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
 ### Ratisės papildymai:
-- [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](https://github.com/albuck/ratise_kitakalbe)
+- [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](https://github.com/albuck/ratise_kitakalbe){:target="_blank"}
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 
 -----------------------------------------------
@@ -143,27 +143,27 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 ## Kitos naudingos nuorodos
 
 ### Lietuviški klaviatūrų išdėstymai:
-- [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
-- [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
-- [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
-- [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/)
-- [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/)
+- [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/){:target="_blank"}
+- [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/){:target="_blank"}
+- [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/){:target="_blank"}
+- [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/){:target="_blank"}
+- [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/){:target="_blank"}
 
 
 ### Spausdinimo klaviatūra pratybos:
-- [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/)
-- [Touch Typing Practice](https://www.typingstudy.com/)
-- [TypingGames](https://www.typinggames.zone/)
-- [Typing Games - Learn...](https://www.typing.com/student/games)
+- [Lietuviškos klaviatūros žaidimas treniruoklis](https://www.lietutis.lt/){:target="_blank"}
+- [Touch Typing Practice](https://www.typingstudy.com/){:target="_blank"}
+- [TypingGames](https://www.typinggames.zone/){:target="_blank"}
+- [Typing Games - Learn...](https://www.typing.com/student/games){:target="_blank"}
 
 
 ### Papildomi ištekliai:
-- [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html)
-- [Deskthority wiki](https://deskthority.net/wiki/Main_Page)
-- [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html)
-- [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html)
-- [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/)
-- [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)
-- [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis)
-- [Keyboard layouts standard ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995)
+- [Standartinė ergonomiška klaviatūra (apmatai)](https://albuck.github.io/SEL-keyboard/SKAITYK.html){:target="_blank"}
+- [Deskthority wiki](https://deskthority.net/wiki/Main_Page){:target="_blank"}
+- [Ergonomic Keyboard Reviews](http://xahlee.info/kbd/ergonomic_keyboards_index.html){:target="_blank"}
+- [Do-It-Yourself Keyboards](http://xahlee.info/kbd/diy_keyboards_index.html){:target="_blank"}
+- [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/){:target="_blank"}
+- [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main){:target="_blank"}
+- [Frequency Analysis Tool](https://www.dcode.fr/frequency-analysis){:target="_blank"}
+- [Keyboard layouts standard ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995){:target="_blank"}
 
