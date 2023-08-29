@@ -87,12 +87,12 @@ __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raid�
 
 __Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
-- [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Paprasti rašiniai (KLAnext, nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)
-- [Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Paprasti rašiniai (SP, nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png)
-- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Paprasti rašiniai (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS)
-- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [‘Lietuvos Respublikos Konstitucija’ (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/load/FKxkC94M)
-- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Wikipedia “Physics” (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/load/FtrXp5xW)
-- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [‘Bash, C, CPP, HTML, JavaScript, Python’ (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
+- [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Paprasti rašiniai (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)
+- [Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Paprasti rašiniai (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png)
+- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS)
+- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [‘Lietuvos Respublikos Konstitucija’](http://patorjk.com/keyboard-layout-analyzer/#/load/FKxkC94M)
+- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/FtrXp5xW)
+- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn)
 
 <br>
  
