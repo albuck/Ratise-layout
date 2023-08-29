@@ -3,17 +3,17 @@
 
 Tikriausiai akivaizdu, kad kiek profesionalesnis kompiuterio naudojimas reikalauja gerų teksto rinkimo klaviatūra įgūdžių… Taigi, pradėjęs mokytis rinkti tekstus visais pirštais (lietuvišku _ĄŽERTY Standartiniu_ išdėstymu, jis ne ką geresnis už _QWERTY Baltic-Numeric_), nežiūrint į klaviatūrą, susidūriau su nepatogumais ir pirštų skausmais. Spausdinant tokiu nevykusiu išdėstymu pirštai padrikai šokinėja po klaviatūrą ir dažnai į nepatogias vietas. Vieni pirštai „tinginiauja“, kiti gi — persidirba. Toks išdėstymas neturi jokios logikos ir yra sunkiai įsimenamas. Tai suvokęs, priėjau išvados, kad turėtų būti geresnis sprendimas. Taip to geresnio sprendimo ieškojimas ir atvedė mane į [VLKK](http://www.vlkk.lt/) diskusijas (panaikintos). Kur ir užsimezgė būsimoji Ratisė:
 
-+ [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html)
++ [„Ergonomiška klaviatūra“ (iš web.archive.org)](https://web.archive.org/web/20071101094827/http://www.vlkk.lt/diskusijos/tema.3095.1.html){:target="_blank"}
 
 Laimei, tuose pokalbiuose atradau Remigijų, jo naudingus patarimus bei jo sukurtą išdėstymą:
 
-+ [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html)
++ [„Lietuviškos klaviatūros apmatai“ (iš web.archive.org)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html){:target="_blank"}
 
 Šis Remigijaus lietuviškas klaviatūros išdėstymas ir tapo Ratisės išeities tašku.
 
 Pradėjęs bandyti Remigijaus išdėstymą ir jame radau dalykų, kurie man netiko, pirmiausia, norėjau išlyginti spausdinimo krūvį tenkantį pirštams pagal tų pirštų pajėgumą: pertvarkiau kairės rankos balsių skiltis. Antra, pašalinau dešinės rankos mažojo piršto dažnokus ir nepatogius raidžių derinius ```dž``` ir ```šč```.  Gavau ir dalykiškų pastabų — „dažnai reikalingi skyrybos ženklai trečiame lygyje!“ — tikrai negerai, taigi, skyrybos ženklai nukeliavo viršun. Nelietuviškos raidės iš trečiojo lygio nukeliavo į laisvus mygtukus. Gavau pagalbos skaičiuojant raidžių dažnius lietuviškame rašte. Padėka pagelbėjusiems.
 
-Taip tobulinant Remigijaus išdėstymą ir užgimė [Tikrinė](images/sena_tikrine.png) — ne „tikroji“, kaip tikėjausi, o „tikrinamoji“. Ir taip, juk tai buvo tik sumąstytas ir nupieštas išdėstymas, spausdinti aš juo nemokėjau, bei ir šiaip, apie visus tuos klaviatūrų reikalus mažai teišmaniau. Taigi, tikrai įvertinti ir išbaigti išdėstymo negalėjau. Tolimesniam išdėstymo tobulinimui reikėjo išmokti juo spausdinti ir visokeriopai išbandyti. Tai darant teko keisti kai kuriuos nevykusius sprendimus, ieškoti kitų — geresnių. Kaip žmonės sako: „gyveni ir mokais“…
+Taip tobulinant Remigijaus išdėstymą ir užgimė [Tikrinė](images/sena_tikrine.png){:target="_blank"} — ne „tikroji“, kaip tikėjausi, o „tikrinamoji“. Ir taip, juk tai buvo tik sumąstytas ir nupieštas išdėstymas, spausdinti aš juo nemokėjau, bei ir šiaip, apie visus tuos klaviatūrų reikalus mažai teišmaniau. Taigi, tikrai įvertinti ir išbaigti išdėstymo negalėjau. Tolimesniam išdėstymo tobulinimui reikėjo išmokti juo spausdinti ir visokeriopai išbandyti. Tai darant teko keisti kai kuriuos nevykusius sprendimus, ieškoti kitų — geresnių. Kaip žmonės sako: „gyveni ir mokais“…
 
 __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių stengtasi laikytis):__
 
@@ -147,11 +147,11 @@ Keitimo-valdymo mygtukų ženklinimų reikšmės:
 </details>
 <br>
 
-__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB).
+__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB){:target="_blank"}.
 
 
 -------------------------
 
-[Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/)
+[Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/){:target="_blank"}
 
 [Į pradžią](../README.md)
