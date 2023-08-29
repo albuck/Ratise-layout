@@ -88,7 +88,7 @@ __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raid�
 __Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
 - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Paprasti rašiniai (KLAnext)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png)
-- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS)
+- [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about) — [Paprasti rašiniai (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS)
 - [Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Paprasti rašiniai (SP)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png)
 
 <br>
