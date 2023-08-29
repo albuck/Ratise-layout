@@ -21,7 +21,7 @@ __Ratisės išdėstymas:__
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](docs/ratises-isdestymo-lygiai.md)
 
 <details>
-<summary>Ratisės lietuviško klaviatūros išdėstymo tekstinis braižinys</summary>
+<summary>Ratisės (ISO) lietuviško klaviatūros išdėstymo tekstinis braižinys</summary>
 <pre style="font-size: 60%">
 ╔═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═════╦═══════════╗
 ║ §   ║ ¤   ║ @   ║ #   ║ $   ║ %   ║ |   ║ &   ║ <   ║ >   ║ \   ║ W   ║ ~   ║ Backspace ║
