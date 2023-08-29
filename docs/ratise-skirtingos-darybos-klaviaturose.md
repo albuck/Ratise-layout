@@ -185,14 +185,14 @@ Mygtukų ženklinimų reikšmės:
 <br>
 
 __Labiau paplitusių klaviatūros darybos variantų našumo patikros:__
-- [Lietuviškas tekstas](http://patorjk.com/keyboard-layout-analyzer/#/load/bsBMfsNb)
-- [Programavimo tekstas](http://patorjk.com/keyboard-layout-analyzer/#/load/sqT0WNJV)
+- [Lietuviškas tekstas](http://patorjk.com/keyboard-layout-analyzer/#/load/bsBMfsNb){:target="_blank"}
+- [Programavimo tekstas](http://patorjk.com/keyboard-layout-analyzer/#/load/sqT0WNJV){:target="_blank"}
 
 <br>
 
 __Pastabos:__
 
-+ Klaviatūrose gali nebūti ne tik Ratisės <kbd>-</kbd> mygtuko (apačioje kairėje), bet ir Ratisės <kbd>+</kbd> mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995) klaviatūrų standarte nėra privalomi.
++ Klaviatūrose gali nebūti ne tik Ratisės <kbd>-</kbd> mygtuko (apačioje kairėje), bet ir Ratisės <kbd>+</kbd> mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995){:target="_blank"} klaviatūrų standarte nėra privalomi.
 + Pasitaiko klaviatūrų su dar kiek kitokiu kraštinių mygtukų išdėstymu.
 
 <br>
