@@ -171,7 +171,7 @@ z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 <details>
 <summary>Uždėtinio stogelio tęstinių lygių paveikslėliai</summary>
 
-![Ratisės išdėstymo uždėtinio žiedelio tęstinių lygių ženklai](images/stogelio-tęstiniai-lygiai.png)
+![Ratisės išdėstymo uždėtinio stogelio tęstinių lygių ženklai](images/stogelio-tęstiniai-lygiai.png)
 
 </details>
 <details>
@@ -1190,9 +1190,9 @@ z → ʑ (LOTYNŲ MAŽOJI RAIDĖ Z SU KILPA)
 ## Varnelė (viršuje) ```ˇ```:
 
 <details>
-<summary>Uždėtinio varnelės tęstinių lygių paveikslėliai</summary>
+<summary>Uždėtinės varnelės tęstinių lygių paveikslėliai</summary>
 
-![Ratisės išdėstymo uždėtinio varnelės tęstinių lygių ženklai](images/varnelės-tęstiniai-lygiai.png)
+![Ratisės išdėstymo uždėtinės varnelės tęstinių lygių ženklai](images/varnelės-tęstiniai-lygiai.png)
 
 </details>
 <details>
