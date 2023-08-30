@@ -34,6 +34,12 @@ Ratisės išdėstymas su visais spaudais keturiuose pagrindiniuose klaviatūros 
 
 ## Žiedelis viršuje ```˚```:
 <details>
+<summary>Uždėtinio žiedelio tęstinių lygių paveikslėliai</summary>
+
+![Ratisės išdėstymo uždėtinio žiedelio tęstinių lygių ženklai](images/žiedelio-tęstiniai-lygiai.png)
+
+</details>
+<details>
 <summary>Uždėtinio žiedelio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
 Pastaba: „░░“ rodo įjungtą mygtuką.
