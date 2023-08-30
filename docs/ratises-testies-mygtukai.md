@@ -165,7 +165,7 @@ z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 
 ## Stogelis viršuje ```ˆ```:
 
-<summary>Uždėtinio stogelio tęstinių lygių paveikslėliai:
+Uždėtinio stogelio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio stogelio tęstinių lygių ženklai](images/stogelio-tęstiniai-lygiai.png)
 
 <details>
