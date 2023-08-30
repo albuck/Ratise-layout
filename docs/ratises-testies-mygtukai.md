@@ -34,12 +34,9 @@ Ratisės išdėstymas su visais spaudais keturiuose pagrindiniuose klaviatūros 
 
 ## Žiedelis viršuje ```˚```:
 
-<details>
-<summary>Uždėtinio žiedelio tęstinių lygių paveikslėliai</summary>
-
+Uždėtinio žiedelio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio žiedelio tęstinių lygių ženklai](images/žiedelio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio žiedelio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -168,12 +165,9 @@ z → ζ (GRAIKŲ MAŽOJI RAIDĖ ZETA)
 
 ## Stogelis viršuje ```ˆ```:
 
-<details>
-<summary>Uždėtinio stogelio tęstinių lygių paveikslėliai</summary>
-
+<summary>Uždėtinio stogelio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio stogelio tęstinių lygių ženklai](images/stogelio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio stogelio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -309,12 +303,10 @@ w → ŵ (LOTYNŲ MAŽOJI RAIDĖ W SU STOGELIU)
 <br>
 
 ## Brūkšnys (viršuje) ```¯```:
-<details>
-<summary>Uždėtinio brūkšnio tęstinių lygių paveikslėliai</summary>
 
+Uždėtinio brūkšnio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio brūkšnio tęstinių lygių ženklai](images/brūkšnio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio brūkšnio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -440,12 +432,9 @@ z → ƶ (LOTYNŲ MAŽOJI RAIDĖ Z SU PERBRAUKIMU)
 
 ## Kairinis kirčio ženklas ``` ` ```:
 
-<details>
-<summary>Uždėtinio kairinio kirčio tęstinių lygių paveikslėliai</summary>
-
+Uždėtinio kairinio kirčio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio kairinio kirčio tęstinių lygių ženklai](images/kairinio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio kairinio kirčio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -548,12 +537,9 @@ w → ẁ (LOTYNŲ MAŽOJI RAIDĖ W SU KAIRINIU KIRČIU)
 
 ## Dešininis kirčio žeklas ```´```:
 
-<details>
-<summary>Uždėtinio dešininio kirčio tęstinių lygių paveikslėliai</summary>
-
+Uždėtinio dešininio kirčio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio dešininio kirčio tęstinių lygių ženklai](images/dešininio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio dešininio kirčio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -685,12 +671,8 @@ z → ź (LOTYNŲ MAŽOJI RAIDĖ Z SU DEŠININIU KIRČIU)
 
 ## Dutaškis (viršuje) ```¨```:
 
-<details>
-<summary>Uždėtinio dutaškio tęstinių lygių paveikslėliai</summary>
-
+Uždėtinio dutaškio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio dutaškio tęstinių lygių ženklai](images/dutaškio-tęstiniai-lygiai.png)
-
-</details>
 
 <details>
 <summary>Uždėtinio dutaškio tęstinių lygių tekstinis braižinys</summary>
@@ -808,12 +790,9 @@ x → ẍ (LOTYNŲ MAŽOJI RAIDĖ X SU DUTAŠKIU)
 
 ## Riestinis kirčio ženklas (bangelė) ```˜```:
 
-<details>
-<summary>Uždėtinio riestinio kirčio tęstinių lygių paveikslėliai</summary>
-
+Uždėtinio riestinio kirčio tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio riestinio kirčio tęstinių lygių ženklai](images/riestinio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio riestinio kirčio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -933,12 +912,10 @@ v → ṽ (LOTYNŲ MAŽOJI RAIDĖ V SU BANGELE)
 <br>
 
 ## Kablelis apačioje ```¸```:
-<details>
-<summary>Uždėtinio kablelio apačioje tęstinių lygių paveikslėliai</summary>
 
+Uždėtinio kablelio apačioje tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio kablelio apačioje tęstinių lygių ženklai](images/kablelio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio kablelio (cedilla) apačioje tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -1048,12 +1025,9 @@ z → ⚡ (AUKŠTOS ĮTAMPOS ŽENKLAS)
 
 ## Lankelis viršuje ```˘```:
 
-<details>
-<summary>Uždėtinio lankelio viršuje tęstinių lygių paveikslėliai</summary>
-
+Uždėtinio lankelio viršuje tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinio lankelio viršuje tęstinių lygių ženklai](images/lankelio-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinio lankelio tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
@@ -1189,12 +1163,9 @@ z → ʑ (LOTYNŲ MAŽOJI RAIDĖ Z SU KILPA)
 
 ## Varnelė (viršuje) ```ˇ```:
 
-<details>
-<summary>Uždėtinės varnelės tęstinių lygių paveikslėliai</summary>
-
+Uždėtinės varnelės tęstinių lygių paveikslėliai:
 ![Ratisės išdėstymo uždėtinės varnelės tęstinių lygių ženklai](images/varnelės-tęstiniai-lygiai.png)
 
-</details>
 <details>
 <summary>Uždėtinės varnelės tęstinių lygių tekstinis braižinys</summary>
 <pre style="font-size: 80%">
