@@ -15,7 +15,7 @@ Pradėjęs bandyti Remigijaus išdėstymą ir jame radau dalykų, kurie man neti
 
 Taip tobulinant Remigijaus išdėstymą ir užgimė [Tikrinė](images/sena_tikrine.png){:target="_blank"} — ne „tikroji“, kaip tikėjausi, o „tikrinamoji“. Ir taip, juk tai buvo tik sumąstytas ir nupieštas išdėstymas, spausdinti aš juo nemokėjau, bei ir šiaip, apie visus tuos klaviatūrų reikalus mažai teišmaniau. Taigi, tikrai įvertinti ir išbaigti išdėstymo negalėjau. Tolimesniam išdėstymo tobulinimui reikėjo išmokti juo spausdinti ir visokeriopai išbandyti. Tai darant teko keisti kai kuriuos nevykusius sprendimus, ieškoti kitų — geresnių. Kaip žmonės sako: „gyveni ir mokais“…
 
-__Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių stengtasi laikytis):__
+__Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių siekta laikytis):__
 
  - _dažnesnės raidės ir ženklai patogiausiose vietose;_
  - _darbo krūvio paskirstymas pagal pirštų pajėgumą;_
