@@ -147,7 +147,7 @@ Keitimo-valdymo mygtukų ženklinimų reikšmės:
 </details>
 <br>
 
-__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB){:target="_blank"}.
+__Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanavičiaus rinkinio“ [skaidymo (Keyboard Layout Analyzer)](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB){:target="_blank"}, tenais pat rasite ir daugiau palyginamosios lietuviškų klaviatūros išdėstymų statistikos.
 
 
 -------------------------
