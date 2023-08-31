@@ -136,7 +136,7 @@ __Pastabos:__
 
 - _Ergodox_ (arba ir _Kinesis Advantage_) kraštiniai mygtukai kiek patvarkyti visuose išdėstymuose.
 - kai išdėstyme kokie nors spaudos ženklai yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas;
-- _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html){:target="_blank"} — siūlomoji tvarka pasirodo prasčiau.
+- _AŽERTY Lithuanian Standard 2000_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html){:target="_blank"} — siūlomoji tvarka pasirodo prasčiau.
 
 -------------------------
 
