@@ -133,7 +133,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 ![Ratisės išdėstymo antrojo lygio ženklai](images/kb-lt-ratise-2-lygis.svg)
 
-+ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo, ar dėl spaudmenų darytojo netikusio pasirinkimo, gali kelti painiavos, palyginkite: [5-7, 5−7, 5–7, 5—7](https://fonts.google.com/?preview.text=5-7,%205%E2%88%927,%205%E2%80%937,%205%E2%80%947&preview.text_type=custom) (kas gi čia parašyta? — kai kuriuose spaudmenyse kurie nors brūkšniai gali mažne nesiskirti.).
++ Brūkšnelio mygtuko antrajame lygyje yra pusilgis brūkšnys, vadinamasis _n_ ilgio brūkšnys. Kai kuriuose spaudmenyse klaidingai atvaizduojamas veik vienodo ilgumo su ilgesniuoju _m_ ilgio brūkšniu. Dėl to, kad _n_ ilgio brūkšnys savo ilgiu panašus į tikrąjį atimties ženklą, jo nederėtų vartoti vietoje ilgojo brūkšnio (_m_ ilgio brūkšnio), dėl tos pat priežąsties _n_ ilgio brūkšnys netinka naudoti atstumo tarpui tarp skaičių ar dalykų žymėti (nors anglų kalboje jis vartojamas taip, dėl to, matyt, kad jie ilgąjį _m_ brūkšnį deda tarp žodžių be tarpų). Toks brūkšnių ilgių neapibrėžtumas, ar dėl netikusio spausdintojo, ar dėl spaudmenų darytojo netikusio pasirinkimo, gali kelti painiavos, palyginkite: [5-7, 5−7, 5–7, 5—7](https://fonts.google.com/?preview.text=5-7,%205%E2%88%927,%205%E2%80%937,%205%E2%80%947&preview.text_type=custom){:target="blank"} (kas gi čia parašyta? — kai kuriuose spaudmenyse kurie nors brūkšniai gali mažne nesiskirti.).
 
 <br>
 <details>
@@ -163,7 +163,7 @@ _Tai yra didžiųjų raidžių ir papildomų rašto ženklų išdėstymo lygis._
 
 Spausdinamasis ženklas įvedimui pasiekiamas papildomai kartu iš anksto spaudžiant ir _Trečiojo lygio_ mygtuką <kbd>⇮ AltGr</kbd>.
 
-_Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ```ł```. Dažniausiai reikalingi, iš papildomų ženklų, sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme daryta pagal [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png), be to turi papildomą tašką._
+_Šiame išdėstymo lygyje kairėje pusėje yra papildomi skyrybos ženkai: kabutės, skliaustai, daugtaškis, priegaidžių uždėtiniai ženkleliai. Išdėstymo lygyje dešinėje pusėje yra skaičiukynė su susijusiais ženklais, bei kietasis ```ł```. Dažniausiai reikalingi, iš papildomų ženklų, sudėti patogiausiose vietoje. Esanti šiame lygyje skaičiukynė Ratisės išdėstyme daryta pagal [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png){:target="blank"}, be to turi papildomą tašką._
 
 ![Ratisės išdėstymo trečiojo lygio ženklai](images/kb-lt-ratise-3-lygis.svg)
 
