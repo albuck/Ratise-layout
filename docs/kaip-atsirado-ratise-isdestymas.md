@@ -17,14 +17,14 @@ Taip tobulinant Remigijaus išdėstymą ir užgimė [Lietuviška tikrinė klavia
 
 __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių siekta laikytis):__
 
- - _dažnesnės raidės ir ženklai patogiausiose vietose;_
+ - _dažnesnės raidės ir ženklai patogesnėse vietose;_
  - _darbo krūvio paskirstymas pagal pirštų pajėgumą;_
  - _spausdinimo sklandumas, rankų ir pirštų kaitaliojimas spausdinant, sutinkant su kalbos ritmu;_
  - _kuo mažiau vieno piršto mygtukų paspaudimų iš eilės;_
  - _kuo mažiau vienos rankos pirštų paspaudimų iš eilės;_
  - _dažnesnių raidžių samplaikų rinkimo vienos rankos pirštais patogumas;_
  - _vienos rankos pirštų (ypatingai nejudresnių) nepatogių žirkliavimų vengimas (tai kai vienas pirštas žemyn ir gretimas iškart aukštyn);_
- - _vengti raidžių viršutinėje skaičių eilėje;_
+ - _vengti raidžių viršutinėje (skaičių) eilėje;_
  - _išdėstymo nepriklausomumas nuo kokio vieno klaviatūros darybos pavidalo (ar teksto rinkimo stiliaus), esant pasirinkimui — pirmenybė ergonomiškai klaviatūrai;_
  - _visų išdėstymo galimų keturių lygių išnaudojimas;_
  - _įtraukti visus spaudos ženklus reikalingus lietuvių ir anglų kalbai (kitoms kaimyninėms kalboms), programavimui, mokslui, technikai;_
