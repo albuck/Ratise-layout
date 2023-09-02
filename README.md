@@ -78,7 +78,7 @@ __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raid�
 + _Pusė visų paspaudimų tenka pagrindinės padėties eilės mygtukams._
 + _Tam pačiam pirštui iš eilės daug rečiau tenka vėl spausti kitą mygtuką._
 + _Tai pačiai rankai iš eilės daug rečiau tenka vėl spausti kitą mygtuką._
-+ _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai — taip yra išvengiama atskirų pirštų pervargimo, palengvėja ir pagreitėja teksto rinkimas._
++ _Spausdinant Ratise paprastai paeiliui kaitaliojamos rankos ir pirštai — taip yra išvengiama atskirų pirštų pervargimo — palengvėja ir pagreitėja teksto rinkimas._
 + _Pirštai spausdinant Ratise nueina ženkliai mažesnį atstumą nei senesniuose lietuviškuose išdėstymuose._
 + _Pagrindiniame, lengviausiai prieinamame, išdėstymo lygyje yra dažniausiai reikalingi rašto ženklai — rečiau teks naudoti klaviatūros lygių keitimo mygtukus._
 + _Kuo paprastesnis tekstas, tuo lengviau yra jį rinkti Ratisės išdėstymu._
