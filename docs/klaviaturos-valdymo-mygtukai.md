@@ -15,13 +15,14 @@ Skirtingų gamintojų klaviatūrose ir skaitmeninėje įrangoje valdymo-keitimo 
 - <kbd>≣</kbd> — ≡, ▤, Menu, Mn, Application; Meniu, Sąrašas.
 - <kbd>⏎</kbd> — ↵, ⎆, ↩, ⌤, Enter, Return; Įvesti, Įvedimas.
 - <kbd>⌫</kbd> — ←, ⟵, Backspace, Delete (MacOS); Trinti, Trynimas.
-- <kbd>␣</kbd> — Space; Tarpas (dažniausiai tarpo mygtukas jokiu ženklu yra nežymimas).
+- <kbd>␣</kbd> — Space; Tarpas (dažniausiai pats tarpo mygtukas jokiu ženklu yra nežymimas).
 
 
 __Pastabos:__ 
 + Lyginant su [įprastomis PC klaviatūromis](https://upload.wikimedia.org/wikipedia/commons/a/a2/LenovoKeyboard.jpg){:target="_blank"} — [Apple klaviatūroje](https://upload.wikimedia.org/wikipedia/commons/6/6c/Apple_Keyboard_%28A1048%29.jpg){:target="_blank"} mygtukai <kbd>⌥ Option (⎇ Alt)</kbd> ir <kbd>⌘ Command (⊞ Win)</kbd> savo padėtimi yra sukeisti vietomis pačioje klaviatūroje.
 + Šviesiai pilkų mygtukų ar mygtuko gali nebūti klaviatūroje.
 + Tarp kairiųjų <kbd>Ctrl</kbd> ir <kbd>OS</kbd> mygtukų kai kuriose klaviatūrose įsiterpia _Function_ <kbd>Fn</kbd> mygtukas: su juo kartu spaudžiant kitą kokį klaviatūros mygtuką gali būti keičiamas pastarojo veikmuo (funkcija), t. y. tasis gali laikinai pavirsti į kitą mygtuką, kurio, pavyzdžiui, nėra/trūksta klaviatūroje.
++ Galimi klaviatūros mygtukai [ISO standarte](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png){:target="blank"}
  
 -----------------------------------------
 
