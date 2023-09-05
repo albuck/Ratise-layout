@@ -60,7 +60,7 @@ __Ratisės išdėstymas:__
 
 *[Tikri̇̀nė](http://www.lkz.lt/?zodis=tikrinis&id=26058900000){:target="_blank"}* čia reiškia: _teisinga, derama, tokia, kokios reikėtų, tikroji_.
 
-__Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
+__Taigi, kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 
 ![Lietuviška tikrinė klaviatūra ŪĖYOQJ Ratisė (ISO), raidžių išdėstymas pagal jų pobūdį ir dažnumą](docs/images/kb-lt-ratises-spaudrika.svg)
 
