@@ -3,7 +3,7 @@
 
 Papildoma Ratisės išdėstymo atmaina yra turėtina tam atvejui, kai skaitmeninė įranga nepalaiko ženklų įvedimo per tęsties mygtukus arba toks įvedimo būdas yra nepageidaujamas.
 
-Papildomas Ratisės B išdėstymas besiskiria tik keletu ketvirto lygio žeklų.
+Papildoma Ratisės išdėstymo _B_ atmaina besiskiria tik keletu ketvirto lygio žeklų.
 
 Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
