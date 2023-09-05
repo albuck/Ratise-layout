@@ -88,7 +88,7 @@ __Taigi, kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskir�
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
 + *Ratisės išdėstymas suderinamas su [ISO, ANSI](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png){:target="_blank"} bei dar kitokios darybos klaviatūromis.*
 
-__Tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
+__Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
 - **[Keyboard Layout Analyzer (KLAnext)](https://klanext.keyboard-design.com/#/main){:target="_blank"}** — [‘Paprasti rašiniai’ (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png){:target="_blank"}
 - **[Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main){:target="_blank"}** — [‘Paprasti rašiniai’ (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png){:target="_blank"}
