@@ -1,6 +1,10 @@
 
 # Ratisės išdėstymo atmainos
 
+Papildoma Ratisės išdėstymo atmaina yra turėtina tam atveijui, kai skaitmeninė įranga nepalaiko ženklų įvedimo per tęsties mygtukus arba toks įvedimo būdas yra nepageidaujamas.
+
+Papildomas Ratisės B išdėstymas besiskiria tik keletu ketvirto lygio žeklų.
+
 Išdėstymai atvaizduoti su visais keturių lygių ženklais:
 
 ![Išdėstymo lygiai](images/zenklu-lygiai.svg)
