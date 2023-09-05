@@ -58,7 +58,7 @@ __Ratisės išdėstymas:__
  
 ## Ratisė yra lietuviška tikrinė klaviatūra
 
-_[Tikri̇̀nė](http://www.lkz.lt/?zodis=tikrinis&id=26058900000){:target="_blank"}_ čia reiškia: „teisinga, derama, tokia, kokios reikėtų, tikroji“.
+*[Tikri̇̀nė](http://www.lkz.lt/?zodis=tikrinis&id=26058900000){:target="_blank"}* čia reiškia: „teisinga, derama, tokia, kokios reikėtų, tikroji“.
 
 __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raidžių dažnumą, jų samplaikas bei eiliškumą lietuvių kalbos žodžiuose:__
 
