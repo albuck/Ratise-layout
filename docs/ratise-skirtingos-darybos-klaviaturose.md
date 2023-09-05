@@ -206,6 +206,7 @@ __Labiau paplitusių klaviatūros darybos variantų našumo patikros:__
 
 __Pastabos:__
 
++ Visos paminėtos aukščiau skirtingos darybos klaviatūros, išskyrus paskutiniąją, atitinka [ISO standartą](https://upload.wikimedia.org/wikipedia/commons/b/bb/Keyboard-alphanumeric-section-ISOIEC-9995-2-2009-with-amd1-2012.png){:target="blank"}, nors tik pirmoji įprastai vadinama ISO klaviatūra.
 + Klaviatūrose gali nebūti ne tik Ratisės <kbd>-</kbd> mygtuko (apačioje kairėje), bet ir Ratisės <kbd>+</kbd> mygtuko (viršuje kairėje) — šie mygtukai [ISO/IEC 9995](https://en.wikipedia.org/wiki/ISO/IEC_9995){:target="_blank"} klaviatūrų standarte nėra privalomi.
 + Pasitaiko klaviatūrų su dar kiek kitokiu kraštinių mygtukų išdėstymu.
 
