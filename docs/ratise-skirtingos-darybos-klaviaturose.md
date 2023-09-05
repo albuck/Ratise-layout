@@ -19,13 +19,6 @@ __101/104 mygtukų ANSI klaviatūra__ (dar vadinama „amerikietiška“):
 
 <br>
 
-__101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „azijietiška“ arba kuri su dideliu apsuktos _L_ pavidalo _Enter_):
-![104 mygtukų klaviatūra PC-AT su dideliu L pavidalo Enter](images/kb-lt-ratise-pc-at.svg)
-
-- [Ratisė PC/AT, pdf'as spausdinimui](kb-lt-ratise-pc-at.pdf)
-
-<br>
-
 __101/104 mygtukų klaviatūra „ANSISO“__ (ISO be papildomo mygtuko, „ANSI+ISO“):
 ![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
 
@@ -37,6 +30,13 @@ __102/105 mygtukų klaviatūra „ISOANSI“__ (ANSI su papildomu mygtuku, „IS
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
 
 - [Ratisė ISOANSI, pdf'as spausdinimui](kb-lt-ratise-isoansi.pdf)
+
+<br>
+
+__101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „azijietiška“ arba kuri su dideliu apsuktos _L_ pavidalo _Enter_):
+![104 mygtukų klaviatūra PC-AT su dideliu L pavidalo Enter](images/kb-lt-ratise-pc-at.svg)
+
+- [Ratisė PC/AT, pdf'as spausdinimui](kb-lt-ratise-pc-at.pdf)
 
 <br>
 
