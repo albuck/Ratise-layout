@@ -1,7 +1,7 @@
 
 # Kibūs keitimo mygtukai
 
-_Kibūs keitimo mygtukai_, ar tiesiog _Kibūs mygtukai_ (angliškai _Sticky keys_), tai yra tokia klaviatūros prieinamumo ypatybė, pasiekiama per skaitmeninės aplikos (_Windows, MacOS, Linux, Unix_) vaizdinę sąsają, kuri leidžia keitimo mygtuko/mygtukų ir kito kokio mygtuko vienalaikį paspaudimo derinį (raktą) pakeisti į tų mygtukų atskirų paspaudimų seką.
+_Kibūs keitimo mygtukai_, ar tiesiog _Kibūs mygtukai_ (angliškai _Sticky keys_), tai yra tokia klaviatūros naudojimo  (prieinamumo) ypatybė, pasiekiama per skaitmeninės aplikos (_Windows, MacOS, Linux, Unix_) vaizdinę sąsają, kuri leidžia keitimo mygtuko/mygtukų ir kito kokio mygtuko vienalaikį paspaudimo derinį (raktą) pakeisti į tų mygtukų atskirų paspaudimų seką.
 
 Pavyzdžiui, mygtukų derinį <kbd>Ctrl</kbd>+<kbd>c</kbd> galima būtų spausti taip: pirma paspausti <kbd>Ctrl</kbd>, atleisti, ir tada paspausti <kbd>c</kbd> mygtuką.
 
