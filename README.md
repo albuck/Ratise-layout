@@ -130,6 +130,8 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 ### Ypatingi spausdinamųjų ženklų įvedimo atvejai:
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos-raides.md)
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
+- [KIBŪS KEITIMO MYGTUKAI](docs/kibus-keitimo-mygtukai.md)
+
 
 ### Ratisės išdėstymo palyginimai su kitais klaviatūrų išdėstymais:
 - [LIETUVIŠKŲ KLAVIATŪROS IŠDĖSTYMŲ NAŠUMO PATIKROS](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html){:target="_blank"}
