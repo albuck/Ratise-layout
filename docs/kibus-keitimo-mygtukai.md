@@ -15,8 +15,8 @@ Kibių mygtukų veikimas (naudotojų liudijimu) nėra nuoseklus — karts nuo ka
 
 -------------------------
 
-[Sticky keys (Wikipedia)](https://en.wikipedia.org/wiki/Sticky_keys)
+[Sticky keys (Wikipedia)](https://en.wikipedia.org/wiki/Sticky_keys){:target="_blank"}
 
-[Sticky Keys (xanlee.info)](http://xahlee.info/kbd/sticky_key.html)
+[Sticky Keys (xanlee.info)](http://xahlee.info/kbd/sticky_key.html){:target="_blank"}
 
 [Į pradžią](../README.md)
