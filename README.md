@@ -127,7 +127,7 @@ Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linu
 - [GALIMOS SKIRTINGOS SPAUSDINIMO VISAIS PIRŠTAIS TVARKOS](docs/skirtingos-spausdinimo-tvarkos.md)
 - [SPAUSDINIMO KLAVIATŪRA PATOGUMAS, NAŠUMAS BEI SVEIKATA](docs/spausdinimo-klaviatura-patogumas.md)
 
-### Ypatingi spausdinamųjų ženklų įvedimo atvejai:
+### Ypatingi ženklų įvedimo klaviatūra atvejai:
 - [KIRČIUOTŲ RAIDŽIŲ ĮVEDIMO YPATUMAI](docs/kirciuotos-raides.md)
 - [SUDURTINIS ŽENKLŲ ĮVEDIMAS](docs/sudurtinis-zenklu-ivedimas.md)
 - [KIBŪS KEITIMO MYGTUKAI](docs/kibus-keitimo-mygtukai.md)
