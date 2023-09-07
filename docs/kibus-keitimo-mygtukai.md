@@ -7,7 +7,7 @@ Pavyzdžiui, mygtukų derinį <kbd>Ctrl</kbd>+<kbd>c</kbd> galima būtų spausti
 
 Tai veikia su visais klaviatūros keitimo (valdymo) mygtukais ir jų deriniais:
 
-<kbd>⎈ Ctrl</kbd>, <kbd>⎇ Alt</kbd>, <kbd>⇧ Shift</kbd>, <kbd>⇮ AltGr</kbd>, <kbd>⌥ Option</kbd>, <kbd>⌘ Command</kbd>
+<kbd>⎈ Ctrl</kbd>, <kbd>⎇ Alt</kbd>, <kbd>⇧ Shift</kbd>, <kbd>⇮ AltGr</kbd>, <kbd>⌥ Option</kbd>, <kbd>⌘ Command</kbd>.
 
 Kibių mygtukų ypatybė yra įjungiama skaitmeninės aplinkos klaviatūros nustatymuose _Klaviatūros prieinamumas_ skiltyje (angliškai _Accessibility, Keyboard_), lietuviškai tai gali būti ir kitaip kaip nors išversta.
 
