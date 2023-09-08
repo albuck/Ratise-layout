@@ -15,8 +15,8 @@ Tęsties lygio spaudas įvedimui yra pasiekiamas prieš tai paspaudus ir atleidu
 
 __Pastabos__:
 + Dėl to, kad ypatingosios lietuviškos kirčiuotos raidės neįtrauktos į Unikodo standartą, jos gali būti įvedamos ir matomos tik naudojant tam skirtus spaudmenis (šriftus), pavyzdžiui: [_Aistika_](https://lt.wikipedia.org/wiki/Aistika_(%C5%A1riftas)){:target="blank"}, [_Palemonas_](https://www.vlkk.lt/palemonas){:target="blank"}, [_Vytis_](https://lt.wikipedia.org/wiki/Vytis_(%C5%A1riftas)){:target="blank"}.
-+ Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant ```H``` mygtuką vietoje ```I```  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
-+ Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra mygtukų ```X```, ```H``` ir ```Q``` trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
++ Lietuviškomis priegaidėmis kirčiuotos ir taisyklingai atvaizduojamos (su priegaidės ženklu virš taško) mažosios _i_, esančios tik tam skirtuose spaudmenyse,  renkamos spaudžiant Ratisės <kbd>H</kbd> mygtuką vietoje <kbd>I</kbd>  mygtuko, kuriuo renkamos spaudmenyse įprastai esančios: _ì, í, ĩ_. Toks ypatingas kirčiuotų raidžių rinkimas galioja tik mažosioms _i_ raidėms.
++ Kitas būdas surinkti kirčiuotas raides yra naudoti kirčių uždėtinius ženklelius (jie yra Ratisės mygtukų <kbd>X</kbd>, <kbd>H</kbd> ir <kbd>Q</kbd> trečiajame lygyje), dedant juos ant prieš tai įvestos raidės.
 + _Linux/Unix_ vartotojams norintiems naudotis papildomais Ratisės tęstinių mygtukų ženklais (nepaisant to ar patys yra diegę išdėstymą, ar pasirinkę Ratisę klaviatūros nustatymuose) būtina išdėstymo įdiegimo aplanke _XKB_ esančią bylą _XCompose_ patalpinti į namų aplanką ir pervardinti ją į _.XCompose_ (pridėti tašką pradžioje). Toliau reikia perkrauti sistemą ar pakartotinai atsijungti-prisijungti prie savosios paskyros. 
 + Dar skaitykite: [Kirčiuotų raidžių įvedimo ypatumai](kirciuotos-raides.md).
 
