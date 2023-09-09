@@ -5,6 +5,7 @@ Galima būtų išskirti keli̇̀s kiek skirtingus spausdinimo visais pirštais b
 + Paveikslėlyje sąlygiškai skaičiais įvertintos pastangos spaudžiant mygtuką klaviatūroje su skersuotais mygtukais:
 ![Mygtukų spaudimo skersuotų mygtukų klaviatūroje](images/skersuotu-iso-ansi-mygtuku-pastangos.svg)
 
+   + Kitos spalvos skaičiai mygtuke rodo pastangas spaudžiant gretimu pirštu.
    + Vertinimo skaičiai imti iš [Colemak Mod-DH - Typing Effort Grid](https://colemakmods.github.io/mod-dh/model.html){:target="_blank"}.
 
 Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi mygtukų skilčių spaudeliojimo pasirinkimai paprastai turi nedidelį poveikį.
