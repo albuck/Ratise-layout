@@ -110,11 +110,14 @@ rkš
 rpš
 
 kst
+kšt
 pst
+pšt
 lkt
 lst
 gst
 gšt
+gžd
 rgt
 rkt
 
@@ -129,3 +132,5 @@ rgžd
 rksm
 nkšn
 lkst
+lksm
+gždž
