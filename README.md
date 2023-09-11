@@ -88,7 +88,7 @@ __Kuriant Ratisės klaviatūros išdėstymą buvo atsižvelgta į atskirų raid�
 + _Kuo paprastesnis tekstas, tuo lengviau yra jį rinkti Ratisės išdėstymu._
 + _Kuo ergonomiškesnė fizinė klaviatūra, tuo našesnis yra Ratisės išdėstymas._
 + _Pagrindiniai ir papildomi spausdinamieji ženklai dėstyti tvarkingai, kad išdėstymas būtų patogesnis ir lengviau įsimenamas._
-+ *Ratisės išdėstymas suderinamas su [ISO, ANSI](https://upload.wikimedia.org/wikipedia/commons/1/14/Physical_keyboard_layouts_comparison_ANSI_ISO.png){:target="_blank"} bei dar kitokios darybos klaviatūromis.*
++ *Ratisės išdėstymas suderinamas su [ISO, ANSI bei dar kitokios darybos klaviatūromis](docs/images/ratise-iso-variantai.png){:target="_blank"}.*
 
 __Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai mažiau pastangų nei kitais lietuviškais išdėstymais:__
 
