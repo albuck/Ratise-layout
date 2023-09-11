@@ -16,7 +16,7 @@ __Spaudų išdėstymo lygiai:__
 + 3 — <kbd>⇮ AltGr</kbd>, trečiasis lygis;
 + 4 — <kbd>⇮ AltGr</kbd>+<kbd>⇧ Shift</kbd>, ketvirtasis lygis.
 
-__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](ratise-skirtingos-darybos-klaviaturose.md) gali pritrūkti <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
+__Pastaba:__ [Ratisė skirtingos darybos klaviatūrose](images/ratise-iso-variantai.png){:target="_blank"} gali pritrūkti <kbd>-</kbd> mygtuko ir <kbd>Z</kbd> mygtukas gali būti nukeltas į kiek kitą vietą.
 
 Žemiau yra aprašomi mygtukai eilėmis nuo viršaus į apačią, iš kairės į dešinę. Po ženklo pavadinimo duodamas pats ženklas (jei reikia).
 
