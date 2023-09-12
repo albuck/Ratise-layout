@@ -152,6 +152,8 @@ __Pastaba:__ duotieji skaičiai yra imti iš „Lietuviškų pasakų iš Basanav
 
 -------------------------
 
+[Ratisės mygtukų spaudeliojimo dažnumai ir išdėstymo našumas](docs/mygtuku-spaudeliojimo-daznumai.md)
+
 [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/){:target="_blank"}
 
 [Į pradžią](../README.md)
