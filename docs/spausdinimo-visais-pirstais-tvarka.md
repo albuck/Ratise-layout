@@ -1,7 +1,9 @@
 
 # SPAUSDINIMO VISAIS PIRŠTAIS TVARKA
 
-Tai yra vadinamojo „aklojo teksto rinkimo“, arba „teksto rinkimo nežiūrint į klaviatūrą“, pagrindai. Turint patogų ir lengviau įsimenamą klaviatūros ženklų išdėstymą, rinkti tekstą visais pirštais išmokti nėra sunku ir tai neužima daug laiko. Teksto rinkimui visais pirštais akluoju būdu būtina naudojamą klaviatūros ženklų išdėstymą (bet kurį) mokėti mintinai. Besimokindami spausdinti palaipsniui išmoksite Ratisės išdėstymą. 
+Tai yra vadinamojo „aklojo teksto rinkimo“, arba „teksto rinkimo nežiūrint į klaviatūrą“, pagrindai.
+
+Turint patogų ir lengviau įsimenamą klaviatūros ženklų išdėstymą, rinkti tekstą visais pirštais išmokti nėra sunku ir tai neužima daug laiko. Teksto rinkimui visais pirštais akluoju būdu būtina naudojamą klaviatūros ženklų išdėstymą (bet kurį) mokėti mintinai. Besimokindami spausdinti palaipsniui išmoksite Ratisės išdėstymą. 
 
 Spausdinant visais pirštais apčiuopomis, nežiūrint į klaviatūrą, kiekvienas pirštas be pagrindinės padėties <kbd>U</kbd><kbd>E</kbd><kbd>I</kbd><kbd>A̱</kbd> ir <kbd>Ṟ</kbd><kbd>T</kbd><kbd>S</kbd><kbd>P</kbd> mygtukų (paryškinti paveikslėlyje) spaudo tik tam tikrus savo skilties mygtukus. Pirštas paspaudęs kokį ne pagrindinėje padėtyje esantį mygtuką grąžinamas prie pagrindinės padėties mygtuko (jeigu jam netenka iškart vėl spausti kito jam priskirto mygtuko). Pagrindinę pirštų padėtį padeda surasti ant <kbd>A</kbd> ir <kbd>R</kbd> mygtukų esantys ir apčiuopiami rankų smiliais iškilūs kauburiukai. Renkant kokį spaudą esantį ne pirmame lygyje vienos rankos pirštu, keitimo mygtukus (<kbd>Shift</kbd>, <kbd>AltGr</kbd>, <kbd>AltGr</kbd>+<kbd>Shift</kbd>) dera spausti kitos rankos pirštu/ais. Tarpo mygtukas taip pat paprastai spaudžiamas kitos rankos nykščiu nei prieš tai naudota įvedimui ranka, nebent yra patogiau kitaip, kai reikia spausti tuo nykščiu trečio lygio įjungimo mygtuką.
 
