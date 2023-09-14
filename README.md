@@ -140,7 +140,7 @@ __Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai ma�
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
 ### Ratisės papildymai:
-- [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](https://github.com/albuck/ratise_kitakalbe){:target="_blank"}
+- [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](docs/ratises-kitakalbiai-isdestymai.md)
 - [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
 
 -----------------------------------------------
