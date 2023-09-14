@@ -1192,7 +1192,7 @@ Key Label Meanings:
 ⇧ — Shift key.
 ⇮ — AltGr key.
 ⎇ — Alt key.
-⎈ — Ctrl key
+⎈ — Ctrl key.
 ≣ — Menu key (optional).
 ❖ — System key (optional).
 ƒ — Fn, fn, Function key (optional).
