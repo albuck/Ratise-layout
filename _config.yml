@@ -3,6 +3,6 @@ plugins:
   - jekyll-seo-tag
 title: Ratisė
 description: <em>Lietuviška tikrinė klaviatūra.<br>Lietuviškos klaviatūros ergonomiškas išdėstymas.<br>Lithuanian Ergonomic Keyboard Layout.</em>
-show_downloads: true
+show_downloads: false
 lang: lt_LT
 encoding: UTF-8
