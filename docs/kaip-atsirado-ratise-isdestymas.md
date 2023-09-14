@@ -47,7 +47,7 @@ __Tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės (kurių 
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
-![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](images/lek_ratise_layout.png)
+![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė](images/kb-lt-ratise.svg)
 
 Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
