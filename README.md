@@ -103,7 +103,7 @@ __Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai ma�
 
 Ratisės išdėstymo klaviatūros valdyklės yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
 
-[↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/Ratise-layout/zipball/master)
+[↓ Parsisiųsti Ratisės išdėstymą ↓](https://github.com/albuck/ratise/zipball/master)
 
 
 --------------------------------------------------------------------
