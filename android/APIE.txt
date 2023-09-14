@@ -1,4 +1,0 @@
-Ratisė Androidui...
-
-kol kas tik ".kcm" netikrintus.
-... Gal kas pagelbėtų padirbti įdiegimo paketą Androidui?
