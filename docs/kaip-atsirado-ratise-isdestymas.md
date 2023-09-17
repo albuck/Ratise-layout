@@ -79,6 +79,7 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 <details>
 <summary>Pirštų naudojimas</summary>
 
+
 |Išdėstymas|Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius|Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis|
 |------------------------|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
 |   ŪĖYOQJ Ratise (ISO)   |   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   |
@@ -86,9 +87,12 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 |   AŽERTY LT Standard 2000 (ISO)   |   12,1%   |   7,3%    |   6,0%  |   16,7%  |  15,0% |   13,5%  |   14,2%  |    6,9%   |   8,3%   |
 |   QWERTY Baltic-Numeric (ISO)   |   12,5%   |   6,1%    |   8,9%  |   15,1%  |  14,7% |   12,9%  |   16,3%  |    7,9%   |   5,7%   |
 
+
 </details>
+
 <details>
 <summary>Klaviatūros mygtukų eilių naudojimas</summary>
+
 
 |Išdėstymas|Penkta eilė |Ketvirta eilė|Trečia eilė|Antra eilė|Pirma eilė|
 |------------------------|----------|-----------|----------|----------|--------|
@@ -97,8 +101,10 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 |   AŽERTY LT Standard 2000 (ISO)   |   3,6%   |   37,2%    |   32,0%  |   12,1%  |  15,1% |
 |   QWERTY Baltic-Numeric (ISO)   |   8,2%   |   34,5%    |   28,0%  |   14,6%  |  14,7% |
 
+
 + Klaviatūros mygtukų eilės skaičiuojamos nuo apačios: tarpo mygtukas yra pirmoje eilėje, trečioje eilėje yra pagrindinė pirštų padėtis.
 </details>
+
 
 <br>
 
