@@ -85,6 +85,7 @@ __Pirštų naudojimas:__
 |   AŽERTY LT Standard 2000 (ISO)   |   12,1%   |   7,3%    |   6,0%  |   16,7%  |  15,0% |   13,5%  |   14,2%  |    6,9%   |   8,3%   |
 |   QWERTY Baltic-Numeric (ISO)   |   12,5%   |   6,1%    |   8,9%  |   15,1%  |  14,7% |   12,9%  |   16,3%  |    7,9%   |   5,7%   |
 
+<br>
 
 __Klaviatūros mygtukų eilių naudojimas:__
 
