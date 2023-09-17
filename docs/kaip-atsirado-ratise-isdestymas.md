@@ -48,6 +48,7 @@ __Taip tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės:__
  - _jeigu ženklo vieta labai nežymiai veikia lietuvių kalbos teksto rinkimo patogumą ir ženkliai programavimo kalbų teksto rinkimą, teikti pirmenybę programavimo kalbų teksto rinkimui;_
  - _kuo paprastesnis tekstas, tuo lengviau jį turėtų būti rinkti._
 
+<br>
 
 Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą:
 
