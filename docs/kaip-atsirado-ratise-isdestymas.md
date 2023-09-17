@@ -57,9 +57,9 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 + [Klaviatūros valdymo-keitimo mygtukų ženkliukai ir pavadinimai](klaviaturos-valdymo-mygtukai.md)
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](ratises-isdestymo-lygiai.md)
 
-Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
-
 <br>
+
+Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
 
 + Lyginant su _QWERTY Baltic-Numeric_ spausdinant _Ratise_:
    - __4,7__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
