@@ -17,6 +17,8 @@ Taip tobulinant Remigijaus išdėstymą ir užgimė [Lietuviška tikrinė klavia
 
 Taigi, kaip paaiškėjo, raidės viršutinėje (skaičių) eilėje nėra patogus dalykas: renkant žodį, jei vienas pirštas apačion ir gretimas pačian viršun — toks žirkliojimas gretimais pirštais yra negerai (išsiskiria iš bendro spausdinimo ritmo ženkliai didesnėmis pastangomis). Taip pat ir _Č_ (bei _C_ ir _H_) vieta Tikrinėje pasirodė gan nepatogi. Dažnokai vartojamos lietuviškos kabutės pastebimai vargino kairyjį mažajį pirštą. Toliau, lavėjant mažiesiems pirštams, jau nebeatrodė labai sudėtinga jais spaudinėti kraštinius mygtukus: taip kai kurie retesni priebalsiai buvo vėl pertvarkyti (kaip paskui pastebėjau, grįžau prie kai kurių Remigijaus išdėstymo sprendimų: _G_ ir _Ž_ vietos). Atsilaisvinus vietai dešinėje viršutinės eilės pusėje, galima buvo išskirstyti pagrindinius skyrybos ženklus abiejoms rankoms, taip pagerinant bendrą spausdinimo ritmą ir krūvį rankoms. Sudėtingiausia buvo apsispręsti su trečio ir ketvirto lygio ženklų vietomis, ypač su retesniųjų. Paprastai jųjų vietos yra paremtos įvedimo patogumo sumetimais arba kokiomis nors sąsajomis su mygtuko raide ar kitu jo ženklu, ar to pat piršto kitų mygtukų ženklais. Tokių sąsajų tikslas — taip yra paprasčiau įsiminti ženklų vietą, o tai tikrai yra svarbu retesniau naudojamiems ženklams. Tenais, kur ženklo vieta nebuvo tokia svarbi, ar kaip nors kitaip sąlygota, stengtasi rištis prie kokio nors „standarto“, ar QWERTY išdėstymo, ar kaimyninių kalbų išdėstymų (taip _§_ vieta nusižiūrėta nuo skandinavų išdėstymų) ir panašiai. Galutinai ištobulinti išdėstymą ženkliai padėjo [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main){:target="_blank"}, kuris leido parinkti geresnes skyrybos ir kitų rečiau naudojamų ženklų vietas.
 
+<br>
+
 __Taip tobulinant išdėstymą išsirutuliojo tokios Ratisės darymo gairės:__
 
  - _dažnesnės raidės ir ženklai patogesnėse vietose;_
@@ -55,6 +57,8 @@ Galų gale, tobulinimas buvo baigtas ir Ratisė įgavo savo dabartinį pavidalą
 + [Ratisės klaviatūros ženklų išdėstymo lygiai](ratises-isdestymo-lygiai.md)
 
 Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręskite patys. O iš anksto galima tik pateikti kažkiek išdėstymą vertinančių skaičių bei palyginti juos su kitų išdėstymų skaičiais.
+
+<br>
 
 + Lyginant su _QWERTY Baltic-Numeric_ spausdinant _Ratise_:
    - __4,7__ karto rečiau tam pačiam pirštui teks iš eilės vėl iškart spausti mygtuką;
