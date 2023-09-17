@@ -76,7 +76,8 @@ Ar jums tiks toks išdėstymas, kiek jis yra geresnis — išbandykite ir spręs
 
 <br>
 
-__Pirštų naudojimas:__
+<details>
+<summary>Pirštų naudojimas</summary>
 
 |Išdėstymas|Kairysis mažasis|Kairysis bevardis|Kairysis didysis|Kairysis smilius|Nykščiai|Dešinysis smilius|Dešinysis didysis|Dešinysis bevardis|Dešinysis mažasis|
 |------------------------|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|
@@ -85,9 +86,9 @@ __Pirštų naudojimas:__
 |   AŽERTY LT Standard 2000 (ISO)   |   12,1%   |   7,3%    |   6,0%  |   16,7%  |  15,0% |   13,5%  |   14,2%  |    6,9%   |   8,3%   |
 |   QWERTY Baltic-Numeric (ISO)   |   12,5%   |   6,1%    |   8,9%  |   15,1%  |  14,7% |   12,9%  |   16,3%  |    7,9%   |   5,7%   |
 
-<br>
-
-__Klaviatūros mygtukų eilių naudojimas:__
+</details>
+<details>
+<summary>Klaviatūros mygtukų eilių naudojimas</summary>
 
 |Išdėstymas|Penkta eilė |Ketvirta eilė|Trečia eilė|Antra eilė|Pirma eilė|
 |------------------------|----------|-----------|----------|----------|--------|
@@ -97,8 +98,7 @@ __Klaviatūros mygtukų eilių naudojimas:__
 |   QWERTY Baltic-Numeric (ISO)   |   8,2%   |   34,5%    |   28,0%  |   14,6%  |  14,7% |
 
 + Klaviatūros mygtukų eilės skaičiuojamos nuo apačios: tarpo mygtukas yra pirmoje eilėje, trečioje eilėje yra pagrindinė pirštų padėtis.
-
-<br>
+</details>
 
 <details>
 <summary>Lietuviškų klaviatūros išdėstymų tekstiniai braižiniai</summary>
