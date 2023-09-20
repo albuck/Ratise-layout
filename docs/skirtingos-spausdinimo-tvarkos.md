@@ -3,6 +3,7 @@
 Galima būtų išskirti keli̇̀s kiek skirtingus spausdinimo visais pirštais būdus klaviatūrose su skersuotais mygtukais. Dėl to mygtukų skilčių skersavimo, kartais yra patogiau spausti pirštu viršutinės ar apatinės eilės (aukšto) mygtuką priklausantį kito piršto skilčiai.
 
 + Paveikslėlyje sąlygiškai skaičiais įvertintos pastangos spaudžiant mygtuką klaviatūroje su skersuotais mygtukais:
+
 ![Mygtukų spaudimo skersuotų mygtukų klaviatūroje](images/skersuotu-iso-ansi-mygtuku-pastangos.svg)
 
    + Kitos spalvos skaičiai mygtuke rodo pastangas spaudžiant gretimu pirštu.
@@ -11,24 +12,31 @@ Galima būtų išskirti keli̇̀s kiek skirtingus spausdinimo visais pirštais b
 Nors, reikia pažymėti, Ratisės išdėstymo bendram patogumui tie skirtingi mygtukų skilčių spaudeliojimo pasirinkimai paprastai turi nedidelį poveikį.
 
 + Įprastas spausdinimo būdas, kai pirštai spaudo tik griežtai jiems priskirtų skilčių mygtukus:
+
 ![Įprastas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-iprasta.svg)
 
 + Pirmas pagerintas spausdinimo būdas:
+
 ![Pirmas pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p1.svg)
 
 + Antras pagerintas spausdinimo būdas:
+
 ![Antras pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p2.svg)
 
 + Trečias pagerintas spausdinimo būdas:
+
 ![Trečias pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p3.svg)
 
 + Ketvirtas pagerintas spausdinimo būdas:
+
 ![Ketvirtas pagerintas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-p4.svg)
 
 + „Ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina sukeisti kelis mygtukus vietomis):
+
 ![Ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo.svg)
 
 + Antras „ergonomiškas“ spausdinimo būdas (šiuo atveju yra būtina sukeisti kelis mygtukus vietomis):
+
 ![Antras ergonomiškas spausdinimo visais pirštais būdas skersuotų mygtukų klaviatūroje](images/ratise-spausdinimo-tvarka-ergo2.svg)
 
 <br>
