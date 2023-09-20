@@ -28,6 +28,7 @@ __Pastabos:__
 + Išmokę vieną kurį raidžių derinį ar žodį, pereikite prie kito.
 + Griežtai prisilaikykite kiekvienam pirštui priskirtų spausti mygtukų, išimtys galėtų būti taikomos kraštiniams viršutiniams šoniniams mygtukams (pvz.: <kbd>Esc</kbd>, <kbd>W</kbd> ir <kbd>Backspace</kbd>), kur mažylį silpnesnį pirštą gali pakeisti bevardis, tik turėkite omeny, tai papildomai išmokstama gudrybė, kuri ir ne visados būna patogi.
 + Mokantis ir išmokus spausdinti nežiūrint į klaviatūrą kokie nors Ratisės išdėstymo lipdukai ar užrašai ant pačios klaviatūros mygtukų nėra reikalingi. Kita vertus, išsaugoję QWERTY išdėstymo užrašus ant klaviatūros mygtukų, prireikus, lengviau susirasite juos (jeigu mintinai jų nemokate).
++ Geras klaviatūros išdėstymo įsiminimo pratimas-patikrinimas yra braižyti jį ant popieriaus iš atminties.
 
 
 -------------------------
