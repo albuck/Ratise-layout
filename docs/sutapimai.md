@@ -2,6 +2,7 @@
 # Ratisės sutapimai su kitais išdėstymais
 
 Lietuviška klaviatūra su Ratisės _ŪĖYOQJ_ išdėstymu, mygtukų vyduryje palyginimui pilkšvi _QWERTY_ išdėstymo spaudai:
+
 ![Ratisės ŪĖYOQJ išdėstymo klaviatūra su QWERTY spaudais viduryje](images/kb-lt-ratise.svg)
 
 <br>
