@@ -9,7 +9,7 @@ __Ratisė ISO-CB, 102/105 mygtukų ISO klaviatūra__ (dar vadinama „europieti�
 
 ![105 mygtukų klaviatūra, europietiškas ISO](images/kb-lt-ratise-iso.svg)
 
-- [Ratisė ISO, pdf'as spausdinimui](kb-lt-ratise-iso.pdf)
+- [Ratisė ISO-CB, pdf'as spausdinimui](ratise-iso-cb.pdf)
 
 <br>
 
@@ -17,7 +17,7 @@ __Ratisė ISO-D, 101/104 mygtukų ANSI klaviatūra__ (dar vadinama „amerikieti
 
 ![104 mygtukų klaviatūra, amerikietiškas ANSI](images/kb-lt-ratise-ansi.svg)
 
-- [Ratisė ANSI, pdf'as spausdinimui](kb-lt-ratise-ansi.pdf)
+- [Ratisė ISO-D, ANSI, pdf'as spausdinimui](ratise-iso-d-ansi.pdf)
 
 <br>
 
@@ -25,7 +25,7 @@ __Ratisė ISO-C, 101/104 mygtukų klaviatūra „ANSISO“__ (ISO be papildomo m
 
 ![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
 
-- [Ratisė ANSISO, pdf'as spausdinimui](kb-lt-ratise-ansiso.pdf)
+- [Ratisė ISO-C, ANSISO, pdf'as spausdinimui](ratise-iso-c-ansiso.pdf)
 
 <br>
 
@@ -33,7 +33,7 @@ __Ratisė ISO-DB, 102/105 mygtukų klaviatūra „ISOANSI“__ (ANSI su papildom
 
 ![105 mygtukų klaviatūra, ANSI su 105-tu mygtuku, ISO+ANSI, ISOANSI](images/kb-lt-ratise-isoansi.svg)
 
-- [Ratisė ISOANSI, pdf'as spausdinimui](kb-lt-ratise-isoansi.pdf)
+- [Ratisė ISO-DB, ISOANSI, pdf'as spausdinimui](ratise-iso-db-isoansi.pdf)
 
 <br>
 
@@ -41,7 +41,7 @@ __Ratisė ISO-E, 101/104 mygtukų PC/AT klaviatūra__ (kartais dar vadinama „a
 
 ![104 mygtukų klaviatūra PC-AT su dideliu L pavidalo Enter](images/kb-lt-ratise-pc-at.svg)
 
-- [Ratisė PC/AT, pdf'as spausdinimui](kb-lt-ratise-pc-at.pdf)
+- [Ratisė ISO-E, PC/AT, pdf'as spausdinimui](ratise-iso-e-pc-at.pdf)
 
 <br>
 
@@ -49,7 +49,7 @@ __Ratisė ISO-EB, 102/105 mygtukų PC/AT klaviatūros atmaina „1“__ (su papi
 
 ![105 mygtukų PC/AT klaviatūra su papildomu brūkšnelio mygtuku](images/kb-lt-ratise-pc-at-1.svg)
 
-- [Ratisė PC/AT-1, pdf'as spausdinimui](kb-lt-ratise-pc-at-1.pdf)
+- [Ratisė ISO-EB, PC/AT-1, pdf'as spausdinimui](ratise-iso-eb-pc-at-1.pdf)
 
 <br>
 
@@ -57,7 +57,7 @@ __Ratisė ISO-B, 101/104 mygtukų PC/AT klaviatūros atmaina „2“__ (su nukel
 
 ![104 mygtukų PC/AT klaviatūra su nukeltu apačion Z, padidintu Backspace](images/kb-lt-ratise-pc-at-2.svg)
 
-- [Ratisė PC/AT-2, pdf'as spausdinimui](kb-lt-ratise-pc-at-2.pdf)
+- [Ratisė ISO-B, PC/AT-2, pdf'as spausdinimui](ratise-iso-b-pc-at-2.pdf)
 
 <br>
 
@@ -65,7 +65,7 @@ __Ratisė ISO-BB, 102/105 mygtukų PC/AT klaviatūros atmaina „3“__ (su nuke
 
 ![105 mygtukų PC/AT klaviatūra su nukeltu apačion Z, papildomu brūkšnelio mygtuku, padidintu Backspace](images/kb-lt-ratise-pc-at-3.svg)
 
-- [Ratisė PC/AT-3, pdf'as spausdinimui](kb-lt-ratise-pc-at-3.pdf)
+- [Ratisė ISO-BB, PC/AT-3, pdf'as spausdinimui](ratise-iso-bb-pc-at-3.pdf)
 
 <br>
 
