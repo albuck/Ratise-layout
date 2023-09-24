@@ -26,6 +26,7 @@ __Ratisė ISO-C, 101/104 mygtukų klaviatūra „ANSISO“__ (ISO be papildomo m
 ![104 mygtukų klaviatūra, ISO be 105-to mygtuko, ANSI+ISO, ANSISO](images/kb-lt-ratise-ansiso.svg)
 
 - [Ratisė ISO-C, ANSISO, pdf'as spausdinimui](ratise-iso-c-ansiso.pdf)
+- Anot patikrų (žiūrėkite žemiau), tai pats našiausias iš standartinių klaviatūrų mygtukų išdėstymas.
 
 <br>
 
