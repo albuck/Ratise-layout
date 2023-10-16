@@ -119,7 +119,7 @@ __‘Bash, C, CPP, HTML, JavaScript, Python’ bendrai:__
    7. QWERTY Baltic-Numeric (Ergodox) — 39.83
    8. ĄŽERTY IBM, LT Standard 1992 (Ergodox) — 39.61
    9. ĄŽERTY LT Standard 2000 (Ergodox) — 39.31
-   10. ĄŽERTY LT Standard 2000 (ANSI) — 36.59
+   10. ĄŽERTY LT Standard 2000 (ANSI) — 36.59*
    11. ĄŽERTY IBM, LT Standard 1992 (ANSI) — 35.86
    12. QWERTY Baltic-Numeric (ANSI) — 34.72
    13. QWERTY Baltic-Numeric (ISO) — 34.18
