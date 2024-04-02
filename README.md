@@ -152,7 +152,7 @@ __Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai ma�
 
 ### Lietuviški klaviatūrų išdėstymai:
 - [Lietuviškų klaviatūros išdėstymų palyginimas](https://albuck.github.io/lithuanian-keyboard-layouts/){:target="_blank"}
-- [Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/){:target="_blank"}
+- [Klaviatūros išdėstymai (lietuvybė.lt)](https://lietuvybė.lt/naudotojams/klaviat%C5%ABros/){:target="_blank"}
 - [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/){:target="_blank"}
 - [Lietuviška standartinė kompiuterio klaviatūra](http://www.ims.mii.lt/klav/){:target="_blank"}
 - [Pagerintas „skaičiukinis“ klaviatūros išdėstymas](https://rimas.kudelis.lt/numeric/){:target="_blank"}
