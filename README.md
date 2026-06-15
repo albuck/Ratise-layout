@@ -61,7 +61,7 @@ __Ratisės išdėstymas:__
 
 [Ratisės išdėstymo klaviatūros valdyklės](https://github.com/albuck/ratise) yra teikiamos _Windows, MacOS, Linux/Unix (xkb), Haiku_ skaitmeninėms aplinkoms (operacijų/operacinėms sistemoms):
 
-[➡️ Parsisiųsti Ratisės išdėstymo valdykles](https://github.com/albuck/ratise/zipball/master)
+[⬇️ Parsisiųsti Ratisės išdėstymo valdykles](https://github.com/albuck/ratise/zipball/master)
 
 <br>
  
