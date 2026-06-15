@@ -42,7 +42,7 @@ Ratisės Kirilica išdėstymas leidžia rinkti tekstus rusų bei kitomis kirilic
 
 Šių [papildomų klaviatūros valdyklių](https://github.com/albuck/ratise_kitakalbe) diegimo ypatumai yra tie patys kaip ir lietuviško Ratisės išdėstymo.
 
-[↓ Parsisiųsti Ratisės išdėstymo papildomas kitakalbes valdykles ↓](https://github.com/albuck/ratise_kitakalbe/zipball/master)
+[⬇️ Parsisiųsti Ratisės išdėstymo papildomas kitakalbes valdykles](https://github.com/albuck/ratise_kitakalbe/zipball/master)
 
 -------------------------
 
