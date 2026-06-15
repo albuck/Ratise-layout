@@ -5,7 +5,7 @@
 
 # LIETUVIŠKAS KLAVIATŪROS IŠDĖSTYMAS RATISĖ
 
-Laida 2.4
+Laida 2.4.2
 
 
 Lietuviškas ergonomiškas kompiuterio klaviatūros išdėstymas _ŪĖYOQJ_ arba _Rati̇̀sė_ yra skirtas patogiam lietuviško teksto rinkimui visais pirštais, vadinamuoju „akluoju“ būdu, tai yra [spausdinant klaviatūra visais pirštais](docs/spausdinimo-visais-pirstais-tvarka.md), apčiuopomis, nežiūrint į spaudyną. Taip pat išdėstymu patogu yra rinkti tekstus anglų kalba, programavimo kalbomis, įvesti lietuviškas kirčiuotas raides ar atskirus kirčių ženklus, ypatingas kitų kalbų raides ir kitokius rečiau reikalingus ženklus.
