@@ -104,8 +104,6 @@ __Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai ma�
 - [Keyboard Layout Analyzer (KLAnext)](https://klanext.keyboard-design.com/#/main){:target="_blank"} — *[‘Paprasti rašiniai’ (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-klanext-lt-txt.png){:target="_blank"}*
 - [Keyboard Layout Analyzer (SP)](https://stevep99.github.io/keyboard-layout-analyzer/#/main){:target="_blank"} — *[‘Paprasti rašiniai’ (nuotrauka)](https://albuck.github.io/lithuanian-keyboard-layouts/images/test-sp-lt-txt.png){:target="_blank"}*
 - [Keyboard Layout Analyzer (patorjk)](http://patorjk.com/keyboard-layout-analyzer/#/about){:target="_blank"} — *[‘Paprasti rašiniai’](http://patorjk.com/keyboard-layout-analyzer/#/load/4dXzM6GS){:target="_blank"},  [‘1660 dažniausių žodžių’](http://patorjk.com/keyboard-layout-analyzer/#/load/tjM7xwzK){:target="_blank"}  [‘Lietuviškos pasakos’](http://patorjk.com/keyboard-layout-analyzer/#/load/rQDGFz81){:target="_blank"}, [‘Lietuvos Respublikos Konstitucija’](http://patorjk.com/keyboard-layout-analyzer/#/load/FKxkC94M){:target="_blank"}, [Vikipedija ‘Lietuva’](http://patorjk.com/keyboard-layout-analyzer/#/load/hsKjZhC7){:target="_blank"}, [Wikipedia ‘Physics’](http://patorjk.com/keyboard-layout-analyzer/#/load/FtrXp5xW){:target="_blank"}, [‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/sdc4LPrC){:target="_blank"}, [‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn){:target="_blank"}*
-
-<br>
  
 --------------------------------------------------------------------
 
