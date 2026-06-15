@@ -136,8 +136,8 @@ __Visa tai reiškia, kad renkant tekstą Ratisės išdėstymu reikia žymiai ma�
 - [RATISĖS SUTAPIMAI SU KITAIS IŠDĖSTYMAIS](docs/sutapimai.md)
 
 ### Ratisės papildymai:
-- [RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI](docs/ratises-kitakalbiai-isdestymai.md)
-- [RATISĖS IŠDĖSTYMAS RAŠYMO MAŠINĖLEI](docs/ratise-spausdykle.md)
+- [Ratisės papildomieji kitakalbiai išdėstymai](docs/ratises-kitakalbiai-isdestymai.md)
+- [Ratisės išdėstymas rašymo mašinėlei](docs/ratise-spausdykle.md)
 - [Telefono virtualios klaviatūros ‘Unexpected Keyboard’ skirti išdėstymai](https://github.com/albuck/unexpected-keyboard-lt-ratise)
 
 -----------------------------------------------
